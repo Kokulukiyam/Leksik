@@ -1,0 +1,53 @@
+{
+  "termId": "bouton-de-porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bouton de porte en bois verni foncé sur fond de tissu blanc, avec étiquette d'inventaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouton rond en bois, net et dominant ; l'étiquette ne donne que un numéro."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Applique en bronze à tête de lion tenant un anneau, en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pydna (Louvre)",
+      "note": "Heurtoir/applique antique, pas un bouton."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bouton de porte rond en laiton à deux anneaux, avec étiquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même objet que 05, vue moins nette ; une seule photo par objet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte de cabane en rondins avec lanterne et branchages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wilderness Road, Virginie",
+      "note": "Bouton non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bouton de porte rond en laiton à deux anneaux sur tissu blanc, étiquette d'inventaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouton sphérique net, bien lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poignée à levier avec cylindre sur une porte rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un levier (béquille), pas un bouton."
+    }
+  ]
+}

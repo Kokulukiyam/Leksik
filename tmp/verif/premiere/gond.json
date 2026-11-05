@@ -1,0 +1,58 @@
+{
+  "termId": "gond",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gond-patte vissé sur un pilier de brique et penture d'un portail en fer peint en bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.4,
+        "largeur": 0.4,
+        "hauteur": 0.34
+      },
+      "lieu": "Upper Hardres, Kent, Angleterre",
+      "note": "La ferrure scellée au pilier, sur laquelle pivote le portail, encadrée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portail en fonte ancien avec ferrure rouillée sur un pilier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monkton, Kent",
+      "note": "Ferrure noyée dans le décor, peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Stalle sculptée d'une église avec petites charnières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hürth-Efferen, Allemagne",
+      "note": "Petites charnières, pas un gond."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portillon en bois avec penture galvanisée et axe sur le poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chillenden, Kent",
+      "note": "La penture domine, le gond est minuscule ; ambigu avec penture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Texte imprimé sur la charnière continue à engrenage en aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montant de grille noir et bloc de ferrure contre un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gronsveld, Pays-Bas",
+      "note": "Ferrure massive mais lecture douteuse."
+    }
+  ]
+}

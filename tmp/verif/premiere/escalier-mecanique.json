@@ -1,0 +1,58 @@
+{
+  "termId": "escalier-mecanique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalator vu d en haut en noir et blanc, marches dentelées et mains courantes, jambes d un passager.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marches mobiles évidentes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trottoirs roulants inclinés dans un magasin japonais, enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Higashi-Osaka, Japon",
+      "note": "Tapis roulants, texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalator très sombre et teinté violet vu d en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, retouché."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Trottoir roulant incliné dans un centre commercial japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Funabashi, Japon",
+      "note": "Tapis roulant, pas des marches."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mécanisme sous un escalator, chaîne et galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest",
+      "note": "Pas reconnaissable comme escalier."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalator à côté d un escalier fixe en granit, descente de station.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.1,
+        "largeur": 0.42,
+        "hauteur": 0.88
+      },
+      "lieu": "Francfort, Allemagne",
+      "note": "Escalator encadré, escalier fixe écarté par le rectangle."
+    }
+  ]
+}

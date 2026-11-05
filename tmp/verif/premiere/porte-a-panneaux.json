@@ -1,0 +1,53 @@
+{
+  "termId": "porte-a-panneaux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande porte à deux vantaux peinte en jaune, chaque vantail à dix panneaux moulurés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Deux vantaux à panneaux moulurés en creux clairement visibles, cadre assemblé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portes cintrées en bois avec grilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grilles, ambiguïté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vieille porte en planches dans un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte à planches, pas à panneaux."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur un panneau sculpté avec monogramme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail, pas la porte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte vitrée en bois à deux vantaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte vitrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte blanche entrouverte, flou, moulures à peine visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux peu lisibles."
+    }
+  ]
+}

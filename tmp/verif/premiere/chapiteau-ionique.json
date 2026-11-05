@@ -1,0 +1,53 @@
+{
+  "termId": "chapiteau-ionique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade néoclassique en contre-plongée avec colonnes à petits chapiteaux ioniques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Chapiteaux petits et à contre-jour."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Aquarelle de restitution polychrome d'un entablement avec chapiteau ionique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Négatif ancien d'un chapiteau sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, chapiteau peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un chapiteau ionique de pierre à deux grandes volutes, surmonté d'un globe de lampadaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Fairmont, Virginie-Occidentale",
+      "note": "Volutes et échine à oves très nettes; chapiteau dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colonne de pierre érodée à chapiteau fruste.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Olympie, Grèce",
+      "note": "Chapiteau érodé et petit, volutes peu lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portail ogival entre pilastres à petits chapiteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chapiteaux minuscules, composition qui prête à confusion."
+    }
+  ]
+}

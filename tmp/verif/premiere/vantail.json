@@ -1,0 +1,53 @@
+{
+  "termId": "vantail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Clé dans une serrure avec porte-clés jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet : clé, pas un vantail."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte chinoise rouge à vantaux ouverts, décorés de figures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rangoun, Birmanie",
+      "note": "Ensemble pouvant illustrer porte à deux vantaux ; risque de confusion."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur une poignée de tirage d'une porte vitrée verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo",
+      "note": "Sujet : poignée, pas le vantail."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte vitrée en bois à deux battants sous un auvent d'un bâtiment postal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Durlach, Allemagne",
+      "note": "Porte à deux vantaux/porte vitrée : ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de portes métalliques en inox dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs portes, pas de vantail identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand battant de porte en bronze sculpté, ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Montre une porte sculptée ; confusion avec porte."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "maison-coloniale",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruine d'un mur de banque avec piliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pout Diak",
+      "note": "Ruine, aspect peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Carte postale du palais du gouvernement à Dakar, foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carte postale ancienne, palais et non maison."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur ruiné avec ouverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pout Diak",
+      "note": "Ruine, non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand bâtiment colonial à étage, toiture de tuiles, galerie à garde-corps, persiennes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Thiès, Sénégal",
+      "note": "Style colonial à galerie bien visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison à étage enduite ocre à balcons en fer forgé, fenêtres cintrées à persiennes, toit de tuiles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Saint-Louis, Sénégal",
+      "note": "Exemple typique de Saint-Louis."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade colonial dégradée à arcades et fenêtres bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Louis",
+      "note": "Trop délabrée, enduit effondré, moins typique."
+    }
+  ]
+}

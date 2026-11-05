@@ -1,0 +1,58 @@
+{
+  "termId": "fresque",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond bleu-gris avec rosace peinte, vu de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor de plafond, pas une fresque figurée; photo ancienne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur de refuge en pierre avec peintures murales très effacées et panneau écrit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rifugio Bellano",
+      "note": "Peinture illisible, texte visible, mobilier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Putti sur nuages peints sur un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor peint isolé, matière incertaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Peinture murale dans un panneau encadré au-dessus d'une porte, scène de bataille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crevola, Italie",
+      "note": "Peinture abîmée et peu lisible, inscription."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voûte en cul-de-four peinte : scène céleste avec Christ, Vierge, anges et saints.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cuasso al Piano, Italie",
+      "note": "Grande peinture murale d'église, claire et dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Peinture murale médiévale sur mur de pierre extérieur : Vierge à l'Enfant avec anges musiciens.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.15,
+        "largeur": 0.68,
+        "hauteur": 0.72
+      },
+      "lieu": "Certosa di Montebenedetto",
+      "note": "Fresque extérieure lisible; rectangle sur la peinture."
+    }
+  ]
+}

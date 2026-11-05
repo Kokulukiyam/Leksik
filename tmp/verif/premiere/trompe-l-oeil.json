@@ -1,0 +1,53 @@
+{
+  "termId": "trompe-l-oeil",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Reproduction en noir et blanc d'une peinture de scène de pionniers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction de peinture, aucun effet de trompe-l'oeil."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Reproduction en noir et blanc d'un paysage peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction, pas de trompe-l'oeil."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur courbe peint de fleurs colorées avec texte I love Jamia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jamia Millia Islamia, New Delhi",
+      "note": "Mural décoratif sans illusion de relief; texte visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo d'archive collée sur carton d'une peinture murale de chasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ripley, Tennessee",
+      "note": "Archive, pas de trompe-l'oeil."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo d'archive d'une murale au-dessus d'une porte de bureau, texte Postmaster.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Clinton, Tennessee",
+      "note": "Archive, texte visible, pas d'illusion."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo d'archive d'une murale d'ouvriers pétroliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Henderson, Texas",
+      "note": "Archive, pas de trompe-l'oeil."
+    }
+  ]
+}

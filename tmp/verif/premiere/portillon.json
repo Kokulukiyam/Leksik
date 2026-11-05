@@ -1,0 +1,53 @@
+{
+  "termId": "portillon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand portail d'entrée de temple.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de portail, pas un portillon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petit portail en fer forgé en haut d'un escalier de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et peu dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "paumelle-a-souder",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte de grange en planches rouges avec une longue penture noire en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cummington, Massachusetts",
+      "note": "Penture sur bois, pas une paumelle à souder."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pivot cylindrique en bronze antique dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Badalona, Espagne",
+      "note": "Pièce romaine, pas une paumelle de menuiserie métallique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte de grange en bois ancienne à croisillons avec une ferrure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haigermoos, Autriche",
+      "note": "Ferrure sur bois, pas une paumelle à souder."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pivot cylindrique en bronze antique sur un socle de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Badalona, Espagne",
+      "note": "Pièce archéologique, pas une paumelle à souder."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grandes pentures et gonds médiévaux derrière une vitre de musée avec reflet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sfax, Tunisie",
+      "note": "Pentures, reflet gênant, pas une paumelle à souder."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Boîte à bonbons métallique ouverte avec charnières à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière de boîte, pas une paumelle."
+    }
+  ]
+}

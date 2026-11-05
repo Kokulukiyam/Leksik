@@ -1,0 +1,63 @@
+{
+  "termId": "perron",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d un musée avec larges marches basses et touristes assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pétra, Jordanie",
+      "note": "Gradins larges, personnes, panneau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier de métro sombre entre deux murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier de descente, pas devant une porte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit escalier en pierre à garde-corps maçonnés montant à une porte à deux vantaux d un manoir.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.52,
+        "largeur": 0.58,
+        "hauteur": 0.4
+      },
+      "lieu": "Stara Łomnica, Pologne",
+      "note": "Perron typique, encadré."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Quelques marches avec murets devant une porte en fer forgé, balcon au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.79,
+        "largeur": 0.56,
+        "hauteur": 0.17
+      },
+      "lieu": "Barcelone",
+      "note": "Perron de villa, marches encadrées."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marches en béton avec ombres en zigzag.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte, ombres."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier de briques menant à une porte verte, enseigne partielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montecchio, Italie",
+      "note": "Escalier étroit en pente, texte."
+    }
+  ]
+}

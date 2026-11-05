@@ -1,0 +1,58 @@
+{
+  "termId": "serrure-en-applique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Serrure à boîtier rouillé vissée en saillie sur une porte en bois, avec béquille.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.36,
+        "largeur": 0.32,
+        "hauteur": 0.55
+      },
+      "lieu": "Drawsko, Pologne",
+      "note": "Boîtier en saillie sur le vantail, nettement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Serrure et gâche d'un portillon en acier galvanisé, plaque B&G.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oude Pekela, Pays-Bas",
+      "note": "Serrure de portillon, type de pose pas clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur un boîtier de serrure ancien rouillé avec entrée de clé, fixé en saillie sur une porte.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier saillant vissé avec entrée de clé, bien lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poignée à levier chromée et rosace sur une porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda",
+      "note": "Quincaillerie de poignée, boîtier non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plaques métalliques découpées posées sur une feuille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces détachées, pas une serrure posée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cylindre de serrure en laiton sur une porte verte écaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre le cylindre, pas le type de serrure."
+    }
+  ]
+}

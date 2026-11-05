@@ -1,0 +1,53 @@
+{
+  "termId": "ronier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grands palmiers rôniers à stipe renflé et palmes en éventail dans un champ.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zankan, Nigeria",
+      "note": "Palmiers Borassus nets, dominants."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tubercules jaunes de jeunes pousses de rônier dans un panier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nourriture, pas l'arbre ni le bois."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bosquet dense de rôniers (Borassus) sur un champ sec.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Zankan, Nigeria",
+      "note": "Rôniers bien lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Jeune palmier en éventail dans la végétation dense.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togo",
+      "note": "Jeune plant mêlé aux feuillages, peu net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rôniers lointains dans la brume, piste de terre au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nigeria",
+      "note": "Palmiers petits et noyés dans la brume."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poignée de tubercules de rônier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togo",
+      "note": "Aliment, pas l'arbre."
+    }
+  ]
+}

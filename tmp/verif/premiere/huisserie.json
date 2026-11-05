@@ -1,0 +1,58 @@
+{
+  "termId": "huisserie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cadre en bois blanc écaillé d'une porte sans vantail, percé dans un mur de brique de jardin.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.26,
+        "largeur": 0.45,
+        "hauteur": 0.49
+      },
+      "lieu": "Kelvedon Hatch, Essex, Angleterre",
+      "note": "Cadre de porte en bois nu, bien lisible une fois encadré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Texture de granit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paraty, Brésil",
+      "note": "Pas d'huisserie visible ; matériau seul."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte en ruine avec chambranle mouluré et fronton, sans vantail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hajdukovo, Serbie",
+      "note": "Surtout un encadrement mouluré (chambranle) ; ruine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte blanche ouverte dans une pièce carrelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Porte plutôt que cadre ; huisserie peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier posant un cadre métallique de porte dans une cloison à ossature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Scène de chantier confuse, cadre noyé dans les montants."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portail roman en plein cintre avec porte à pentures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Langford, Oxfordshire",
+      "note": "Sujet : porte romane et arc, huisserie non isolée."
+    }
+  ]
+}

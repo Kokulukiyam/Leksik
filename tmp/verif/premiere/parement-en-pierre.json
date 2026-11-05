@@ -1,0 +1,53 @@
+{
+  "termId": "parement-en-pierre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pose de pierre fine autour d'un foyer sur plaque de ciment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même photo déjà validée pour la plaquette de parement ; une photo = un seul terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle bordée de murs en pierre corallienne brute, Lamu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lamu, Kenya",
+      "note": "Maçonnerie de moellons massive, pas un revêtement rapporté."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Route de terre bordée d'un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec un parement de pierre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pan de mur de pierre ruiné devant une grange en bois, herbes au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prairies canadiennes",
+      "note": "Mur ancien ruiné, flou, pas un parement."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur couvert de pierre de grès rose en appareil à assises irrégulières avec joints soignés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sedona, Arizona, États-Unis",
+      "note": "Parement de pierre posé en revêtement, plein cadre, texture nette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pile de plaques fines de pierre beige en stock.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques empilées, pas un parement posé."
+    }
+  ]
+}

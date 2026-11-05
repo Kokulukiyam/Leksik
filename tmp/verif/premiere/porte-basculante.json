@@ -1,0 +1,53 @@
+{
+  "termId": "porte-basculante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Rideau métallique de garage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau métallique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de garage ancien avec porte blanche à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Basculante ou sectionnelle, indécidable."
+    }
+  ]
+}

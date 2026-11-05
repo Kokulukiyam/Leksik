@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Paris, France",
       "note": "Échafaudage en bois non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ancienne photo d'un échafaudage intérieur dans une basilique en rénovation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau (bois ou métal) indécidable, image ancienne et sombre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Échafaudage et fers à béton au crépuscule, en silhouette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nairobi",
+      "note": "Contre-jour, matériau illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Peinture de l'érection de la colonne d'Alexandre à Saint-Pétersbourg.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Échafaudage tubulaire métallique sur une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, pas du bois."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immense échafaudage tubulaire sous un pont, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, pas du bois."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Passants sous un échafaudage métallique en ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, pas du bois."
     }
   ]
 }

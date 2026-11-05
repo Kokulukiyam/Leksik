@@ -1,0 +1,53 @@
+{
+  "termId": "tremie-d-escalier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue plongeante sur un escalier en spirale, cage à jour central.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hambourg",
+      "note": "Plutôt cage d escalier/colimaçon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier courbe en granit avec chaises sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Calabar, Nigeria",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue en contre-plongée sur un puits d escalier orné de guirlandes de Noël.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ritz, Londres",
+      "note": "Décor dominant, trémie non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue plongeante sur un escalier en colimaçon à rampe en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buenos Aires",
+      "note": "Plutôt colimaçon / cage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hall d exposition avec escalier métallique et ouverture au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trémie non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hall d accueil avec ouverture circulaire dans le plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oak Ridge, États-Unis",
+      "note": "Ambigu, plafond et non plancher."
+    }
+  ]
+}

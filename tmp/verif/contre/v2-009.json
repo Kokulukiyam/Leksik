@@ -1,0 +1,282 @@
+[
+ {
+  "cle": "assemblage-boulonne/04",
+  "accord": true,
+  "raison": "Plaque d'assemblage fixée par huit boulons hexagonaux bien visibles, rectangle serré sur la liaison : assemblage boulonné sans ambiguïté."
+ },
+ {
+  "cle": "gousset/04",
+  "accord": true,
+  "raison": "Plaque d'acier rivetée réunissant membrure et diagonales d'une poutre de pont au même nœud, bien cadrée : gousset typique."
+ },
+ {
+  "cle": "solive/06",
+  "accord": true,
+  "raison": "Plafond démonté montrant la série de pièces de bois parallèles portant le plancher, rectangle sur ce solivage : solive juste."
+ },
+ {
+  "cle": "arc-brise/02",
+  "accord": true,
+  "raison": "Porche en pierre à deux courbes se rejoignant en pointe, bien cadré et dominant : arc brisé clair."
+ },
+ {
+  "cle": "arc-surbaisse/03",
+  "accord": true,
+  "raison": "Arcade en brique dont la courbe est nettement plus basse que la demi-portée, rectangle sur un arc : arc surbaissé lisible."
+ },
+ {
+  "cle": "granite/02",
+  "accord": true,
+  "raison": "Parement poli moucheté de grains clairs et sombres (type granite Baltic brown), vue rapprochée : granite sans ambiguïté."
+ },
+ {
+  "cle": "calcaire/01",
+  "accord": true,
+  "raison": "Gros blocs de pierre blanc-beige en carrière, aspect sédimentaire mat : calcaire plausible et dominant, aucun autre terme proposé ne convient mieux."
+ },
+ {
+  "cle": "calcaire/05",
+  "accord": true,
+  "raison": "Mur en grands blocs de pierre blanche taillée, piquetée de petits trous : calcaire typique."
+ },
+ {
+  "cle": "beton-desactive/01",
+  "accord": true,
+  "raison": "Dalle dont la surface montre les graviers roulés dégagés dans la matrice de ciment : béton désactivé typique."
+ },
+ {
+  "cle": "brique-pleine/02",
+  "accord": true,
+  "raison": "Façade entière en briques de terre cuite apparentes, appareil net : brique pleine juste."
+ },
+ {
+  "cle": "brique-pleine/06",
+  "accord": true,
+  "raison": "Mur de briques rouges apparentes avec arc en brique, appareil bien lisible : brique pleine juste."
+ },
+ {
+  "cle": "brique-de-verre/01",
+  "accord": false,
+  "raison": "Le rectangle englobe, outre les briques de verre, la moitié des grilles métalliques ouvragées de la porte et l'ouverture : cadrage trop large, fer forgé envisageable."
+ },
+ {
+  "cle": "brique-de-verre/02",
+  "accord": true,
+  "raison": "Paroi de blocs de verre moulé rectangulaires jointoyés au mortier, en gros plan : brique de verre claire."
+ },
+ {
+  "cle": "brique-de-verre/05",
+  "accord": true,
+  "raison": "Blocs de verre carrés texturés maçonnés avec joints de mortier, en gros plan : brique de verre claire."
+ },
+ {
+  "cle": "plaquette-de-parement/01",
+  "accord": false,
+  "raison": "Habillage de cheminée en plaquettes de pierre empilées (probablement pierre reconstituée), rectangle incluant le foyer et les étais : pierre reconstituée ou moellon possibles."
+ },
+ {
+  "cle": "parement-en-pierre/05",
+  "accord": false,
+  "raison": "Mur en plaquettes de grès rouge empilées : le grès, présent parmi les réponses, est aussi juste que parement en pierre."
+ },
+ {
+  "cle": "panneau-osb/01",
+  "accord": true,
+  "raison": "Grands panneaux à copeaux orientés posés en condamnation de vitrine, texture bien visible : panneau OSB."
+ },
+ {
+  "cle": "panneau-osb/04",
+  "accord": true,
+  "raison": "Rayonnages entièrement en panneaux à grands copeaux, texture lisible : panneau OSB."
+ },
+ {
+  "cle": "panneau-osb/06",
+  "accord": true,
+  "raison": "Échantillon épais montrant lamelles de bois orientées en surface et en tranche : panneau OSB reconnaissable."
+ },
+ {
+  "cle": "lamelle-colle/02",
+  "accord": true,
+  "raison": "Pont à arcs en bois collé de grande portée, sous-face striée de lamelles, rectangle sur l'arc : lamellé-collé juste."
+ },
+ {
+  "cle": "bambou/04",
+  "accord": true,
+  "raison": "Grosses tiges creuses et nouées de bambou, dont une ouverte montrant les cloisons internes : bambou sans ambiguïté."
+ },
+ {
+  "cle": "bambou/06",
+  "accord": true,
+  "raison": "Tiges de bambou nouées, l'une fendue montrant l'intérieur creux et les nœuds : bambou clair."
+ },
+ {
+  "cle": "bardage-metallique/01",
+  "accord": true,
+  "raison": "Façade industrielle entièrement revêtue de tôle nervurée bleue : bardage métallique typique."
+ },
+ {
+  "cle": "acier-corten/02",
+  "accord": true,
+  "raison": "Panneau plié en acier patiné brun orangé, rectangle bien placé sur l'objet : acier Corten reconnaissable."
+ },
+ {
+  "cle": "acier-corten/03",
+  "accord": true,
+  "raison": "Gros plan d'une surface d'acier couverte d'une rouille brun orangé homogène : patine Corten, aucun autre métal proposé ne correspond."
+ },
+ {
+  "cle": "inox/06",
+  "accord": true,
+  "raison": "Garde-corps d'escalier en tubes d'acier brillant poli miroir : inox typique."
+ },
+ {
+  "cle": "tole-perforee/01",
+  "accord": true,
+  "raison": "Panneau de garde-corps en tôle percée de trous ronds formant un vélo, rectangle sur la tôle : tôle perforée."
+ },
+ {
+  "cle": "tole-perforee/04",
+  "accord": true,
+  "raison": "Façade habillée de panneaux de tôle percés d'une trame régulière de petits trous : tôle perforée."
+ },
+ {
+  "cle": "tole-perforee/06",
+  "accord": true,
+  "raison": "Coursives habillées de tôles percées de trous ronds réguliers, bien lisibles : tôle perforée."
+ },
+ {
+  "cle": "verre-depoli/05",
+  "accord": true,
+  "raison": "Vitrage à surface mate translucide dont le motif de feuillage est laissé transparent : verre dépoli."
+ },
+ {
+  "cle": "verre-reflechissant/02",
+  "accord": true,
+  "raison": "Tour de bureaux à vitrage miroir renvoyant nettement l'image d'un immeuble voisin, rectangle sur la façade : verre réfléchissant."
+ },
+ {
+  "cle": "verre-reflechissant/06",
+  "accord": true,
+  "raison": "Façade entièrement vitrée qui reflète comme un miroir nuages et arbres : verre réfléchissant, aucun autre vitrage proposé ne convient."
+ },
+ {
+  "cle": "mosaique/02",
+  "accord": true,
+  "raison": "Pavement cosmatesque en petits fragments de pierre colorés assemblés en motifs géométriques : mosaïque."
+ },
+ {
+  "cle": "mosaique/06",
+  "accord": true,
+  "raison": "Sol antique en tesselles de pierre formant un décor végétal : mosaïque typique."
+ },
+ {
+  "cle": "laine-de-verre/01",
+  "accord": true,
+  "raison": "Rouleaux d'isolant fibreux jaune posés entre solives, rectangle sur l'isolant : laine de verre."
+ },
+ {
+  "cle": "architrave/01",
+  "accord": false,
+  "raison": "Le rectangle englobe en grande partie le chapiteau corinthien (volutes, acanthes) en plus du bloc posé dessus : chapiteau, volute ou acanthe pourraient être pris pour la réponse."
+ },
+ {
+  "cle": "entablement/06",
+  "accord": true,
+  "raison": "Porte antique : rectangle sur toute la bande horizontale portée par les colonnes, sous le fronton exclu : entablement juste."
+ },
+ {
+  "cle": "volute/02",
+  "accord": true,
+  "raison": "Rectangle serré sur un enroulement en spirale d'un chapiteau de type ionique : volute claire."
+ },
+ {
+  "cle": "volute/04",
+  "accord": false,
+  "raison": "Le rectangle cadre tout le chapiteau ionique, oves de l'échine compris, et non une volute : l'ove reste une réponse possible."
+ },
+ {
+  "cle": "feuille-d-acanthe/04",
+  "accord": true,
+  "raison": "Rectangle serré sur le rang de feuilles découpées et recourbées d'un chapiteau corinthien : feuille d'acanthe."
+ },
+ {
+  "cle": "denticule/05",
+  "accord": true,
+  "raison": "Rectangle sur un rang serré de petits blocs rectangulaires sous une corniche de marbre : denticules nets et dominants."
+ },
+ {
+  "cle": "cartouche/04",
+  "accord": true,
+  "raison": "Plaque funéraire à bords enroulés entourant une inscription, surmontée d'armoiries, bien cadrée : cartouche typique."
+ },
+ {
+  "cle": "cartouche/06",
+  "accord": true,
+  "raison": "Encadrement doré à enroulements autour d'une inscription, au centre du rectangle : cartouche clair."
+ },
+ {
+  "cle": "medaillon/04",
+  "accord": true,
+  "raison": "Ornement rond encadré portant une tête du Christ sculptée, rectangle serré : médaillon sans ambiguïté."
+ },
+ {
+  "cle": "bossage/01",
+  "accord": true,
+  "raison": "Tour en moellons dont chaque pierre fait saillie rugueuse au nu du mur, joints en retrait : bossage rustique lisible."
+ },
+ {
+  "cle": "niche/04",
+  "accord": false,
+  "raison": "Le rectangle englobe surtout la grande statue du pape et une partie des statues latérales : la sculpture domine, la niche n'est pas désignée seule."
+ },
+ {
+  "cle": "bas-relief/01",
+  "accord": true,
+  "raison": "Rectangle sur deux devatas sculptées en faible saillie sur le mur d'Angkor : bas-relief juste."
+ },
+ {
+  "cle": "bas-relief/05",
+  "accord": true,
+  "raison": "Panneau assyrien de chasse sculpté en faible saillie sur une dalle : bas-relief typique."
+ },
+ {
+  "cle": "epi-de-faitage/02",
+  "accord": false,
+  "raison": "Figurine de jockey en céramique en gros plan, sans toit ni faîtage visibles : rien n'indique un épi de faîtage, se lit comme une statuette."
+ },
+ {
+  "cle": "cannelure/05",
+  "accord": true,
+  "raison": "Rectangle sur le fût d'une colonne en bois creusé de rainures verticales régulières : cannelures nettes."
+ },
+ {
+  "cle": "chapiteau-corinthien/02",
+  "accord": true,
+  "raison": "Chapiteau antique tombé, corbeille à rangs de feuilles d'acanthe et petites volutes d'angle, bien cadré : chapiteau corinthien."
+ },
+ {
+  "cle": "chapiteau-ionique/04",
+  "accord": true,
+  "raison": "Chapiteau à deux grandes volutes et échine à oves, en gros plan : chapiteau ionique clair."
+ },
+ {
+  "cle": "vitrail/03",
+  "accord": true,
+  "raison": "Baie garnie de verres colorés assemblés au plomb représentant un personnage : vitrail sans ambiguïté."
+ },
+ {
+  "cle": "vitrail/05",
+  "accord": true,
+  "raison": "Grande verrière moderne en verres colorés sertis de plombs : vitrail."
+ },
+ {
+  "cle": "fresque/05",
+  "accord": true,
+  "raison": "Grande peinture murale couvrant la voûte d'une église : fresque."
+ },
+ {
+  "cle": "fresque/06",
+  "accord": true,
+  "raison": "Peinture murale ancienne sur enduit, protégée par un auvent sur un mur de pierre, rectangle bien placé : fresque."
+ }
+]

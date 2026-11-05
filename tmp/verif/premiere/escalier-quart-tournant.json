@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-quart-tournant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d escalier rose d immeuble, volée descendante et palier, virage peu lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alaverdi, Arménie",
+      "note": "Virage ambigu (quart ou demi)."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier extérieur métallique en zigzag sur une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Plutôt escalier de secours/demi-tournant, pas quart tournant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier de gare, volée droite descendante avec foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin",
+      "note": "Escalier droit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier gris en noir et blanc, rampe métallique, tournant peu visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Skive, Danemark",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Large escalier extérieur en gradins droits, filigrane 500px.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hall avec vide d escalier et garde-corps, escalier non lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cadix, Espagne",
+      "note": "Escalier non montré."
+    }
+  ]
+}

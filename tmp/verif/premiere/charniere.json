@@ -1,0 +1,53 @@
+{
+  "termId": "charniere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur la charnière d'une boîte métallique ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière de boîte miniature, ne relève pas de la menuiserie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Texte imprimé sur la charnière continue à engrenage en aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte seul, pas une photo de charnière."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Schéma annoté d'une charnière à lames avec légendes en anglais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Légendes qui donnent la réponse ; image annotée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Boîte à bonbons métallique ouverte avec petites charnières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière de boîte, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pièce de fer rouillée aux trous, avec amorce de charnière à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ressemble à un moraillon ; doute sur le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charnières cylindriques invisibles en laiton, posées sur un plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnières à tonneau démontées ; trop peu typiques."
+    }
+  ]
+}

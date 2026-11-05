@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "etai",
-      "tour-d-etaiement"
+      "tour-d-etaiement",
+      "coffrage-de-dalle"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring"
     ]
   },
   "candidats": [
@@ -121,6 +125,137 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/St._Louis_Post-Dispatch_of_St._Louis%2C_Missouri_on_August_2%2C_1943.jpg/1280px-St._Louis_Post-Dispatch_of_St._Louis%2C_Missouri_on_August_2%2C_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1576,
       "hauteur": 2046
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Acacias-Centre (Geneva), démolition-40.jpg",
+      "description": "Démolition de l'ensemble mixte composé d'un immeuble de bureaux et de deux immeubles d'habitation, le tout sur une galette commerciale, construits en1960-1963 par Honegger Frères architectes. Reconstruction Route des Acacias 16-18/Rue Gustave-Revilliod 12.",
+      "categories": [
+        "Groupe Orllati",
+        "Shoring",
+        "Self-published work",
+        "Construction excavations",
+        "Acacias-Centre (Geneva), démolition"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acacias-Centre_(Geneva),_d%C3%A9molition-40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-40.jpg/1280px-Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Exterieur VOORGEVEL - Amsterdam - 20294512 - RCE.jpg",
+      "description": "Exterieur VOORGEVEL",
+      "categories": [
+        "Binnen Brouwersstraat 2, Amsterdam",
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Binnen Brouwersstraat 4, Amsterdam",
+        "Shoring",
+        "Rijksmonumenten with known IDs",
+        "1986 in Amsterdam",
+        "Derelict houses in the Netherlands",
+        "Buildings with addresses",
+        "Photographs by Paul van Galen"
+      ],
+      "auteur": "P. van Galen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exterieur_VOORGEVEL_-_Amsterdam_-_20294512_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Exterieur_VOORGEVEL_-_Amsterdam_-_20294512_-_RCE.jpg/1280px-Exterieur_VOORGEVEL_-_Amsterdam_-_20294512_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2469,
+      "hauteur": 3083
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Balcony in Havanna Cuba - Calle Brasil.jpg",
+      "description": "Bunte Wäsche beim Trocknen auf dem Balkon in der Calle Brasil, Altstadt von Havanna, Kuba.",
+      "categories": [
+        "Shoring",
+        "Self-published work",
+        "2010 in Havana",
+        "Calle Brasil (La Habana)",
+        "Laundry in Havana"
+      ],
+      "auteur": "Marc-Lautenbacher",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_in_Havanna_Cuba_-_Calle_Brasil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Balcony_in_Havanna_Cuba_-_Calle_Brasil.jpg/1280px-Balcony_in_Havanna_Cuba_-_Calle_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3486,
+      "hauteur": 2318
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Consolidation column house faun Pompeii.jpg",
+      "description": "Consolidation d'une colonne dans la Maison du Faune à Pompéi, Italie.",
+      "categories": [
+        "CC-Zero",
+        "Shoring",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2015-07-24",
+        "Columns in Pompeii",
+        "House of the Faun (Pompeii) - Servile rooms"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Consolidation_column_house_faun_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Consolidation_column_house_faun_Pompeii.jpg/1280px-Consolidation_column_house_faun_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 4432
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Image taken from page 66 of 'Old and New London, etc' (11189115166).jpg",
+      "description": "The Gun Tavern, Stafford Row, Pimlico",
+      "categories": [
+        "Images from the British Library",
+        "Old and New London, Illustrated (1873) by Walter Thornbury and Edward Walford - BL 1887 copy",
+        "Files with no machine-readable author",
+        "PD-old-70-expired",
+        "Shoring",
+        "Pimlico",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Flickr images reviewed by FlickreviewR",
+        "Images from the British Library Mechanical Curator collection",
+        "Files from Flickr's 'The Commons'",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Flickr images missing SDC source of file",
+        "1820 in London",
+        "CC-PD-Mark",
+        "Uploaded by the British Library",
+        "Gun public houses",
+        "Hoare & Co. brewery",
+        "Pubs in Pimlico"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Image_taken_from_page_66_of_%27Old_and_New_London,_etc%27_(11189115166).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Image_taken_from_page_66_of_%27Old_and_New_London%2C_etc%27_%2811189115166%29.jpg/1280px-Image_taken_from_page_66_of_%27Old_and_New_London%2C_etc%27_%2811189115166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1892,
+      "hauteur": 1603
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Chiesa della Natività della Beata Vergine Maria (Vigarano Mainarda) 03.JPG",
+      "description": "Vigarano Mainarda, chiesa della Natività della Beata Vergine Maria in fase di restauro dopo il terremoto dell'Emilia del 2012.",
+      "categories": [
+        "Shoring",
+        "Natività della Beata Vergine Maria (Vigarano Mainarda)",
+        "Self-published work",
+        "Metal scaffolding in Italy",
+        "Italy photographs taken on 2015-04-26"
+      ],
+      "auteur": "Threecharlie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_(Vigarano_Mainarda)_03.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG/1280px-Chiesa_della_Nativit%C3%A0_della_Beata_Vergine_Maria_%28Vigarano_Mainarda%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

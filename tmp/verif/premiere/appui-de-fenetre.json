@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Comstock, Nebraska, États-Unis",
       "note": "Embrasure très profonde formant banquette ; plaques et objets distrayants, l'appui proprement dit est ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de brique blanche avec fenêtre cintrée et large tablette sombre saillante en bas de la baie.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.16,
+        "y": 0.6,
+        "largeur": 0.6,
+        "hauteur": 0.12
+      },
+      "lieu": "Uccle (Calevoet), Belgique",
+      "note": "Appui net, saillant, bien encadrable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre en bandeau dans un mur de brique, avec fleurs derrière les stores.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appui peu lisible, doute avec allège ou autre ressaut."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Intérieur sombre avec bougies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à petits carreaux vue de face, reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appui non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bol de cerises posé sur un appui en marbre, vue intérieure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet dominant = cerises, appui mal éclairé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouverture sombre dans un mur avec mitrailleuse sur le rebord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet militaire, appui non clair."
     }
   ]
 }

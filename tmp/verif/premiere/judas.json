@@ -1,0 +1,58 @@
+{
+  "termId": "judas",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue à travers un judas : tunnel circulaire flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue de l'intérieur de l'optique, pas l'objet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque en métal découpée en croix fixée sur une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Symphorien-de-Lay",
+      "note": "Judas grillagé en croix, pas la lentille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte de cellule grise avec verrou et guichet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin-Hohenschönhausen",
+      "note": "Pas de judas à lentille."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue floue à travers un judas, couleurs tournoyantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue à travers l'optique, pas l'objet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Judas rond chromé percé dans le haut d'une porte d'hôtel, au-dessus de la plaque 404.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.03,
+        "largeur": 0.22,
+        "hauteur": 0.16
+      },
+      "lieu": "Leeds, Angleterre",
+      "note": "Lentille de judas bien visible, encadrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cellule vue à travers un judas, image circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rennes",
+      "note": "Vue à travers l'optique, pas l'objet."
+    }
+  ]
+}

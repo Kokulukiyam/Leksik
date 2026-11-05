@@ -53,6 +53,59 @@
       },
       "lieu": "",
       "note": "Échelle claire, rectangle nécessaire à cause des cadres d'échafaudage autour ; échelle double plutôt qu'appuyée, mais lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bibliothèque avec échelle de bibliothèque sur rail au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle petite et lointaine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Échelle coulissante en alu appuyée contre la façade d'un bâtiment jusqu'à l'acrotère, antenne au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.27,
+        "largeur": 0.38,
+        "hauteur": 0.45
+      },
+      "lieu": "Tarajalejo, Fuerteventura",
+      "note": "Échelle nette, encadrée de près."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soldat courant avec une échelle dans la fumée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle partielle, scène militaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Échelles longues appuyées contre une maison avec plateforme de monte-matériaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dispositif élévateur, doute avec échelle de toit/plateforme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Wagon-couchettes avec échelle de lit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle de couchette, pas de chantier ni claire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier raide en bois dans une charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier / échelle de meunier, ambigu."
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "limon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier droit moquetté, mur à motifs, rampe inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Limon non isolé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier métallique à marches ajourées vu de haut, cage en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palo Alto, États-Unis",
+      "note": "Limon pas clairement identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hall d exposition avec escalier métallique en fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Limon trop petit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Marches sombres avec bandeaux imprimés WikiCon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wiesbaden",
+      "note": "Texte, pas de limon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux détails de balustrade en bois tourné et lambris d escalier, montage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage, limon non désigné."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne N&B d un départ d escalier à rampe en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Archive, limon non visible."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "ouvrant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre blanche à guillotine à petits-bois dans un mur de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lake Geneva, Wisconsin",
+      "note": "Fenêtre entière, pas d'ouvrant distinct ; guillotine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade de bâtiment en démolition avec petites fenêtres alignées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tottenham, Londres",
+      "note": "Fenêtres trop petites, contexte de chantier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre grillagée avec un pantalon suspendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de défense dominante, ouvrants non lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Triple fenêtre blanche à petits-bois dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nuthurst, West Sussex",
+      "note": "Ensemble de fenêtre, ouvrant non isolé ; ambigu avec fenêtre/petit-bois."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue intérieure d'une fenêtre à six carreaux avec poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Heiligengrabe, Allemagne",
+      "note": "Image de la fenêtre entière, ambiguë (petit-bois, dormant)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre vue de l'intérieur dont un battant vitré est ouvert vers l'intérieur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.7,
+        "y": 0.03,
+        "largeur": 0.22,
+        "hauteur": 0.94
+      },
+      "lieu": "Dresde, Allemagne",
+      "note": "Le battant ouvert est encadré ; partie mobile bien distincte du dormant fixe."
+    }
+  ]
+}

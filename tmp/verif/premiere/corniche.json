@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "Zharkent, Kazakhstan",
       "note": "Angle d'avant-toit en charpente, pas une corniche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Portique néoclassique blanc, entablement saillant au-dessus de colonnes et d'un arc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.06,
+        "largeur": 0.86,
+        "hauteur": 0.34
+      },
+      "lieu": "Palais de Livadia, Yalta",
+      "note": "Corniche saillante moulurée nette, encadrée en partie haute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Corniche de plâtre intérieure au-dessus d'une imposte vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ararat, Victoria",
+      "note": "Corniche coupée en haut du cadre, imposte dominante."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Angle d'un édifice de pierre dont la corniche saille sur des modillons, sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.42,
+        "largeur": 0.62,
+        "hauteur": 0.32
+      },
+      "lieu": "Jérusalem",
+      "note": "Couronnement en saillie sur modillons très lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chapiteaux et impostes ornés jaunes, détail d'un portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inde",
+      "note": "Surtout des chapiteaux, corniche ambiguë."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade rose du musée égyptien avec foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Caire",
+      "note": "Corniche trop petite et lointaine."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte coréenne à toit de tuiles et pans de bois peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séoul",
+      "note": "Avant-toit coréen, ambigu."
     }
   ]
 }

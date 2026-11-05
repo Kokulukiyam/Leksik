@@ -1,0 +1,53 @@
+{
+  "termId": "porte-isoplane",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte lisse en bois clair avec un dispositif moteur et une ficelle collés dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dispositif parasite, âme non vérifiable : doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Racines d'arbre en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte ancienne peinte à décor.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une porte isoplane."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Portes en acier inoxydable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes métalliques."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Porte double à panneaux moulurés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte à panneaux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan flou sur une clé et un logo LG.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    }
+  ]
+}

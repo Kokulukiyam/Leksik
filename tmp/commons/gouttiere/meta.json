@@ -7,6 +7,20 @@
     "requetes": [
       "incategory:\"Rain gutters\"",
       "gouttière toit"
+    ],
+    "requetes2": [
+      "roof gutter eaves",
+      "zinc gutter roof",
+      "half-round gutter"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Rain gutters",
+      "Category:Gutters"
+    ],
+    "incompatibles": [
+      "boite-a-eau",
+      "dauphin"
     ]
   },
   "candidats": [
@@ -141,6 +155,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vogelnest_Aradul_Nou_station.jpg/1280px-Vogelnest_Aradul_Nou_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3648,
       "hauteur": 2736
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:500px photo (168211223).jpeg",
+      "description": "500px provided description: Img 8183 Jpg [#yellow ,#trees ,#brown ,#plant ,#white ,#green ,#garden]",
+      "categories": [
+        "CC-Zero",
+        "Rain gutters",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(168211223).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/500px_photo_%28168211223%29.jpeg/1280px-500px_photo_%28168211223%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Museo Ferroviario de Villa Lynch - 16 techo galpón.jpg",
+      "description": "Museo Ferroviario de Villa Lynch techo galpón, Dr. Alfredo E. Springolo 1,Sáenz Peña, Provincia de Buenos Aires, Argentina.",
+      "categories": [
+        "Self-published work",
+        "Gutters",
+        "Museo Ferroviario de Villa Lynch"
+      ],
+      "auteur": "Sergio Moises Panei Pitrau",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museo_Ferroviario_de_Villa_Lynch_-_16_techo_galp%C3%B3n.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Museo_Ferroviario_de_Villa_Lynch_-_16_techo_galp%C3%B3n.jpg/1280px-Museo_Ferroviario_de_Villa_Lynch_-_16_techo_galp%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Buttress, Saint Joseph Church, 2018 Békásmegyer.jpg",
+      "description": ": Saint Joseph Church (by János Schaden in between 1754-1764) on the site of a Plague cemetery. Part of the Templom street listed building complex - Templom street, Békásmegyer , Budapest District III .",
+      "categories": [
+        "Rain gutters",
+        "Saint Joseph Church, Békásmegyer-Ófalu",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Buttresses in Hungary",
+        "Files with coordinates missing SDC location of creation",
+        "May 2018 in Budapest",
+        "Church windows in Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buttress,_Saint_Joseph_Church,_2018_B%C3%A9k%C3%A1smegyer.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Buttress%2C_Saint_Joseph_Church%2C_2018_B%C3%A9k%C3%A1smegyer.jpg/1280px-Buttress%2C_Saint_Joseph_Church%2C_2018_B%C3%A9k%C3%A1smegyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Stoneware gutter trap, England, 1850-1865 Wellcome L0057294.jpg",
+      "description": "A gutter trap is used to stop debris such as leaves and rubbish clogging and blocking up drains and gutters. Blocked drains are foul-smelling and at a time when diseases were believed to be carried in poisonous vapours &#150; so-called miasmas &#150; they were considered a public nuisance and potential health risk. maker: Boydell Place made: England, United Kingdom Wellcome Images Keywords: gutter fixture",
+      "categories": [
+        "Files with no machine-readable author",
+        "Drains",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Gutters",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stoneware_gutter_trap,_England,_1850-1865_Wellcome_L0057294.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Stoneware_gutter_trap%2C_England%2C_1850-1865_Wellcome_L0057294.jpg/1280px-Stoneware_gutter_trap%2C_England%2C_1850-1865_Wellcome_L0057294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2832,
+      "hauteur": 4256
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Château de Cormatin, gargouille.JPG",
+      "description": "Cet édifice est répertorié dans la base Mérimée , base de données sur le patrimoine architectural français du ministère de la Culture , sous la référence PA00113246 . brezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil ∙ português ∙ română ∙ sicilianu ∙ slovenščina ∙ suomi ∙ svenska ∙ Ελληνικά ∙ беларуская (тарашкевіца) ∙ кыргызча ∙ македонски ∙ русский ∙ українська ∙ ไทย ∙ বাংলা ∙ 中文 ∙ +/−",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Nikon Coolpix S10",
+        "Drain pipes",
+        "Rain gutters",
+        "Château de Cormatin",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2012",
+        "Cultural heritage monuments in France with known IDs",
+        "Images from Wiki Loves Monuments 2012 in France",
+        "Mérimée without type parameter",
+        "France photographs taken on 2012-08-19"
+      ],
+      "auteur": "Médard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Cormatin,_gargouille.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Ch%C3%A2teau_de_Cormatin%2C_gargouille.JPG/1280px-Ch%C3%A2teau_de_Cormatin%2C_gargouille.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Iyke Medical and Superstore 02.jpg",
+      "description": "a pharmacy in Tudun Wada Narayi Kaduna",
+      "categories": [
+        "CC-Zero",
+        "Burglaries",
+        "Satellite dishes",
+        "Self-published work",
+        "Gutters",
+        "Tyap Wikimedians Celebrate Wikidata @13 with Training and Data-a-thon"
+      ],
+      "auteur": "Iciro Iciro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iyke_Medical_and_Superstore_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Iyke_Medical_and_Superstore_02.jpg/1280px-Iyke_Medical_and_Superstore_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 2304
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

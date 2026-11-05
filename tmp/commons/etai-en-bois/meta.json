@@ -11,7 +11,11 @@
       "étai en bois coffrage"
     ],
     "incompatibles": [
-      "etai"
+      "etai",
+      "tour-d-etaiement"
+    ],
+    "categoriesCommons": [
+      "Category:Shoring"
     ]
   },
   "candidats": [
@@ -33,6 +37,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Outing_%281885%29_%2814796341853%29.jpg/1280px-Outing_%281885%29_%2814796341853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1906,
       "hauteur": 1310
+    },
+    {
+      "fichier": "02.jpg",
+      "titre": "File:East Side Access Update- Queens side - August 7, 2014 (14885779361).jpg",
+      "description": "Images in and around the area that contain Plaza Substations and Queens structures as part of the Queens side of East Access Project. Photo: Metropolitan Transportation Authority / Patrick Cashin",
+      "categories": [
+        "Taken with Nikon D4",
+        "Shoring",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images taken by the Metropolitan Transportation Authority (New York)",
+        "2014 in Long Island City, Queens",
+        "Views of Long Island City, Queens from above",
+        "Flickr files uploaded by Epicgenius",
+        "63rd Street Tunnel portal (Sunnyside Yard)",
+        "East Side Access construction/2014/08",
+        "Metropolitan Transportation Authority photographs by Patrick Cashin"
+      ],
+      "auteur": "Metropolitan Transportation Authority of the State of New York",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:East_Side_Access_Update-_Queens_side_-_August_7,_2014_(14885779361).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/East_Side_Access_Update-_Queens_side_-_August_7%2C_2014_%2814885779361%29.jpg/1280px-East_Side_Access_Update-_Queens_side_-_August_7%2C_2014_%2814885779361%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1278
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:900 mm dia Sewer Installation, Toronto, Kent Road (1).jpg",
+      "description": "900 mm dia Sewer Installation, Toronto, Kent Road",
+      "categories": [
+        "Sewers",
+        "Shoring",
+        "Self-published work",
+        "Sewer construction in Toronto",
+        "Sewers in Toronto"
+      ],
+      "auteur": "Silenzio76",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:900_mm_dia_Sewer_Installation,_Toronto,_Kent_Road_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/900_mm_dia_Sewer_Installation%2C_Toronto%2C_Kent_Road_%281%29.jpg/1280px-900_mm_dia_Sewer_Installation%2C_Toronto%2C_Kent_Road_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Acacias-Centre (Geneva), démolition-38.jpg",
+      "description": "Démolition de l'ensemble mixte composé d'un immeuble de bureaux et de deux immeubles d'habitation, le tout sur une galette commerciale, construits en1960-1963 par Honegger Frères architectes. Reconstruction Route des Acacias 16-18/Rue Gustave-Revilliod 12.",
+      "categories": [
+        "Groupe Orllati",
+        "Shoring",
+        "Self-published work",
+        "Construction excavations",
+        "Acacias-Centre (Geneva), démolition"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acacias-Centre_(Geneva),_d%C3%A9molition-38.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-38.jpg/1280px-Acacias-Centre_%28Geneva%29%2C_d%C3%A9molition-38.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Excavating the duct bank for conduit to be laid out at the future Mid-Day Storage Yard. (49214573076).jpg",
+      "description": "Excavating the duct bank for conduit to be laid out at the future Mid-Day Storage Yard.",
+      "categories": [
+        "Shoring",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/12/13"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Excavating_the_duct_bank_for_conduit_to_be_laid_out_at_the_future_Mid-Day_Storage_Yard._(49214573076).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Excavating_the_duct_bank_for_conduit_to_be_laid_out_at_the_future_Mid-Day_Storage_Yard._%2849214573076%29.jpg/1280px-Excavating_the_duct_bank_for_conduit_to_be_laid_out_at_the_future_Mid-Day_Storage_Yard._%2849214573076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3514,
+      "hauteur": 1977
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Chas2.jpg",
+      "description": "Ram Mandir",
+      "categories": [
+        "Scaffolding",
+        "Images with annotations",
+        "Shoring",
+        "Chas Ghodegaon",
+        "Buildings in Pune district",
+        "Self-published work",
+        "Building construction in India",
+        "Streets in Maharashtra",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Mansingbhor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chas2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Chas2.jpg/1280px-Chas2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6762,
+      "hauteur": 3808
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Consolidation column house faun Pompeii.jpg",
+      "description": "Consolidation d'une colonne dans la Maison du Faune à Pompéi, Italie.",
+      "categories": [
+        "CC-Zero",
+        "Shoring",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2015-07-24",
+        "Columns in Pompeii",
+        "House of the Faun (Pompeii) - Servile rooms"
+      ],
+      "auteur": "Jebulon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Consolidation_column_house_faun_Pompeii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Consolidation_column_house_faun_Pompeii.jpg/1280px-Consolidation_column_house_faun_Pompeii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3056,
+      "hauteur": 4432
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

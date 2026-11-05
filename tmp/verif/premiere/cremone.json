@@ -1,0 +1,53 @@
+{
+  "termId": "cremone",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche gravée de serrurerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bouton de porte en bronze ouvragé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bouton, pas une cremone."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planche gravée de serrurerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur une cremone-espagnolette dorée sur une fenêtre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Espagnolette (tringle verticale et poignée) en bronze ornementé, bien visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Planche gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planche gravée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    }
+  ]
+}

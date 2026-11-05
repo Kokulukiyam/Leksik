@@ -1,0 +1,53 @@
+{
+  "termId": "madrier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une cuisine de ferme avec plafond à solives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Antrim, Irlande du Nord",
+      "note": "Photo ancienne (reproduction) ; pièces de bois non identifiables comme madriers."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Homme faisant un exercice de gainage sur deux ballons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sport (plank), sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'une pièce de bois épaisse sciée, fendue, devant un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce mal éclairée, rôle et dimensions indéterminés ; peut être une poutre ou un rondin équarri."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Femme faisant un gainage sur une terrasse en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sport, sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fragment de poutre en photographie noir et blanc de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Huissen, Pays-Bas",
+      "note": "Fragment isolé, image d'archive peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Recrues militaires en position de gainage sur l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sport, sans rapport."
+    }
+  ]
+}

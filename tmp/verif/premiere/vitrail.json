@@ -1,0 +1,53 @@
+{
+  "termId": "vitrail",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit élément de verre ambré en forme de sangle dans un fenestrage à plombs, sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fragment peu lisible, éclairage pâle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Rondel de verre peint aux armoiries sur fond noir, avec inscription gothique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig",
+      "note": "Objet isolé avec texte, pas une baie."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Verrière à arc en plein cintre montrant un homme en costume tenant un livre, verres colorés et plombs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Porto Rico",
+      "note": "Vitrail net dans sa baie cintrée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de pierre avec oculus fermé par un vitrage sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schöningen",
+      "note": "Verre sombre, peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grande verrière à plusieurs lancettes de verres colorés assemblés par plombs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Varsovie",
+      "note": "Vitrail coloré, lisible et dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite verrière cintrée lumineuse sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bystrzyca",
+      "note": "Petit dans le cadre, pièce mal exposée."
+    }
+  ]
+}

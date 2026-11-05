@@ -3,10 +3,18 @@
     "id": "appui-de-fenetre",
     "terme": "l'appui de fenêtre",
     "categorie": "Façade et ouvertures",
-    "definition": "Partie horizontale qui forme le bas d'une fenêtre, souvent en saillie pour rejeter l'eau de pluie.",
+    "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
     "requetes": [
       "incategory:\"Window sills\"",
       "stone window sill"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Window sills",
+      "Category:Windows"
+    ],
+    "incompatibles": [
+      "allege"
     ]
   },
   "candidats": [
@@ -135,6 +143,130 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dowse_sod_house_interior_kitchen_S_window.JPG/1280px-Dowse_sod_house_interior_kitchen_S_window.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1920,
       "hauteur": 2560
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Fenêtre gare de Calevoet - Larmier.jpg",
+      "description": "Gare de Calevoet - détail d'une fenêtre",
+      "categories": [
+        "Taken with Sony DSC-HX80",
+        "Uccle-Calevoet station",
+        "Window sills",
+        "Self-published work",
+        "Windows in Belgium",
+        "2019 in rail transport in Belgium",
+        "Hood moulds in Belgium",
+        "Photographs taken on 2019-02-17",
+        "Belgium photographs taken on 2019-02-16"
+      ],
+      "auteur": "Stratoswift",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg/1280px-Fen%C3%AAtre_gare_de_Calevoet_-_Larmier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2016 366 67 Window dressing (25601207095).jpg",
+      "description": "original flickr: 2016/366/67 Window dressing Nelson Street",
+      "categories": [
+        "Windows",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Nelson Street, Vancouver"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_67_Window_dressing_(25601207095).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2016_366_67_Window_dressing_%2825601207095%29.jpg/1280px-2016_366_67_Window_dressing_%2825601207095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3575,
+      "hauteur": 2462
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Candle light in an apartment.jpg",
+      "description": "Candle light in an apartment",
+      "categories": [
+        "Lava lamps",
+        "Sky lanterns",
+        "Window sills",
+        "Self-published work",
+        "Candles in Finland",
+        "Glass sculptures in Finland",
+        "Glass design",
+        "Candlesticks in Finland",
+        "Interiors of residential buildings in Finland"
+      ],
+      "auteur": "Aaaatu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Candle_light_in_an_apartment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Candle_light_in_an_apartment.jpg/1280px-Candle_light_in_an_apartment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6318,
+      "hauteur": 4212
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2013-365-205 Window Reflection Collage (9364454403).jpg",
+      "description": "Just a straight on photo, no post edits",
+      "categories": [
+        "CC-Zero",
+        "Windows",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-205_Window_Reflection_Collage_(9364454403).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg/1280px-2013-365-205_Window_Reflection_Collage_%289364454403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:\" 13 - ITALY - italian cherry - ciliegie.jpg",
+      "description": "Ciliegie italiane",
+      "categories": [
+        "Taken with Motorola MB526 DEFY+",
+        "Window sills",
+        "Balconies in Italy",
+        "Photographs by Andrea Pavanello",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2013-06-14",
+        "Cherries in Italy",
+        "Plates with food",
+        "User:AutomobilePassion/search"
+      ],
+      "auteur": "User:Pava",
+      "licence": "CC BY-SA 3.0 it",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22_13_-_ITALY_-_italian_cherry_-_ciliegie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%22_13_-_ITALY_-_italian_cherry_-_ciliegie.jpg/1280px-%22_13_-_ITALY_-_italian_cherry_-_ciliegie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:20151021 EST TEKE5 (22191778528).jpg",
+      "description": "NATO photos by Siim Teder Baltic Battalion Lithuanian team soldiers await in position during City Battle Exercise, Trident Juncture 15 at San Gregorio training area, Spain, October 20, 2015.",
+      "categories": [
+        "Windows",
+        "Walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Allied Joint Force Command Brunssum",
+        "Images uploaded by Revent from Flickr",
+        "Images uploaded by Revent (cleanup)",
+        "Lithuanian military at Trident Juncture 2015",
+        "FN MAG in Lithuanian service",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Allied Joint Force Command Brunssum",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20151021_EST_TEKE5_(22191778528).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/20151021_EST_TEKE5_%2822191778528%29.jpg/1280px-20151021_EST_TEKE5_%2822191778528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4333,
+      "hauteur": 2889
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

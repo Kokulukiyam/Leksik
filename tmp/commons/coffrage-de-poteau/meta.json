@@ -11,7 +11,9 @@
       "column formwork timber"
     ],
     "incompatibles": [
-      "coffrage"
+      "coffrage",
+      "coffrage-bois",
+      "coffrage-metallique"
     ]
   },
   "candidats": [
@@ -125,6 +127,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Whittier_Bridge-_Pier_3_Column_Form_work_%28June_2016%29_%2827414345980%29.jpg/1280px-Whittier_Bridge-_Pier_3_Column_Form_work_%28June_2016%29_%2827414345980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1306,
       "hauteur": 980
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Schroefstempel detail.jpg",
+      "description": "Schroefstempel",
+      "categories": [
+        "Extendable support beams",
+        "Self-published work"
+      ],
+      "auteur": "Ellywa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schroefstempel_detail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Schroefstempel_detail.jpg/1280px-Schroefstempel_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Schroefstempel geinstalleerd (1).jpg",
+      "description": "Schroefstempel",
+      "categories": [
+        "Extendable support beams",
+        "Self-published work"
+      ],
+      "auteur": "Ellywa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schroefstempel_geinstalleerd_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Schroefstempel_geinstalleerd_%281%29.jpg/1280px-Schroefstempel_geinstalleerd_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3080,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Schroefstempel bovenste helft.jpg",
+      "description": "Schroefstempel",
+      "categories": [
+        "Extendable support beams",
+        "Self-published work"
+      ],
+      "auteur": "Ellywa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Schroefstempel_bovenste_helft.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Schroefstempel_bovenste_helft.jpg/1280px-Schroefstempel_bovenste_helft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3080,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Streben Baustelle.JPG",
+      "description": "A stack of stays nearby a contruction site for trench building; 2014, Berlin (Germany)",
+      "categories": [
+        "Taken with Nikon Coolpix S3500",
+        "Construction",
+        "Krupp",
+        "Extendable support beams",
+        "Self-published work"
+      ],
+      "auteur": "Miriam Guterland",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Streben_Baustelle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Streben_Baustelle.JPG/1280px-Streben_Baustelle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cassaforma platea.jpg",
+      "description": "cassaforma a platea lignea con puntelli in tubi innocenti per solaio laterocementizio gettato in opera",
+      "categories": [
+        "Taken with Canon PowerShot S80",
+        "GPL",
+        "Architectural elements",
+        "Formwork",
+        "Extendable support beams",
+        "Italy photographs taken on 2006-04-24"
+      ],
+      "auteur": "Marcvsrvs sur Wikipédia italien",
+      "licence": "GPL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cassaforma_platea.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cassaforma_platea.jpg/1280px-Cassaforma_platea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1400,
+      "hauteur": 1050
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Baustützen Gestell.jpg",
+      "description": "Baustützen Gestell",
+      "categories": [
+        "Extendable support beams",
+        "Self-published work",
+        "Transport racks"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baust%C3%BCtzen_Gestell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Baust%C3%BCtzen_Gestell.jpg/1280px-Baust%C3%BCtzen_Gestell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3956,
+      "hauteur": 2152
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

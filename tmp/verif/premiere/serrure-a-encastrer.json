@@ -1,0 +1,53 @@
+{
+  "termId": "serrure-a-encastrer",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Loquet à bouton ancien vissé sur deux planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chevening",
+      "note": "Loquet en applique, pas une serrure à encastrer."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poignée à levier et condamnation sur une porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda",
+      "note": "Têtière non visible ; serrure non montrée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poignée de fenêtre japonaise blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Verrou à barre en applique sur une porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrure en applique à barre, contraire au terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée à levier chromée sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda",
+      "note": "Boîtier encastré non visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte métallique rivetée avec poignée et plaque d'entrée de clé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kornwerderzand, Pays-Bas",
+      "note": "Têtière non visible."
+    }
+  ]
+}

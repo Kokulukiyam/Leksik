@@ -1,0 +1,53 @@
+{
+  "termId": "barre-antipanique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Barre antipanique démontée sur fond blanc (photo de catalogue).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé, non posé sur une porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Doubles portes d école avec barres antipanique, ferme-portes et panneau EXIT.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Panneau EXIT, ferme-portes, trop d éléments."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur de train, porte jaune et écran.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan sur l extrémité d une barre Von Duprin sur porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, États-Unis",
+      "note": "Barre tronquée, texte de marque."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Barre antipanique horizontale en inox sur une porte bleue.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Claire, dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Barre antipanique horizontale sur porte vitrée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Claire, typique."
+    }
+  ]
+}

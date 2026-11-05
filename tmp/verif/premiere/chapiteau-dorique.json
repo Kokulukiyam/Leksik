@@ -1,0 +1,53 @@
+{
+  "termId": "chapiteau-dorique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pilastre d'escalier superposant plusieurs chapiteaux à volutes et moulures, enduit fissuré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toulouse, hôtel d'Ulmo",
+      "note": "Volutes visibles : ressemble à un chapiteau ionique, pas dorique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Propylées de l'Acropole : colonnes doriques cannelées et entablement à triglyphes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Acropole, Athènes",
+      "note": "Ensemble de l'ordre, chapiteaux petits : confusion avec colonne/entablement/triglyphe; pas de cadrage net possible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan d'un chapiteau de marbre à aigles et palmettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chapiteau figuré, pas dorique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lunette décorée de putti et frise, deux chapiteaux simples en bas du cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brescia",
+      "note": "Chapiteaux coupés, décor dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Aquarelle de restitution polychrome d'un entablement dorique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chapiteau à aigles sur colonne devant fenêtre en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Banja Luka",
+      "note": "Chapiteau figuré, pas dorique."
+    }
+  ]
+}

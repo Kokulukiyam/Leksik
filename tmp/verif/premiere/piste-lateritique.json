@@ -1,0 +1,53 @@
+{
+  "termId": "piste-lateritique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chemin de terre rosé dans des collines vertes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chemin de terre clair en sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piste herbeuse en parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chemin blanc le long d'un talus rocheux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Allée forestière de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chemin de pierre calcaire entre murets, Malte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    }
+  ]
+}

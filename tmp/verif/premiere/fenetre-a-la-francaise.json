@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-a-la-francaise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Fenêtre blanche à trois vantaux dans un mur de brique, sous un toit de tuiles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre à trois vantaux battants à petits bois, typique de la fenêtre à la française."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Châssis ouvert en noir et blanc avec poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnières non visibles, image sombre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Fenêtre éclairée à trois vantaux dans un mur de brique, la nuit.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre à trois vantaux à petits bois, clairement lisible malgré la lumière de nuit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fenêtre couverte d'un film plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Bâtiment en noir et blanc, fenêtres minuscules.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre à grands carreaux, probablement à guillotine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doute avec la fenêtre à guillotine."
+    }
+  ]
+}

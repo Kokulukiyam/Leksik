@@ -1,0 +1,68 @@
+{
+  "termId": "rosace-de-plafond",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond à nervures de plâtre avec rosace circulaire de feuilles au centre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.36,
+        "largeur": 0.2,
+        "hauteur": 0.3
+      },
+      "lieu": "Carrickbeg, Irlande",
+      "note": "Rosace centrale nette, encadrée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond d'une cage d'escalier en dôme elliptique mouluré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Pas une rosace nette, dôme et moulures dominent."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond de plâtre orné avec grande rosace de feuilles au centre d'un cercle.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.28,
+        "largeur": 0.28,
+        "hauteur": 0.46
+      },
+      "lieu": "Clonmel, Irlande",
+      "note": "Rosace de plâtre moulé claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur de synagogue avec plafond vert et petits ornements suspendus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djerba",
+      "note": "Pas de rosace de plafond lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Disque ajouré circulaire en bois ou métal au plafond, avec lustre au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille ou ventilation, pas du plâtre moulé, ambigu."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond de plâtre blanc avec rosace en feuilles d'acanthe et lames rayonnantes au centre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.22,
+        "largeur": 0.58,
+        "hauteur": 0.62
+      },
+      "lieu": "Bath, Royaume-Uni",
+      "note": "Rosace très marquée au centre du plafond."
+    }
+  ]
+}

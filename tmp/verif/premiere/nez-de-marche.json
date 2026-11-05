@@ -1,0 +1,53 @@
+{
+  "termId": "nez-de-marche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne N&B, homme descendant un escalier en béton hélicoïdal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nez de marche non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grand escalier en pierre dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Nez de marche non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Flou sur une balustrade en balustres de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Policier sur un refuge de carrefour enneigé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chine",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Marches sombres avec bandeaux imprimés WikiCon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wiesbaden",
+      "note": "Texte, nez non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Parc ombragé avec bancs et escalier lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone",
+      "note": "Hors sujet."
+    }
+  ]
+}

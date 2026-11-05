@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-demi-tournant",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Descente de gare, escalier droit avec panneau Hauptwache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort, Allemagne",
+      "note": "Escalier droit, texte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier droit carrelé rouge avec main courante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier métallique à marches ajourées, cage en béton, volées en vue plongeante, virage peu clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palo Alto, États-Unis",
+      "note": "Giration ambiguë."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier gris en noir et blanc avec rampe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Skive, Danemark",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier de pierre en forêt entre garde-corps rustiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit extérieur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier droit blanc et bois vu d en bas, garde-corps blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit."
+    }
+  ]
+}

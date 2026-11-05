@@ -1,0 +1,58 @@
+{
+  "termId": "escalier-de-secours",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Personne assise avec téléphone et bouteille sur un balcon métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier non montré."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier de secours métallique en noir et blanc avec bords vignettés, ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée (vignette, N&B)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier de secours noir entre deux façades en brique, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et à contre-jour."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gravure ancienne de moyens de sauvetage d incendie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier métallique ornemental en zigzag accroché à la façade d un théâtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.25,
+        "y": 0.15,
+        "largeur": 0.48,
+        "hauteur": 0.64
+      },
+      "lieu": "Oradea, Roumanie",
+      "note": "Escalier extérieur métallique de façade, encadré."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau Fluchttreppe devant des garde-corps métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eisenhüttenstadt, Allemagne",
+      "note": "Texte qui donne la réponse."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "inox",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Deux pelotes de fil métallique tressé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de cuisine peu lisible comme inox."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poteaux cylindriques métalliques reliés par une chaîne sur un pavage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Poteaux brossés pouvant aussi passer pour de l'aluminium ; sujet petit au milieu du pavage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Disque métallique embouti posé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet domestique mat, usage non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passerelle avec main courante tubulaire brossée et câbles tendus, structure blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Main courante brillante mais structure peinte, risque de confusion avec l'aluminium."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Urinoir mural en tôle métallique dans des toilettes publiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet peu valorisant, sale, et usage plutôt sanitaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Garde-corps à lisses et boucles en acier poli miroir le long d'un escalier d'entrée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Inox brillant très lisible, garde-corps typique."
+    }
+  ]
+}

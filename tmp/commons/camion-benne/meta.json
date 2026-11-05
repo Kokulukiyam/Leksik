@@ -11,7 +11,11 @@
       "tipper truck"
     ],
     "incompatibles": [
-      "tombereau"
+      "tombereau",
+      "dumper"
+    ],
+    "categoriesCommons": [
+      "Category:Dump trucks"
     ]
   },
   "candidats": [
@@ -152,6 +156,137 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lovol_LT90_Rigid_Dump_Truck_%28Mining_Indonesia_2026%29.jpg/1280px-Lovol_LT90_Rigid_Dump_Truck_%28Mining_Indonesia_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Scania Super XT Series (Handling System Co.PTE Ltd) 0225.jpg",
+      "description": "Scania Super XT Series (Handling System Co.PTE Ltd) 0225",
+      "categories": [
+        "Dump trucks",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Flatbed low loader semi-trailer trucks",
+        "Scania R-series semi-trailer tractors",
+        "Scania R-series (2016)",
+        "Low loader trailers"
+      ],
+      "auteur": "33Loading",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Scania_Super_XT_Series_(Handling_System_Co.PTE_Ltd)_0225.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Scania_Super_XT_Series_%28Handling_System_Co.PTE_Ltd%29_0225.jpg/1280px-Scania_Super_XT_Series_%28Handling_System_Co.PTE_Ltd%29_0225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2912,
+      "hauteur": 1782
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Peterbilt 330 dump with dirt tub dump body.JPG",
+      "description": "A Peterbilt 330 dump truck, this one equipped with a \"dirt tub\" dump body.",
+      "categories": [
+        "Taken with Nikon D3000",
+        "Dump trucks",
+        "Self-published work",
+        "Peterbilt 330",
+        "Four-wheeled dump trucks"
+      ],
+      "auteur": "Burningsaviour",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peterbilt_330_dump_with_dirt_tub_dump_body.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Peterbilt_330_dump_with_dirt_tub_dump_body.JPG/1280px-Peterbilt_330_dump_with_dirt_tub_dump_body.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Relaxed (195166329).jpeg",
+      "description": "500px provided description: Relaxed [#sand ,#dust ,#dry ,#windy ,#trucks]",
+      "categories": [
+        "CC-Zero",
+        "Dump trucks",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Harish Nair",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Relaxed_(195166329).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Relaxed_%28195166329%29.jpeg/1280px-Relaxed_%28195166329%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1162
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Delivering ballast for Track A in Harold Interlocking. (CH057D, 10-19-2018) (44844532394).jpg",
+      "description": "Delivering ballast for Track A in Harold Interlocking. (CH057D, 10-19-2018)",
+      "categories": [
+        "Dump trucks",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access at Harold Interlocking",
+        "East Side Access construction/2018/10/26"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Delivering_ballast_for_Track_A_in_Harold_Interlocking._(CH057D,_10-19-2018)_(44844532394).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg/1280px-Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1512,
+      "hauteur": 2016
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:IAA Transportation 2026, Hanover (20260914-P1086917).jpg",
+      "description": "Lieu de la prise de vue 52° 19′ 08,31″ N, 9° 48′ 03,27″ E Voir cet endroit et d’autres images sur : OpenStreetMap 52.318975; 9.800908",
+      "categories": [
+        "GFDL",
+        "Dump trucks",
+        "License migration redundant",
+        "Self-published work",
+        "GNU Free Documentation License with different SDC copyright license",
+        "CC-BY-SA-2.0+",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Creative Commons Attribution-Share Alike 2.0 with different SDC copyright license",
+        "Creative Commons Attribution-Share Alike 2.5 with different SDC copyright license",
+        "Creative Commons Attribution-Share Alike 3.0 with different SDC copyright license",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Uploaded with LrMediaWiki2",
+        "IAA Transportation 2026 (supported by WMDE)",
+        "Kia at IAA Transportation 2026",
+        "Vans at IAA Transportation 2026",
+        "Scattolini",
+        "Kia PV5 Chassis Cab"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IAA_Transportation_2026,_Hanover_(20260914-P1086917).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/IAA_Transportation_2026%2C_Hanover_%2820260914-P1086917%29.jpg/1280px-IAA_Transportation_2026%2C_Hanover_%2820260914-P1086917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3110,
+      "hauteur": 2333
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Iveco Daily, Nufam 2025, Rheinstetten (20250927-P1051007).jpg",
+      "description": "Iveco Daily at Nufam 2025 in Rheinstetten",
+      "categories": [
+        "GFDL",
+        "Dump trucks",
+        "License migration redundant",
+        "Self-published work",
+        "Orange vans",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Quality image candidates by User:MB-one - ready to submit",
+        "Baden-Württemberg photographs taken on 2025-09-27",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Iveco Daily (2019) dump trucks",
+        "Vans at Nufam 2025"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iveco_Daily,_Nufam_2025,_Rheinstetten_(20250927-P1051007).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Iveco_Daily%2C_Nufam_2025%2C_Rheinstetten_%2820250927-P1051007%29.jpg/1280px-Iveco_Daily%2C_Nufam_2025%2C_Rheinstetten_%2820250927-P1051007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,58 @@
+{
+  "termId": "feuille-d-acanthe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Peinture murale romaine d'un bouton de fleur et de feuilles d'acanthe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pompéi, Italie",
+      "note": "Peinture, pas un élément sculpté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Détail de chapiteau roman sculpté à volutes et feuille stylisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kilmaurs, Écosse",
+      "note": "Feuilles stylisées peu lisibles, volutes dominantes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Portail roman avec frise de feuillages, bas-relief de chasse et chapiteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Campiglia Marittima, Italie",
+      "note": "Scène chargée, bande proche d'un rinceau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chapiteau corinthien sur fût de granit, rangées de feuilles d'acanthe découpées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.33,
+        "largeur": 0.34,
+        "hauteur": 0.17
+      },
+      "lieu": "Karlovy Vary, Tchéquie",
+      "note": "Rectangle sur les rangées de feuilles ; palmier au premier plan sans gêne."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Livre d'heures enluminé ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Manuscrit, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur un élément de ferronnerie rouillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest, Roumanie",
+      "note": "Forme peu identifiable comme acanthe."
+    }
+  ]
+}

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Milwaukee, États-Unis",
       "note": "Élément lointain et atypique ; même réserve que 01."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Auvent métallique à toiles ombrageantes sur une esplanade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ombrière, pas un brise-soleil de façade."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue de toits de Lisbonne avec pergolas de terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un brise-soleil."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison de pierre arrondie dans le désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun brise-soleil."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Caravane avec auvent en toile dans un désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une façade."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cour avec voile d'ombrage blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voile d'ombrage, terme voisin."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison de pierre organique en zone désertique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun brise-soleil."
     }
   ]
 }

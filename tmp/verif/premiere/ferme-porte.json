@@ -1,0 +1,53 @@
+{
+  "termId": "ferme-porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ferme-porte ancien en laiton à bras articulé fixé en haut d un vantail en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Typique et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ferme-porte Dorma gris, corps et bras articulé en haut d une porte orange.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Net, bras visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ferme-porte ancien B.K.S. sur une porte grise, vue de dessus, plaque lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hannover, Allemagne",
+      "note": "Texte de marque, vue peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque émaillée Yale en bois, texte Ne fermez pas la porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grenoble, France",
+      "note": "Plaque seule, texte, pas le mécanisme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ferme-porte Dorma posé au sol contre un mur, pas monté sur une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Non installé, contexte trompeur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Portillon en bois fermé par une corde et un poteau dans un pré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un ferme-porte mécanique."
+    }
+  ]
+}

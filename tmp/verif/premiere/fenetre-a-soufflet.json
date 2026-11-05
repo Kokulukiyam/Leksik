@@ -1,0 +1,53 @@
+{
+  "termId": "fenetre-a-soufflet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    }
+  ]
+}

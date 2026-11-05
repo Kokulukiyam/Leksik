@@ -1,0 +1,53 @@
+{
+  "termId": "concession",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de panneaux tressés dans un enclos de sable, toits au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ndiandiaye, Sénégal",
+      "note": "Montre surtout une clôture, ensemble de cases non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Fleur violette en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Artisan sous un manguier dans une cour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cour sans bâtiments lisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue de nuit au bord de route de cases au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, flou."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rive sableuse avec une construction blanche lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une concession."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Assiette ancienne avec gravure de village sénégalais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure sur assiette, pas une photo."
+    }
+  ]
+}

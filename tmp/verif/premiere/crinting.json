@@ -1,0 +1,58 @@
+{
+  "termId": "crinting",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Longue palissade de tiges de roseaux ou cannes jointives devant une maison jaune.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.54,
+        "largeur": 1.0,
+        "hauteur": 0.38
+      },
+      "lieu": "Sénégal",
+      "note": "Panneau de tiges alignées clair, catégorie Commons clôtures de bambou au Sénégal."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grillage et muret devant un bâtiment colonial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thiès",
+      "note": "Pas de crinting."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Filet vert troué servant de clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filet, pas un panneau de tiges."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Haie d'agaves devant un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plante, pas un panneau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Case en banco et clôture de piquets de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Casamance",
+      "note": "Clôture de piquets, panneau non lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sentier entre des clôtures de palmes sèches, sous le feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pikine",
+      "note": "Palmes en vrac et feuillage cachent le panneau."
+    }
+  ]
+}

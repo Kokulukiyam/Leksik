@@ -1,0 +1,53 @@
+{
+  "termId": "grenier-a-mil",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand panier tressé posé sur une plateforme de palettes, sans toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Sans toit conique, doute avec grenier sur pilotis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Structure de branches d'une case en construction, enfants dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un grenier, personnes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grenier tressé à toit conique de tôle, de nuit, Bangladesh.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo nocturne, contexte non africain."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand panier tressé sur plateforme, sans toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans toit conique, doute avec grenier sur pilotis."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Herbes et pierres de fondation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun grenier visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grenier de vannerie sur plateforme de bois, village sénégalais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Sans toit, titre le dit sur pilotis, risque de confusion."
+    }
+  ]
+}

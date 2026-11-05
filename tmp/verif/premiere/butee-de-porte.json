@@ -1,0 +1,53 @@
+{
+  "termId": "butee-de-porte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Arrêt de chanfrein en pierre dans un encadrement de porte médiéval.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kells Priory, Irlande",
+      "note": "Pas une butée de porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Arrêt de chanfrein en pierre (spire stop).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kells Priory, Irlande",
+      "note": "Pas une butée de porte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ascenseur en panne, porte forcée, graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stoumont, Belgique",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur de tour en pierre avec escalier et poutres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inistioge, Irlande",
+      "note": "Pas de butée visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tramway Luas dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tramway Luas dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin",
+      "note": "Hors sujet."
+    }
+  ]
+}

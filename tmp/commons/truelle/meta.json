@@ -3,12 +3,18 @@
     "id": "truelle",
     "terme": "la truelle",
     "categorie": "Chantier et outillage",
-    "definition": "Outil à lame d'acier plate et pointue, avec un manche coudé, pour prendre, étaler et lisser le mortier.",
+    "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
     "priorite": 1,
     "requetes": [
       "mason trowel",
       "truelle",
       "incategory:\"Trowels\""
+    ],
+    "categoriesCommons": [
+      "Category:Trowels"
+    ],
+    "incompatibles": [
+      "platoir"
     ]
   },
   "candidats": [
@@ -144,6 +150,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Masons_trowel.jpg/1280px-Masons_trowel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1452,
       "hauteur": 723
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:DPAA Conducts Recovery Operation in Germany (5393251).jpg",
+      "description": "Kristen Baker, scientific recovery expert, Defense POW/MIA Accounting Agency (DPAA), trowels an archaeological feature during recovery operations in Reken, Germany, May 11, 2019. The team excavated the site over 30 days in search of the remains of a service member lost during WWII. DPAA’s mission is to provide the fullest possible accounting of missing DoD personnel to their families and the nation. (U.S. Army photo by Sgt. 1st Class David J. Marshall)",
+      "categories": [
+        "Germany photographs taken on 2019-05-11",
+        "PD US Army",
+        "Trowels",
+        "Files created by the United States Army with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Germany (review needed)"
+      ],
+      "auteur": "U.S. Army photo by Sgt. 1st Class David Marshall",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DPAA_Conducts_Recovery_Operation_in_Germany_(5393251).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/DPAA_Conducts_Recovery_Operation_in_Germany_%285393251%29.jpg/1280px-DPAA_Conducts_Recovery_Operation_in_Germany_%285393251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2795,
+      "hauteur": 4193
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Lincoln Park Affordable Housing Phase 2 (53567717014).jpg",
+      "description": "Construction continues at a rapid pace in Lincoln Park as Phase 2 of the affordable housing construction takes place. Workers are busy framing, plumbing, and performing masonry work on six new homes being built as part of the City's West Greenville revitalization efforts on February 22, 2024.",
+      "categories": [
+        "Trowels",
+        "Pouring concrete",
+        "Construction workers in the United States",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "Files from City of Greenville, North Carolina Flickr stream",
+        "Lincoln Park Affordable Housing Initiative"
+      ],
+      "auteur": "City of Greenville, North Carolina",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lincoln_Park_Affordable_Housing_Phase_2_(53567717014).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Lincoln_Park_Affordable_Housing_Phase_2_%2853567717014%29.jpg/1280px-Lincoln_Park_Affordable_Housing_Phase_2_%2853567717014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2667
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:De zilveren troffel waarmee de eerste steen van het nieuwe Amsterdamse stadhuis werd gelegd op 28 oktober 1648 Zilveren troffel, waarmede de jonge heer Cornelis de Graeff den eersten steen heeft gelegd den 28 October 16, RP-P-1905-146.jpg",
+      "description": "Identificatie Titel(s): De zilveren troffel waarmee de eerste steen van het nieuwe Amsterdamse stadhuis werd gelegd op 28 oktober 1648. Zilveren troffel, waarmede de jonge heer Cornelis de Graeff den eersten steen heeft gelegd den 28 October 1648 / Keerzijde der zilveren troffel / Een der vier gouden penningen, den 28 October 1648 ter gedachtenis vereerd aan de vier zonen en neven van de toen regerende burgemeesteren der stad Amsterdam (titel op object) Objecttype: prent Objectnummer: RP-P-1905-146 Catalogusreferentie: FMH 1965-Ba. Opmerking: (toegevoegd nummer RPK) Omschrijving: Moderne afbee",
+      "categories": [
+        "CC-Zero",
+        "Trowels",
+        "Foundation stone laying ceremonies in the Netherlands",
+        "Wood engravings in the Rijksmuseum Amsterdam",
+        "Brandt and Brandt donations"
+      ],
+      "auteur": "Rijksmuseum",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_zilveren_troffel_waarmee_de_eerste_steen_van_het_nieuwe_Amsterdamse_stadhuis_werd_gelegd_op_28_oktober_1648_Zilveren_troffel,_waarmede_de_jonge_heer_Cornelis_de_Graeff_den_eersten_steen_heeft_gelegd_den_28_October_16,_RP-P-1905-146.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/De_zilveren_troffel_waarmee_de_eerste_steen_van_het_nieuwe_Amsterdamse_stadhuis_werd_gelegd_op_28_oktober_1648_Zilveren_troffel%2C_waarmede_de_jonge_heer_Cornelis_de_Graeff_den_eersten_steen_heeft_gelegd_den_28_October_16%2C_RP-P-1905-146.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4480,
+      "hauteur": 6474
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:'INDEBLAWE TROEFFEL', gevelsteen, objectnr KB 2417.jpg",
+      "description": "Identificatie Titel: ' INDEBLAWE TROEFFEL', gevelsteen Objectnummer: KB 2417 Objecttype: gevelsteen Onderwerpen: troffel gereedschap Vinkenstraat 75-77 Vervaardiging Vervaardiger: onbekend (steenhouwer) Datering: 1650 – 1699 Materiaal: zandsteen Afmetingen: 43 cm. (hoogte) x 45 cm. (breedte) Verwerving en rechten Verworven: bruikleen Naamsvermelding: Amsterdam Museum, bruikleen Koninklijk Oudheidkundig Genootschap Duurzaam webadres: http://hdl.handle.net/11259/collection.33072",
+      "categories": [
+        "Trowels",
+        "Gable stones in the Amsterdam Museum"
+      ],
+      "auteur": "onbekend (steenhouwer)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27INDEBLAWE_TROEFFEL%27,_gevelsteen,_objectnr_KB_2417.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/%27INDEBLAWE_TROEFFEL%27%2C_gevelsteen%2C_objectnr_KB_2417.jpg/1280px-%27INDEBLAWE_TROEFFEL%27%2C_gevelsteen%2C_objectnr_KB_2417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1334
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Print, trade-card (BM D,2.1293).jpg",
+      "description": "DRAFT Trade card of John Malkin, trowel maker",
+      "categories": [
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Trowels",
+        "PD Old",
+        "PD-scan (PD-old-70)",
+        "Artworks with known accession number",
+        "CC-PD-Mark",
+        "Trade-cards in the British Museum",
+        "Uploads by copyfraud"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Print,_trade-card_(BM_D,2.1293).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Print%2C_trade-card_%28BM_D%2C2.1293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 953,
+      "hauteur": 844
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Kielnia 002.JPG",
+      "description": "This image was uploaded as part of Wiki Loves e-textbooks contest in Poland.",
+      "categories": [
+        "Trowels",
+        "Self-published work",
+        "Uploaded via Campaign:e-podreczniki",
+        "Wiki Lubi e-podręczniki - język polski"
+      ],
+      "auteur": "Mielon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kielnia_002.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kielnia_002.JPG/1280px-Kielnia_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 3216
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

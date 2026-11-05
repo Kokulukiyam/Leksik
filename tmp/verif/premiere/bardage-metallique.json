@@ -1,0 +1,53 @@
+{
+  "termId": "bardage-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'un bâtiment entièrement habillée de tôle nervurée bleue, avec poteau et grille de ventilation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement de façade métallique nervuré, typique, occupe tout le cadre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade à joints debout en panneaux métalliques cuivrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut se lire comme cuivre ou zinc ; le matériau métallique n'est pas univoque."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tours d'habitation au bord de l'eau, palplanches rouillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Le bardage n'est pas visible ni dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petite centrale à façade de tôle inox bosselée, grande cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Aspect inox miroir bosselé plutôt que bardage nervuré ; confusion avec inox."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Détail d'une façade en grillage métallique devant du vitrage bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grillage, pas un bardage de tôles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de tôle ondulée galvanisée usée entre poteaux de bois, avec un vélo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aarhus, Danemark",
+      "note": "Tôle galvanisée vieillie, risque de confusion avec acier galvanisé."
+    }
+  ]
+}

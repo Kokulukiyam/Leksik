@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "coffrage",
-      "etai"
+      "etai",
+      "coffrage-bois",
+      "etai-metallique",
+      "etai-en-bois",
+      "tour-d-etaiement"
     ]
   },
   "candidats": [
@@ -122,6 +126,29 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Small_City%2C_travaux_1-68-1.jpg/1280px-Small_City%2C_travaux_1-68-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3231,
       "hauteur": 2154
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Orléans chantier tram B construction voie 04.jpg",
+      "description": "Travaux de construction de la ligne B du tramway : construction de la voie boulevard Marie Stuart, Saint-Jean-de-Braye, Loiret, France Machine de coulage par coffrage glissant de la dalle de béton destinée à supporter la voie",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D300",
+        "Orléans Tramway Line B",
+        "License migration redundant",
+        "Self-published work",
+        "Pictures by Croquant",
+        "Information field template with formatting",
+        "Tramway in Saint-Jean-de-Braye"
+      ],
+      "auteur": "Croquant",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Orl%C3%A9ans_chantier_tram_B_construction_voie_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Orl%C3%A9ans_chantier_tram_B_construction_voie_04.jpg/1280px-Orl%C3%A9ans_chantier_tram_B_construction_voie_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2144,
+      "hauteur": 1424
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

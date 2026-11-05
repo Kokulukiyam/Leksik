@@ -1,0 +1,53 @@
+{
+  "termId": "parclose",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Coin salon avec table et chaises devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parcloses non visibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouverture de fenêtre brute dans un mur épais, sans menuiserie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de parclose."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade vitrée sombre avec une personne assise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de parclose identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Oiseaux en bois posés sur un appui de fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parclose non montrée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre ancienne éclairée la nuit à côté d'un lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parclose non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre blanche avec barres rouillées dans un mur crépi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Odolena Voda, Tchéquie",
+      "note": "Parclose non identifiable."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "porte-coupe-feu",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque signalétique d'une porte coupe-feu en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan sur une plaque, pas la porte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Porte métallique grise avec ferme-porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait être une simple porte métallique, sans plaque."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo sans rapport net avec le terme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ne montre pas clairement le terme."
+    }
+  ]
+}

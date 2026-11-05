@@ -1,0 +1,53 @@
+{
+  "termId": "acier-galvanise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier souriant devant une cuve dans une usine de galvanisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afrique du Sud",
+      "note": "Portrait d'ouvrier, métal peu visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure ancienne d'un atelier d'ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers casqués devant des pièces métalliques brillantes en usine de galvanisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène d'atelier dominée par les personnes ; aspect brillant, pas le gris mat attendu."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pièce métallique plate brillante sur un tissu rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé non identifiable comme acier galvanisé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tubes brillants sortant d'un bain devant un ouvrier à visière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Procédé industriel, reflets d'acier poli, ambigu avec inox."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photographie d'archive sépia d'un atelier de galvanisation de fil barbelé, avec légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monessen, États-Unis",
+      "note": "Archive historique avec texte, matériau invisible."
+    }
+  ]
+}

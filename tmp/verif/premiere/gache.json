@@ -1,0 +1,53 @@
+{
+  "termId": "gache",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poignée à levier sur une porte blanche, avec deux ouvertures dans le montant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gâche non lisible : seules des fentes apparaissent."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poignée à levier chromée sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda",
+      "note": "Gâche non visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gâche brune vissée dans le montant d'une porte rouge, entrée de pêne bien visible.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Boda, Suède",
+      "note": "Plaque fixée sur la huisserie avec ouverture pour le pêne, au premier plan."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Serrure et gâche d'un portillon galvanisé, plaque B&G.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oude Pekela, Pays-Bas",
+      "note": "Gâche et serrure confondues ; pas clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poignée de fenêtre japonaise blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Verrou à barre blanc sur une porte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans gâche visible."
+    }
+  ]
+}

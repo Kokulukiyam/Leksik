@@ -1,0 +1,53 @@
+{
+  "termId": "paillote",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Charpente de toit de chaume vue de l'intérieur avec lampes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une paillote."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Entrée de village d'artisans avec petit toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail décoré, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cases à toit conique de paille au loin, âne au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Guinée-Bissau",
+      "note": "Cases rondes, paillote non distincte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Abri à toit de chaume sur poteaux de bambou, avec mannequins et plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mise en scène de musée, parois bleues, doute avec case ou pavillon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petites huttes de palmes sur une plage de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Huttes fermées et lointaines, non lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison à colombages à toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rügen",
+      "note": "Chaumière européenne."
+    }
+  ]
+}

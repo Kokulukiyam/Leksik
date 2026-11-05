@@ -1,0 +1,53 @@
+{
+  "termId": "profile-aluminium",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Profilés aluminium et joint d'un petit serre, en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assemblage de pièces avec joints, section peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tôle ou profilé en aluminium sur une machine, fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte machine, pièce non extrudée creuse lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tube arrondi gris près d'un panneau publicitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un profilé de menuiserie clair."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chercheur devant un montage de laboratoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Machine à portique en profilés d'aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas un profilé isolé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Section d'un profilé aluminium extrudé à chambres creuses avec joints en caoutchouc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coupe nette montrant la section creuse extrudée."
+    }
+  ]
+}

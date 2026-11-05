@@ -1713,6 +1713,27 @@
     ]
   },
   {
+    "id": "assemblage-boulonne",
+    "terme": "l'assemblage boulonné",
+    "definition": "Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "gousset",
+      "platine"
+    ]
+  },
+  {
+    "id": "gousset",
+    "terme": "le gousset",
+    "definition": "Plaque d'acier qui réunit plusieurs barres en un même nœud d'une ferme ou d'un contreventement.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "assemblage-boulonne"
+    ]
+  },
+  {
     "id": "porte-a-faux",
     "terme": "le porte-à-faux",
     "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
@@ -1725,6 +1746,16 @@
     ]
   },
   {
+    "id": "solive",
+    "terme": "la solive",
+    "definition": "Pièce de bois posée en série parallèle entre deux murs ou poutres pour porter un plancher.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "chevetre"
+    ]
+  },
+  {
     "id": "arc-en-plein-cintre",
     "terme": "l'arc en plein cintre",
     "definition": "Arc dont la courbe forme un demi-cercle complet.",
@@ -1734,6 +1765,79 @@
       "arc",
       "baie-cintree"
     ]
+  },
+  {
+    "id": "arc-brise",
+    "terme": "l'arc brisé",
+    "definition": "Arc formé de deux portions de cercle qui se rejoignent en pointe au sommet.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "arc"
+    ]
+  },
+  {
+    "id": "arc-surbaisse",
+    "terme": "l'arc surbaissé",
+    "definition": "Arc moins haut que la moitié de sa largeur, à la courbe aplatie.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "arc"
+    ]
+  },
+  {
+    "id": "granite",
+    "terme": "le granite",
+    "definition": "Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "calcaire",
+    "terme": "le calcaire",
+    "definition": "Pierre sédimentaire tendre à mi-dure, généralement blanche à beige, très employée en pierre de taille et en moellons.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "pierre-de-taille",
+      "moellon",
+      "tuffeau",
+      "travertin",
+      "gres",
+      "marbre"
+    ]
+  },
+  {
+    "id": "beton-desactive",
+    "terme": "le béton désactivé",
+    "definition": "Béton dont on a éliminé la laitance en surface pour faire apparaître les graviers.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "beton"
+    ]
+  },
+  {
+    "id": "brique-pleine",
+    "terme": "la brique pleine",
+    "definition": "Brique de terre cuite massive, sans alvéoles, souvent laissée apparente.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "brique",
+      "brique-creuse"
+    ]
+  },
+  {
+    "id": "brique-de-verre",
+    "terme": "la brique de verre",
+    "definition": "Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
   },
   {
     "id": "bois",
@@ -1754,6 +1858,73 @@
     ]
   },
   {
+    "id": "panneau-osb",
+    "terme": "le panneau OSB",
+    "definition": "Panneau de grandes lamelles de bois orientées et collées, reconnaissable à son aspect de copeaux.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "lamelle-colle",
+    "terme": "le lamellé-collé",
+    "definition": "Bois formé de lamelles collées entre elles, en poutres de grande portée dont la tranche montre les strates.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "bois"
+    ]
+  },
+  {
+    "id": "bambou",
+    "terme": "le bambou",
+    "definition": "Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "rondin"
+    ]
+  },
+  {
+    "id": "bardage-metallique",
+    "terme": "le bardage métallique",
+    "definition": "Revêtement de façade en tôles ou cassettes métalliques nervurées, typique des bâtiments industriels.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "bardage",
+      "tole-ondulee",
+      "panneau-sandwich",
+      "bac-acier",
+      "panneau-composite-aluminium",
+      "acier-galvanise"
+    ]
+  },
+  {
+    "id": "acier-corten",
+    "terme": "l'acier Corten",
+    "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "acier",
+      "bardage-metallique"
+    ]
+  },
+  {
+    "id": "inox",
+    "terme": "l'inox",
+    "definition": "Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "acier",
+      "aluminium"
+    ]
+  },
+  {
     "id": "fer-forge",
     "terme": "le fer forgé",
     "definition": "Fer travaillé à chaud au marteau en barres tordues, volutes et pointes, pour grilles, balcons et rampes.",
@@ -1763,6 +1934,207 @@
       "fonte",
       "garde-corps",
       "garde-corps-en-fer-forge"
+    ]
+  },
+  {
+    "id": "tole-perforee",
+    "terme": "la tôle perforée",
+    "definition": "Tôle percée de trous réguliers, employée en habillage, en garde-corps ou en brise-vue.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "metal-deploye"
+    ]
+  },
+  {
+    "id": "verre-depoli",
+    "terme": "le verre dépoli",
+    "definition": "Verre rendu translucide par une surface mate qui laisse passer la lumière mais pas la vue.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "verre-imprime"
+    ]
+  },
+  {
+    "id": "verre-reflechissant",
+    "terme": "le verre réfléchissant",
+    "definition": "Vitrage à couche métallique qui renvoie l'image comme un miroir, vu sur les façades de bureaux.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2
+  },
+  {
+    "id": "mosaique",
+    "terme": "la mosaïque",
+    "definition": "Revêtement fait de petits fragments de pierre, de céramique ou de verre assemblés.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "mosaique-de-pate-de-verre"
+    ]
+  },
+  {
+    "id": "laine-de-verre",
+    "terme": "la laine de verre",
+    "definition": "Isolant fibreux, souple, souvent jaune, vendu en rouleaux ou en panneaux.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "laine-de-roche"
+    ]
+  },
+  {
+    "id": "entablement",
+    "terme": "l'entablement",
+    "definition": "Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "architrave",
+      "frise",
+      "corniche",
+      "triglyphe",
+      "metope",
+      "denticule",
+      "modillon"
+    ]
+  },
+  {
+    "id": "volute",
+    "terme": "la volute",
+    "definition": "Ornement enroulé en spirale, typique du chapiteau ionique et des consoles.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau-ionique",
+      "console",
+      "chapiteau",
+      "chapiteau-corinthien"
+    ]
+  },
+  {
+    "id": "feuille-d-acanthe",
+    "terme": "la feuille d'acanthe",
+    "definition": "Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau-corinthien",
+      "chapiteau",
+      "rinceau",
+      "chapiteau-dorique",
+      "chapiteau-ionique"
+    ]
+  },
+  {
+    "id": "denticule",
+    "terme": "le denticule",
+    "definition": "Petit bloc rectangulaire répété en rang serré sous une corniche, comme une rangée de dents.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "corniche",
+      "modillon",
+      "moulure",
+      "bandeau",
+      "chapiteau-ionique"
+    ]
+  },
+  {
+    "id": "cartouche",
+    "terme": "le cartouche",
+    "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "medaillon",
+      "bas-relief",
+      "haut-relief",
+      "frise",
+      "feston"
+    ]
+  },
+  {
+    "id": "medaillon",
+    "terme": "le médaillon",
+    "definition": "Ornement rond ou ovale, encadré, qui porte un portrait ou un motif sculpté.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "cartouche",
+      "bas-relief",
+      "haut-relief",
+      "frise",
+      "feston"
+    ]
+  },
+  {
+    "id": "bossage",
+    "terme": "le bossage",
+    "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "refend",
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "bas-relief",
+    "terme": "le bas-relief",
+    "definition": "Sculpture qui se détache peu du fond auquel elle reste attachée.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "haut-relief",
+      "frise",
+      "bas-relief-d-abomey"
+    ]
+  },
+  {
+    "id": "cannelure",
+    "terme": "la cannelure",
+    "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "colonne",
+      "pilastre",
+      "colonne-torse"
+    ]
+  },
+  {
+    "id": "chapiteau-corinthien",
+    "terme": "le chapiteau corinthien",
+    "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "feuille-d-acanthe",
+      "chapiteau-dorique",
+      "chapiteau-ionique"
+    ]
+  },
+  {
+    "id": "vitrail",
+    "terme": "le vitrail",
+    "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "rosace",
+      "remplage"
+    ]
+  },
+  {
+    "id": "fresque",
+    "terme": "la fresque",
+    "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "trompe-l-oeil"
     ]
   },
   {

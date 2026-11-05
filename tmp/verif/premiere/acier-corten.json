@@ -1,0 +1,58 @@
+{
+  "termId": "acier-corten",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sculpture polygonale en acier brun terne sur une place dallée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malaga, Espagne",
+      "note": "Teinte brun-violet terne, pourrait être de l'acier peint ou rouillé ; moins fiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau-stèle en acier à rouille orangée portant l'inscription Mikwe, devant un bassin en pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.37,
+        "largeur": 0.51,
+        "hauteur": 0.37
+      },
+      "lieu": "Allemagne",
+      "note": "Rouille brun orangé uniforme et stable typique du Corten ; rectangle sur la stèle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tôle d'acier recouverte d'une rouille orangée piquetée en gros plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture typique de Corten après exposition, plein cadre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Conteneurs maritimes colorés empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conteneurs peints, pas de Corten lisible ; texte visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Treillis verticaux orange rouillé entre des maisons de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Éléments fins, petit sur l'image, matériau peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Jardinières rouillées sur un quai pavé sous un ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Petits éléments en arrière-plan, peu lisibles."
+    }
+  ]
+}

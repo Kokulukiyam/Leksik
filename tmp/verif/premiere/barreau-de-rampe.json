@@ -1,0 +1,53 @@
+{
+  "termId": "barreau-de-rampe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Balustrade en pierre à balustres, pilier avec numéro 59 en carreaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Havane",
+      "note": "Balustre de clôture, chiffre visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier en bois avec balustres tournés, main courante orangée, diagonale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Winchester Mystery House",
+      "note": "Barreaux diagonaux, rectangle trop vaste, risque rampe/main courante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne N&B d une porte de mission en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Juan Bautista",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan flou sur un câble et une main courante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oregon",
+      "note": "Pas de barreaux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de restaurant bleue avec balcon à balustres et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Essaouira, Maroc",
+      "note": "Balcon, texte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balustrade de pierre devant un parc et un château.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chatsworth, Royaume-Uni",
+      "note": "Balustres de terrasse, pas de rampe d escalier."
+    }
+  ]
+}

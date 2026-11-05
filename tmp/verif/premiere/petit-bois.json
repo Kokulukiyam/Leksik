@@ -1,0 +1,53 @@
+{
+  "termId": "petit-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Croisillon sombre sur une vitre, vu de l'intérieur avec arbres et rivière, image inclinée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fort Tryon, New York",
+      "note": "Image penchée et sombre, barres peu lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Coin salon avec table et chaises devant une grande fenêtre à carreaux blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène d'intérieur ; petits-bois petits et noyés dans la pièce."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'une façade ancienne avec fenêtre en haut du cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ptuj, Slovénie",
+      "note": "Fenêtre trop petite et mal visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan flou et très teinté sur une barre diagonale d'une vitre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, couleurs dénaturées, lecture douteuse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan sur la croisée de deux petits-bois blancs moulurés sur un double vitrage.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Croisée de baguettes divisant le vitrage, nette et dominante."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan sur la croisée de deux petits-bois en bois clair sur une vitre embuée, neige derrière.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baguettes de bois en croix divisant le vitrage en carreaux, nettes."
+    }
+  ]
+}

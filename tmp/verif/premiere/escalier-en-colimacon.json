@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-en-colimacon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d escalier sombre en ruine, volée courbe, gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brésil",
+      "note": "Pas hélicoïdal à noyau central."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier droit noir avec balustres dorés et décor mural.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg",
+      "note": "Escalier droit."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue plongeante en noir et blanc d une cage d escalier carrée à volées successives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier à vide central carré, pas un colimaçon."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier droit moquetté avec rampe inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Escalier à balustres dorés et vert, volées tournantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg",
+      "note": "Pas un colimaçon."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cage d escalier rose, volées droites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alaverdi, Arménie",
+      "note": "Pas un colimaçon."
+    }
+  ]
+}

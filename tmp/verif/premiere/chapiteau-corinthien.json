@@ -1,0 +1,58 @@
+{
+  "termId": "chapiteau-corinthien",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lampadaire néoclassique dont le sommet est un chapiteau à acanthes, masque ailé et putti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes",
+      "note": "Chapiteau fantaisiste de lampadaire, figuré, doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chapiteau corinthien en marbre posé parmi les ruines de l'Agora, Acropole au fond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.3,
+        "largeur": 0.48,
+        "hauteur": 0.56
+      },
+      "lieu": "Agora antique, Athènes",
+      "note": "Corbeille d'acanthe et volutes d'angle bien lisibles; rectangle sur le chapiteau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Négatif ancien de six chapiteaux romans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, chapiteaux romans."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un chapiteau de pierre à volutes et feuille centrale, érodé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kilmaurs, Écosse",
+      "note": "Cadrage partiel, sculpture fruste : doute."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de musée à portique de colonnes corinthiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Chapiteaux trop petits, façade de colonnade."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Photo ancienne de deux chapiteaux à vigne et acanthe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, plâtres."
+    }
+  ]
+}

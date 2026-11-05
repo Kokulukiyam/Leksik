@@ -1,0 +1,58 @@
+{
+  "termId": "architrave",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poutre de pierre moulurée posée sur deux chapiteaux corinthiens de colonnes cannelées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.02,
+        "largeur": 0.78,
+        "hauteur": 0.58
+      },
+      "lieu": "Harlow, Angleterre",
+      "note": "Rectangle sur la poutre horizontale posée sur les chapiteaux ; frise et corniche absentes, donc pas de confusion avec l'entablement."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Entablement d'un maître-autel au-dessus d'une colonne, avec statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salvador, Brésil",
+      "note": "Éclairage doré, plusieurs éléments, architrave non isolable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo ancienne d'une niche ornée en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niche, pas une architrave."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade de la Chambre des députés, colonnes, baies cintrées et inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mexico, Mexique",
+      "note": "Texte, architrave non isolable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chapiteau corinthien, médaillons et bandeaux de denticules au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grenoble, France",
+      "note": "Entablement tronqué, bandes ambiguës."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade gothique sculptée de statues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aix-la-Chapelle, Allemagne",
+      "note": "Hors sujet."
+    }
+  ]
+}

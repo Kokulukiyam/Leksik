@@ -1,0 +1,53 @@
+{
+  "termId": "targette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte de cachot en planches avec verrou à tige, judas grillé et trou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Noyers-sur-Serein",
+      "note": "Gros verrou, pas une targette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de cachot en planches avec verrou et petit guichet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Noyers-sur-Serein",
+      "note": "Gros verrou, pas une targette."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Verrous médiévaux massifs exposés en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sfax, Tunisie",
+      "note": "Verrous à coulisse, pas une targette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros verrou à tige fermé par un cadenas sur une porte noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrou massif, pas une targette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Verrou et serrure sur une porte peinte rouge et verte datée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balingen, Allemagne",
+      "note": "Verrou avec serrure, pas une targette."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit verrou plat à bouton sur platine ornée, posé sur un vantail de salon.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Lyon, France",
+      "note": "Verrou plat sur platine manoeuvré par un bouton, au premier plan."
+    }
+  ]
+}

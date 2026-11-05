@@ -1,0 +1,53 @@
+{
+  "termId": "escalier-en-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier en pin avec limon, balustres, poteau d arrivée sculpté et lambris en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Valdivia, Chili",
+      "note": "Marches, limon, rampe en bois, très clair."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier à balustres dorés, marches peintes en vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg",
+      "note": "Bois peint, décor dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vaste escalier baroque à deux volées avec arcades et piliers en bois patiné.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Gnemern, Allemagne",
+      "note": "Marches, balustres et boiseries en bois."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Escalier moquetté vert avec champignon mérule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Champignon dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Palier d escalier vu d en haut, rampe en bois et balustres blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marches peu visibles, signature de l auteur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalier extérieur sombre contre un mur de brique en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malbork, Pologne",
+      "note": "Matériau incertain, état de ruine."
+    }
+  ]
+}

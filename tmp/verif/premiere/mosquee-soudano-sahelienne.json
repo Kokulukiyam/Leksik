@@ -1,0 +1,63 @@
+{
+  "termId": "mosquee-soudano-sahelienne",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mosquée de banco à Sangha, petite et lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sangha, Mali",
+      "note": "Édifice petit dans l'image."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande mosquée de Djenné en banco, avec tours à pinacles et torons, derrière un marché.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.0,
+        "largeur": 0.45,
+        "hauteur": 0.45
+      },
+      "lieu": "Djenné, Mali",
+      "note": "Exemple typique, bâtiment net."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Habitants grimpant sur les torons d'une mosquée pour le crépissage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mali",
+      "note": "Illustre plutôt le toron ou le crépissage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maquette de la mosquée de Djenné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette, pas un bâtiment réel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mosquée lointaine derrière un marché, contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné",
+      "note": "Trop petite et sombre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mosquée de banco à pinacles coniques hérissés de torons, au-dessus d'une foule.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.0,
+        "largeur": 0.78,
+        "hauteur": 0.55
+      },
+      "lieu": "Koro, Mali",
+      "note": "Style soudano-sahélien évident."
+    }
+  ]
+}
