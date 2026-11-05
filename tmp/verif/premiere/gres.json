@@ -1,0 +1,53 @@
+{
+  "termId": "gres",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lame mince de grès au microscope.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image microscopique, inutilisable en jeu."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Baie et montagnes sous un ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dingle, Irlande",
+      "note": "Paysage, pas de grès montré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Piédroit de fenêtre en pierre beige, fond flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre peu identifiable comme grès, ambigu avec calcaire, sombre et flou."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lame mince de grès au microscope en lumière polarisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image microscopique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ruines de maison en pierre et montagnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dingle, Irlande",
+      "note": "Paysage, grès non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Marches d'escalier de pierre usées, grises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre grise très usée, pas reconnaissable comme grès."
+    }
+  ]
+}

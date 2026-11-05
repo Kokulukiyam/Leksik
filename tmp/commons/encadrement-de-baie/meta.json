@@ -12,7 +12,10 @@
     ],
     "incompatibles": [
       "chambranle",
-      "baie"
+      "baie",
+      "linteau",
+      "piedroit",
+      "tableau-de-baie"
     ]
   },
   "candidats": [
@@ -121,6 +124,110 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Casa_Comalat_back_facade_16.JPG/1280px-Casa_Comalat_back_facade_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2396,
       "hauteur": 1915
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chi Omega Sorority House, Langdon Street, State-Langdon-Lakeshore, Madison, WI - 52779735512.jpg",
+      "description": "Located at 115 Langdon Street in Madison, Wisconsin, and built in 1926, this Renaissance Revival and Flemish Revival -style building was designed by Frank M. Riley and serves as the Chi Omega sorority house at the University of Wisconsin (see the Property Record online ). The building is clad in red Flemish bond brick with multiple Flemish and Renaissance-style gable parapets on the front and side facades, stone trim, double-hung windows, quoins, gabled wall dormers, a front gable roof, a side entrance door off an outdoor terrace with an arched copper roof and decorative stone trim surround, a",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2022 in Madison, Wisconsin",
+        "Photographs by Warren LeMay in Wisconsin",
+        "Chi Omega Sorority House (Madison, Wisconsin)"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chi_Omega_Sorority_House,_Langdon_Street,_State-Langdon-Lakeshore,_Madison,_WI_-_52779735512.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Chi_Omega_Sorority_House%2C_Langdon_Street%2C_State-Langdon-Lakeshore%2C_Madison%2C_WI_-_52779735512.jpg/1280px-Chi_Omega_Sorority_House%2C_Langdon_Street%2C_State-Langdon-Lakeshore%2C_Madison%2C_WI_-_52779735512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2888,
+      "hauteur": 3850
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:William W. and Hontas Daniels Residence, Carroll Street, Mansion Hill, Madison, WI - 52751631792.jpg",
+      "description": "Built in 1872 and renovated in 1893, this Italianate residence located at 515 North Carroll Street in Madison, Wisconsin, was constructed for William W. and Hontas Daniels (see the Property Record online ). The house is clad in wooden clapboard, with a front and side gable low-pitch roof, eaves with paired brackets, red brick chimneys, an attic quatrefoil window on the front and side gables, a one-story bay window on the side facade with decorative panels, pilasters, and brackets, a front porch with clustered Doric columns, open brick pier foundation, paneled railings, and a low-slope roof, fo",
+      "categories": [
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "William W. and Hontas Daniels Residence"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:William_W._and_Hontas_Daniels_Residence,_Carroll_Street,_Mansion_Hill,_Madison,_WI_-_52751631792.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/William_W._and_Hontas_Daniels_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52751631792.jpg/1280px-William_W._and_Hontas_Daniels_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI_-_52751631792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3812,
+      "hauteur": 2859
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Casa Comalat back facade 20.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Art Nouveau stained-glass windows in Catalonia",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_20.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Casa_Comalat_back_facade_20.JPG/1280px-Casa_Comalat_back_facade_20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chi Omega Sorority House, Langdon Street, State-Langdon-Lakeshore, Madison, WI - 52780269671.jpg",
+      "description": "Built in 1926, this Renaissance Revival and Flemish Revival-style building was designed by Frank Riley to serve as the Chi Omega Sorority House. The building is clad in red flemish bond brick with multiple Flemish and Renaissance-style gable parapets on the front and side facades, stone trim, double-hung windows, quoins, gabled wall dormers, a front gable roof, a side entrance door off an outdoor terrace with an arched copper roof and decorative stone trim surround, an oriel window on the side facade, pilasters, and multiple decorative fixed windows. The house is a contributing structure in th",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2022 in Madison, Wisconsin",
+        "Photographs by Warren LeMay in Wisconsin",
+        "Chi Omega Sorority House (Madison, Wisconsin)"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chi_Omega_Sorority_House,_Langdon_Street,_State-Langdon-Lakeshore,_Madison,_WI_-_52780269671.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Chi_Omega_Sorority_House%2C_Langdon_Street%2C_State-Langdon-Lakeshore%2C_Madison%2C_WI_-_52780269671.jpg/1280px-Chi_Omega_Sorority_House%2C_Langdon_Street%2C_State-Langdon-Lakeshore%2C_Madison%2C_WI_-_52780269671.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2878,
+      "hauteur": 3837
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:William W. and Hontas Daniels Residence, Carroll Street, Mansion Hill, Madison, WI.jpg",
+      "description": "Built in 1872 and renovated in 1893, this Italianate residence located at 515 North Carroll Street in Madison, Wisconsin, was constructed for William W. and Hontas Daniels (see the Property Record online ). The house is clad in wooden clapboard, with a front and side gable low-pitch roof, eaves with paired brackets, red brick chimneys, an attic quatrefoil window on the front and side gables, a one-story bay window on the side facade with decorative panels, pilasters, and brackets, a front porch with clustered Doric columns, open brick pier foundation, paneled railings, and a low-slope roof, fo",
+      "categories": [
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "William W. and Hontas Daniels Residence"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:William_W._and_Hontas_Daniels_Residence,_Carroll_Street,_Mansion_Hill,_Madison,_WI.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/William_W._and_Hontas_Daniels_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI.jpg/1280px-William_W._and_Hontas_Daniels_Residence%2C_Carroll_Street%2C_Mansion_Hill%2C_Madison%2C_WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Casa Comalat back facade 13.JPG",
+      "description": "Like a tribute to Gaudí, the Casa Comalat contains many elements of Gaudí's architecture, and is one of the most original examples of home-grown art nouveau in Barcelona: modernisme. Two distinct façades, both of them showing the influence of the curve redolent of the work of the Reus-born maestro, arouse our curiosity to go and take a closer look at this beautiful and unique building. The architect Salvador Valeri i Pupurull worked on the Casa Comalat from 1906 to 1911, and was clearly influenced by Gaudi's organic forms. Dating from the final phase of the \"modernista\" era, this is a highly o",
+      "categories": [
+        "Self-published work",
+        "Art Nouveau stained-glass windows in Catalonia",
+        "Casa Comalat (Carrer de Còrsega facade)"
+      ],
+      "auteur": "Stefanrevollo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Comalat_back_facade_13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Casa_Comalat_back_facade_13.JPG/1280px-Casa_Comalat_back_facade_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

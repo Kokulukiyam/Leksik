@@ -1,0 +1,53 @@
+{
+  "termId": "poutre-de-rive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond de salle avec poutres blanches et baies cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Solives/poutres de plafond, pas une poutre de rive identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grande poutre en béton de pont posée près d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Perth, Australie",
+      "note": "Poutre de pont, pas de plancher ni de façade."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan sur une armature rouillée sortant d'un béton dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un convoi levant une poutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne, poutre de pont."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vue sombre de poutres de bois en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, poutres de plancher non identifiables comme de rive."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier avec ferraillage de dalle et coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rive de dalle pas lisible, trop confus."
+    }
+  ]
+}

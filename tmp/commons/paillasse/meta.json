@@ -11,7 +11,8 @@
       "concrete staircase underside"
     ],
     "incompatibles": [
-      "escalier-en-beton"
+      "escalier-en-beton",
+      "volee"
     ],
     "categoriesCommons": [
       "Category:Concrete stairs",
@@ -133,6 +134,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Upstairs_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4500,
       "hauteur": 3155
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bridgewater on Loddon Church.JPG",
+      "description": "A church at en:Bridgewater On Loddon, Victoria",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D60",
+        "Concrete stairs",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Bridgewater On Loddon, Victoria",
+        "License migration redundant",
+        "Self-published work",
+        "Brick churches in Victoria, Australia",
+        "Metal handrails",
+        "Exterior stair handrails",
+        "Photographs by Mattinbgn taken in 2011",
+        "March 2011 in Bridgewater on Loddon",
+        "Outside stairs in Victoria, Australia"
+      ],
+      "auteur": "Mattinbgn",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bridgewater_on_Loddon_Church.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bridgewater_on_Loddon_Church.JPG/1280px-Bridgewater_on_Loddon_Church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Balustrade Southgate-Lewis House 1980.jpg",
+      "description": "The hand-turned balustrade in the main entry foyer of the Southgate-Lewis is said to be: \"one of the finest staircases in all of Austin.\" There is no doubt that it is a finely crafted beautiful work of art. Remarkably, more than one century after it was constructed, it stout, firm, and strong. R.C. Lambie was well known for his finely woodwork and this is perhaps one of his best examples.",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "Grand staircases",
+        "Woodwork"
+      ],
+      "auteur": "DGAAustin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_Southgate-Lewis_House_1980.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balustrade_Southgate-Lewis_House_1980.jpg/1280px-Balustrade_Southgate-Lewis_House_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 6316
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:BayouStJohn13FebUnderBridgeConcretePieces.jpg",
+      "description": "New Orleans : Concrete pieces under bridge near mouth of Bayou St. John Photo by Infrogmation",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "Concrete stairs",
+        "Files with no machine-readable source",
+        "Lakeshore Drive Bayou St. John Bridge",
+        "License migration opt-out",
+        "Self-published work",
+        "Assumed own work",
+        "Photographs taken on 2006-02-13"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Infrogmation (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:BayouStJohn13FebUnderBridgeConcretePieces.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/BayouStJohn13FebUnderBridgeConcretePieces.jpg/1280px-BayouStJohn13FebUnderBridgeConcretePieces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:AusstellungTrendpool2021.jpg",
+      "description": "Ausstellung in der Firma Trendpool 2021",
+      "categories": [
+        "Staircases",
+        "Self-published work"
+      ],
+      "auteur": "Prof-Dr-Now",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AusstellungTrendpool2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AusstellungTrendpool2021.jpg/1280px-AusstellungTrendpool2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Alkalicko-křemičitá reakce, Dvořákovo nábrežie (BA), 2018.jpg",
+      "description": "Alkali–silica reaction in concrete of a stair, Dvořákovo nábrežie, Bratislava",
+      "categories": [
+        "Dvořákovo nábrežie, Bratislava",
+        "Alkali silica reactions",
+        "Concrete stairs",
+        "Self-published work",
+        "Outside stairs in Slovakia",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Slovakia",
+        "Slovakia photographs taken on 2018-04-20",
+        "Taken with Canon EOS 1100D and Sigma 17-70mm F2.8-4 DC Macro OS HSM C"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alkalicko-k%C5%99emi%C4%8Dit%C3%A1_reakce,_Dvo%C5%99%C3%A1kovo_n%C3%A1bre%C5%BEie_(BA),_2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Alkalicko-k%C5%99emi%C4%8Dit%C3%A1_reakce%2C_Dvo%C5%99%C3%A1kovo_n%C3%A1bre%C5%BEie_%28BA%29%2C_2018.jpg/1280px-Alkalicko-k%C5%99emi%C4%8Dit%C3%A1_reakce%2C_Dvo%C5%99%C3%A1kovo_n%C3%A1bre%C5%BEie_%28BA%29%2C_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:656 Casa Museu Benlliure (València), escala.jpg",
+      "description": "Casa Museu Benlliure (València), escala",
+      "categories": [
+        "Staircases",
+        "Casa-Museu Benlliure",
+        "Self-published work",
+        "Staircases in the Land of Valencia"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:656_Casa_Museu_Benlliure_(Val%C3%A8ncia),_escala.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/656_Casa_Museu_Benlliure_%28Val%C3%A8ncia%29%2C_escala.jpg/1280px-656_Casa_Museu_Benlliure_%28Val%C3%A8ncia%29%2C_escala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

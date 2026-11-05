@@ -1,0 +1,53 @@
+{
+  "termId": "laiton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chandelier d'autel en métal cuivré posé sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bissendorf, Allemagne",
+      "note": "Objet mobilier, teinte plus cuivrée, pas du laiton architectural."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Petits poids à or akan en forme de têtes d'animaux sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets de musée, pas architectural."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Euphonium doré dans son étui rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Instrument de musique, hors sujet architectural."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Objet akan en métal doré sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photographie ancienne d'une usine, façade avec enseigne Brass.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cleveland, États-Unis",
+      "note": "Le matériau n'est pas visible, texte donnant le mot."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plaque dorée gravée d'un cadran solaire dans un cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sterzing, Italie",
+      "note": "Gravures et reflets, matériau peu net, doute."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "fonte",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un élément de grille ornementale à rinceaux, rouillé, moulé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor moulé typique en fonte, lisible et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trois poids de fenêtre à guillotine rouillés sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets peu parlants, pourraient être de l'acier."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Poche de métal en fusion sortant d'un bâtiment industriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marioupol, Ukraine",
+      "note": "Procédé sidérurgique, pas un élément bâti."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Même scène industrielle avec gerbes d'étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marioupol, Ukraine",
+      "note": "Procédé sidérurgique, pas un élément bâti."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne d'un grand poêle décoré, colonne haute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zurich",
+      "note": "Matériau incertain (poêle possiblement en céramique), sépia."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Image microscopique de cellules urinaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

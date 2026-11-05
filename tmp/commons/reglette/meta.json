@@ -11,7 +11,8 @@
       "batten light"
     ],
     "incompatibles": [
-      "plafonnier"
+      "plafonnier",
+      "spot-encastre"
     ],
     "categoriesCommons": [
       "Category:Fluorescent lamps"
@@ -136,6 +137,145 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Fluorescent_lamp_with_reactive_ballasts.JPG/1280px-Fluorescent_lamp_with_reactive_ballasts.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2736,
       "hauteur": 3648
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Fluorescent lamp with run mercury.JPG",
+      "description": "one light bulb lost mercury",
+      "categories": [
+        "GFDL",
+        "Fluorescent lamps",
+        "Failures",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fluorescent_lamp_with_run_mercury.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Fluorescent_lamp_with_run_mercury.JPG/1280px-Fluorescent_lamp_with_run_mercury.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:4x18W with Minisensor2.JPG",
+      "description": "4x18W controllable fitting with DALI ballast and Minisensor2, which has daylight sensor and presence detector for maximise energysavings and possibility to have remote control through infrared reciever",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W170",
+        "Fluorescent lamps",
+        "Motion detectors lamps",
+        "Helvar",
+        "License migration redundant",
+        "Linear fluorescent light bulbs",
+        "Self-published work",
+        "Grille lamps"
+      ],
+      "auteur": "Symppis",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4x18W_with_Minisensor2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/4x18W_with_Minisensor2.JPG/1280px-4x18W_with_Minisensor2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Escalators at King's Cross St. Pancras tube station, London 1100469.jpg",
+      "description": "Escalator at King's Cross St. Pancras tube station, London, 2008",
+      "categories": [
+        "Perspective views in the United Kingdom",
+        "15 June",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "Fluorescent lamps",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "June 2008 in London",
+        "2008 in the London Borough of Camden",
+        "2008 on the London Underground",
+        "People in the London Borough of Camden",
+        "Passengers on the London Underground",
+        "Escalators at King's Cross St. Pancras tube station"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalators_at_King%27s_Cross_St._Pancras_tube_station,_London_1100469.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Escalators_at_King%27s_Cross_St._Pancras_tube_station%2C_London_1100469.jpg/1280px-Escalators_at_King%27s_Cross_St._Pancras_tube_station%2C_London_1100469.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Escalators at Liverpool Street tube station, London looking up 1090969.jpg",
+      "description": "Photographs from London, Escalators at Liverpool Street tube station between the main ticket hall and the Central line",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "Fluorescent lamps",
+        "License migration redundant",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Centered tunnel perspective",
+        "Escalators at Liverpool Street tube station"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalators_at_Liverpool_Street_tube_station,_London_looking_up_1090969.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Escalators_at_Liverpool_Street_tube_station%2C_London_looking_up_1090969.jpg/1280px-Escalators_at_Liverpool_Street_tube_station%2C_London_looking_up_1090969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Escalators at Marble Arch tube station, London 1090992.jpg",
+      "description": "Escalators at Marble Arch tube station, London",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "Fluorescent lamps",
+        "Marble Arch tube station",
+        "License migration redundant",
+        "Linear perspective",
+        "Self-published work",
+        "Nevit Dilmen",
+        "June 2008 in London",
+        "2008 in the City of Westminster",
+        "2008 on the London Underground",
+        "People in the City of Westminster",
+        "Passengers on the London Underground",
+        "Escalators on the London Underground"
+      ],
+      "auteur": "Nevit Dilmen ( talk )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalators_at_Marble_Arch_tube_station,_London_1090992.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Escalators_at_Marble_Arch_tube_station%2C_London_1090992.jpg/1280px-Escalators_at_Marble_Arch_tube_station%2C_London_1090992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Corrugated iron roofs of Taisi Bus Huwei Station.jpg",
+      "description": "​臺西客運虎尾站候車區鐵浪板屋頂。",
+      "categories": [
+        "Fluorescent lamps",
+        "Taisi Bus",
+        "Taiwan photographs taken on 2017-02-05",
+        "Lamps in Taiwan",
+        "Corrugated iron roofs in Taiwan",
+        "Self-published work",
+        "2017 photographs of Yunlin",
+        "Photographs of Huwei by Dquai",
+        "Bus shelters in Yunlin"
+      ],
+      "auteur": "Dquai",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg/1280px-Corrugated_iron_roofs_of_Taisi_Bus_Huwei_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1616,
+      "hauteur": 1080
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

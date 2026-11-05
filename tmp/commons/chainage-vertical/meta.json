@@ -11,7 +11,12 @@
       "tie column block wall"
     ],
     "incompatibles": [
-      "chainage"
+      "chainage",
+      "poteau"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry",
+      "Category:Reinforced concrete"
     ]
   },
   "candidats": [
@@ -137,6 +142,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933623052%29.jpg/1280px-The_sanctuary_of_Zeus_Hypsistos%2C_Ancient_Dion_%286933623052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4288,
       "hauteur": 3216
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A building constructed with Concrete Masonry blocks.jpg",
+      "description": "A building is under construction with Concrete Masonry blocks. A concrete masonry blocks is a standard size rectangular block used in building construction.",
+      "categories": [
+        "Masonry",
+        "Construction materials",
+        "Building blocks",
+        "Self-published work",
+        "Concrete buildings in India",
+        "Unidentified buildings in Kolkata"
+      ],
+      "auteur": "Salil Kumar Mukherjee",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_building_constructed_with_Concrete_Masonry_blocks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/A_building_constructed_with_Concrete_Masonry_blocks.jpg/1280px-A_building_constructed_with_Concrete_Masonry_blocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2107,
+      "hauteur": 1649
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Armação de pilar - Mutirão do Projeto Arquiteto de Familia.JPG",
+      "description": "moradores atuando, com supervisão de engenheiro e arquitetos, na construção de pilares para a obra de mutirão de uma residência",
+      "categories": [
+        "Reinforced concrete",
+        "Self-published work"
+      ],
+      "auteur": "ONG Soluções Urbanas - Urbanismo, Cultura e Cidadania",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arma%C3%A7%C3%A3o_de_pilar_-_Mutir%C3%A3o_do_Projeto_Arquiteto_de_Familia.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Arma%C3%A7%C3%A3o_de_pilar_-_Mutir%C3%A3o_do_Projeto_Arquiteto_de_Familia.JPG/1280px-Arma%C3%A7%C3%A3o_de_pilar_-_Mutir%C3%A3o_do_Projeto_Arquiteto_de_Familia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3680,
+      "hauteur": 2070
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Brice Scientific Hall (13959904589).jpg",
+      "description": "Persistent URL: digital.lib.miamioh.edu/cdm/ref/collection/postcards/id/6297 Subject (TGM): Universities colleges; Buildings; Brickwork; Ohio--Oxford",
+      "categories": [
+        "Masonry",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files from Miami University Libraries - Digital Collections",
+        "Bowden Postcard Collection",
+        "Postcards of Oxford, Ohio"
+      ],
+      "auteur": "Miami U. Libraries - Digital Collections",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brice_Scientific_Hall_(13959904589).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Brice_Scientific_Hall_%2813959904589%29.jpg/1280px-Brice_Scientific_Hall_%2813959904589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3202,
+      "hauteur": 2125
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:CEDEX - Exposición temporal - Hormigón armado en España 1893-1936 - Foto Juan Gimeno - 2010-04-23 1116 IMG 5243.jpg",
+      "description": "Fotografía: Juan Gimeno Ramallo Hormigón armado en España 1893-1936 Exposición temporal en la Sala Zuazo Arquerías Nuevos Ministerios Paseo de la Castellana 67, 28046 Madrid. Del 28 de enero al 25 de abril de 2010 ORGANIZACIÓN Ministerio de Fomento Centro de Estudios y Experimentación de Obras Públicas (CEDEX) Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU) Ministro de Fomento José Blanco Secretario de Estado de planificación e infraestructuras Víctor Morlán Director del CEDEX Mariano Navas COMISARIADO Pedro Feduchi y Amaya Sáenz COMITÉ CIÉNTIFICO Joaquín Antuña, Antonio B",
+      "categories": [
+        "Reinforced concrete",
+        "Exhibitions",
+        "Arquerías de Nuevos Ministerios",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Engineering exhibitions",
+        "Temporary exhibitions at the Arquerías de Nuevos Ministerios",
+        "Hormigón armado en España 1893-1936"
+      ],
+      "auteur": "Juan Gimeno Ramallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1116_IMG_5243.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1116_IMG_5243.jpg/1280px-CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1116_IMG_5243.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4225,
+      "hauteur": 2830
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bordüre an einem alten mauerwerk.jpg",
+      "description": "border on an old wall. Autor Metoc 18:49, 29 March 2006 (UTC)",
+      "categories": [
+        "Masonry",
+        "Files with no machine-readable source",
+        "Self-published work",
+        "Assumed own work"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Metoc~commonswiki (étant donné la revendication de droit d’auteur).",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bord%C3%BCre_an_einem_alten_mauerwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bord%C3%BCre_an_einem_alten_mauerwerk.jpg/1280px-Bord%C3%BCre_an_einem_alten_mauerwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2080,
+      "hauteur": 1544
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:CEDEX - Exposición temporal - Hormigón armado en España 1893-1936 - Foto Juan Gimeno - 2010-04-23 1105 IMG 5219.jpg",
+      "description": "Fotografía: Juan Gimeno Ramallo Hormigón armado en España 1893-1936 Exposición temporal en la Sala Zuazo Arquerías Nuevos Ministerios Paseo de la Castellana 67, 28046 Madrid. Del 28 de enero al 25 de abril de 2010 ORGANIZACIÓN Ministerio de Fomento Centro de Estudios y Experimentación de Obras Públicas (CEDEX) Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU) Ministro de Fomento José Blanco Secretario de Estado de planificación e infraestructuras Víctor Morlán Director del CEDEX Mariano Navas COMISARIADO Pedro Feduchi y Amaya Sáenz COMITÉ CIÉNTIFICO Joaquín Antuña, Antonio B",
+      "categories": [
+        "Reinforced concrete",
+        "Exhibitions",
+        "Arquerías de Nuevos Ministerios",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Engineering exhibitions",
+        "Temporary exhibitions at the Arquerías de Nuevos Ministerios",
+        "Hormigón armado en España 1893-1936"
+      ],
+      "auteur": "Juan Gimeno Ramallo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg/1280px-CEDEX_-_Exposici%C3%B3n_temporal_-_Hormig%C3%B3n_armado_en_Espa%C3%B1a_1893-1936_-_Foto_Juan_Gimeno_-_2010-04-23_1105_IMG_5219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2831,
+      "hauteur": 4225
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

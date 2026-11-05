@@ -1,0 +1,53 @@
+{
+  "termId": "tambour",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc de toits à petites coupoles d'un hammam.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Beiteddine, Liban",
+      "note": "Coupoles de hammam, pas de tambour."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Coupole verte du Congrès sur son tambour, derrière un monument.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buenos Aires, Argentine",
+      "note": "Tambour trop petit au fond de l'image, texte du monument visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mosaïque de données de luminosité du ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo d'architecture."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mosaïque de données de luminosité du ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo d'architecture."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Intérieur de coupole verte et cénotaphe doré d'un sanctuaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bakou, Azerbaïdjan",
+      "note": "Tambour non identifiable, vue confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Coupole blanche vue de dessous, tambour percé de baies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chatsworth, Angleterre",
+      "note": "Vue intérieure sur fond noir, c'est surtout la coupole; le tambour reste ambigu."
+    }
+  ]
+}

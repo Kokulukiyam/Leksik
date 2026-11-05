@@ -11,7 +11,13 @@
       "beam structure"
     ],
     "incompatibles": [
-      "retombee-de-poutre"
+      "retombee-de-poutre",
+      "solive"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Beams",
+      "Category:Reinforced concrete"
     ]
   },
   "candidats": [
@@ -126,6 +132,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Prestressed_concrete_slab.jpg/1280px-Prestressed_concrete_slab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4032,
       "hauteur": 3024
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Double-tee roof.jpg",
+      "description": "Double-tee roof structure of an indoor swimming pool",
+      "categories": [
+        "Prestressed concrete",
+        "Roofs (structural systems)",
+        "Self-published work",
+        "Roof girders",
+        "Concrete beams"
+      ],
+      "auteur": "Z22",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Double-tee_roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Double-tee_roof.jpg/1280px-Double-tee_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3178,
+      "hauteur": 2384
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:13.7.20 Munchen 039 (50114429201).jpg",
+      "description": "13.7.20 Munchen 039",
+      "categories": [
+        "Architectural sculptures in Germany",
+        "Beams",
+        "Bavariaring 11 (München)",
+        "Photographs by Donald Judge",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Sculptures in Ludwigsvorstadt-Isarvorstadt",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+        "Balconies in Munich"
+      ],
+      "auteur": "Donald Judge",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:13.7.20_Munchen_039_(50114429201).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/13.7.20_Munchen_039_%2850114429201%29.jpg/1280px-13.7.20_Munchen_039_%2850114429201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Chantier de construction du complexe associatif multifonctions à Antony 22.jpg",
+      "description": "Chantier de construction du complexe associatif multifonctions à Antony en France .",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Rebar on site",
+        "Construction site of the complexe associatif multifonctions in Antony"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg/1280px-Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Moscow students on constuction on new house on Khoroshovskoye Highway.jpg",
+      "description": "Московские студенты на строительстве каркаснопанельного дома по Хорошёвскому шоссе. 16 июня 1951 г. Фото Н. Киреева, С. Преображенского. Главархив Москвы // Скорее всего, это посохинский квартал по 1-му Хорошевскому проезду.",
+      "categories": [
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Construction workers in Russia",
+        "People looking at documents",
+        "June 1951 in Moscow",
+        "Mos.ru, 1951",
+        "2 men with 1 woman in Russia",
+        "1st Khoroshyovsky Passage",
+        "Building construction sites in Moscow",
+        "Files uploaded by MasterRus21thCentury",
+        "Concrete beams",
+        "Images from Moscow Main Archive",
+        "Uploads by MasterRus21thCentury/Mos.ru/1951"
+      ],
+      "auteur": "Главархив Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow_students_on_constuction_on_new_house_on_Khoroshovskoye_Highway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Moscow_students_on_constuction_on_new_house_on_Khoroshovskoye_Highway.jpg/1280px-Moscow_students_on_constuction_on_new_house_on_Khoroshovskoye_Highway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1850,
+      "hauteur": 1254
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:13.7.20 Munchen 043 (50114429856).jpg",
+      "description": "13.7.20 Munchen 043",
+      "categories": [
+        "Architectural sculptures in Germany",
+        "Beams",
+        "Bavariaring 11 (München)",
+        "Photographs by Donald Judge",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Sculptures in Ludwigsvorstadt-Isarvorstadt",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+        "Balconies in Munich"
+      ],
+      "auteur": "Donald Judge",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:13.7.20_Munchen_043_(50114429856).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/13.7.20_Munchen_043_%2850114429856%29.jpg/1280px-13.7.20_Munchen_043_%2850114429856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Concrete wall cracking as its steel reinforcing cracks and swells 9061v.jpg",
+      "description": "Photograph taken in grounds of Newton Park Technical High School, Port Elizabeth, South Africa",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Canon PowerShot A650 IS",
+        "Self-published work",
+        "Corroded objects"
+      ],
+      "auteur": "JonRichfield",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg/1280px-Concrete_wall_cracking_as_its_steel_reinforcing_cracks_and_swells_9061v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

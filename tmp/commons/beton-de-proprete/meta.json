@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "fouille",
-      "fondation"
+      "fondation",
+      "tranchee-de-fondation"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete"
     ]
   },
   "candidats": [
@@ -93,6 +97,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Labyrinth_of_the_mind.JPG/1280px-Labyrinth_of_the_mind.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1602,
       "hauteur": 1428
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Ablution block in a container (7208537338).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC source of file",
+        "Toilets in South Africa",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208537338).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Ablution_block_in_a_container_%287208537338%29.jpg/1280px-Ablution_block_in_a_container_%287208537338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:2026-08-25 Начало строительства станции «Ватутинки» Троицкой линии 06.jpg",
+      "description": "Начало строительства станции «Ватутинки» Троицкой линии",
+      "categories": [
+        "Concrete",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Construction workers in Russia",
+        "Mos.ru, 2026",
+        "Photographs by Vladimir Novikov",
+        "Moscow photographs taken on 2026-08-26",
+        "Construction of Vatutinki (Moscow Metro)"
+      ],
+      "auteur": "Владимир Новиков, пресс-служба мэра и правительства Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-08-25_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%C2%AB%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%C2%BB_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2026-08-25_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%C2%AB%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%C2%BB_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8_06.jpg/1280px-2026-08-25_%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%C2%AB%D0%92%D0%B0%D1%82%D1%83%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%C2%BB_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6192,
+      "hauteur": 4128
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Abandoned concrete factory mechanism.jpg",
+      "description": "Un mécanisme d'engrenages (usage inconnu) vu dans une cimenterie abandonnée à Benageber, en Espagne.",
+      "categories": [
+        "Taken with Nikon D80",
+        "Benagéber",
+        "Concrete",
+        "Self-published work",
+        "Images with extracted images",
+        "Featured pictures on Wikipedia, Hebrew",
+        "Abandoned buildings in the Land of Valencia",
+        "Rusty machines",
+        "Assessment tagged pages marked as POTY candidates",
+        "Spur gears"
+      ],
+      "auteur": "Diacritica",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_concrete_factory_mechanism.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Abandoned_concrete_factory_mechanism.jpg/1280px-Abandoned_concrete_factory_mechanism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3900,
+      "hauteur": 2613
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:10-СТРУКТУРА-БЕТОНА-2.jpg",
+      "description": "It's concrete! In the photo the structure of high-strength concrete SISTROM. Cement stone white around the particles of sand. The strength of cement stone up to 150 MPa. The strength of the contact cement with sand is higher than the strength of the sand grains, so the grain of sand is cut by the destruction of the concrete. Even if the sand particles are granite or quartz. It is known that the sand contains large amounts of minerals. Thus we can study the structure of minerals or ancient shellfish (that are seen in the photo) using cement SISTROM.",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "Images from European Science Photo Competition 2015 in Russia",
+        "Microscopy images from European Science Photo Competition 2015",
+        "Uploaded via Campaign:espc-ru"
+      ],
+      "auteur": "Ivan SISTROM",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg/1280px-10-%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%91%D0%95%D0%A2%D0%9E%D0%9D%D0%90-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2653,
+      "hauteur": 2231
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:8. Philips Headquarters Office Building, Addis Abeba. Close up View of Bush Hammered Concrete Column.jpg",
+      "description": "The Philips Headquarters is a four story office building designed by The Bureau D’Etudes Henri Chomette (BEHC), who had offices located in Paris (France), Abidjan (Ivory Coast), Addis Abeba (Ethiopia), Ouagadougou (Burkina Faso) and Cotonou (Benin). Upon Emperor Haile Selassie's proposal to host the new African Organisation in Addis Abeba, the city underwent a significant urban reform in the 1960’s. Henri Chomette was one of the prominent architects practicing in Addis Abeba during the 50’s and 60’s who has designed many post modern buildings in the city. The Philips Headquarters was commissio",
+      "categories": [
+        "Postmodern architecture in Ethiopia",
+        "Brutalist architecture in Ethiopia",
+        "Concrete",
+        "Haile Selassie I of Ethiopia",
+        "Buildings in Addis Ababa",
+        "Self-published work",
+        "Philips Headquarters Office Building (Addis Ababa)",
+        "Addis Ababa in the 1960s",
+        "Project Luwi"
+      ],
+      "auteur": "The Chroniclers",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:8._Philips_Headquarters_Office_Building,_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/8._Philips_Headquarters_Office_Building%2C_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg/1280px-8._Philips_Headquarters_Office_Building%2C_Addis_Abeba._Close_up_View_of_Bush_Hammered_Concrete_Column.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:202412 Two Shoeprints on the concrete floor.jpg",
+      "description": "Two Shoeprints on the concrete floor",
+      "categories": [
+        "Shoeprints",
+        "Gray",
+        "Concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Junyu-K",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:202412_Two_Shoeprints_on_the_concrete_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/202412_Two_Shoeprints_on_the_concrete_floor.jpg/1280px-202412_Two_Shoeprints_on_the_concrete_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

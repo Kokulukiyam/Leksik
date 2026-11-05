@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "maconnerie",
-      "ossature-en-beton-arme"
+      "ossature-en-beton-arme",
+      "parpaing"
+    ],
+    "categoriesCommons": [
+      "Category:Brick walls"
     ]
   },
   "candidats": [
@@ -132,6 +136,116 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Leybourne_Castle_Kent.jpg/1280px-Leybourne_Castle_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5472,
       "hauteur": 3648
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Abstract Pattern.jpg",
+      "description": "Pattern in some random house",
+      "categories": [
+        "Windows",
+        "Brick walls",
+        "Self-published work",
+        "Uploaded via Campaign:wle-de-mv",
+        "Ineligible submissions for Wiki Loves Earth 2018 in Germany"
+      ],
+      "auteur": "arghyabiswas70",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abstract_Pattern.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Abstract_Pattern.jpg/1280px-Abstract_Pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8852,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:21 weeks (10433573134).jpg",
+      "description": "REALLY DEFINITELY feeling kicks now! I can feel Niblet kicking my hand when I put my hand on my belly. It's amazing. This week she kicked so hard she startled me! And when I realized what had happened, I burst out laughing. All day, every day, I walk around feeling like I'm carrying a miracle around. Or magic. I guess it feels more like magic. :-) The urge to nest is kicking in full gear, but the Baby Bar is in a month, so I've got to put the urge on ice until that's done. Niblet now weighs about three-quarters of a pound and is approximately 10 1⁄2 inches long. She's begun her main project fo",
+      "categories": [
+        "Brick walls",
+        "Pregnant women",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Pretty Poo Eater from Los Angeles, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:21_weeks_(10433573134).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/21_weeks_%2810433573134%29.jpg/1280px-21_weeks_%2810433573134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Aniceto Lacson House entrance - NHCP.jpg",
+      "description": "Entrance of the Aniceto Lacson House in Talisay, Negros Occidental, Philippines",
+      "categories": [
+        "Brick walls",
+        "PD-PhilippinesGov",
+        "Images with extracted images",
+        "Entrances in the Philippines",
+        "Buildings in the Philippines photographed in 2015",
+        "Photos from the National Historical Commission of the Philippines",
+        "Aniceto Lacson House"
+      ],
+      "auteur": "Commission historique nationale des Philippines",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aniceto_Lacson_House_entrance_-_NHCP.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Aniceto_Lacson_House_entrance_-_NHCP.jpg/1280px-Aniceto_Lacson_House_entrance_-_NHCP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:500px photo (167961693).jpeg",
+      "description": "500px provided description: Img 5569 Jpg []",
+      "categories": [
+        "CC-Zero",
+        "Brick walls",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(167961693).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/500px_photo_%28167961693%29.jpeg/1280px-500px_photo_%28167961693%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Brick Window (6088102199).jpg",
+      "description": "Brick Window",
+      "categories": [
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "rumpleteaser from Nagoya, Japan",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_Window_(6088102199).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Brick_Window_%286088102199%29.jpg/1280px-Brick_Window_%286088102199%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2920,
+      "hauteur": 1696
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Autumn Colour (8109215713).jpg",
+      "description": "Autumn Colour",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ30",
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Unidentified Parthenocissus",
+        "Photographs by Jason Ryde",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Jay from UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autumn_Colour_(8109215713).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Autumn_Colour_%288109215713%29.jpg/1280px-Autumn_Colour_%288109215713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1875
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

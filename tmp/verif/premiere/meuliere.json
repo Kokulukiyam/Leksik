@@ -1,0 +1,58 @@
+{
+  "termId": "meuliere",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de clôture en moellons beiges devant une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bullion, France",
+      "note": "Moellons calcaires clairs, meulière non caractéristique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pan de mur en pierres grises dégradé, herbe au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boullay-les-Troux, France",
+      "note": "Ruine grise, matériau peu identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pavillon à façade en meulière et chaînages de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Franconville, France",
+      "note": "Matériau petit dans l'image, mêlé de brique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble dont les panneaux de façade sont en meulière brune caverneuse entre bandeaux de brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.54,
+        "y": 0.51,
+        "largeur": 0.17,
+        "hauteur": 0.34
+      },
+      "lieu": "Chevreuse, France",
+      "note": "Meulière typique (brune, alvéolée) très lisible; rectangle sur un panneau pour écarter la brique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavillon en meulière avec chaînages de brique, poteau électrique devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Rémy-lès-Chevreuse, France",
+      "note": "Matériau trop petit et masqué."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand mur pignon en pierres claires sous un toit en fibrociment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boullay-les-Troux, France",
+      "note": "Pierres claires, pas assez caractéristiques de la meulière."
+    }
+  ]
+}

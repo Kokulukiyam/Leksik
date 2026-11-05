@@ -1,0 +1,58 @@
+{
+  "termId": "bauge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de clôture en terre fissurée surmonté d'un chaperon de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oakham, Royaume-Uni",
+      "note": "Surface lisse fissurée, pourrait passer pour un enduit ou du pisé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Appentis envahi de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Devon, Royaume-Uni",
+      "note": "Bauge invisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cheminée en terre inachevée dans une grange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tennessee, États-Unis",
+      "note": "Objet façonné, pas un mur."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petite cabane ronde en terre rouge sous tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau peu lisible, tôle visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur épais en terre avec brins de paille visibles et encadrement de porte en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre mêlée de paille bien visible, mur massif."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de clôture en terre à couches avec soubassement en pierre et couvertine de tuiles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.36,
+        "largeur": 0.79,
+        "hauteur": 0.15
+      },
+      "lieu": "Hallaton, Royaume-Uni",
+      "note": "Rectangle sur la partie en terre, assises épaisses visibles."
+    }
+  ]
+}

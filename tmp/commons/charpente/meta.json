@@ -11,7 +11,14 @@
       "roof structure trusses"
     ],
     "incompatibles": [
-      "ferme"
+      "ferme",
+      "arbaletrier",
+      "entrait",
+      "poincon"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses",
+      "Category:Timber roof trusses"
     ]
   },
   "candidats": [
@@ -154,6 +161,146 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg/1280px-Thatched_cottage_in_the_sand_dunes_by_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3368,
       "hauteur": 2086
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bermuda (UK) image number 113 rafters at a bus stop.jpg",
+      "description": "A roof's rafters at a Bermudian bus stop.",
+      "categories": [
+        "CC-Zero",
+        "2016 in Bermuda",
+        "Roof trusses",
+        "Self-published work",
+        "Roofs in Bermuda",
+        "Bus shelters in Bermuda",
+        "Carpentry in Bermuda"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bermuda_(UK)_image_number_113_rafters_at_a_bus_stop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bermuda_%28UK%29_image_number_113_rafters_at_a_bus_stop.jpg/1280px-Bermuda_%28UK%29_image_number_113_rafters_at_a_bus_stop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2368,
+      "hauteur": 1806
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Lindau Cavazzen Museum Dachstuhl 406.jpg",
+      "description": "Cavazzen Museum (Stadtmuseum) in Lindau am Bodensee im Regierungsbezirk Schwaben (Bayern/Deutschland), Dachstuhl",
+      "categories": [
+        "Roof trusses in Germany",
+        "Self-published work",
+        "Timber roof trusses",
+        "Files by User:GFreihalter/Lindau",
+        "Files by User:GFreihalter/Bayern 2026",
+        "Collections of the Stadtmuseum Lindau"
+      ],
+      "auteur": "GFreihalter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lindau_Cavazzen_Museum_Dachstuhl_406.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Lindau_Cavazzen_Museum_Dachstuhl_406.jpg/1280px-Lindau_Cavazzen_Museum_Dachstuhl_406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7728,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Förbindelselgången August 2025 01.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different parts of Stockholm's slaughterhouse, Sweden. When it was built, it was one of the world's most modern slaughterhouses and meat-packing districts. Today, the building is protected as a cultural heritage site.",
+      "categories": [
+        "Travel trailers",
+        "Roof trusses",
+        "Images recorded with pixel shifting",
+        "Self-published work",
+        "F-number f/8",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Taken with Fujifilm GFX 50S II",
+        "August 2025 in Stockholm",
+        "Enskede slakthus",
+        "Taken with Fujifilm GF 30mm f/3,5 R WR"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_August_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 16189,
+      "hauteur": 10118
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Beaune - Hôtel-Dieu - Intérieur - 04.jpg",
+      "description": "Beaune (Côte-d'Or, France) - Hôtel-Dieu des Hospices civils de Beaune - Charpente et plafond de la Grande Salle des Pôvres",
+      "categories": [
+        "Base Mérimée",
+        "GFDL",
+        "Monuments historiques classés",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Ceilings in Côte-d'Or",
+        "August 2025 in Côte-d'Or",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files by Benjism89",
+        "Timber roof trusses",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in France",
+        "Grande salle des pôvres de l'Hôtel-Dieu de Beaune",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Bourgogne-Franche-Comté photographs taken on 2025-08-07"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg/1280px-Beaune_-_H%C3%B4tel-Dieu_-_Int%C3%A9rieur_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6477,
+      "hauteur": 4321
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Förbindelsehallen, 2010a.jpg",
+      "description": "Slakthusområdet, Förbindelsehallen",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Interiors of factories in Stockholm",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelsehallen,_2010a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/F%C3%B6rbindelsehallen%2C_2010a.jpg/1280px-F%C3%B6rbindelsehallen%2C_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2979,
+      "hauteur": 2139
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Plafond Charpente Grange Batelière à Hautecombe (juillet 2026).JPG",
+      "description": "Vue de l'intérieur de la charpente en bois de la Grange Batelière , à Hautecombe en Savoie .",
+      "categories": [
+        "Self-published work",
+        "July 2026 in Savoie",
+        "Timber roof trusses",
+        "Grange batelière d'Hautecombe"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plafond_Charpente_Grange_Bateli%C3%A8re_%C3%A0_Hautecombe_(juillet_2026).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Plafond_Charpente_Grange_Bateli%C3%A8re_%C3%A0_Hautecombe_%28juillet_2026%29.JPG/1280px-Plafond_Charpente_Grange_Bateli%C3%A8re_%C3%A0_Hautecombe_%28juillet_2026%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

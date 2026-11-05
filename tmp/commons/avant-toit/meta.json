@@ -12,6 +12,10 @@
     ],
     "incompatibles": [
       "toiture"
+    ],
+    "categoriesCommons": [
+      "Category:Eaves",
+      "Category:Roof overhangs"
     ]
   },
   "candidats": [
@@ -334,6 +338,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ljungris_July_2013.jpg/1280px-Ljungris_July_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6016,
       "hauteur": 4016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Arbre de soie.JPG",
+      "description": "Fleurs d'un arbre de soie",
+      "categories": [
+        "Eaves",
+        "Self-published work",
+        "Unidentified Albizia"
+      ],
+      "auteur": "Papypierre1",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arbre_de_soie.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Arbre_de_soie.JPG/1280px-Arbre_de_soie.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Malmslatt-x-jarnvagsstation02.jpg",
+      "description": "Former rail-way station in Malmslätt, Linköping, Sweden. Roof construction.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-G1",
+        "Eaves",
+        "Malmslätts station",
+        "Self-published work",
+        "Listed buildings in Sweden with known IDs",
+        "Listed buildings in Sweden missing SDC location of creation",
+        "Listed buildings in Sweden missing SDC depicts",
+        "Roof overhangs"
+      ],
+      "auteur": "Xauxa (Håkan Svensson)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Malmslatt-x-jarnvagsstation02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Malmslatt-x-jarnvagsstation02.jpg/1280px-Malmslatt-x-jarnvagsstation02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 1880
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:AguinaldoShrinejf0990 08.JPG",
+      "description": "Eaves of the historic Aguinaldo residence — at the Aguinaldo Shrine . In Kawit, Cavite, the Philippines. Credits I am sharing Wikimedia Commons and Wikipedia these rare, original and sole photos of Kawit, Cavite, 98% never photographed since the Battle of Imus. I finished photography at 4:14 p.m. and started uploading via slow internet at 9:00 pm - I hereby certify that these photos are exclusive for Commons and Wikipedia never uploaded in any Internet or any site, and for the public domain without any condition. IN FINE, since 2010, I shared Commons more than 28,000 photos, large files of 6-8",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "Eaves",
+        "Aguinaldo Shrine",
+        "Self-published work",
+        "PD-Philippines FoP work"
+      ],
+      "auteur": "Ramon FVelasquez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AguinaldoShrinejf0990_08.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/AguinaldoShrinejf0990_08.JPG/1280px-AguinaldoShrinejf0990_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Fva dachüberstand 2.jpg",
+      "description": "Hamburg, Neuallermöhe, Franz-von-Assisi-Kirche, Dachüberstand der Eingangsseite",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Franz-von-Assisi-Kirche (Hamburg-Neuallermöhe)",
+        "Self-published work",
+        "Images by Dirtsc",
+        "Roof overhangs"
+      ],
+      "auteur": "Dirtsc",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fva_dach%C3%BCberstand_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Fva_dach%C3%BCberstand_2.jpg/1280px-Fva_dach%C3%BCberstand_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4272
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Den Røde Bygninge (kobber hane).jpg",
+      "description": "Den irgrønne kobber hane på gavlen af Rød Bygning, Aarhus Katedralskole.",
+      "categories": [
+        "Den Røde Bygning",
+        "Eaves",
+        "Copper sculptures",
+        "Self-published work",
+        "Sculptures of birds in Denmark",
+        "Denmark photographs taken on 2018-04-14",
+        "Animal figures on roofs"
+      ],
+      "auteur": "RhinoMind",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Den_R%C3%B8de_Bygninge_(kobber_hane).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Den_R%C3%B8de_Bygninge_%28kobber_hane%29.jpg/1280px-Den_R%C3%B8de_Bygninge_%28kobber_hane%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:D's Diner - August 2025 - Sarah Stierch 07.jpg",
+      "description": "D's Diner, Sebastopol, California",
+      "categories": [
+        "CC-Zero",
+        "Building exteriors in California",
+        "Self-published work",
+        "Photos by Sarah Stierch",
+        "Files with coordinates missing SDC location of creation",
+        "August 2025 in California",
+        "United States photographs taken on 2025-08-02",
+        "Roof overhangs",
+        "D's Diner"
+      ],
+      "auteur": "Missvain",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%27s_Diner_-_August_2025_-_Sarah_Stierch_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/D%27s_Diner_-_August_2025_-_Sarah_Stierch_07.jpg/1280px-D%27s_Diner_-_August_2025_-_Sarah_Stierch_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

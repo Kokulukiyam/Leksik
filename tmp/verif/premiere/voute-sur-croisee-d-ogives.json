@@ -1,0 +1,53 @@
+{
+  "termId": "voute-sur-croisee-d-ogives",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Orgue de cathédrale sous une voûte gothique dont seule une partie est visible en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Luxembourg",
+      "note": "Voûte coupée et vue de biais, croisée d'ogives non lisible; l'orgue domine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur du Colisée en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Pas de voûte d'ogives."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Peinture d'un intérieur d'église gothique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voûte romaine en brique en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Pas une voûte d'ogives."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Peinture d'une église avec voûtes à nervures et fidèles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plafond de voûtains tabiqués dans une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Voûtains plâtrés, pas d'ogives."
+    }
+  ]
+}

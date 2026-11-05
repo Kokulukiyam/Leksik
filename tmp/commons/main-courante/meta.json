@@ -11,7 +11,8 @@
       "wall mounted handrail"
     ],
     "incompatibles": [
-      "rampe-d-escalier"
+      "rampe-d-escalier",
+      "barreau-de-rampe"
     ],
     "categoriesCommons": [
       "Category:Handrails",
@@ -159,6 +160,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Co-operative_Building_%2851219051019%29.jpg/1280px-Co-operative_Building_%2851219051019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2400,
       "hauteur": 1800
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Corrimão (11563028335).jpg",
+      "description": "Corrimão",
+      "categories": [
+        "Handrails",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Douglas Iuri Medeiros Cabral"
+      ],
+      "auteur": "Douglas Iuri Medeiros Cabral",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corrim%C3%A3o_(11563028335).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Corrim%C3%A3o_%2811563028335%29.jpg/1280px-Corrim%C3%A3o_%2811563028335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Peru - Machu Picchu 099 - stairway down (7183508489).jpg",
+      "description": "A vertigo-inspiring stairway leads down to the steep terraces. This side of the site drops off quite steeply, amazing that they managed to build terraces at all.",
+      "categories": [
+        "Taken with Canon EOS 50D",
+        "Stair railings",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Media needing category review as of 14 April 2016",
+        "Wooden railings",
+        "Files with coordinates missing SDC location of creation",
+        "2012 at Machu Picchu",
+        "Stairs at Machu Picchu",
+        "Photographs of Machu Picchu by McKay Savage"
+      ],
+      "auteur": "McKay Savage from London, UK",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peru_-_Machu_Picchu_099_-_stairway_down_(7183508489).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Peru_-_Machu_Picchu_099_-_stairway_down_%287183508489%29.jpg/1280px-Peru_-_Machu_Picchu_099_-_stairway_down_%287183508489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2376,
+      "hauteur": 1584
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dark Path (2972677080).jpg",
+      "description": "Dark Path",
+      "categories": [
+        "Woodlands",
+        "Handrails",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Rennett Stowe",
+        "Outdoor wooden handrails"
+      ],
+      "auteur": "Rennett Stowe from USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dark_Path_(2972677080).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dark_Path_%282972677080%29.jpg/1280px-Dark_Path_%282972677080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Plant Adaptations 21.jpg",
+      "description": "Plant Adaptations, United States Botanic Garden, Washington, D.C.",
+      "categories": [
+        "Lecanopteris celebica",
+        "Taken with Sony DSC-WX80",
+        "Stair railings",
+        "Self-published work",
+        "Plant Adaptations (United States Botanic Garden)"
+      ],
+      "auteur": "Bohemian Baltimore",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plant_Adaptations_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Plant_Adaptations_21.jpg/1280px-Plant_Adaptations_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Castillo de Peñíscola 90.jpg",
+      "description": "Peniscola Castle. Valencian Community, Spain.",
+      "categories": [
+        "Interior of Peniscola Castle",
+        "Handrails",
+        "Self-published work",
+        "Arches in the Land of Valencia",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Stone stairs in the Land of Valencia",
+        "Photos by Simon Burchell"
+      ],
+      "auteur": "Simon Burchell",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castillo_de_Pe%C3%B1%C3%ADscola_90.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Castillo_de_Pe%C3%B1%C3%ADscola_90.jpg/1280px-Castillo_de_Pe%C3%B1%C3%ADscola_90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Zona Arqueologica Cuailama 11.JPG",
+      "description": "Anciana bajando las escalera de la Zona arqueológica Cauilama en el pueblo de Santa Cruz Acalpixca, delegación Xochimilco, al sureste de la ciudad de México, D.F.",
+      "categories": [
+        "Stair railings",
+        "Self-published work",
+        "Railings in Mexico",
+        "Metal railings",
+        "Reto Wikimedia A01421337 (Tamayo)"
+      ],
+      "auteur": "Rafatmyo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zona_Arqueologica_Cuailama_11.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Zona_Arqueologica_Cuailama_11.JPG/1280px-Zona_Arqueologica_Cuailama_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

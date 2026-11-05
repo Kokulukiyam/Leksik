@@ -12,7 +12,15 @@
     ],
     "incompatibles": [
       "toiture",
-      "acrotere"
+      "acrotere",
+      "gargouille-de-terrasse",
+      "trop-plein",
+      "couvertine"
+    ],
+    "categoriesCommons": [
+      "Category:Flat roofs",
+      "Category:Roof terraces",
+      "Category:Roofs"
     ]
   },
   "candidats": [
@@ -143,6 +151,135 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Dombay%2C_Roof_terrace%2C_Soviet_modernism%2C_Karachay-Cherkessia.jpg/1280px-Dombay%2C_Roof_terrace%2C_Soviet_modernism%2C_Karachay-Cherkessia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4912,
       "hauteur": 3264
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bushaltestelle Forellenwegsiedlung 03.jpg",
+      "description": "Bushaltestelle Forellenwegsiedlung, Salzburg-Liefering",
+      "categories": [
+        "Flat roofs",
+        "Taken with Canon EOS 700D",
+        "Self-published work",
+        "Bus shelters in Austria",
+        "Austria photographs taken on 2013-10-28",
+        "October 2013 in Salzburg",
+        "Forellenwegsiedlung (bus stop)",
+        "Photographs of Salzburg by Eweht"
+      ],
+      "auteur": "Eweht",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bushaltestelle_Forellenwegsiedlung_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bushaltestelle_Forellenwegsiedlung_03.jpg/1280px-Bushaltestelle_Forellenwegsiedlung_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2476,
+      "hauteur": 1612
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Nice - panoramio - Uldis Osis.jpg",
+      "description": "Nice",
+      "categories": [
+        "Roof terraces",
+        "Baie des Anges",
+        "Views from Château de Nice",
+        "Sun glitter",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2007-10-21",
+        "Metal railings in France",
+        "Photographs by Uldis Osis"
+      ],
+      "auteur": "Uldis Osis",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nice_-_panoramio_-_Uldis_Osis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Nice_-_panoramio_-_Uldis_Osis.jpg/1280px-Nice_-_panoramio_-_Uldis_Osis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2688,
+      "hauteur": 1815
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim 5.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_5.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Essaouira - panoramio (257).jpg",
+      "description": "Rooftop terrace of Hotel Cap Sim in Essaouira.",
+      "categories": [
+        "Roof terraces",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2014-02-27",
+        "Files with coordinates missing SDC location of creation",
+        "Stairs in Morocco",
+        "Photos from Panoramio ID 1286122",
+        "Hotels in Essaouira"
+      ],
+      "auteur": "Patrick Nouhailler's…",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Essaouira_-_panoramio_(257).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Essaouira_-_panoramio_%28257%29.jpg/1280px-Essaouira_-_panoramio_%28257%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Begrünter Carport im Hang in Tauberbischofsheim 3.jpg",
+      "description": "Begrünter Carport im Hang in Tauberbischofsheim",
+      "categories": [
+        "Flat roofs",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Images by Triplec85",
+        "Photographs taken on 2021-09-11",
+        "Carports in Tauberbischofsheim (Tauberbischofsheim)",
+        "Tauberbischofsheim photographs taken on 2021-09-11",
+        "Green roofs (sustainability) in Tauberbischofsheim"
+      ],
+      "auteur": "Triplec85",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg/1280px-Begr%C3%BCnter_Carport_im_Hang_in_Tauberbischofsheim_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

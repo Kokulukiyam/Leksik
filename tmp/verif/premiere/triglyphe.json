@@ -1,0 +1,58 @@
+{
+  "termId": "triglyphe",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Statue ailée de bronze devant un mur à inscription et corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portugal",
+      "note": "Triglyphes absents ou minuscules."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Stèle funéraire à frise de petits éléments sous un fronton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest, Roumanie",
+      "note": "Frise trop petite, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Colonnes doriques des Propylées de l'Acropole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Frise lointaine, triglyphes illisibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fronton néoclassique dont la frise alterne rosaces, bucranes et panneaux rainurés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mersch, Luxembourg",
+      "note": "Triglyphes très étroits, métopes sculptées dominantes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Frise dorique antique en pierre, triglyphes rainurés alternant avec métopes lisses.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.35,
+        "y": 0.23,
+        "largeur": 0.12,
+        "hauteur": 0.28
+      },
+      "lieu": "Olympie, Grèce",
+      "note": "Rectangle sur un triglyphe aux rainures verticales."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fragment de vase grec à figures noires montrant un édifice.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Florence",
+      "note": "Peinture sur vase, pas une photo architecturale."
+    }
+  ]
+}

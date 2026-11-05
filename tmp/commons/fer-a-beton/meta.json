@@ -11,7 +11,14 @@
       "deformed reinforcing bars"
     ],
     "incompatibles": [
-      "ferraillage"
+      "ferraillage",
+      "treillis-soude",
+      "armature-en-attente",
+      "ligature"
+    ],
+    "categoriesCommons": [
+      "Category:Rebar",
+      "Category:Steel bars"
     ]
   },
   "candidats": [
@@ -53,6 +60,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Architect_and_engineer_of_California_and_the_Pacific_Coast_%281917%29_%2814781789392%29.jpg/1280px-The_Architect_and_engineer_of_California_and_the_Pacific_Coast_%281917%29_%2814781789392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1970,
       "hauteur": 2804
+    },
+    {
+      "fichier": "03.jpg",
+      "titre": "File:2026-10-08 Строительство метро Луганская (Максим Мишин) 02.jpg",
+      "description": "Москва. Кавказский бульвар. Строительство метро Луганская.",
+      "categories": [
+        "Rebar",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Mos.ru, 2026",
+        "Welders in Russia",
+        "Photographs by Maksim Mishin",
+        "Outdoor workers in Moscow",
+        "Construction of Luganskaya (Moscow Metro)",
+        "Moscow photographs taken on 2026-10-08"
+      ],
+      "auteur": "Пресс-служба мэра и правительства Москвы",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD)_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD%29_02.jpg/1280px-2026-10-08_%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%28%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9C%D0%B8%D1%88%D0%B8%D0%BD%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "04.jpg",
+      "titre": "File:Assorted bar stock.jpg",
+      "description": "Assorted bar stock for metalworking.",
+      "categories": [
+        "Taken with Canon Digital IXUS 95 IS",
+        "Metalworking",
+        "Steel bars",
+        "Self-published work",
+        "PD-self",
+        "Steel-profile storage"
+      ],
+      "auteur": "Alister 77",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assorted_bar_stock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Assorted_bar_stock.jpg/1280px-Assorted_bar_stock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "05.jpg",
+      "titre": "File:Angled rebar.jpg",
+      "description": "Somewhat rusty rebar bent at 90 degrees angle at construction site in Rixö old quarry, Rixö, Lysekil Municipality, Sweden. Photo taken on this site .",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "Rusty objects in Sweden",
+        "Rusty construction materials",
+        "Abandoned granite quarry of Rixö, Sweden"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Angled_rebar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Angled_rebar.jpg/1280px-Angled_rebar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3624,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Static Detonation Chamber 1200 (52249988764).jpg",
+      "description": "Workers prepare to lift a steel beam using a crane at the Blue Grass Chemical Agent-Destruction Pilot Plant Static Detonation Chamber 1200 as part of construction activities. Visit our website for more information. &lt;a href=\" http://www.peoacwa.army.mil \" rel=\"noreferrer nofollow\"&gt;www.peoacwa.army.mil&lt;/a&gt;",
+      "categories": [
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Steel bars",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Steel-profile storage"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Static_Detonation_Chamber_1200_(52249988764).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Static_Detonation_Chamber_1200_%2852249988764%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Static_Detonation_Chamber_1200_%2852249988764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:169th CES Deployment for Training 150629-Z-WT236-030.jpg",
+      "description": "U.S. Air Force Tech. Sgt. Kendall Bearden, a power pro technician from the South Carolina Air National Guard’s 169th Civil Engineer Squadron at McEntire Joint National Guard Base, S.C., carries rebar during construction for multipurpose buildings in support of a Deployment for Training in Israel, June 29, 2015. The construction project is to help S.C. PRIME BEEF Airmen maintain their civil engineering specialties. Swamp Fox civil engineers are working alongside 200th RED HORSE Squadron and U.S. Navy Seabees civil engineers during the training exercise. (South Carolina Air National Guard photo ",
+      "categories": [
+        "United States Air Force airmen",
+        "Rebar",
+        "169th Fighter Wing (South Carolina Air National Guard)",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "People carrying objects",
+        "Images from DoD uploaded by Fæ",
+        "200th Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "Israel photographs taken on 2015-06-29",
+        "169th Civil Engineer Squadron (United States Air Force)"
+      ],
+      "auteur": "Tech. Sgt. Caycee Watson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg/1280px-169th_CES_Deployment_for_Training_150629-Z-WT236-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bar square steel.jpg",
+      "description": "bar and square steel",
+      "categories": [
+        "GFDL",
+        "Gloria Material Technology Corp.",
+        "License migration redundant",
+        "Steel bars",
+        "Self-published work"
+      ],
+      "auteur": "Supersonic0714",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bar_square_steel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bar_square_steel.jpg/1280px-Bar_square_steel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 1960
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

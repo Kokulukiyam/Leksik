@@ -1,0 +1,53 @@
+{
+  "termId": "verre-imprime",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Création en verre à motif de tournesol, rendu sombre rouge et or.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet d'art, aspect retouché, pas du vitrage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Perles de verre et pendentif suspendus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit encrier ancien en verre moulé à décor géométrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de collection, pas du verre plat de bâtiment."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Perles de verre colorées suspendues, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Détail d'un vase en verre à murrines colorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verrerie d'art, pas du verre imprimé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Verres à vin sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

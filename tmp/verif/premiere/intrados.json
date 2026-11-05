@@ -1,0 +1,53 @@
+{
+  "termId": "intrados",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Marché de Noël de nuit vu entre deux arches de verdure illuminées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Arche végétale, pas d'intrados de maçonnerie."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Passage voûté en galets, photo en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chandigarh, Inde",
+      "note": "Noir et blanc, intrados non isolé, ambigu avec arc/voûte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arche gonflable de parapente avec une famille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brésil",
+      "note": "Structure gonflable, pas de maçonnerie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passage sous un arc d'une ruelle d'Amalfi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amalfi, Italie",
+      "note": "Intrados non distinct d'une voûte, sans repère clair."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie à arcades en ruine en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intrados non montré clairement."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Entrée en arc d'un pavillon de jardin avec fond de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Parham House, Angleterre",
+      "note": "Intrados peu lisible, face avant dominante."
+    }
+  ]
+}

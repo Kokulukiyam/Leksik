@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "portail-metallique",
-      "rail-de-portail"
+      "rail-de-portail",
+      "portillon"
     ],
     "categoriesCommons": [
       "Category:Gates"
@@ -126,6 +127,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg/1280px-A_different_shot_of_two_fenced_neighboring_houses_along_Kuomboka_Dr_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1944,
       "hauteur": 2592
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:-i---i- (6623644379).jpg",
+      "description": "Kodak TRI-X 400TX @200 Ilfosol 3 1:9 5mins 30 @20°C",
+      "categories": [
+        "Gates",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)",
+        "Photographs by Andrew Basterfield"
+      ],
+      "auteur": "Andrew Basterfield",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(6623644379).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/-i---i-_%286623644379%29.jpg/1280px--i---i-_%286623644379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2885,
+      "hauteur": 2885
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:71 Cannon - gate.jpg",
+      "description": "71 Cannon Street, Charleston, South Carolina - gate",
+      "categories": [
+        "Gates",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cannon Street, Charleston, South Carolina",
+        "Cannonborough-Elliotborough"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:71_Cannon_-_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/71_Cannon_-_gate.jpg/1280px-71_Cannon_-_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1493,
+      "hauteur": 2670
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:09253jfMaharlika Road Nueva Ecija Bantug Science Cityfvf 16.JPG",
+      "description": "Barangay Bantug , beside Sapang Cawayan , Maragol , and Villa Nati , Muñoz , Nueva Ecija (Interconnecting with and accessed from and along the Maharlika Highway , Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science City of Muñoz, Nueva Ecija section) or the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26).",
+      "categories": [
+        "Gates",
+        "Self-published work",
+        "PD-self",
+        "Bantug, Sapang Cawayan, Maragol and Villa Nati, Science City of Muñoz, Nueva Ecija Road"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG/1280px-09253jfMaharlika_Road_Nueva_Ecija_Bantug_Science_Cityfvf_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:(St.) John's Gate, Quebec (Quebec City) (I0021759).jpeg",
+      "description": "",
+      "categories": [
+        "Gates",
+        "Images from Archives of Ontario",
+        "Uploaded with pattypan",
+        "Ramparts of Quebec City",
+        "PD US expired",
+        "PD-US missing SDC copyright status",
+        "Stereocards and stereographic photographs from the Archives of Ontario"
+      ],
+      "auteur": "J.G. Parks",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:(St.)_John%27s_Gate,_Quebec_(Quebec_City)_(I0021759).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%28St.%29_John%27s_Gate%2C_Quebec_%28Quebec_City%29_%28I0021759%29.jpeg/1280px-%28St.%29_John%27s_Gate%2C_Quebec_%28Quebec_City%29_%28I0021759%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3148,
+      "hauteur": 1576
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232084 - Ingresso - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Ingresso - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Gates",
+        "Self-published work",
+        "Arch gates in Italy"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232084_-_Ingresso_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232084_-_Ingresso_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A door in a frame.jpg",
+      "description": "A door in a frame.",
+      "categories": [
+        "Hospitals in Nepal",
+        "Gates",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2019-08-19"
+      ],
+      "auteur": "Gaurav_Dhwaj_Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_door_in_a_frame.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/A_door_in_a_frame.jpg/1280px-A_door_in_a_frame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

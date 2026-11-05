@@ -1,0 +1,53 @@
+{
+  "termId": "dalle-caissonnee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond à caissons octogonaux en bois laqué rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buenos Aires, Argentine",
+      "note": "Plafond décoratif, pas une dalle de béton."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sous-face d'une dalle de béton à caissons carrés réguliers, avec tubes rouges.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle caissonnée en béton, nervures croisées, très claire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plafond à caissons décorés de soleils bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Potsdam, Allemagne",
+      "note": "Plafond décoratif, pas une dalle béton."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Prédalles en béton avec treillis raidisseurs et aciers en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalle, pas dalle caissonnée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plafond à caissons en pierre entre colonnes cannelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Plafond de portique, pas une dalle béton."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Plancher à poutrelles treillis en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher à poutrelles, pas caissonné."
+    }
+  ]
+}

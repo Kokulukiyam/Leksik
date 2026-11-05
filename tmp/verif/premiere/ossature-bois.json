@@ -1,0 +1,53 @@
+{
+  "termId": "ossature-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pan de bois apparent rempli de briques en appareil décoratif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wienhausen, Allemagne",
+      "note": "Colombage rempli, pas une ossature avant panneaux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabane en bajareque et tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "El Salvador",
+      "note": "Torchis, ambigu."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grange à pans de bois remplis de pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wanfried, Allemagne",
+      "note": "Colombage, pas une ossature avant panneaux."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison à colombage rouge et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort, Allemagne",
+      "note": "Colombage traditionnel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Quai avec bateau et entrepôts dont l'un à pans de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gdańsk, Pologne",
+      "note": "Élément minuscule."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de brique avec fenêtres et bois apparent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Göttingen, Allemagne",
+      "note": "Colombage, pas une ossature."
+    }
+  ]
+}

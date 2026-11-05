@@ -12,6 +12,10 @@
     ],
     "categoriesCommons": [
       "Category:Water tanks"
+    ],
+    "incompatibles": [
+      "reservoir-a-vessie",
+      "chateau-d-eau"
     ]
   },
   "candidats": [
@@ -125,6 +129,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Aldi%2C_Cosne%2C_concrete_pump_%283%29.jpg/1280px-Aldi%2C_Cosne%2C_concrete_pump_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bhaktapur 12 (23522862736).jpg",
+      "description": "Bhaktapur 12",
+      "categories": [
+        "Water tanks",
+        "Drinking water in Nepal",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Back facade of Dattatreya Temple, Bhaktapur"
+      ],
+      "auteur": "Chuck Moravec",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bhaktapur_12_(23522862736).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bhaktapur_12_%2823522862736%29.jpg/1280px-Bhaktapur_12_%2823522862736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A pair of 25,000-liter tanks hold clean water for distribution to outlying villages near Sarichashm, Tajikistan, June 28, 2012 120628-A-AB123-002.jpg",
+      "description": "A pair of 25,000-liter tanks hold clean water for distribution to outlying villages near Sarichashm, Tajikistan, June 28, 2012. U.S. Soldiers assigned to a civil military support element with the Special Operations Command Central facilitated the completion of the new water system.",
+      "categories": [
+        "Taken with Olympus TG-810",
+        "PD US Army",
+        "Water tanks",
+        "Files created by the United States Army with known IDs",
+        "Images from DoD uploaded by Fæ",
+        "Photographs taken on 2012-06-28"
+      ],
+      "auteur": "Staff Sgt. Kenneth Howerton",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_pair_of_25,000-liter_tanks_hold_clean_water_for_distribution_to_outlying_villages_near_Sarichashm,_Tajikistan,_June_28,_2012_120628-A-AB123-002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/A_pair_of_25%2C000-liter_tanks_hold_clean_water_for_distribution_to_outlying_villages_near_Sarichashm%2C_Tajikistan%2C_June_28%2C_2012_120628-A-AB123-002.jpg/1280px-A_pair_of_25%2C000-liter_tanks_hold_clean_water_for_distribution_to_outlying_villages_near_Sarichashm%2C_Tajikistan%2C_June_28%2C_2012_120628-A-AB123-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2006 07 15 Wörth 0472 (8585904582) (2).jpg",
+      "description": "großes Oldtimertreffen im Mercedes-Werk in Wörth am Rhein 2006",
+      "categories": [
+        "Taken with Nikon Coolpix 3500",
+        "Water tanks",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Rhineland-Palatinate photographs taken on 2006-07-15",
+        "LKW-Meeting Wörth 2006",
+        "Photographs by Norbert Schnitzler",
+        "User:AVIA BavARia/uploads/flickr/72157633077660900"
+      ],
+      "auteur": "Norbert Schnitzler from Aachen, Deutschland, NRW",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_07_15_W%C3%B6rth_0472_(8585904582)_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2006_07_15_W%C3%B6rth_0472_%288585904582%29_%282%29.jpg/1280px-2006_07_15_W%C3%B6rth_0472_%288585904582%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:30D Water tank construction - USACE-p15141coll5-760.jpeg",
+      "description": "\"When steel water tanks could not be obtained the SMV [Swinerton-McClure-Vinnell] workmen built containers of corrugated culvert sections.\" [construction of the Inter-American Highway in Central America]",
+      "categories": [
+        "Files with no machine-readable author",
+        "Central America in the 1940s",
+        "Water tanks",
+        "Uploaded with OpenRefine",
+        "PD US Army USACE",
+        "Images from USACE, Photographs collection",
+        "Construction of the Pan-American Highway"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:30D_Water_tank_construction_-_USACE-p15141coll5-760.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/30D_Water_tank_construction_-_USACE-p15141coll5-760.jpeg/1280px-30D_Water_tank_construction_-_USACE-p15141coll5-760.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2799,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2006 07 15 Wörth 0266 (8585846632) (2).jpg",
+      "description": "großes Oldtimertreffen im Mercedes-Werk in Wörth am Rhein 2006",
+      "categories": [
+        "Taken with Nikon Coolpix 3500",
+        "Water tanks",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Rhineland-Palatinate photographs taken on 2006-07-15",
+        "Photographs by Norbert Schnitzler",
+        "User:AVIA BavARia/uploads/flickr/72157633077660900",
+        "Trucks at LKW-Meeting Wörth 2006"
+      ],
+      "auteur": "Norbert Schnitzler from Aachen, Deutschland, NRW",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_07_15_W%C3%B6rth_0266_(8585846632)_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2006_07_15_W%C3%B6rth_0266_%288585846632%29_%282%29.jpg/1280px-2006_07_15_W%C3%B6rth_0266_%288585846632%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bar Hill water tank, Twechar, East Dunbartonshire.jpg",
+      "description": "Bar Hill old water tank, Twechar, East Dunbartonshire, Scotland.",
+      "categories": [
+        "Twechar",
+        "Bar Hill, East Dunbartonshire",
+        "Water tanks",
+        "Self-published work",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bar_Hill_water_tank,_Twechar,_East_Dunbartonshire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Bar_Hill_water_tank%2C_Twechar%2C_East_Dunbartonshire.jpg/1280px-Bar_Hill_water_tank%2C_Twechar%2C_East_Dunbartonshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

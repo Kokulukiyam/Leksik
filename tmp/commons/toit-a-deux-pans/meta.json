@@ -14,7 +14,13 @@
       "toiture",
       "pignon",
       "faitage",
-      "versant"
+      "versant",
+      "demi-croupe",
+      "toit-mansarde"
+    ],
+    "categoriesCommons": [
+      "Category:Gable roofs",
+      "Category:Roofs"
     ]
   },
   "candidats": [
@@ -176,6 +182,140 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bodmin_-_No.90_Fore_Street_with_hipped_gable_roof_-_geograph.org.uk_-_8026419.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "largeur": 1000,
       "hauteur": 1412
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Capilla Nuestra Señora del Perpetuo Socorro (2).JPG",
+      "description": "Capilla Nuestra Señora del Perpetuo Socorro en Cariló, partido de Pinamar, provincia de Buenos Aires, Argentina. Diseñada por Alberto Vivot e inaugurada en 1985.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot SX500 IS",
+        "Churches built in 1985",
+        "Gable roofs",
+        "License migration redundant",
+        "Self-published work",
+        "September 2014 Argentina photographs",
+        "Built in Argentina in 1985",
+        "Brick churches in Argentina",
+        "Photographs taken on 2014-09-27",
+        "Files with coordinates missing SDC location of creation",
+        "Churches in Argentina photographed in 2014",
+        "Churches in the Roman Catholic Diocese of Mar del Plata",
+        "Our Lady of Perpetual Help chapels",
+        "Buildings in Cariló",
+        "Roman Catholic chapels in Buenos Aires Province",
+        "2014 in Pinamar Partido"
+      ],
+      "auteur": "Dario Alpern",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_%282%29.JPG/1280px-Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:168 Smith (2026).jpg",
+      "description": "168 Smith Street, Charleston, South Carolina",
+      "categories": [
+        "CC-Zero",
+        "Gable roofs",
+        "Self-published work",
+        "2026 in Charleston, South Carolina",
+        "Gable roofs in Charleston, South Carolina",
+        "Wooden buildings in Charleston, South Carolina",
+        "2.5-story buildings",
+        "Radcliffeborough",
+        "Smith Street, Charleston, South Carolina"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:168_Smith_(2026).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/168_Smith_%282026%29.jpg/1280px-168_Smith_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1878,
+      "hauteur": 1674
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Brebner homestead (11358429815).jpg",
+      "description": "Brebner house with Emily Brebner in the doorway, ca. 1900. Spruce Grove, Alberta. From the Robert McKay Brebner fonds, PR2009.0499/24.",
+      "categories": [
+        "Gable roofs",
+        "Houses in Alberta",
+        "Files from Provincial Archives of Alberta",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Black and white photographs of Alberta",
+        "Wooden fences in Canada",
+        "Black and white photographs of houses in Canada",
+        "Brebner homestead"
+      ],
+      "auteur": "Provincial Archives of Alberta",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brebner_homestead_(11358429815).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Brebner_homestead_%2811358429815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 986,
+      "hauteur": 751
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cheese vending machine (43721885441) (cropped).jpg",
+      "description": "Salaš Syrex",
+      "categories": [
+        "Cheese",
+        "Gable roofs",
+        "Extracted images",
+        "Food vending machines"
+      ],
+      "auteur": "Dushan Hanuska from Sydney, Australia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cheese_vending_machine_(43721885441)_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cheese_vending_machine_%2843721885441%29_%28cropped%29.jpg/1280px-Cheese_vending_machine_%2843721885441%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2552,
+      "hauteur": 3485
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Iglesia de Trinitatis - panoramio.jpg",
+      "description": "Iglesia de Trinitatis",
+      "categories": [
+        "Gable roofs",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Rundetårn rooftop views",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Trinitatis Kirke (København)",
+        "Files with coordinates missing SDC location of creation",
+        "Denmark photographs taken on 2014-07-22",
+        "Lanterns (architecture) in Copenhagen",
+        "Photos from Panoramio ID 2168764"
+      ],
+      "auteur": "Wamba Wambez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Trinitatis_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Iglesia_de_Trinitatis_-_panoramio.jpg/1280px-Iglesia_de_Trinitatis_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

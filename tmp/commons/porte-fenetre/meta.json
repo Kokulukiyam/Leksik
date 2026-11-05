@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "porte-vitree",
-      "fenetre"
+      "fenetre",
+      "porte-a-deux-vantaux",
+      "porte-coulissante",
+      "porte-metallique",
+      "porte-d-entree"
     ],
     "categoriesCommons": [
       "Category:Doors"
@@ -121,6 +125,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg/1280px-9_%D1%84%D0%BE%D1%82%D0%BE_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%B2_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%83_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4736,
       "hauteur": 3063
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A plant stem door.jpg",
+      "description": "Wildlife in the hoods",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Cornelius Agordome",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_plant_stem_door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A_plant_stem_door.jpg/1280px-A_plant_stem_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A circular door at Kaymakli Underground City.jpg",
+      "description": "A circular door at Kaymakli Underground City",
+      "categories": [
+        "Doors",
+        "Underground City of Kaymaklı",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Slyronit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_circular_door_at_Kaymakli_Underground_City.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/A_circular_door_at_Kaymakli_Underground_City.jpg/1280px-A_circular_door_at_Kaymakli_Underground_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Antifire Doors.jpg",
+      "description": "دروازه های ضدحریق شرکت ریلاینس پاور گروپ، دارای مقاومت 30 الی 120 دقیقه در مقابل حریق",
+      "categories": [
+        "Doors",
+        "Self-published work"
+      ],
+      "auteur": "RPC Communication Unit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antifire_Doors.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Antifire_Doors.jpg/1280px-Antifire_Doors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:All knots and bells.jpg",
+      "description": "All knots and bells at door front",
+      "categories": [
+        "Doors",
+        "Knots",
+        "Bells",
+        "Pan Chang knots",
+        "Self-published work"
+      ],
+      "auteur": "Sneha G Gupta",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_knots_and_bells.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/All_knots_and_bells.jpg/1280px-All_knots_and_bells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Left.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

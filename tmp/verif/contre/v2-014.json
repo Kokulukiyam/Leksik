@@ -1,0 +1,107 @@
+[
+ {
+  "cle": "trottoir/11",
+  "accord": true,
+  "raison": "Rectangle sur la bande piétonne dallée surélevée entre la vitrine et la chaussée : trottoir clair et dominant."
+ },
+ {
+  "cle": "bordure-de-trottoir/11",
+  "accord": true,
+  "raison": "Vue rasante d'une grosse bordure en béton qui sépare deux niveaux de revêtement : la bordure domine le rectangle."
+ },
+ {
+  "cle": "chaussee/12",
+  "accord": false,
+  "raison": "Le rectangle cadre la chaussée mais englobe aussi à droite la bordure et une bande de trottoir avec voitures garées : cadrage pas assez serré."
+ },
+ {
+  "cle": "avant-corps/03",
+  "accord": true,
+  "raison": "Travée de façade en brique en légère saillie, sur toute la hauteur jusqu'à son propre pignon, bien cadrée par le rectangle : avant-corps."
+ },
+ {
+  "cle": "jardiniere/01",
+  "accord": true,
+  "raison": "Bac à fleurs en bois sur consoles sous la fenêtre, désigné de près par le rectangle : jardinière sans ambiguïté."
+ },
+ {
+  "cle": "pignon-a-redents/01",
+  "accord": true,
+  "raison": "Pignon en pierre dont les rampants sont découpés en gradins, nettement cadré : pignon à redents."
+ },
+ {
+  "cle": "pignon-a-redents/03",
+  "accord": true,
+  "raison": "Pignon enduit aux rampants en gradins successifs, bien dégagé sur le ciel et cadré : pignon à redents."
+ },
+ {
+  "cle": "toit-mansarde/03",
+  "accord": false,
+  "raison": "Vue frontale où seul le brisis raide est visible ; le terrasson et la brisure ne se voient pas, et le rectangle coupe la toiture sur les côtés : pas assez démonstratif."
+ },
+ {
+  "cle": "toit-mansarde/05",
+  "accord": false,
+  "raison": "Même toiture vue de face : seul le brisis est lisible, le terrasson et la brisure du versant ne sont pas visibles ; doute avec un toit en pavillon."
+ },
+ {
+  "cle": "demi-croupe/04",
+  "accord": true,
+  "raison": "Le rectangle cadre le haut du pignon en bois coupé par un petit versant incliné : demi-croupe visible."
+ },
+ {
+  "cle": "demi-croupe/05",
+  "accord": true,
+  "raison": "Petit versant en tuiles qui abat le sommet du pignon bernois, cadré par le rectangle : demi-croupe."
+ },
+ {
+  "cle": "toiture-cintree/01",
+  "accord": true,
+  "raison": "Toiture en arc métallique sur structure courbe, nettement désignée : toiture cintrée."
+ },
+ {
+  "cle": "toit-papillon/03",
+  "accord": true,
+  "raison": "Couverture de station-service à deux versants relevés vers l'extérieur et inclinés vers le centre en V : toit papillon."
+ },
+ {
+  "cle": "paroi-berlinoise/01",
+  "accord": true,
+  "raison": "Profilés acier verticaux avec planches bois entre eux retenant la fouille : paroi berlinoise typique et dominante."
+ },
+ {
+  "cle": "paroi-berlinoise/04",
+  "accord": false,
+  "raison": "La paroi berlinoise est visible mais le rectangle englobe aussi un large ferraillage de dalle et un pieu béton : cadrage ambigu."
+ },
+ {
+  "cle": "palplanche/06",
+  "accord": true,
+  "raison": "Rideau de profilés d'acier ondulés emboîtés verticalement au bord de l'eau, bien cadré : palplanches."
+ },
+ {
+  "cle": "beton-projete/03",
+  "accord": true,
+  "raison": "Ouvrier projetant du béton à la lance sur une paroi de fouille à la surface rugueuse et bosselée : béton projeté sans ambiguïté."
+ },
+ {
+  "cle": "appareil-anglais/01",
+  "accord": true,
+  "raison": "Mur de briques où les rangs de panneresses alternent régulièrement avec des rangs de boutisses : appareil anglais lisible."
+ },
+ {
+  "cle": "appareil-en-epi/02",
+  "accord": true,
+  "raison": "Pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson, plein cadre : appareil en épi."
+ },
+ {
+  "cle": "appareil-en-epi/04",
+  "accord": true,
+  "raison": "Le rectangle cadre un panneau de briques posées en oblique en arête de poisson dans un mur de pierre : appareil en épi."
+ },
+ {
+  "cle": "appareil-reticule/05",
+  "accord": true,
+  "raison": "Tympan couvert de petites pierres carrées posées sur la pointe formant un filet de losanges, coupé de rangs de pierre : appareil réticulé."
+ }
+]

@@ -1,0 +1,58 @@
+{
+  "termId": "tuffeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan sur un mur de moellons ocre jointoyés en rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cherves-Richemont, France",
+      "note": "Pierre ocre ferrugineuse, pas du tuffeau blanc."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Tour et façade d'un château en pierre de taille très blanche, appareil régulier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Val de Loire, France",
+      "note": "Calcaire tendre blanc du Val de Loire, taillé en blocs, nettement lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Village troglodytique en pierre claire derrière une barrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montsoreau, France",
+      "note": "Matériau moins net, mêlé de falaise et de végétation."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cour du château d'Azay-le-Rideau masquée par les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Azay-le-Rideau, France",
+      "note": "Façade partiellement cachée par le feuillage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maisons en pierre ocre dorée du Périgord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vitrac, France",
+      "note": "Calcaire ocre du Périgord, pas du tuffeau."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château d'Azay-le-Rideau dans son miroir d'eau, façades de pierre blanche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.27,
+        "y": 0.42,
+        "largeur": 0.35,
+        "hauteur": 0.24
+      },
+      "lieu": "Azay-le-Rideau, France",
+      "note": "Tuffeau typique du Val de Loire; rectangle sur le mur pour écarter l'ardoise des toits."
+    }
+  ]
+}

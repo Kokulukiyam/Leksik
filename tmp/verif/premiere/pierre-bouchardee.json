@@ -1,0 +1,53 @@
+{
+  "termId": "pierre-bouchardee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Texture de pierre bleutée à surface bosselée, sans contexte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture isolée, technique de finition non certaine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Texture de pierre bleutée à fines rainures verticales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rainurée, pas piquetée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Roche rugueuse aux dépôts jaunes dans une grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cova Tallada",
+      "note": "Roche naturelle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de béton rouillé et fissuré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de pierre bouchardée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tableau noir effacé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cristaux ou éclats de verre en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

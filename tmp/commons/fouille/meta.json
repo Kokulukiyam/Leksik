@@ -9,6 +9,9 @@
       "foundation excavation pit construction site",
       "fouille fondations chantier",
       "excavation construction"
+    ],
+    "categoriesCommons": [
+      "Category:Construction sites"
     ]
   },
   "candidats": [
@@ -143,6 +146,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/%28Photographie_de_fouilles%29_-_Fonds_Berthel%C3%A9_-_49Fi1541.jpg/1280px-%28Photographie_de_fouilles%29_-_Fonds_Berthel%C3%A9_-_49Fi1541.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2835,
       "hauteur": 3780
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Abgeriegelt Bauboom Alte Landstrasse 154 158 Küsnacht.jpg",
+      "description": "The large Migros Pension Fund development in Küsnacht ZH seen from Felseneggstrasse",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Küsnacht ZH",
+        "Self-published work",
+        "Alte Landstrasse (Küsnacht ZH)",
+        "Oberwachtstrasse (Küsnacht ZH)"
+      ],
+      "auteur": "Saxifraga mutata",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abgeriegelt_Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Abgeriegelt_Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht.jpg/1280px-Abgeriegelt_Bauboom_Alte_Landstrasse_154_158_K%C3%BCsnacht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bau des Lasch-Bunkers (1939).jpg",
+      "description": "Bau des Lasch-Bunkers vor der Albertus-Universität Königsberg",
+      "categories": [
+        "Construction sites",
+        "Albertina, Königsberg",
+        "PD-anon-70-EU",
+        "East Prussia during World War II",
+        "Template Unknown (author)",
+        "Lasch bunker (museum blindage)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bau_des_Lasch-Bunkers_(1939).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bau_des_Lasch-Bunkers_%281939%29.jpg/1280px-Bau_des_Lasch-Bunkers_%281939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1125
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Blue Sky DSC 3799.jpg",
+      "description": "",
+      "categories": [
+        "Construction sites",
+        "Taken with Nikon D5100",
+        "Media lacking a description",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Flemming",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Sky_DSC_3799.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Blue_Sky_DSC_3799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 994,
+      "hauteur": 1193
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:-76wiki.jpg",
+      "description": "Crane",
+      "categories": [
+        "Construction sites",
+        "Self-published work",
+        "Large images"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-76wiki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/-76wiki.jpg/1280px--76wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12528,
+      "hauteur": 9967
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Atconstruction.JPG",
+      "description": "learning how to rehab electric,plumbing and carpentry.",
+      "categories": [
+        "Construction sites",
+        "Taken with Sony DSC-S730",
+        "Self-published work"
+      ],
+      "auteur": "Atconstruction28",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atconstruction.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Atconstruction.JPG/1280px-Atconstruction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bgaraxa obras.jpg",
+      "description": "boulevard",
+      "categories": [
+        "Construction sites",
+        "Taken with Fujifilm FinePix S4000",
+        "Self-published work"
+      ],
+      "auteur": "Guileite20",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bgaraxa_obras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bgaraxa_obras.jpg/1280px-Bgaraxa_obras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2800,
+      "hauteur": 2100
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

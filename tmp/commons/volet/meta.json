@@ -154,6 +154,110 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bahia_Palace_sunlit_window.jpg/1280px-Bahia_Palace_sunlit_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3738,
       "hauteur": 4986
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Singapore River bank and coloured shutters-1 (11860825624).jpg",
+      "description": "Singapore River bank and coloured shutters",
+      "categories": [
+        "Shutters",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Media needing category review as of 24 September 2018"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Singapore_River_bank_and_coloured_shutters-1_(11860825624).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Singapore_River_bank_and_coloured_shutters-1_%2811860825624%29.jpg/1280px-Singapore_River_bank_and_coloured_shutters-1_%2811860825624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2098,
+      "hauteur": 1216
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Brick building with shutters (Unsplash).jpg",
+      "description": "mvp 2016-03-15",
+      "categories": [
+        "CC-Zero",
+        "Window shutters",
+        "Images uploaded by Fæ",
+        "Images from Unsplash",
+        "Images from Unsplash (review needed)"
+      ],
+      "auteur": "mvp mvp",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brick_building_with_shutters_(Unsplash).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Brick_building_with_shutters_%28Unsplash%29.jpg/1280px-Brick_building_with_shutters_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3357,
+      "hauteur": 5128
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Moss Green (116650497).jpeg",
+      "description": "500px provided description: Moss Green [#city ,#street ,#travel ,#europe ,#italy ,#old ,#urban ,#architecture ,#cityscape ,#building ,#green ,#windows ,#shutters]",
+      "categories": [
+        "Shutters",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moss_Green_(116650497).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Moss_Green_%28116650497%29.jpeg/1280px-Moss_Green_%28116650497%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1535
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:DG 2x Brettladen.JPG",
+      "description": "die beiden kleinen Klappläden im Straßengiebel sind von Farbe befreit und fast fertig für den Neuanstrich",
+      "categories": [
+        "Window shutters",
+        "Self-published work"
+      ],
+      "auteur": "Metzner",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DG_2x_Brettladen.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/DG_2x_Brettladen.JPG/1280px-DG_2x_Brettladen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Phuket, Thailand 1 Feb 2022 - Open Shutters.jpg",
+      "description": "Phuket, Thailand",
+      "categories": [
+        "Shutters",
+        "Phuket Province",
+        "February 2022 in Thailand",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sharon Hahn Darlin",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Phuket,_Thailand_1_Feb_2022_-_Open_Shutters.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Phuket%2C_Thailand_1_Feb_2022_-_Open_Shutters.jpg/1280px-Phuket%2C_Thailand_1_Feb_2022_-_Open_Shutters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2972,
+      "hauteur": 3025
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Houses (8313912980).jpg",
+      "description": "Houses",
+      "categories": [
+        "Taken with Nikon D800",
+        "Houses",
+        "Window shutters",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs taken on 2012-09-21",
+        "Files from Steve Collis Flickr stream"
+      ],
+      "auteur": "Steve Collis from Melbourne, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Houses_(8313912980).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Houses_%288313912980%29.jpg/1280px-Houses_%288313912980%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1472
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

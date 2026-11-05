@@ -1,0 +1,53 @@
+{
+  "termId": "beton-matrice",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvriers estampant une dalle de béton fraîche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton imprimé de sol, chantier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Moule de coffrage à faux blocs de pierre posé sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pittsfield",
+      "note": "Moule, pas le béton fini."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol rouge estampé, flou et surexposé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton imprimé de sol, illisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur anti-bruit rose à cactus en relief, photo floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Scottsdale, Arizona",
+      "note": "Floue, éléments rouges étranges."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sol de béton estampé imitant dalles et lames de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton imprimé de sol."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de soutènement à parement façon pierre sous un pont, chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sandy River, Oregon",
+      "note": "Peut passer pour parement en pierre, petit."
+    }
+  ]
+}

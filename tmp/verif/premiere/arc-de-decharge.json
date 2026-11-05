@@ -1,0 +1,53 @@
+{
+  "termId": "arc-de-decharge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade blanche de mosquée avec grandes baies à claustra en arc brisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dacca, Bangladesh",
+      "note": "Aucun arc de décharge."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte de chapelle avec linteau inscrit et plaques votives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jumet, Belgique",
+      "note": "Linteau, pas d'arc de décharge visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Arc brisé en pierre franchissant une ruelle entre deux murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hellín, Espagne",
+      "note": "Arc de passage, pas noyé dans la maçonnerie au-dessus d'une baie."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Linteau antique posé sur deux colonnes ioniques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pergé, Turquie",
+      "note": "Entablement, pas d'arc de décharge."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Arc de coquillages et de silex sombre dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de baie ni de maçonnerie lisible, hypothèse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Linteau sculpté d'un lion en vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau seul, pas d'arc de décharge."
+    }
+  ]
+}

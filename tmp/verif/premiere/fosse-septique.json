@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Seuls des couvercles : confusion avec regard ou tampon."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tranchée avec plusieurs tuyaux PVC blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Canalisations, pas de cuve."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tas de gros blocs de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tamil Nadu, Inde",
+      "note": "Matériaux, pas une fosse septique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vaste pelouse avec maisons au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien d'identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Voyant d'alarme rouge posé sur un couvercle métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voyant, pas la fosse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison sur pilotis abandonnée au bord de la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alligator Point, Floride",
+      "note": "Sans rapport visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier au fond d'une fouille avec une échelle en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tamil Nadu, Inde",
+      "note": "Fouille, cuve non visible."
     }
   ]
 }

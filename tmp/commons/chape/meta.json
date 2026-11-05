@@ -12,6 +12,10 @@
     ],
     "incompatibles": [
       "dallage"
+    ],
+    "categoriesCommons": [
+      "Category:Screeds",
+      "Category:Floor construction"
     ]
   },
   "candidats": [
@@ -120,6 +124,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg/1280px-Dornbirn-Ebnit-underfloor_heating-system-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3468,
       "hauteur": 4624
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:DIEGO GARCIA (Sept 21, 2019) (5814019).jpg",
+      "description": "DIEGO GARCIA (Sept. 21, 2019) Equipment Operator 3rd Class Joseph Wilson, assigned to Naval Mobile Construction Battalion (NMCB) 4, uses screeding board to distribute and level out concrete. NMCB 4 is forward-deployed throughout the Indo-Pacific region ready to support major combat operations, humanitarian assistance and disaster relief and to provide general engineering and civil support to U.S. and joint forces. (U.S. Navy photo by Builder 3rd Class Emma R. Soflin/Released)",
+      "categories": [
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "United Kingdom photographs taken on 2019-09-21",
+        "United States Navy in 2019",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, United Kingdom (review needed)",
+        "Screeds",
+        "Screeding"
+      ],
+      "auteur": "U.S. Navy photo by [null Courtesy]",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:DIEGO_GARCIA_(Sept_21,_2019)_(5814019).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg/1280px-DIEGO_GARCIA_%28Sept_21%2C_2019%29_%285814019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Frame of ventilator.jpg",
+      "description": "Frame of ventilator",
+      "categories": [
+        "Self-published work",
+        "Floor construction",
+        "Taken with Nokia 2700 classic"
+      ],
+      "auteur": "Akhil ccm",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frame_of_ventilator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Frame_of_ventilator.jpg/1280px-Frame_of_ventilator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Estrichglaettung 1.jpg",
+      "description": "Estrich-Glättung",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichglaettung_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Estrichglaettung_1.jpg/1280px-Estrichglaettung_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1584,
+      "hauteur": 1733
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:LiquidScreed.jpg",
+      "description": "Liquid Screed has been pumped over UFH pipes",
+      "categories": [
+        "Self-published work",
+        "Screeds"
+      ],
+      "auteur": "Southern Liquid Screed",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LiquidScreed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/LiquidScreed.jpg/1280px-LiquidScreed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Estrichverlegung 1.jpg",
+      "description": "Estrichverlegung",
+      "categories": [
+        "GFDL",
+        "Taken with Medion 636Z3",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Hundehalter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Estrichverlegung_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Estrichverlegung_1.jpg/1280px-Estrichverlegung_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2864,
+      "hauteur": 2152
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Beneath-the-raised-floor-0a.jpg",
+      "description": "Beneath the raised floor.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot S3 IS",
+        "License migration redundant",
+        "Self-published work",
+        "Data center raised floors",
+        "Floor construction"
+      ],
+      "auteur": "Adamantios",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beneath-the-raised-floor-0a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Beneath-the-raised-floor-0a.jpg/1280px-Beneath-the-raised-floor-0a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

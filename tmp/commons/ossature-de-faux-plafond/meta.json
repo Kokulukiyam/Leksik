@@ -11,7 +11,9 @@
       "ceiling T-bar grid installation"
     ],
     "incompatibles": [
-      "faux-plafond"
+      "faux-plafond",
+      "faux-plafond-a-lames-metalliques",
+      "faux-plafond-en-plaques-de-platre"
     ]
   },
   "candidats": [
@@ -125,6 +127,130 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Biblioteca_Universidad_de_Montevideo%2C_Uy.2.jpg/1280px-Biblioteca_Universidad_de_Montevideo%2C_Uy.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Asbestos acoustic ceiling.jpg",
+      "description": "Dropped ceiling with sound absorping tiles containing asbestos fibres.",
+      "categories": [
+        "Taken with Nikon Coolpix L22",
+        "Dropped ceilings",
+        "Attribution only license",
+        "Construction materials containing asbestos"
+      ],
+      "auteur": "User:EPO",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:Asbestos_acoustic_ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Asbestos_acoustic_ceiling.jpg/1280px-Asbestos_acoustic_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Broken symmetry (2519305034).jpg",
+      "description": "Broken symmetry",
+      "categories": [
+        "Dropped ceilings",
+        "Flickr images missing SDC inception",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Jorge Franganillo",
+        "Images uploaded by User:Thibaultmol"
+      ],
+      "auteur": "Jorge Franganillo",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_symmetry_(2519305034).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Broken_symmetry_%282519305034%29.jpg/1280px-Broken_symmetry_%282519305034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1350,
+      "hauteur": 900
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:20221022 123829 October 2022 in Białystok.jpg",
+      "description": "October 2022 in Białystok",
+      "categories": [
+        "Taken with Samsung Galaxy A7 (2017)",
+        "CC-Zero",
+        "Dropped ceilings",
+        "Self-published work",
+        "Apples from Poland",
+        "Files with coordinates missing SDC location of creation",
+        "Poland photographs taken on 2022-10-22",
+        "October 2022 in Białystok",
+        "Interior of PSS Społem Białystok (Pogodna 6)"
+      ],
+      "auteur": "Rakoon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20221022_123829_October_2022_in_Bia%C5%82ystok.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/20221022_123829_October_2022_in_Bia%C5%82ystok.jpg/1280px-20221022_123829_October_2022_in_Bia%C5%82ystok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Cleveland Institute of Music - interior 3.jpg",
+      "description": "Interior - Cleveland Institute of Music, Cleveland, Ohio, USA.",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Cleveland Institute of Music",
+        "Dropped ceilings",
+        "Self-published work",
+        "PD-self",
+        "Reflections in the United States",
+        "July 2008 United States photographs",
+        "Files uploaded by Daderot",
+        "Corridors in Cleveland"
+      ],
+      "auteur": "Daderot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cleveland_Institute_of_Music_-_interior_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cleveland_Institute_of_Music_-_interior_3.jpg/1280px-Cleveland_Institute_of_Music_-_interior_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bus Station \"Okhtyrka\"(2).JPG",
+      "description": "Bus Station \"Okhtyrka\", View from the inside",
+      "categories": [
+        "Taken with Casio Exilim EX-ZS12",
+        "Bus stations in Ukraine",
+        "Dropped ceilings",
+        "Self-published work",
+        "Bus stops in Sumy Oblast",
+        "May 2015 in Sumy Oblast",
+        "Buildings in Ukraine photographed in 2015",
+        "Building interiors in Sumy Oblast",
+        "2015 in Okhtyrka",
+        "Buildings in Okhtyrka",
+        "Empty seats in Ukraine",
+        "WikiPhoto Project WEP Ukraine, Spring 2015",
+        "Uploaded via Campaign:wikiphoto"
+      ],
+      "auteur": "Winout96",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_Station_%22Okhtyrka%22(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bus_Station_%22Okhtyrka%22%282%29.JPG/1280px-Bus_Station_%22Okhtyrka%22%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ceiling finishes in the Train Control Center located in the east cavern. (03-26-2019) (46577659445).jpg",
+      "description": "Ceiling finishes in the Train Control Center located in the east cavern. (03-26-2019)",
+      "categories": [
+        "Dropped ceilings",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/03/29"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_finishes_in_the_Train_Control_Center_located_in_the_east_cavern._(03-26-2019)_(46577659445).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ceiling_finishes_in_the_Train_Control_Center_located_in_the_east_cavern._%2803-26-2019%29_%2846577659445%29.jpg/1280px-Ceiling_finishes_in_the_Train_Control_Center_located_in_the_east_cavern._%2803-26-2019%29_%2846577659445%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

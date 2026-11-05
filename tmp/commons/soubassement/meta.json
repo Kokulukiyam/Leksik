@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "facade"
+    ],
+    "categoriesCommons": [
+      "Category:Plinths"
     ]
   },
   "candidats": [
@@ -222,6 +225,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Sir_Thomas_Hardy_monument%2C_Royal_Naval_College_Chapel%2C_Greenwich_Hospital.jpg/1280px-Sir_Thomas_Hardy_monument%2C_Royal_Naval_College_Chapel%2C_Greenwich_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2317,
       "hauteur": 4119
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Plinth (AM 2017.17.1).jpg",
+      "description": "Russell statue pediment",
+      "categories": [
+        "Files with no machine-readable author",
+        "Plinths",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plinth_(AM_2017.17.1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Plinth_%28AM_2017.17.1%29.jpg/1280px-Plinth_%28AM_2017.17.1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Rolleston gone.JPG",
+      "description": "Rolleston's statue has been removed from the plinth after falling down.",
+      "categories": [
+        "GFDL",
+        "Taken with Sony DSC-W210",
+        "Rolleston Statue",
+        "License migration redundant",
+        "Plinths",
+        "Self-published work",
+        "Images by Schwede66"
+      ],
+      "auteur": "Schwede66",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rolleston_gone.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Rolleston_gone.JPG/1280px-Rolleston_gone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Plinth.jpg",
+      "description": "Plinto",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "Plinths",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Stuart Yeates https://www.flickr.com/photos/stuartyeates/",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plinth.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Plinth.jpg/1280px-Plinth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:MacDonald Monument without statue.jpg",
+      "description": "The John A. MacDonald Monument in Montreal pictured in 2023 with vacant plinth after the 2020 toppling and decapitation of the statue during anti-police mob action.",
+      "categories": [
+        "Sir John A. Macdonald Monument, Montreal",
+        "Plinths",
+        "Self-published work",
+        "August 2023 in Quebec",
+        "George Floyd protests in Montreal",
+        "Photographs by Dclemens1971"
+      ],
+      "auteur": "Dclemens1971",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MacDonald_Monument_without_statue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/MacDonald_Monument_without_statue.jpg/1280px-MacDonald_Monument_without_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:009 Decorated Plinth (9203109827).jpg",
+      "description": "09 Decorated Plinth, Wat Chang Taem, Chiang Mai",
+      "categories": [
+        "Plinths",
+        "Wat Chang Taem, Chiang Mai",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "Photo Dharma from Sadao, Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:009_Decorated_Plinth_(9203109827).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/009_Decorated_Plinth_%289203109827%29.jpg/1280px-009_Decorated_Plinth_%289203109827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Amman 1987 03.jpg",
+      "description": "Plinth and bases of Roman columns in the citadel; behind, the city. Amman, Jordan",
+      "categories": [
+        "Views of Amman",
+        "Amman Citadel",
+        "Plinths",
+        "Self-published work",
+        "1987 in Amman",
+        "Photographs by LBM1948",
+        "Ancient Roman Attic bases"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amman_1987_03.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Amman_1987_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1045,
+      "hauteur": 701
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

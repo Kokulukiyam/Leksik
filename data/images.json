@@ -3297,6 +3297,24 @@
     "note": "Vérification : Appareil net sur fond neutre. Contre-vérification : Laser rotatif à tête tournante et nivelle, sur trépied, fond neutre : niveau laser clair."
   },
   {
+    "id": "trottoir-11",
+    "termId": "trottoir",
+    "fichier": "commons/trottoir-11.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.54,
+      "largeur": 0.58,
+      "hauteur": 0.27
+    },
+    "lieu": "Israël",
+    "source": "commons",
+    "auteur": "דוד שי",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blue-white_sidewalk.JPG",
+    "statut": "validée",
+    "note": "Vérification : Trottoir clairement encadré, entre façade et chaussée. Contre-vérification : Rectangle sur la bande piétonne dallée surélevée entre la vitrine et la chaussée : trottoir clair et dominant."
+  },
+  {
     "id": "bordure-de-trottoir-01",
     "termId": "bordure-de-trottoir",
     "fichier": "commons/bordure-de-trottoir-01.webp",
@@ -3308,6 +3326,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Road_Curb.JPG",
     "statut": "validée",
     "note": "Vérification : Bordure en béton dominante et nette ; chaussée au pied. Contre-vérification : Bordure en béton entre trottoir pavé et chaussée, différence de hauteur bien visible ; ce n'est pas une bordurette."
+  },
+  {
+    "id": "bordure-de-trottoir-11",
+    "termId": "bordure-de-trottoir",
+    "fichier": "commons/bordure-de-trottoir-11.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.38,
+      "largeur": 0.6,
+      "hauteur": 0.62
+    },
+    "lieu": "Pays-Bas",
+    "source": "commons",
+    "auteur": "StockyPics",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Curb_in_the_street_(23394444552).jpg",
+    "statut": "validée",
+    "note": "Vérification : Bloc de bordure net et dominant, rectangle vérifié. Contre-vérification : Vue rasante d'une grosse bordure en béton qui sépare deux niveaux de revêtement : la bordure domine le rectangle."
   },
   {
     "id": "chaussee-01",
@@ -4594,6 +4630,24 @@
     "note": "Vérification : Mur végétal modulaire, net. Contre-vérification : Système modulaire de poches plantées sur support vertical avec tuyaux d'arrosage visibles : mur végétal."
   },
   {
+    "id": "avant-corps-03",
+    "termId": "avant-corps",
+    "fichier": "commons/avant-corps-03.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.12,
+      "largeur": 0.45,
+      "hauteur": 0.86
+    },
+    "lieu": "Copenhague, Danemark",
+    "source": "commons",
+    "auteur": "Villy Fink Isaksen",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:L%C3%A6ss%C3%B8esgades_Skole_hj%C3%B8rnerisalit.jpg",
+    "statut": "validée",
+    "note": "Vérification : Risalit d'angle sur toute la hauteur, rectangle vérifié. Contre-vérification : Travée de façade en brique en légère saillie, sur toute la hauteur jusqu'à son propre pignon, bien cadrée par le rectangle : avant-corps."
+  },
+  {
     "id": "coursive-01",
     "termId": "coursive",
     "fichier": "commons/coursive-01.webp",
@@ -4680,6 +4734,60 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Window_display_of_prom_dress_shop.jpg",
     "statut": "validée",
     "note": "Vérification : Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée. Contre-vérification : Vitrine de magasin de robes avec mannequins exposés derrière le verre, sujet évident."
+  },
+  {
+    "id": "jardiniere-01",
+    "termId": "jardiniere",
+    "fichier": "commons/jardiniere-01.webp",
+    "rectangle": {
+      "x": 0.32,
+      "y": 0.71,
+      "largeur": 0.3,
+      "hauteur": 0.26
+    },
+    "lieu": "Côte des Érables, Canada",
+    "source": "commons",
+    "auteur": "June Dennie",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:1405,_C%C3%B4te_des_%C3%89rables_(d%C3%A9tails_fa%C3%A7ade_1).JPG",
+    "statut": "validée",
+    "note": "Vérification : Jardinière en saillie sous la baie, rectangle vérifié. Contre-vérification : Bac à fleurs en bois sur consoles sous la fenêtre, désigné de près par le rectangle : jardinière sans ambiguïté."
+  },
+  {
+    "id": "pignon-a-redents-01",
+    "termId": "pignon-a-redents",
+    "fichier": "commons/pignon-a-redents-01.webp",
+    "rectangle": {
+      "x": 0.07,
+      "y": 0.04,
+      "largeur": 0.83,
+      "hauteur": 0.52
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Derek J Moore",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Middelberg_Station.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gradins nets sur les deux rampants, rectangle vérifié. Contre-vérification : Pignon en pierre dont les rampants sont découpés en gradins, nettement cadré : pignon à redents."
+  },
+  {
+    "id": "pignon-a-redents-03",
+    "termId": "pignon-a-redents",
+    "fichier": "commons/pignon-a-redents-03.webp",
+    "rectangle": {
+      "x": 0.58,
+      "y": 0.06,
+      "largeur": 0.34,
+      "hauteur": 0.45
+    },
+    "lieu": "Londres, Royaume-Uni",
+    "source": "commons",
+    "auteur": "franek2",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tollington_market_-_panoramio_(1).jpg",
+    "statut": "validée",
+    "note": "Vérification : Pignon à redents bien lisible, rectangle vérifié. Contre-vérification : Pignon enduit aux rampants en gradins successifs, bien dégagé sur le ciel et cadré : pignon à redents."
   },
   {
     "id": "terrasse-accessible-01",
@@ -4798,6 +4906,42 @@
     "note": "Vérification : Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture. Contre-vérification : Toit à quatre versants avec faîtage court et croupes, sans pignon, rectangle juste."
   },
   {
+    "id": "demi-croupe-04",
+    "termId": "demi-croupe",
+    "fichier": "commons/demi-croupe-04.webp",
+    "rectangle": {
+      "x": 0.55,
+      "y": 0.18,
+      "largeur": 0.35,
+      "hauteur": 0.2
+    },
+    "lieu": "Eisenkappel, Autriche",
+    "source": "commons",
+    "auteur": "JOADL",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Eisenkappel_Troegern_Church_2007_02.JPG",
+    "statut": "validée",
+    "note": "Vérification : Petit versant coupant le haut du pignon, rectangle vérifié. Contre-vérification : Le rectangle cadre le haut du pignon en bois coupé par un petit versant incliné : demi-croupe visible."
+  },
+  {
+    "id": "demi-croupe-05",
+    "termId": "demi-croupe",
+    "fichier": "commons/demi-croupe-05.webp",
+    "rectangle": {
+      "x": 0.58,
+      "y": 0,
+      "largeur": 0.35,
+      "hauteur": 0.36
+    },
+    "lieu": "Huttwil, Suisse",
+    "source": "commons",
+    "auteur": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Hotel_Krone_in_Huttwil_BE.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pan incliné au sommet du pignon ; rectangle vérifié. Contre-vérification : Petit versant en tuiles qui abat le sommet du pignon bernois, cadré par le rectangle : demi-croupe."
+  },
+  {
     "id": "toit-conique-05",
     "termId": "toit-conique",
     "fichier": "commons/toit-conique-05.webp",
@@ -4814,6 +4958,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:M%C3%A1jus_1._park_5,_Kegeldach,_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg",
     "statut": "validée",
     "note": "Vérification : Cône net, très lisible. Contre-vérification : Toit en cône couvert de bardeaux sur une tour ronde, cadré par le rectangle : toit conique sans doute."
+  },
+  {
+    "id": "toiture-cintree-01",
+    "termId": "toiture-cintree",
+    "fichier": "commons/toiture-cintree-01.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.01,
+      "largeur": 0.5,
+      "hauteur": 0.32
+    },
+    "lieu": "Darmstadt, Allemagne",
+    "source": "commons",
+    "auteur": "4028mdk09",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Darmstadt_Bahngalerie_Juni_2012.JPG",
+    "statut": "validée",
+    "note": "Vérification : Toiture cintrée nette, rectangle vérifié. Contre-vérification : Toiture en arc métallique sur structure courbe, nettement désignée : toiture cintrée."
+  },
+  {
+    "id": "toit-papillon-03",
+    "termId": "toit-papillon",
+    "fichier": "commons/toit-papillon-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.32,
+      "largeur": 1,
+      "hauteur": 0.25
+    },
+    "lieu": "Santa Rosa, Nouveau-Mexique, États-Unis",
+    "source": "commons",
+    "auteur": "el-toro",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gas_Station_(16280202675).jpg",
+    "statut": "validée",
+    "note": "Vérification : Forme en V très lisible, rectangle vérifié. Contre-vérification : Couverture de station-service à deux versants relevés vers l'extérieur et inclinés vers le centre en V : toit papillon."
   },
   {
     "id": "charpente-02",
@@ -4994,6 +5174,42 @@
     "note": "Vérification : Tranchée longue et étroite en plein sol, typique d'une tranchée de fondation ; dominante dans l'image. Contre-vérification : Tranchée longue et étroite creusée selon le tracé d'un mur, fond bétonné avec un peu d'armature ; la tranchée est clairement le sujet."
   },
   {
+    "id": "paroi-berlinoise-01",
+    "termId": "paroi-berlinoise",
+    "fichier": "commons/paroi-berlinoise-01.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.15,
+      "largeur": 0.72,
+      "hauteur": 0.65
+    },
+    "lieu": "Zweenfurt, Allemagne",
+    "source": "commons",
+    "auteur": "Falk2",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:J39_149_E%C3%9C_Zweenfurther_Stra%C3%9Fe,_Gr%C3%BCndung_6371_Nord.jpg",
+    "statut": "validée",
+    "note": "Vérification : Profilés verticaux et remplissage bois bien visibles. Contre-vérification : Profilés acier verticaux avec planches bois entre eux retenant la fouille : paroi berlinoise typique et dominante."
+  },
+  {
+    "id": "palplanche-06",
+    "termId": "palplanche",
+    "fichier": "commons/palplanche-06.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0.4,
+      "largeur": 0.62,
+      "hauteur": 0.27
+    },
+    "lieu": "La Nouvelle-Orléans, États-Unis",
+    "source": "commons",
+    "auteur": "Infrogmation",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:LondonAvFlexifloat3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Profilés ondulés emboîtés clairement visibles, photo nette. Contre-vérification : Rideau de profilés d'acier ondulés emboîtés verticalement au bord de l'eau, bien cadré : palplanches."
+  },
+  {
     "id": "ferraillage-02",
     "termId": "ferraillage",
     "fichier": "commons/ferraillage-02.webp",
@@ -5067,6 +5283,81 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Qew_bruecke_nf_beton_kaputt_34_von_46.jpg",
     "statut": "validée",
     "note": "Vérification : Rouille, béton éclaté et acier à nu clairement visibles. Contre-vérification : Béton fissuré et éclaté le long de barres rouillées avec coulures de rouille : corrosion des armatures."
+  },
+  {
+    "id": "beton-projete-03",
+    "termId": "beton-projete",
+    "fichier": "commons/beton-projete-03.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0,
+      "largeur": 0.62,
+      "hauteur": 0.66
+    },
+    "lieu": "Cologne, Allemagne",
+    "source": "commons",
+    "auteur": "Raimond Spekking",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8289.jpg",
+    "statut": "validée",
+    "note": "Vérification : Application de béton projeté et surface typique visibles. Contre-vérification : Ouvrier projetant du béton à la lance sur une paroi de fouille à la surface rugueuse et bosselée : béton projeté sans ambiguïté."
+  },
+  {
+    "id": "appareil-anglais-01",
+    "termId": "appareil-anglais",
+    "fichier": "commons/appareil-anglais-01.webp",
+    "rectangle": null,
+    "lieu": "Burgum, Pays-Bas",
+    "source": "commons",
+    "auteur": "A.-K. D.",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:English_bond_on_an_old_building_in_Burgum.jpg",
+    "statut": "validée",
+    "note": "Vérification : Alternance nette d'un rang de panneresses et d'un rang de boutisses, appareil anglais lisible malgré l'usure. Contre-vérification : Mur de briques où les rangs de panneresses alternent régulièrement avec des rangs de boutisses : appareil anglais lisible."
+  },
+  {
+    "id": "appareil-en-epi-02",
+    "termId": "appareil-en-epi",
+    "fichier": "commons/appareil-en-epi-02.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mlane78212",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Herringbone_stonework_which_usually_indicates_11century_construction.JPG",
+    "statut": "validée",
+    "note": "Vérification : Épi (opus spicatum) net et dominant, plein cadre. Contre-vérification : Pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson, plein cadre : appareil en épi."
+  },
+  {
+    "id": "appareil-en-epi-04",
+    "termId": "appareil-en-epi",
+    "fichier": "commons/appareil-en-epi-04.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.29,
+      "largeur": 0.34,
+      "hauteur": 0.3
+    },
+    "lieu": "Gaète, Italie",
+    "source": "commons",
+    "auteur": "Pufui PcPifpef",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gaeta,_ex_chiesa_di_Santa_Lucia_-_Facciata,_inserti_in_opus_spicatum_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur l'insert de gauche, briques en arête de poisson bien visibles. Contre-vérification : Le rectangle cadre un panneau de briques posées en oblique en arête de poisson dans un mur de pierre : appareil en épi."
+  },
+  {
+    "id": "appareil-reticule-05",
+    "termId": "appareil-reticule",
+    "fichier": "commons/appareil-reticule-05.webp",
+    "rectangle": null,
+    "lieu": "Castel del Monte, Italie",
+    "source": "commons",
+    "auteur": "Enric",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:40_Castel_del_Monte_(Andria),_decoraci%C3%B3_d%27opus_reticulatum_en_una_sala_de_la_planta_superior.jpg",
+    "statut": "validée",
+    "note": "Vérification : Réseau de losanges net sur presque toute l'image, pâle mais lisible. Contre-vérification : Tympan couvert de petites pierres carrées posées sur la pointe formant un filet de losanges, coupé de rangs de pierre : appareil réticulé."
   },
   {
     "id": "gachage-01",

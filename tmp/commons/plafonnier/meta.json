@@ -9,6 +9,9 @@
       "ceiling light",
       "plafonnier",
       "flush mount ceiling light"
+    ],
+    "incompatibles": [
+      "suspension"
     ]
   },
   "candidats": [
@@ -192,6 +195,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dome_light.jpg/1280px-Dome_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3288,
       "hauteur": 2456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Plafonnier Renault Scenic RX4.jpg",
+      "description": "Plafonnier arrière dans une Renault Scénic RX4.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Dome lights",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Renault Scénic RX4"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Plafonnier_Renault_Scenic_RX4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Plafonnier_Renault_Scenic_RX4.jpg/1280px-Plafonnier_Renault_Scenic_RX4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3392,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Sharp ceiling projector 20070301a.jpg",
+      "description": "Sharp ceiling projector.",
+      "categories": [
+        "Projectors",
+        "GFDL",
+        "Taken with Nikon Coolpix L5",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Sharp Corporation products",
+        "Self-published work"
+      ],
+      "auteur": "user:Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sharp_ceiling_projector_20070301a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sharp_ceiling_projector_20070301a.jpg/1280px-Sharp_ceiling_projector_20070301a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Sharp ceiling projector 20070301b.jpg",
+      "description": "Sharp ceiling projector.",
+      "categories": [
+        "Projectors",
+        "GFDL",
+        "Taken with Nikon Coolpix L5",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Sharp Corporation products",
+        "Self-published work"
+      ],
+      "auteur": "Piotrus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sharp_ceiling_projector_20070301b.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sharp_ceiling_projector_20070301b.jpg/1280px-Sharp_ceiling_projector_20070301b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Prague Main Railway Station Ceiling Lights.jpg",
+      "description": "Ceiling lights in the main hall of Prague Main Railway Station. The lights are arranged in a rectangular grid, and each light consists of a circular recess with four linear tubes arranged in parallel. Three of the lights aren't working, subtly breaking the otherwise symmetrical image. The light tubes close to the camera appear curved as if due to lens distortion, but they're actually perfectly straight – it's the housing around the tubes that's curved.",
+      "categories": [
+        "Interior light fixtures in Czechia",
+        "Taken with Sony ILCE-7M4",
+        "CC-Zero",
+        "Retouched pictures",
+        "Taken with Sony FE 20mm F1.8 G",
+        "Self-published work",
+        "Red circles",
+        "5x5 arrays",
+        "Files with coordinates missing SDC location of creation",
+        "New vestibule of Praha hlavní nádraží",
+        "Recessed light fixtures",
+        "Interior train station lighting",
+        "Circle-based abstract architecture photography"
+      ],
+      "auteur": "AVDLCZ",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Prague_Main_Railway_Station_Ceiling_Lights.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Prague_Main_Railway_Station_Ceiling_Lights.jpg/1280px-Prague_Main_Railway_Station_Ceiling_Lights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6795,
+      "hauteur": 4530
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ceiling projector interior.JPG",
+      "description": "",
+      "categories": [
+        "Taken with Kodak EasyShare CX4200",
+        "Files with no machine-readable source",
+        "Media lacking a description",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Photographs taken on 2005-08-21",
+        "Ceiling projectors"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : CambridgeBayWeather (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_projector_interior.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ceiling_projector_interior.JPG/1280px-Ceiling_projector_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1232
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ceiling projector platform.jpg",
+      "description": "An elaborate projector platform descended from the ceiling of a conference room",
+      "categories": [
+        "Projectors",
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "WikiConference North America 2023 Saturday"
+      ],
+      "auteur": "LingLass",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling_projector_platform.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ceiling_projector_platform.jpg/1280px-Ceiling_projector_platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3006,
+      "hauteur": 3289
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

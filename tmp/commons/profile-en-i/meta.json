@@ -11,7 +11,12 @@
       "steel I-beams"
     ],
     "incompatibles": [
-      "profile-en-h"
+      "profile-en-h",
+      "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:I-beams",
+      "Category:Steel beams"
     ]
   },
   "candidats": [
@@ -149,6 +154,135 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/I-beam_raw_material_at_WP_Welding_2.jpg/1280px-I-beam_raw_material_at_WP_Welding_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4900,
       "hauteur": 2756
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Stahlträger (steel profile).jpg",
+      "description": "Steel profile",
+      "categories": [
+        "Self-published work",
+        "I-beams"
+      ],
+      "auteur": "Sastognuti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stahltr%C3%A4ger_(steel_profile).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stahltr%C3%A4ger_%28steel_profile%29.jpg/1280px-Stahltr%C3%A4ger_%28steel_profile%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 1824
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:East Side Access Update- Queens side - August 7, 2014 (14885782141).jpg",
+      "description": "Images in and around the area that contain Plaza Substations and Queens structures as part of the Queens side of East Access Project. Photo: Metropolitan Transportation Authority / Patrick Cashin",
+      "categories": [
+        "Taken with Nikon D4",
+        "Girders",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images taken by the Metropolitan Transportation Authority (New York)",
+        "2014 in Long Island City, Queens",
+        "Steel beams",
+        "Rebar on site",
+        "Metropolitan Transportation Authority people",
+        "Flickr files uploaded by Epicgenius",
+        "63rd Street Tunnel portal (Sunnyside Yard)",
+        "East Side Access construction/2014/08",
+        "Metropolitan Transportation Authority photographs by Patrick Cashin"
+      ],
+      "auteur": "Metropolitan Transportation Authority of the State of New York",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:East_Side_Access_Update-_Queens_side_-_August_7,_2014_(14885782141).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/East_Side_Access_Update-_Queens_side_-_August_7%2C_2014_%2814885782141%29.jpg/1280px-East_Side_Access_Update-_Queens_side_-_August_7%2C_2014_%2814885782141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1278
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A rope on a newly constructed support for preassure tanks 1.jpg",
+      "description": "A rope on a newly constructed support, made from I-beams, for preassure tanks at West Pipe Welding, Gåseberg, Lysekil Municipality, Sweden.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ1000",
+        "Structural steel",
+        "CC-Zero",
+        "Steel-profiles",
+        "Ropes",
+        "Self-published work",
+        "Images by W.carter",
+        "Files with coordinates missing SDC location of creation",
+        "West Pipe Welding AB",
+        "Steel beams"
+      ],
+      "auteur": "W.carter",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_rope_on_a_newly_constructed_support_for_preassure_tanks_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/A_rope_on_a_newly_constructed_support_for_preassure_tanks_1.jpg/1280px-A_rope_on_a_newly_constructed_support_for_preassure_tanks_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4421,
+      "hauteur": 3038
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:I-Träger feuerverzinkt mit Hängeloch.jpg",
+      "description": "Hot-dip galvanized steel beam with hanging hole",
+      "categories": [
+        "Anchor bolts",
+        "Self-published work",
+        "I-beams",
+        "Steel-profile storage",
+        "Hot-dip galvanized objects"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg/1280px-I-Tr%C3%A4ger_feuerverzinkt_mit_H%C3%A4ngeloch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Aldi, Cosne (6).jpg",
+      "description": "De gauche à droite : pompe à béton Schwing, foreuse de pieux de fondation sur chenilles Soilmec SR-30 et excavatrice Komatsu PC 210NLC.",
+      "categories": [
+        "Concrete pumps",
+        "Schwing Stetter (Memmingen)",
+        "Self-published work",
+        "Foundations in France",
+        "Komatsu vehicles in France",
+        "Steel beams",
+        "Steel-profile storage",
+        "Komatsu PC210",
+        "Soilmec SR-30",
+        "Excavators in Cosne-Cours-sur-Loire",
+        "ALDI supermarket in Cosne-Cours-sur-Loire (construction)"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aldi,_Cosne_(6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aldi%2C_Cosne_%286%29.jpg/1280px-Aldi%2C_Cosne_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Muhlenberg College.jpg",
+      "description": "Muhlenberg College",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-LC33",
+        "User-created GFDL images",
+        "Muhlenberg College",
+        "License migration completed",
+        "Self-published work",
+        "Higher education institutions in Pennsylvania",
+        "I-beams"
+      ],
+      "auteur": "Duempel at de.wikipedia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muhlenberg_College.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Muhlenberg_College.jpg/1280px-Muhlenberg_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

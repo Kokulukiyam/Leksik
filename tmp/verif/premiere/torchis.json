@@ -1,0 +1,53 @@
+{
+  "termId": "torchis",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hutte ronde à toit de chaume, mur bas en terre, âne devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Éthiopie",
+      "note": "Terre ambiguë (bauge), pas de clayonnage visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pan de bois dont le remplissage est un clayonnage de branches garni de terre et paille.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Eitorf, Allemagne",
+      "note": "Clayonnage et torchis très visibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maquette de quartier protohistorique en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arles",
+      "note": "Maquette."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Paysage enneigé avec un homme en manteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneau de clayonnage partiellement garni de terre, vue oblique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shropshire, Royaume-Uni",
+      "note": "Cadrage confus, plafond/escalier visibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pan de bois dont les remplissages de clayonnage et terre sont mis à nu, avec moellons.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Meiningen, Allemagne",
+      "note": "Clayonnage et torchis lisibles."
+    }
+  ]
+}

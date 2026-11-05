@@ -9,6 +9,9 @@
       "building foundation construction site concrete",
       "fondation béton chantier",
       "foundation concrete rebar trench"
+    ],
+    "incompatibles": [
+      "fouille"
     ]
   },
   "candidats": [
@@ -160,6 +163,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pump_truck_concrete_pour_Enfield_NS_2.jpg/1280px-Pump_truck_concrete_pour_Enfield_NS_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Assistance à des enfants démunis par Harish Jagtani HJFoundation Philantrophe indien.jpg",
+      "description": "Charities organized by the HJFoundation of Indian philanthropist and businessman Harish Jagtani \"Promoting Humanity",
+      "categories": [
+        "Philanthropists",
+        "Businesspeople from India",
+        "Charity",
+        "Foundations (organizations)",
+        "Self-published work",
+        "Businessmen from India",
+        "Ambiguous location in EXIF"
+      ],
+      "auteur": "Joel Kioni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assistance_%C3%A0_des_enfants_d%C3%A9munis_par_Harish_Jagtani_HJFoundation_Philantrophe_indien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Assistance_%C3%A0_des_enfants_d%C3%A9munis_par_Harish_Jagtani_HJFoundation_Philantrophe_indien.jpg/1280px-Assistance_%C3%A0_des_enfants_d%C3%A9munis_par_Harish_Jagtani_HJFoundation_Philantrophe_indien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:06-Pejman-foundation.jpg",
+      "description": "Sebastian Bieniek, artist talk during his „Bal Umagbe La“ exhibition opening at the Kandovan Building of the Pajman Foundation in Tehran/Iran. 13th of july 2018 (visitors)",
+      "categories": [
+        "Sebastian Bieniek",
+        "Art exhibitions",
+        "Foundations (organizations)",
+        "Self-published work",
+        "Art in Iran"
+      ],
+      "auteur": "Reza Mahmoudidschad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:06-Pejman-foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/06-Pejman-foundation.jpg/1280px-06-Pejman-foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1333
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Don des pains par La Fondation Harishn Jagtani HJ Foundation Homme d affaires indien.jpg",
+      "description": "Donation of basic necessities by HJ Foundation of Indian philanthropist Harish Jagtani, Promoting Humanity",
+      "categories": [
+        "Philanthropists",
+        "Businesspeople from India",
+        "Charity",
+        "Foundations (organizations)",
+        "Self-published work",
+        "Businessmen from India"
+      ],
+      "auteur": "Joel Kioni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Don_des_pains_par_La_Fondation_Harishn_Jagtani_HJ_Foundation_Homme_d_affaires_indien.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Don_des_pains_par_La_Fondation_Harishn_Jagtani_HJ_Foundation_Homme_d_affaires_indien.jpg/1280px-Don_des_pains_par_La_Fondation_Harishn_Jagtani_HJ_Foundation_Homme_d_affaires_indien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Diagnostic Paludisme par HJ Foundation Promouvoir l humanité.jpg",
+      "description": "HJ Foundation of Harish Jagtani, Indian businessman and philanthropist, committed to the fight against malaria",
+      "categories": [
+        "Philanthropists",
+        "Businesspeople from India",
+        "Charity",
+        "Foundations (organizations)",
+        "Self-published work",
+        "Businessmen from India"
+      ],
+      "auteur": "Joel Kioni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Diagnostic_Paludisme_par_HJ_Foundation_Promouvoir_l_humanit%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Diagnostic_Paludisme_par_HJ_Foundation_Promouvoir_l_humanit%C3%A9.jpg/1280px-Diagnostic_Paludisme_par_HJ_Foundation_Promouvoir_l_humanit%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Dons des médicaments par HJ Foundation de l investisseur Harish Jagtani.jpg",
+      "description": "Promoting humanity through health by HJ Foundation of Harish Jagtani, Indian businessman and philanthropist based in the Democratic Republic of Congo",
+      "categories": [
+        "Philanthropists",
+        "Businesspeople from India",
+        "Charity",
+        "Foundations (organizations)",
+        "Self-published work",
+        "Businessmen from India",
+        "Ambiguous location in EXIF"
+      ],
+      "auteur": "Joel Kioni",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dons_des_m%C3%A9dicaments_par_HJ_Foundation_de_l_investisseur_Harish_Jagtani.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dons_des_m%C3%A9dicaments_par_HJ_Foundation_de_l_investisseur_Harish_Jagtani.jpg/1280px-Dons_des_m%C3%A9dicaments_par_HJ_Foundation_de_l_investisseur_Harish_Jagtani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 1960
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:01-pejman-foundation.jpg",
+      "description": "Sebastian Bieniek, artist talk during his „Bal Umagbe La“ exhibition opening at the Kandovan Building of the Pajman Foundation in Tehran/Iran. 13th of august 2018 (visitors)",
+      "categories": [
+        "Male painters from Germany",
+        "Conceptual artists from Germany",
+        "Artists from Berlin",
+        "Sebastian Bieniek",
+        "Foundations (organizations)",
+        "Photographers in Berlin",
+        "Self-published work",
+        "Images with extracted images",
+        "Art in Iran"
+      ],
+      "auteur": "Reza Mahmoudidschad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:01-pejman-foundation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/01-pejman-foundation.jpg/1280px-01-pejman-foundation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1372
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

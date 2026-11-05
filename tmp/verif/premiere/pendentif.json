@@ -1,0 +1,53 @@
+{
+  "termId": "pendentif",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pendentif peint d'un navire dans la grande salle du Cunard Building.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liverpool, Royaume-Uni",
+      "note": "Correct mais plus sombre et déformé que la 06 du même édifice; doublon écarté."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur d'un sanctuaire avec lustre et voûte à décor de miroirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Qom, Iran",
+      "note": "Transition carré-cercle non lisible, décor confus."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pendentif triangulaire sphérique orné d'une fresque sous le tambour de la coupole.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Verceil, Italie",
+      "note": "Triangle courbe sous la coupole clairement lisible; fresque sans texte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Coupole blanche vue de dessous avec baies, sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chatsworth, Angleterre",
+      "note": "Pendentifs non visibles, c'est la coupole."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voûte almoravide à muqarnas et coquilles, en brun.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marrakech, Maroc",
+      "note": "Trompes et muqarnas, pas des pendentifs nets."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pendentif peint d'une caravelle, encadré par les arcs et la base de la coupole.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Liverpool, Royaume-Uni",
+      "note": "Pendentif entier bien lisible, triangle courbe entre arcs et coupole."
+    }
+  ]
+}

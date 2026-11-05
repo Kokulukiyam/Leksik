@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "fondation",
-      "tranchee-de-fondation"
+      "tranchee-de-fondation",
+      "fouille"
     ]
   },
   "candidats": [
@@ -37,5 +38,7 @@
       "largeur": 1930,
       "hauteur": 2928
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

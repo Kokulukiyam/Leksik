@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "charniere",
-      "gond"
+      "gond",
+      "penture"
     ],
     "categoriesCommons": [
       "Category:Door hinges",
@@ -148,6 +149,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg/1280px-Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4877,
       "hauteur": 3251
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bryant Barn Door.jpg",
+      "description": "William Cullen Bryant Homestead, Cummington",
+      "categories": [
+        "Taken with Nikon Coolpix P7700",
+        "Door hinges",
+        "William Cullen Bryant Homestead",
+        "Self-published work",
+        "National Register of Historic Places with known IDs",
+        "Images from Wikipedia Summer of Monuments",
+        "Barn doors",
+        "Unreviewed submissions from Wikipedia Summer of Monuments",
+        "Uploaded via Campaign:wsm"
+      ],
+      "auteur": "Robert W. Salthouse",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bryant_Barn_Door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bryant_Barn_Door.jpg/1280px-Bryant_Barn_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bern Peter und Paul Tuerband.jpg",
+      "description": "Türband eines Seiteneinganges der Kirche St. Peter und Paul in Bern, Schweiz. Die Türe riecht nach Leinöl.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 350D",
+        "Door hinges",
+        "License migration completed",
+        "Decorative hinges in Switzerland",
+        "Wooden doors in the canton of Bern",
+        "Kirche St. Peter und Paul (Bern)"
+      ],
+      "auteur": "Ikiwaner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bern_Peter_und_Paul_Tuerband.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bern_Peter_und_Paul_Tuerband.jpg/1280px-Bern_Peter_und_Paul_Tuerband.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3189,
+      "hauteur": 2126
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Case, guitar (AM 2019.4.18-10).jpg",
+      "description": "Guitar case used by Bill Sevesi Made from wood and leather with a velvet lining, used to store a lap guitar, metal fastenings and brown plastic handle, the velvet lining is worn away on the inside.",
+      "categories": [
+        "Hinges",
+        "Files with no machine-readable author",
+        "Files with broken file links",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Artworks with known accession number",
+        "Guitar cases"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case,_guitar_(AM_2019.4.18-10).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Case%2C_guitar_%28AM_2019.4.18-10%29.jpg/1280px-Case%2C_guitar_%28AM_2019.4.18-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chesterfield Parish Church (146).JPG",
+      "description": "Chesterfield parish church of St Mary and All Saints, Derbyshire. Showing hinge of west door.",
+      "categories": [
+        "GFDL",
+        "Door hinges",
+        "Church of St Mary and All Saints, Chesterfield",
+        "License migration redundant",
+        "Self-published work",
+        "Church doors in Derbyshire"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chesterfield_Parish_Church_(146).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Chesterfield_Parish_Church_%28146%29.JPG/1280px-Chesterfield_Parish_Church_%28146%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:60.Currón.JPG",
+      "description": "Chugadero de currón en una puerta.",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Taken with 6MP-9J5",
+        "License migration redundant",
+        "License migration completed",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Images of architecture (by User Lascorz)"
+      ],
+      "auteur": "Juan R. Lascorz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:60.Curr%C3%B3n.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/60.Curr%C3%B3n.JPG/1280px-60.Curr%C3%B3n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Charnières Medina Sfax 1.jpg",
+      "description": "Ce sont des anciennes charnières de portes utilisées dans les maisons de la Médina de Sfax. Ces charnières sont exposées au Musée de la Casbah de Sfax.",
+      "categories": [
+        "Door hinges",
+        "Self-published work",
+        "Doors of the medina of Sfax",
+        "Images from MedinaPedia Sfax",
+        "Kasbah Museum of Sfax"
+      ],
+      "auteur": "Csisc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Charni%C3%A8res_Medina_Sfax_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Charni%C3%A8res_Medina_Sfax_1.jpg/1280px-Charni%C3%A8res_Medina_Sfax_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

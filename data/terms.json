@@ -1152,6 +1152,17 @@
     "priorite": 2
   },
   {
+    "id": "trottoir",
+    "terme": "le trottoir",
+    "definition": "Partie surélevée de la rue, le long de la chaussée, réservée aux piétons.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 1,
+    "incompatibles": [
+      "bordure-de-trottoir",
+      "allee"
+    ]
+  },
+  {
     "id": "bordure-de-trottoir",
     "terme": "la bordure de trottoir",
     "definition": "Bloc allongé en béton ou en pierre qui borde le trottoir et marque sa différence de hauteur avec la chaussée.",
@@ -1693,6 +1704,16 @@
     ]
   },
   {
+    "id": "avant-corps",
+    "terme": "l'avant-corps",
+    "definition": "Partie d'une façade en saillie sur le reste, sur toute la hauteur du bâtiment.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "facade"
+    ]
+  },
+  {
     "id": "coursive",
     "terme": "la coursive",
     "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.",
@@ -1721,6 +1742,26 @@
     "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
+  },
+  {
+    "id": "jardiniere",
+    "terme": "la jardinière",
+    "definition": "Bac en saillie intégré à la façade, au balcon ou à l'appui, destiné à recevoir des plantes.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "balcon"
+    ]
+  },
+  {
+    "id": "pignon-a-redents",
+    "terme": "le pignon à redents",
+    "definition": "Pignon dont les rampants sont découpés en gradins successifs.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "pignon"
+    ]
   },
   {
     "id": "terrasse-accessible",
@@ -1776,6 +1817,17 @@
     ]
   },
   {
+    "id": "demi-croupe",
+    "terme": "la demi-croupe",
+    "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
+    "categorie": "Toitures",
+    "priorite": 3,
+    "incompatibles": [
+      "croupe",
+      "pignon"
+    ]
+  },
+  {
     "id": "toit-conique",
     "terme": "le toit conique",
     "definition": "Toit en forme de cône qui couvre un bâtiment ou une tour de plan circulaire.",
@@ -1786,6 +1838,28 @@
       "case",
       "chaume",
       "fleche"
+    ]
+  },
+  {
+    "id": "toiture-cintree",
+    "terme": "la toiture cintrée",
+    "definition": "Toiture en forme d'arc, souvent en tôle cintrée sur une charpente métallique courbe.",
+    "categorie": "Toitures",
+    "priorite": 3,
+    "incompatibles": [
+      "toiture",
+      "bac-acier"
+    ]
+  },
+  {
+    "id": "toit-papillon",
+    "terme": "le toit papillon",
+    "definition": "Toit formé de deux versants inclinés vers le centre, en forme de V.",
+    "categorie": "Toitures",
+    "priorite": 3,
+    "incompatibles": [
+      "toiture",
+      "noue"
     ]
   },
   {
@@ -1901,6 +1975,27 @@
     ]
   },
   {
+    "id": "paroi-berlinoise",
+    "terme": "la paroi berlinoise",
+    "definition": "Soutènement provisoire de fouille fait de profilés métalliques verticaux entre lesquels on place des planches ou du béton projeté.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "fouille",
+      "palplanche"
+    ]
+  },
+  {
+    "id": "palplanche",
+    "terme": "la palplanche",
+    "definition": "Profilé d'acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l'eau.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "fouille"
+    ]
+  },
+  {
     "id": "ferraillage",
     "terme": "le ferraillage",
     "definition": "Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.",
@@ -1949,6 +2044,43 @@
     "incompatibles": [
       "epaufrure"
     ]
+  },
+  {
+    "id": "beton-projete",
+    "terme": "le béton projeté",
+    "definition": "Béton envoyé à grande vitesse par une lance sur une paroi, qui forme une surface rugueuse et bosselée.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "betonnage"
+    ]
+  },
+  {
+    "id": "appareil-anglais",
+    "terme": "l'appareil anglais",
+    "definition": "Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "maconnerie"
+    ]
+  },
+  {
+    "id": "appareil-en-epi",
+    "terme": "l'appareil en épi",
+    "definition": "Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "maconnerie"
+    ]
+  },
+  {
+    "id": "appareil-reticule",
+    "terme": "l'appareil réticulé",
+    "definition": "Appareil de petites pierres carrées posées sur la pointe, qui dessinent un filet de losanges.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3
   },
   {
     "id": "gachage",

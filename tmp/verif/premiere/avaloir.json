@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport (le Mont des Avaloirs)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plaque de fonte rectangulaire ornée de mains qui applaudissent, posée dans le trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cleveland, États-Unis",
+      "note": "Tampon décoratif plein, pas une bouche d'avaloir."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rue en terre bordée d'un fossé herbeux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santa Elena",
+      "note": "Fossé, pas un avaloir."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couvercle béton rond à trois ouvertures en visage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couvercle de regard, ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Eau jaillissant d'une buse dans des rochers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Exutoire, pas un avaloir."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Route et trottoir avec un tampon rond de fonte au sol, très petit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bethesda, États-Unis",
+      "note": "Tampon, pas un avaloir."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rigole bétonnée le long d'un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santa Elena",
+      "note": "Caniveau/fossé, pas un avaloir."
     }
   ]
 }

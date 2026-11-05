@@ -1,0 +1,53 @@
+{
+  "termId": "beton-boucharde",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poteau de béton à surface grêlée, piquetée, devant une baie vitrée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Texture bouchardée nette et dominante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poteaux de béton à surface très rugueuse dans un hall de musée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Piquetage visible, éléments dominants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Boucharde (outil) posée sur une dalle de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil, pas du béton."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan d'un pilier de béton à gros granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Addis-Abeba, Éthiopie",
+      "note": "Aspect de béton désactivé possible, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de béton rugueux derrière une vitrine, panneaux et plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Addis-Abeba, Éthiopie",
+      "note": "Texture peu lisible, scène encombrée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Suite de poteaux de béton rugueux sous un auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Addis-Abeba, Éthiopie",
+      "note": "Texture trop peu lisible."
+    }
+  ]
+}

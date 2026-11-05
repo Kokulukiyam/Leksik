@@ -7,6 +7,20 @@
     "requetes": [
       "deepcat:\"Roof lanterns\"",
       "roof lantern skylight"
+    ],
+    "requetes2": [
+      "lanterneau toit",
+      "roof lantern glass",
+      "skylight lantern roof"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "exutoire-de-desenfumage",
+      "verriere",
+      "plaque-translucide"
+    ],
+    "categoriesCommons": [
+      "Category:Skylights"
     ]
   },
   "candidats": [
@@ -111,6 +125,103 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541741.jpg/1280px-Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4187,
       "hauteur": 5583
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Dome skylight (50328804811).jpg",
+      "description": "View slightly cross-eyed to see it in 3D.",
+      "categories": [
+        "Skylights",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Robbie Sproule from Montreal, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dome_skylight_(50328804811).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Dome_skylight_%2850328804811%29.jpg/1280px-Dome_skylight_%2850328804811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 1834
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Indiana Statehouse, Capitol Avenue, Indianapolis, IN - 53384852074.jpg",
+      "description": "Built in 1880-1888, this Renaissance Revival-style building was designed by Edwin May and Adolf Scherer to serve as the State Capitol Building, or Statehouse, of Indiana. The building replaced an earlier and much smaller structure on the same site, which stood from 1835 until 1877, when it was condemned due to structural problems. The current building is clad in Indiana Limestone, and features a rather slender drum and dome that stands 256 feet (78 meters) tall, with a wide central wing flanked by mall end wings with mansard and gabled roofs, and skylights on the roof of the central wing, flan",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2023 in Indianapolis"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indiana_Statehouse,_Capitol_Avenue,_Indianapolis,_IN_-_53384852074.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384852074.jpg/1280px-Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384852074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5354,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:NLIskylight.jpg",
+      "description": "חלון התיקרה שמעל אולמות הקריאה בספרייה הלאומית",
+      "categories": [
+        "CC-Zero",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Danieljl",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:NLIskylight.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/NLIskylight.jpg/1280px-NLIskylight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Indiana Statehouse, Capitol Avenue, Indianapolis, IN - 53384541371.jpg",
+      "description": "Built in 1880-1888, this Renaissance Revival-style building was designed by Edwin May and Adolf Scherer to serve as the State Capitol Building, or Statehouse, of Indiana. The building replaced an earlier and much smaller structure on the same site, which stood from 1835 until 1877, when it was condemned due to structural problems. The current building is clad in Indiana Limestone, and features a rather slender drum and dome that stands 256 feet (78 meters) tall, with a wide central wing flanked by mall end wings with mansard and gabled roofs, and skylights on the roof of the central wing, flan",
+      "categories": [
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "2023 in Indianapolis"
+      ],
+      "auteur": "w_lemay",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Indiana_Statehouse,_Capitol_Avenue,_Indianapolis,_IN_-_53384541371.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541371.jpg/1280px-Indiana_Statehouse%2C_Capitol_Avenue%2C_Indianapolis%2C_IN_-_53384541371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Tündük (çadır bacası).jpg",
+      "description": "Tündük (çadır bacası)",
+      "categories": [
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Buzancar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%BCnd%C3%BCk_(%C3%A7ad%C4%B1r_bacas%C4%B1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg/1280px-T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Skylight of the Cuvilliés Theater in Münchner Residenz.jpg",
+      "description": "Skylight of the Cuvilliés Theater in Münchner Residenz",
+      "categories": [
+        "Cuvilliés-Theater",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "AuHaidhausen",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg/1280px-Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7685,
+      "hauteur": 5872
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

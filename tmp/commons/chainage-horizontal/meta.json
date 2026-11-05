@@ -11,7 +11,12 @@
       "ring beam masonry wall"
     ],
     "incompatibles": [
-      "chainage"
+      "chainage",
+      "poutre"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete beams",
+      "Category:Masonry"
     ]
   },
   "candidats": [
@@ -124,6 +129,136 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/BOXLEY_ABBEY_HOUSE._%28Not_open_to_the_public%29_S.P.A.B_open_day._%2852206852206%29.jpg/1280px-BOXLEY_ABBEY_HOUSE._%28Not_open_to_the_public%29_S.P.A.B_open_day._%2852206852206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Concrete beams in Suffolk Downs station, December 2018.JPG",
+      "description": "Concrete beams in Suffolk Downs station in December 2018",
+      "categories": [
+        "GFDL",
+        "Suffolk Downs station",
+        "License migration redundant",
+        "Self-published work",
+        "Photographs by User:Pi.1415926535",
+        "MBTA in 2018",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2018-12-29",
+        "December 2018 in Boston",
+        "Concrete beams"
+      ],
+      "auteur": "Pi.1415926535",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_beams_in_Suffolk_Downs_station,_December_2018.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Concrete_beams_in_Suffolk_Downs_station%2C_December_2018.JPG/1280px-Concrete_beams_in_Suffolk_Downs_station%2C_December_2018.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Pebbledashing.jpg",
+      "description": "Pebbledashing —ubiquitous throughout suburban Dublin in Ireland .",
+      "categories": [
+        "Masonry",
+        "Taken with Olympus FE-340 / X-855 / C-560",
+        "Roughcast (walls)",
+        "Self-published work",
+        "Walls in County Dublin",
+        "July 2008 Ireland photographs",
+        "Pictures by O'Dea"
+      ],
+      "auteur": "User:O'Dea",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pebbledashing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Pebbledashing.jpg/1280px-Pebbledashing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:CYII (1930-1932) 42.2.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: la arquería de ladrillo ya terminada y vigas de hormigón armado para la cubierta. Madrid",
+      "categories": [
+        "Madrid in the 1930s",
+        "Template Unknown (author)",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "People in Madrid in the 1930s",
+        "People for scale",
+        "Concrete beams",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_42.2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/CYII_%281930-1932%29_42.2.jpg/1280px-CYII_%281930-1932%29_42.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2314,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:België, Beringen, Sint-Theodardus-Mijn-kerk3.jpg",
+      "description": "België, Beringen, Sint-Theodardus-Mijn-kerk",
+      "categories": [
+        "Images with watermarks",
+        "Masonry",
+        "Theodard of Maastricht Church (Beringen-Mijn)",
+        "Self-published work",
+        "Arches in Belgium",
+        "Images with extracted images"
+      ],
+      "auteur": "Photofantasy",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Belgi%C3%AB,_Beringen,_Sint-Theodardus-Mijn-kerk3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Belgi%C3%AB%2C_Beringen%2C_Sint-Theodardus-Mijn-kerk3.jpg/1280px-Belgi%C3%AB%2C_Beringen%2C_Sint-Theodardus-Mijn-kerk3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2600,
+      "hauteur": 3880
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:CYII (1930-1932) 43.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: colocación de las vigas de hormigón armado de la cubierta. . Madrid",
+      "categories": [
+        "Madrid in the 1930s",
+        "Template Unknown (author)",
+        "Gantry cranes in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Men at work in the Community of Madrid",
+        "Concrete beams",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/CYII_%281930-1932%29_43.jpg/1280px-CYII_%281930-1932%29_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2518,
+      "hauteur": 3821
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:23-05-2017-Hauswand in Lüneburg-JonasR.jpg",
+      "description": "Historic house wall in Lüneburg",
+      "categories": [
+        "Masonry",
+        "Waagestraße (Lüneburg)",
+        "Self-published work",
+        "Houses in Lüneburg",
+        "Files with coordinates missing SDC location of creation (53° N, 10° E)",
+        "User: Jonas Rogowski/Architecture",
+        "User: Jonas Rogowski/Lüneburg"
+      ],
+      "auteur": "Jonas Rogowski",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:23-05-2017-Hauswand_in_L%C3%BCneburg-JonasR.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/23-05-2017-Hauswand_in_L%C3%BCneburg-JonasR.jpg/1280px-23-05-2017-Hauswand_in_L%C3%BCneburg-JonasR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -11,7 +11,11 @@
       "semicircular arch"
     ],
     "incompatibles": [
-      "arc"
+      "arc",
+      "baie-cintree"
+    ],
+    "categoriesCommons": [
+      "Category:Arches"
     ]
   },
   "candidats": [
@@ -179,6 +183,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ruppertsberg_Obergasse_02_%28zu%29_057_2021_04_20.jpg/1280px-Ruppertsberg_Obergasse_02_%28zu%29_057_2021_04_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2136,
       "hauteur": 2808
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:At Berrington Hall 2022 142.jpg",
+      "description": "At Berrington Hall 2022.",
+      "categories": [
+        "Arches",
+        "Hedges",
+        "Unidentified Jasminum",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation (52° N, 3° W)",
+        "Unidentified white climbing Rosa cultivars",
+        "Unidentified Clematis cultivars",
+        "Photos by Mike Peel using a Canon EOS 90D",
+        "Berrington Hall gardens"
+      ],
+      "auteur": "Photograph by Mike Peel ( www.mikepeel.net ).",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_Berrington_Hall_2022_142.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/At_Berrington_Hall_2022_142.jpg/1280px-At_Berrington_Hall_2022_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6749,
+      "hauteur": 4499
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:6528wikii.jpg",
+      "description": "Tenebre dei portici di Ancona in contrasto con la luce solare",
+      "categories": [
+        "Arches",
+        "Self-published work"
+      ],
+      "auteur": "IvoK.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6528wikii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/6528wikii.jpg/1280px-6528wikii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3558,
+      "hauteur": 5337
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Airlock Avshalom Cave Exit.jpg",
+      "description": "מנעל אוויר ב מערת הנטיפים (שורק) הנמצא ביציאה, ומווסת את הלחות. ניתן להבחין ב ספרינקלרים בתקרה.",
+      "categories": [
+        "Arches",
+        "Exits",
+        "Self-published work",
+        "Center-parted stairs",
+        "Right-angled positioning",
+        "Striped walls"
+      ],
+      "auteur": "Eliran t",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airlock_Avshalom_Cave_Exit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Airlock_Avshalom_Cave_Exit.jpg/1280px-Airlock_Avshalom_Cave_Exit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Arches (18798676660).jpg",
+      "description": "arches",
+      "categories": [
+        "Arches",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Syahmir",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_(18798676660).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Arches_%2818798676660%29.jpg/1280px-Arches_%2818798676660%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Arches leading to Aleksis Kiven katu on a snowy evening in February 2025.jpg",
+      "description": "Arches leading to the street Aleksis Kiven katu in Vallila, Helsinki, Finland on a snowy evening in February 2025.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus E-M1",
+        "Arches",
+        "License migration redundant",
+        "Harju, Helsinki",
+        "Aleksis Kiven katu",
+        "Self-published work",
+        "February 2025 in Helsinki",
+        "Snow in Helsinki",
+        "Evening in Helsinki"
+      ],
+      "auteur": "JIP",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg/1280px-Arches_leading_to_Aleksis_Kiven_katu_on_a_snowy_evening_in_February_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Baitul Mokarram Mosque 973.jpg",
+      "description": "National Mosque of Bangladesh",
+      "categories": [
+        "Arches",
+        "Courtyards",
+        "Minarets",
+        "Self-published work",
+        "Tile flooring",
+        "Project Korikath-All images",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026",
+        "Humans walking"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baitul_Mokarram_Mosque_973.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Baitul_Mokarram_Mosque_973.jpg/1280px-Baitul_Mokarram_Mosque_973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2976,
+      "hauteur": 1984
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

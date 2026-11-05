@@ -9,6 +9,10 @@
       "window opening in masonry wall",
       "baie ouverture mur façade",
       "wall opening without window frame"
+    ],
+    "categoriesCommons": [
+      "Category:Windows",
+      "Category:Doorways"
     ]
   },
   "candidats": [
@@ -125,6 +129,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/6._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28cf5ca454-a2f6-4cc2-b8cc-4536171175ad%29.jpg/1280px-6._First_floor%2C_west_wall%2C_turn_an_existing_doorway_into_a_window._%28cf5ca454-a2f6-4cc2-b8cc-4536171175ad%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4368,
       "hauteur": 3320
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:500px photo (22803989).jpeg",
+      "description": "500px provided description: Some of my work. For photographs of people with personality and passion, email engage@jimhawkins.co.uk []",
+      "categories": [
+        "Brick buildings",
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Jim Hawkins",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(22803989).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/500px_photo_%2822803989%29.jpeg/1280px-500px_photo_%2822803989%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Archeological Museum of Zadar 1.jpg",
+      "description": "The doorway from the demolished Church of St. Domenica in Zadar, 11th century Archeological Museum of Zadar, Medieval Department",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot A590 IS",
+        "License migration redundant",
+        "Self-published work",
+        "Byzantine reliefs in Croatia",
+        "Doorways",
+        "Reliefs in the Archeological Museum of Zadar",
+        "11th-century reliefs in Zadar"
+      ],
+      "auteur": "AnatolyPm",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Archeological_Museum_of_Zadar_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Archeological_Museum_of_Zadar_1.jpg/1280px-Archeological_Museum_of_Zadar_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2x2 (27563238720).jpg",
+      "description": "2x2 rq",
+      "categories": [
+        "Windows",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Felipe Gabaldón"
+      ],
+      "auteur": "Felipe Gabaldón",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2x2_(27563238720).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2x2_%2827563238720%29.jpg/1280px-2x2_%2827563238720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2893
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2023-10-12 Templemartin Church doorway inside out.jpg",
+      "description": "Doorway at Templemartin Church looking out. The stones are only roughly worked. A differently shaped part is lying on the ground; presumably it formed part of a second pair of arched stones for the inside arch.",
+      "categories": [
+        "Self-published work",
+        "Doorways",
+        "Files with coordinates missing SDC location of creation",
+        "Saint Martin's Church (Templemartin)"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-10-12_Templemartin_Church_doorway_inside_out.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2023-10-12_Templemartin_Church_doorway_inside_out.jpg/1280px-2023-10-12_Templemartin_Church_doorway_inside_out.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:500px photo (48608830).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Abraham Livingston",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(48608830).jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/500px_photo_%2848608830%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1204,
+      "hauteur": 786
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Aghowle Church Doorway II 2016 09 11.jpg",
+      "description": "Doorway in the west gable of the church with a double-faced architrave where the outer member is round while the inner member is square and comes with a series of carved bosses that look like a line of dots. (See Harold G. Leask, Irish Churches and Monastic Buildings , Volume One, p. 85.)",
+      "categories": [
+        "Images from Wiki Loves Monuments 2016 in Ireland",
+        "GFDL",
+        "Architraves",
+        "License migration redundant",
+        "Aghowle Church",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs by Andreas F. Borchert",
+        "Doorways",
+        "Images from Wiki Loves Monuments 2016",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation"
+      ],
+      "auteur": "Andreas F. Borchert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aghowle_Church_Doorway_II_2016_09_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Aghowle_Church_Doorway_II_2016_09_11.jpg/1280px-Aghowle_Church_Doorway_II_2016_09_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2336,
+      "hauteur": 3504
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -11,7 +11,8 @@
       "sliding window"
     ],
     "incompatibles": [
-      "fenetre"
+      "fenetre",
+      "fenetre-a-guillotine"
     ],
     "categoriesCommons": [
       "Category:Sliding windows",
@@ -131,6 +132,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/A_window_to_the_outside.jpg/1280px-A_window_to_the_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3903,
       "hauteur": 3947
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:500px photo (247983863).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Nuno Borges",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(247983863).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/500px_photo_%28247983863%29.jpeg/1280px-500px_photo_%28247983863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A classroom in the Faculty of Architecture, FUASK.jpg",
+      "description": "A classroom in the Faculty of Architecture, FUASK",
+      "categories": [
+        "Ceiling fans",
+        "Windows",
+        "Seats",
+        "Classrooms",
+        "Self-published work",
+        "Images taken by Kambai Akau",
+        "Federal University of Applied Sciences Kachia"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_classroom_in_the_Faculty_of_Architecture,_FUASK.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg/1280px-A_classroom_in_the_Faculty_of_Architecture%2C_FUASK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7200,
+      "hauteur": 4800
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:- panoramio - jonathan exon (2).jpg",
+      "description": "",
+      "categories": [
+        "Windows",
+        "Media lacking a description",
+        "Lighting with sodium-vapor lamps",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2008-11-24",
+        "Images from Panoramio with bad file names",
+        "Street lights in unidentified locations"
+      ],
+      "auteur": "jonathan exon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_jonathan_exon_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/-_panoramio_-_jonathan_exon_%282%29.jpg/1280px--_panoramio_-_jonathan_exon_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4304,
+      "hauteur": 2852
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20151021 EST TEKE5 (22191778528).jpg",
+      "description": "NATO photos by Siim Teder Baltic Battalion Lithuanian team soldiers await in position during City Battle Exercise, Trident Juncture 15 at San Gregorio training area, Spain, October 20, 2015.",
+      "categories": [
+        "Windows",
+        "Walls",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by the Allied Joint Force Command Brunssum",
+        "Images uploaded by Revent from Flickr",
+        "Images uploaded by Revent (cleanup)",
+        "Lithuanian military at Trident Juncture 2015",
+        "FN MAG in Lithuanian service",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Allied Joint Force Command Brunssum",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20151021_EST_TEKE5_(22191778528).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/20151021_EST_TEKE5_%2822191778528%29.jpg/1280px-20151021_EST_TEKE5_%2822191778528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4333,
+      "hauteur": 2889
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A cozy corner features a stack of vintage books.jpg",
+      "description": "A cozy corner features a stack of vintage books resting by a window. Soft natural light filters in, creating a warm atmosphere perfect for reading.",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Old books"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_cozy_corner_features_a_stack_of_vintage_books.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/A_cozy_corner_features_a_stack_of_vintage_books.jpg/1280px-A_cozy_corner_features_a_stack_of_vintage_books.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5414,
+      "hauteur": 3614
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2x2 (27563238720).jpg",
+      "description": "2x2 rq",
+      "categories": [
+        "Windows",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Felipe Gabaldón"
+      ],
+      "auteur": "Felipe Gabaldón",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2x2_(27563238720).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2x2_%2827563238720%29.jpg/1280px-2x2_%2827563238720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2893
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

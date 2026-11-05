@@ -1,7 +1,7 @@
 {
   "terme": {
     "id": "hourdis",
-    "terme": "l'hourdis",
+    "terme": "le hourdis",
     "categorie": "Gros œuvre et maçonnerie",
     "definition": "Bloc creux en béton ou en polystyrène, aussi appelé entrevous, posé entre les poutrelles d'un plancher avant le coulage de la dalle de compression.",
     "priorite": 1,
@@ -13,6 +13,9 @@
     "incompatibles": [
       "poutrelle",
       "plancher-a-corps-creux"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete slabs"
     ]
   },
   "candidats": [
@@ -138,6 +141,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Architect_and_engineer_%281947%29_%2814578727048%29.jpg/1280px-Architect_and_engineer_%281947%29_%2814578727048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1814,
       "hauteur": 1248
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Defense.gov News Photo 090730-N-1831G-021.jpg",
+      "description": "U.S. Navy Petty Officer 2nd Class Eric George, assigned to Naval Mobile Construction Battalion 40, uses a trowel to smooth out a concrete building slab for a new multiuse building at Pusaka Rakyat Primary School in Bekasi, Indonesia, during the first phase of Cooperation Afloat Readiness and Training Indonesia 2009 on July 29, 2009. Cooperation Afloat Readiness and Training is a series of bilateral exercises held annually in Southeast Asia to strengthen relationships and enhance the operational readiness of the participating forces.",
+      "categories": [
+        "Taken with Canon Digital IXUS 860 IS",
+        "Naval Mobile Construction Battalion 40",
+        "Concrete slabs",
+        "Bekasi (city)",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Photographs taken on 2009-07-30",
+        "Defense.gov photos requiring renaming",
+        "Defense.gov news media for July 2009",
+        "Import by User:Slick-o-bot/Defense.gov News Photos",
+        "CARAT Indonesia 2009"
+      ],
+      "auteur": "Petty Officer 1st Class Maria Gonzalez, U.S. Navy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_090730-N-1831G-021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Defense.gov_News_Photo_090730-N-1831G-021.jpg/1280px-Defense.gov_News_Photo_090730-N-1831G-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1575
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:19870724030NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße 51-55/ Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Links: Faserbeton-Wetterschale der IHS Cottbus, rechts Schaumbetonaußenwandplatte der IHS Cottbus. [R19870724A07.jpg]19870724030NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels",
+        "Flächige Feinkornbetonelemente"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724030NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2434,
+      "hauteur": 2996
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:19870724040NR Berlin DDR Bauausstellung Außenwandplatten.jpg",
+      "description": "24.07.1987 DDR 1000 [13053] Berlin-Weißensee, Ho-Chi-Minh-Straße / Ecke Berliner Straße (GMP: 52.538992,13.472368): Bauausstellung der DDR auf dem Gelände des Sportforum Berlin neben der Dynamo-Sporthalle. Hier: Außenwandelement. [R19870724A11.jpg]19870724040NR.JPG(c)Blobelt",
+      "categories": [
+        "Facades in Germany",
+        "WBS 70",
+        "Concrete slabs",
+        "1987 in Berlin",
+        "20th-century facades",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Bauakademie der DDR",
+        "House facades in Germany",
+        "Precast concrete elements in GDR",
+        "Concrete panels"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg/1280px-19870724040NR_Berlin_DDR_Bauausstellung_Au%C3%9Fenwandplatten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2475
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Concrete Panel Installation Up Close (19098888034).jpg",
+      "description": "Concrete panels are installed to create the bridge deck at Spans 1 and 2 on the arch span.",
+      "categories": [
+        "Concrete slabs",
+        "John Greenleaf Whittier Bridge",
+        "PD-MAGov",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation",
+        "Bridge construction in Massachusetts"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_Panel_Installation_Up_Close_(19098888034).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Concrete_Panel_Installation_Up_Close_%2819098888034%29.jpg/1280px-Concrete_Panel_Installation_Up_Close_%2819098888034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Assyrian slab in Arkah, Tur Abdin (ܐܝܩܪܬܐ ܕܒܝܬ ܡܠܟܐ ܢܝܚܐ).jpg",
+      "description": "A picture of an Assyrian slab in Arkah, Tur Abdin. The slab features the Assyrian diety lamassu and the star of Ishtar, as well as a phrase of writing in Assyrian Aramaic. The slab reads \"ܐܝܩܪܬܐ ܕܒܝܬ ܡܠܟܐ ܢܝܚܐ\"",
+      "categories": [
+        "Shedu",
+        "Concrete slabs",
+        "2021 in Turkey",
+        "Estrangelo",
+        "Star of Ishtar",
+        "Items with VRTS permission confirmed",
+        "Üçköy, Nusaybin"
+      ],
+      "auteur": "Athra Kado",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Assyrian_slab_in_Arkah,_Tur_Abdin_(%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Assyrian_slab_in_Arkah%2C_Tur_Abdin_%28%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90%29.jpg/1280px-Assyrian_slab_in_Arkah%2C_Tur_Abdin_%28%DC%90%DC%9D%DC%A9%DC%AA%DC%AC%DC%90_%DC%95%DC%92%DC%9D%DC%AC_%DC%A1%DC%A0%DC%9F%DC%90_%DC%A2%DC%9D%DC%9A%DC%90%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Commonwealth Avenue Bridge, August 7, 2017 (35622268293).jpg",
+      "description": "MassDOT has announced that crews will return I-90 (the Massachusetts Turnpike) in Boston to its normal configuration of four lanes of traffic in each direction by 5 a.m., Monday, August 7, almost three weeks faster than originally scheduled as part of the Commonwealth Avenue Bridge Project. The schedule for completing the remaining construction work and the other travel impacts remain unchanged; crews are on schedule, and as detailed below, impacts to travel along Commonwealth Avenue and local roadways, as wells as service impacts to the MBTA’s Green Line B-Branch and bus routes are expected t",
+      "categories": [
+        "Concrete slabs",
+        "PD-MAGov",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from the MassDOT flickr stream needing curation",
+        "Commonwealth Avenue bridge replacement, 2017-2018"
+      ],
+      "auteur": "MassDOT",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Commonwealth_Avenue_Bridge,_August_7,_2017_(35622268293).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Commonwealth_Avenue_Bridge%2C_August_7%2C_2017_%2835622268293%29.jpg/1280px-Commonwealth_Avenue_Bridge%2C_August_7%2C_2017_%2835622268293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1720,
+      "hauteur": 1147
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

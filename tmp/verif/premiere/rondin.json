@@ -1,0 +1,53 @@
+{
+  "termId": "rondin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ancienne diapositive d'une ferme dans un paysage, bâtiments lointains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Booker T. Washington NM",
+      "note": "Rondins non lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne prison en rondins empilés avec toit de tôle.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Eaglehawk, Victoria, Australie",
+      "note": "Murs en troncs ronds empilés, très lisibles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Homme restaurant une poutre ancienne équarrie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Folklore Village",
+      "note": "Poutre équarrie, pas un rondin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur sombre d'une grange en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Abri forestier en rondins ronds, poteaux et murs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Rondins ronds laissés bruts, clairs."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cabane en rondins en noir et blanc retouché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Scarborough",
+      "note": "Image retouchée, petite."
+    }
+  ]
+}

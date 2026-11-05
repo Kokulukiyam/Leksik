@@ -11,7 +11,11 @@
       "fresh mortar pile"
     ],
     "incompatibles": [
-      "gachage"
+      "gachage",
+      "joint-de-maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Mortar"
     ]
   },
   "candidats": [
@@ -136,6 +140,131 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg/1280px-Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-566.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4226,
       "hauteur": 2854
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Mortar September 2025.jpg",
+      "description": "An old mortar at a village",
+      "categories": [
+        "Cultural heritage monuments in Ghana",
+        "Mortar",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-gh",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Ghana"
+      ],
+      "auteur": "Knowledge and philosophy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mortar_September_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mortar_September_2025.jpg/1280px-Mortar_September_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A big mortar 01.jpg",
+      "description": "A big Mortar for pounding in Nigeria",
+      "categories": [
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Mortar",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Mentor Me!/2026/Stream 1/Images by mentees"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_big_mortar_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/A_big_mortar_01.jpg/1280px-A_big_mortar_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2580,
+      "hauteur": 1872
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Construction continues at Gabriela Mistral Primary School site 150603-F-LP903-429.jpg",
+      "description": "U.S. Air Force Senior Airman Jason Berry, 823rd Expeditionary RED HORSE Squadron water and fuels system maintenance journeyman, out of Hurlburt Field, Fla., gets the last bit of mortar out of a mixing machine at the Gabriela Mistral primary school in Ocotes Alto, Honduras, June 3, 2015, after creating a batch of mortar. The school project is one part of the New Horizons Honduras 2015, an annual humanitarian and training exercise put on by U.S. Southern Command. New Horizons was launched in the 1980s and is an annual joint humanitarian assistance exercise that U.S. Southern Command conducts wit",
+      "categories": [
+        "Hurlburt Field",
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Taken on missing SDC inception",
+        "Images from DoD uploaded by Fæ",
+        "Honduras photographs taken on 2015-06-03",
+        "823rd Rapid Engineer Deployable Heavy Operational Repair Squadron Engineers",
+        "New Horizons 2015"
+      ],
+      "auteur": "Capt. David Murphy",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-429.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-429.jpg/1280px-Construction_continues_at_Gabriela_Mistral_Primary_School_site_150603-F-LP903-429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4219,
+      "hauteur": 3145
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Old Mortar.jpg",
+      "description": "An old mortar in a house at Nkpaa Tua with another small mortar on it",
+      "categories": [
+        "Cultural heritage monuments in Ghana",
+        "Mortar",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-gh",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Ghana"
+      ],
+      "auteur": "Knowledge and philosophy",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_Mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Old_Mortar.jpg/1280px-Old_Mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pacific Friendship 2026- US Army general visits engineering project at Quang Xuan Primary School (9782640).jpg",
+      "description": "U.S. Army Command Sgt. Maj. Jennifer Francis, senior enlisted advisor for 18th Theater Medical Command, mixes mortar during construction operations at Quang Xuan Primary School as part of Pacific Partnership and Pacific Friendship 2026 in Quang Tri, Vietnam, June 29, 2026. U.S. Army Soldiers and U.S. Navy Sailors worked together to build classrooms that will support local students. Pacific Friendship 2026 is a U.S. Army Pacific-led humanitarian assistance and disaster relief engagement conducted in partnership with the Vietnamese People’s Army. (U.S. Army photo by Spc. Fabian Jones)",
+      "categories": [
+        "PD US Army",
+        "Files created by the United States Army with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Vietnam photographs taken on 2026-06-29",
+        "Pacific Friendship 2026"
+      ],
+      "auteur": "U.S. Army photo by Spc. Fabian Jones",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pacific_Friendship_2026-_US_Army_general_visits_engineering_project_at_Quang_Xuan_Primary_School_(9782640).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pacific_Friendship_2026-_US_Army_general_visits_engineering_project_at_Quang_Xuan_Primary_School_%289782640%29.jpg/1280px-Pacific_Friendship_2026-_US_Army_general_visits_engineering_project_at_Quang_Xuan_Primary_School_%289782640%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 5464
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A big mortar.jpg",
+      "description": "A big Mortar for pounding in Nigeria",
+      "categories": [
+        "CC-Zero",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Mortar",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation",
+        "Mentor Me!/2026/Stream 1/Images by mentees"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_big_mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/A_big_mortar.jpg/1280px-A_big_mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2351,
+      "hauteur": 1872
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

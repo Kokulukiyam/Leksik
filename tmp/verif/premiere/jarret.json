@@ -1,0 +1,53 @@
+{
+  "termId": "jarret",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ossature métallique d'un bâtiment en construction derrière une palissade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Birmingham, Royaume-Uni",
+      "note": "Jarrets non identifiables."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruine d'une structure métallique envahie par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bytom, Pologne",
+      "note": "Jarret non lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Hangar détruit par une tornade, voitures écrasées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lužice, Tchéquie",
+      "note": "Désordre, jarret non lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Charpente métallique effondrée après une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lužice, Tchéquie",
+      "note": "Désordre, jarret non lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poteaux et poutres d'acier d'un chantier devant une chapelle en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Birmingham, Royaume-Uni",
+      "note": "Pas de renfort triangulaire net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Trottoir et voiture endommagée après une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moravská Nová Ves, Tchéquie",
+      "note": "Sans rapport."
+    }
+  ]
+}

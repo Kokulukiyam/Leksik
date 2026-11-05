@@ -12,6 +12,10 @@
     ],
     "categoriesCommons": [
       "Category:Cables"
+    ],
+    "incompatibles": [
+      "goulotte",
+      "chemin-de-cables"
     ]
   },
   "candidats": [
@@ -133,6 +137,110 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2019_Ansamblu_urban_Calimanesti_03.jpg/1280px-2019_Ansamblu_urban_Calimanesti_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4032,
       "hauteur": 2268
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2008-07-14-COBIEBusinessCase-2.jpg",
+      "description": "traditional construction handover documentation.",
+      "categories": [
+        "Construction",
+        "Boxes",
+        "Cables",
+        "Self-published work"
+      ],
+      "auteur": "Cornhenge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008-07-14-COBIEBusinessCase-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2008-07-14-COBIEBusinessCase-2.jpg/1280px-2008-07-14-COBIEBusinessCase-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2013-365-323 Here Comes The Internet (10957266035).jpg",
+      "description": "Most of these wires are for the cable connections-- one of them is mine.",
+      "categories": [
+        "Cables",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-365-323_Here_Comes_The_Internet_(10957266035).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2013-365-323_Here_Comes_The_Internet_%2810957266035%29.jpg/1280px-2013-365-323_Here_Comes_The_Internet_%2810957266035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Cable (3863088927).jpg",
+      "description": "Hood release I think",
+      "categories": [
+        "Taken with Canon PowerShot A430",
+        "Cables",
+        "Flickr images reviewed by trusted users"
+      ],
+      "auteur": "dave_7 from Lethbridge, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cable_(3863088927).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cable_%283863088927%29.jpg/1280px-Cable_%283863088927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Beelitz Heilstätten -jha- 139102542826.jpeg",
+      "description": "Beelitz-Heilstätten",
+      "categories": [
+        "Taken with Fujifilm FinePix S100FS",
+        "GFDL-1.2",
+        "Cables",
+        "Self-published work",
+        "Lungenheilstätte (Beelitz-Heilstätten)"
+      ],
+      "auteur": "Johann H. Addicks - addicks@gmx.net",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beelitz_Heilst%C3%A4tten_-jha-_139102542826.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Beelitz_Heilst%C3%A4tten_-jha-_139102542826.jpeg/1280px-Beelitz_Heilst%C3%A4tten_-jha-_139102542826.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3840,
+      "hauteur": 2880
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ancienne prise électrique et son câble.jpg",
+      "description": "Ancienne prise électrique française, en céramique, avec son câble électrique avec la phase et le neutre enroulés comme une corde. Les câbles sont protégés par une gaine tissée.",
+      "categories": [
+        "Cables",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Mains sockets in France"
+      ],
+      "auteur": "Abujoy",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancienne_prise_%C3%A9lectrique_et_son_c%C3%A2ble.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Ancienne_prise_%C3%A9lectrique_et_son_c%C3%A2ble.jpg/1280px-Ancienne_prise_%C3%A9lectrique_et_son_c%C3%A2ble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2017 11 (Wires) - London Eye.jpg",
+      "description": "The fantastic structure of the London Eye, intentionally built like a bicycle wheel.",
+      "categories": [
+        "Wires",
+        "Cables",
+        "Self-published work",
+        "London Eye in 2016"
+      ],
+      "auteur": "Fbrandao.1963",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_11_(Wires)_-_London_Eye.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2017_11_%28Wires%29_-_London_Eye.jpg/1280px-2017_11_%28Wires%29_-_London_Eye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

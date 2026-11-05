@@ -1,0 +1,58 @@
+{
+  "termId": "ove",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bande d'oves sculptée sur un bloc de pierre, éclairage chaud.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Starosel, Bulgarie",
+      "note": "Motif petit et peu contrasté, deux meilleures retenues."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un ove en marbre entre deux dards sur une moulure.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ostie, Italie",
+      "note": "Ove et dards très nets, gros plan dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ruelle bordée d'immeubles en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bath, Royaume-Uni",
+      "note": "Motif minuscule dans une scène large."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fronton et chambranle de porte en bois avec guirlande.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest",
+      "note": "Motif minuscule, décor de fête."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Rang d'oves et de dards sculpté sous un chapiteau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.06,
+        "y": 0.33,
+        "largeur": 0.84,
+        "hauteur": 0.33
+      },
+      "lieu": "Kilmaurs, Écosse",
+      "note": "Rectangle sur la bande d'oves, motif bien lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fenêtre baroque à encadrement de pierre sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest",
+      "note": "Ove non dominant."
+    }
+  ]
+}

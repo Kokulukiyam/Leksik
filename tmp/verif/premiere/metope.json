@@ -1,0 +1,58 @@
+{
+  "termId": "metope",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Entrée d'une tombe rupestre avec corniche à décor.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paphos, Chypre",
+      "note": "Décor trop petit et érodé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'un immeuble parisien en pierre avec frises sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris",
+      "note": "Détails trop petits."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade blanche à fenêtres d'une maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Connecticut, États-Unis",
+      "note": "Aucune métope visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Relief de cavalier sculpté entre deux panneaux rainurés de la frise dorique d'une église.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.2,
+        "largeur": 0.7,
+        "hauteur": 0.6
+      },
+      "lieu": "Jovkva, Ukraine",
+      "note": "Rectangle sur le panneau sculpté entre triglyphes, flanqué de triglyphes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dalle sculptée antique avec rosaces et élément cannelé, au-dessus d'une inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fiesole, Italie",
+      "note": "Fragment de musée, hors frise."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Schéma en 3D de l'évolution des temples doriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D, pas une photo."
+    }
+  ]
+}

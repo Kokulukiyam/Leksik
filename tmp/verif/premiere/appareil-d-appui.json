@@ -1,0 +1,63 @@
+{
+  "termId": "appareil-d-appui",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Appareil d'appui à pot métallique boulonné entre le dessous d'un tablier et un massif en béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.32,
+        "largeur": 0.78,
+        "hauteur": 0.34
+      },
+      "lieu": "Autoroute D11, Tchéquie",
+      "note": "Appui de pont net, rectangle sur l'appareil."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Appareil d'appui en caoutchouc fretté noir entre une poutre bleue et son socle.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.26,
+        "largeur": 0.6,
+        "hauteur": 0.33
+      },
+      "lieu": "Nagaoka, Japon",
+      "note": "Caoutchouc fretté très lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Appui métallique ancien sous un pont rivé sur culée en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Châteauneuf-sur-Loire, France",
+      "note": "Appui peu lisible, sombre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poutre bois reposant sur un appui béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bohunice, Tchéquie",
+      "note": "Appui simple, appareil non évident."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pièce de palier annulaire noire et blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roulement mécanique, pas un appui de structure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pied d'une structure rouge posé sur un massif béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Appui ambigu."
+    }
+  ]
+}

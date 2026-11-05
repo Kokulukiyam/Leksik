@@ -13,7 +13,8 @@
     "incompatibles": [
       "fondation",
       "semelle-isolee",
-      "chainage-horizontal"
+      "chainage-horizontal",
+      "semelle-filante"
     ]
   },
   "candidats": [
@@ -72,5 +73,7 @@
       "largeur": 1280,
       "hauteur": 853
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -11,7 +11,14 @@
       "incategory:\"Speed bumps\""
     ],
     "incompatibles": [
-      "passage-pieton"
+      "passage-pieton",
+      "chaussee",
+      "enrobe",
+      "marquage-au-sol"
+    ],
+    "categoriesCommons": [
+      "Category:Speed bumps",
+      "Category:Traffic calming"
     ]
   },
   "candidats": [
@@ -139,6 +146,139 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg/1280px-Speed_bump_on_W%C3%BCrttembergische_Stra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4080,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Azyl-dla-pieszych-01.jpg",
+      "description": "Refuge island near Wawel Castle in Krakow, Poland.",
+      "categories": [
+        "Taken with Sony Ericsson K550i",
+        "Traffic calming",
+        "Refuge islands",
+        "Podzamcze Street in Kraków",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Goodstuff82",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azyl-dla-pieszych-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Azyl-dla-pieszych-01.jpg/1280px-Azyl-dla-pieszych-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:West Palashy Campus, BUET.jpg",
+      "description": "This is situated in the West Palashy Road near Palashy Intersection, Dhaka, Bangladesh. BUET is a public university dedicated for engineering studies in Bangladesh.",
+      "categories": [
+        "Speed bumps",
+        "Bangladesh University of Engineering and Technology",
+        "Self-published work",
+        "Zebra crossings in Dhaka",
+        "Black and white curbs in Bangladesh"
+      ],
+      "auteur": "Md. Redwan Hossain6333",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:West_Palashy_Campus,_BUET.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/West_Palashy_Campus%2C_BUET.jpg/1280px-West_Palashy_Campus%2C_BUET.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2006 11 21 - 115@Lisa - EB 04.JPG",
+      "description": "MD 115 at Lisa Drive, Redland, MD, USA. Complaints were received about higher-speed traffic using the center two-way left-turn lane to bypass queues, posing a safety risk to motorists exiting or entering side-streets & using the center lane for its intended purpose. Observations confirmed that there was a significant rate of queue jumpers. Yellow flexposts were installed in the center turn lane at a point nearest to the signal which was causing the queues, albeit without adversely impacting left-turn storage or the many driveways located along the length of this segment of roadway. Observation",
+      "categories": [
+        "Taken with Canon PowerShot A95",
+        "Maryland Route 115",
+        "Redland, Maryland",
+        "Traffic calming",
+        "Self-published work",
+        "Files by User:Thisisbossi",
+        "Two-way turn lanes",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006_11_21_-_115@Lisa_-_EB_04.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2006_11_21_-_115%40Lisa_-_EB_04.JPG/1280px-2006_11_21_-_115%40Lisa_-_EB_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Police Checkpoint Jebel Akhdar Oman.jpg",
+      "description": "Police checkpoint on the road to Jebel Akhdar, Oman.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GX1",
+        "Checkpoints",
+        "Speed bumps",
+        "Flickr images uploaded by Flickr upload bot",
+        "Oman photographs taken on 2014-02-28",
+        "Jebel Akhdar road",
+        "Black and yellow road markings"
+      ],
+      "auteur": "Juozas Šalna",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Police_Checkpoint_Jebel_Akhdar_Oman.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Police_Checkpoint_Jebel_Akhdar_Oman.jpg/1280px-Police_Checkpoint_Jebel_Akhdar_Oman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 3448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2007 04 26 - 115@Lisa - EB 01.JPG",
+      "description": "MD 115 at Lisa Drive, Redland, MD, USA. Complaints were received about higher-speed traffic using the center two-way left-turn lane to bypass queues, posing a safety risk to motorists exiting or entering side-streets & using the center lane for its intended purpose. Observations confirmed that there was a significant rate of queue jumpers. Yellow flexposts were installed in the center turn lane at a point nearest to the signal which was causing the queues, albeit without adversely impacting left-turn storage or the many driveways located along the length of this segment of roadway. Observation",
+      "categories": [
+        "Redland, Maryland",
+        "Traffic calming",
+        "Self-published work",
+        "Files by User:Thisisbossi",
+        "Two-way turn lanes",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2007-04-26",
+        "Three lane roads in Maryland",
+        "Road signs along Maryland Route 115",
+        "Two-way turn lane road signs"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2007_04_26_-_115@Lisa_-_EB_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2007_04_26_-_115%40Lisa_-_EB_01.JPG/1280px-2007_04_26_-_115%40Lisa_-_EB_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2589,
+      "hauteur": 1657
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2019.11.06 Pierachodnaja street (Minsk) Belarus.jpg",
+      "description": "Pierachodnaja street. Minsk, Belarus",
+      "categories": [
+        "Dražnia",
+        "Speed bumps",
+        "Uploaded with VicuñaUploader",
+        "Rain in Belarus",
+        "Cyan houses",
+        "Green doors in Belarus",
+        "Blue houses in Belarus",
+        "Files with coordinates missing SDC location of creation",
+        "November 2019 in Minsk",
+        "Belarus photographs taken on 2019-11-06",
+        "Balconies in Minsk",
+        "Pierachodnaja Street, Minsk",
+        "Wooden fences in Minsk",
+        "Brown fences in Minsk",
+        "Green houses in Minsk",
+        "Gray corrugated slate roofs in Minsk",
+        "Vertical deflection devices in Belarus"
+      ],
+      "auteur": "Homoatrox",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019.11.06_Pierachodnaja_street_(Minsk)_Belarus.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2019.11.06_Pierachodnaja_street_%28Minsk%29_Belarus.jpg/1280px-2019.11.06_Pierachodnaja_street_%28Minsk%29_Belarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

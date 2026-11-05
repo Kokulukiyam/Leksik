@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "faux-plafond",
-      "ossature-de-faux-plafond"
+      "ossature-de-faux-plafond",
+      "faux-plafond-a-lames-metalliques",
+      "panneau-acoustique"
     ],
     "categoriesCommons": [
       "Category:Ceiling tiles"
@@ -162,6 +164,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Dropped_ceiling_%28USSR%2C_1980s%29_%2801%29.jpg/1280px-Dropped_ceiling_%28USSR%2C_1980s%29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2852,
       "hauteur": 2852
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:BROKEN CEILING TILES AND DEBRIS ON FLOOR OF THE ECRL ENGINE COMPONENTS RESEARCH LABORATORY - NARA - 17471189.jpg",
+      "description": "Scope and content: The original finding aid described this as: Capture Date: 6/8/1979 Photographer: DONALD HUEBLER Keywords: Larsen Scan Location Building No: 102",
+      "categories": [
+        "PD NASA",
+        "Images from the National Archives and Records Administration",
+        "Media contributed by the National Archives and Records Administration",
+        "Artworks without Wikidata item",
+        "Template Unknown (author)",
+        "US National Archives series: Photographs Relating to Agency Activities, Facilities and Personnel",
+        "US National Archives location: other",
+        "Photographs by Donald Huebler",
+        "Ceiling tiles"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:BROKEN_CEILING_TILES_AND_DEBRIS_ON_FLOOR_OF_THE_ECRL_ENGINE_COMPONENTS_RESEARCH_LABORATORY_-_NARA_-_17471189.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/BROKEN_CEILING_TILES_AND_DEBRIS_ON_FLOOR_OF_THE_ECRL_ENGINE_COMPONENTS_RESEARCH_LABORATORY_-_NARA_-_17471189.jpg/1280px-BROKEN_CEILING_TILES_AND_DEBRIS_ON_FLOOR_OF_THE_ECRL_ENGINE_COMPONENTS_RESEARCH_LABORATORY_-_NARA_-_17471189.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6184,
+      "hauteur": 4820
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dropped ceiling (USSR, 1980s) (02).jpg",
+      "description": "Подвесные потолки в музыкальной школе. Конец 80х - начало 90х годов.",
+      "categories": [
+        "CC-Zero",
+        "Dropped ceilings",
+        "Self-published work"
+      ],
+      "auteur": "Georg Pik",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dropped_ceiling_(USSR,_1980s)_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Dropped_ceiling_%28USSR%2C_1980s%29_%2802%29.jpg/1280px-Dropped_ceiling_%28USSR%2C_1980s%29_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 3088
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bristol DSCF5999 (2981101445).jpg",
+      "description": "Reflections in the gold ceiling at Cabot Circus.",
+      "categories": [
+        "Cabot Circus",
+        "October 2008 in Bristol",
+        "Uploads by Matlin",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (51° N, 3° W)",
+        "Eclipse tower",
+        "Ceiling tiles"
+      ],
+      "auteur": "Matt Buck from London, United Kingdom",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bristol_DSCF5999_(2981101445).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bristol_DSCF5999_%282981101445%29.jpg/1280px-Bristol_DSCF5999_%282981101445%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1728,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Shopping Pátio Paulista, São Paulo, Brazil.jpg",
+      "description": "Shopping Pátio Paulista, São Paulo, Brésil",
+      "categories": [
+        "Dropped ceilings",
+        "January 2017 in São Paulo",
+        "Viena (restaurant chain)",
+        "Self-published work",
+        "Interior of Shopping Cidade São Paulo",
+        "Brazil photographs taken on 2017-01-14",
+        "People with ponytails",
+        "Shopping mall food courts",
+        "Living city by Wilfredor",
+        "Photographs of São Paulo by Wilfredor",
+        "Food by Wilfredor",
+        "Restaurants by Wilfredor"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shopping_P%C3%A1tio_Paulista,_S%C3%A3o_Paulo,_Brazil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Shopping_P%C3%A1tio_Paulista%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/1280px-Shopping_P%C3%A1tio_Paulista%2C_S%C3%A3o_Paulo%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3546,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2016 366 50 Painted Ceiling Tin (24514623333).jpg",
+      "description": "2016/366/50 Painted Ceiling Tin",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Ceiling tiles"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_50_Painted_Ceiling_Tin_(24514623333).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2016_366_50_Painted_Ceiling_Tin_%2824514623333%29.jpg/1280px-2016_366_50_Painted_Ceiling_Tin_%2824514623333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2542,
+      "hauteur": 2495
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cappella di Santa Restituta - Ceiling.jpg",
+      "description": "",
+      "categories": [
+        "Artworks without Wikidata item",
+        "Giuseppe Simonelli",
+        "Self-published work",
+        "Featured pictures by Livioandronico2013",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of ceilings",
+        "Cappella di Santa Restituta - Ceiling",
+        "Featured pictures of churches in Naples"
+      ],
+      "auteur": "Giuseppe Simonelli",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappella_di_Santa_Restituta_-_Ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Cappella_di_Santa_Restituta_-_Ceiling.jpg/1280px-Cappella_di_Santa_Restituta_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2784,
+      "hauteur": 4886
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

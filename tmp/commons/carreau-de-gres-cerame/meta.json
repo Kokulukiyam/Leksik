@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "carrelage",
-      "faience"
+      "faience",
+      "carreau-hexagonal"
     ],
     "categoriesCommons": [
       "Category:Ceramic tiles"
@@ -129,6 +130,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ceramic_wall_tile_cream.jpg/1280px-Ceramic_wall_tile_cream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2204,
       "hauteur": 2085
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Musée national Ahmed Zabana 10.jpg",
+      "description": "Tuile de céramique ottomane au Musée national Ahmed Zabana, Oran, Algérie",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Ahmed Zabana National Museum"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_national_Ahmed_Zabana_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mus%C3%A9e_national_Ahmed_Zabana_10.jpg/1280px-Mus%C3%A9e_national_Ahmed_Zabana_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 2925
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Carreaux à décor d'engobe Musée de l'Emperi Salon de Provence XIV è, XVI è.jpg",
+      "description": "Carreaux à décor d'engobe (XIVè et XVIè siècle) Musée de l'Empéri Salon de Provence",
+      "categories": [
+        "Ceramic tiles",
+        "Slipware",
+        "Self-published work",
+        "Medieval European tiles",
+        "Decorated tiles in France",
+        "14th-century ceramic tiles",
+        "16th-century tiles"
+      ],
+      "auteur": "René Hourdry",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carreaux_%C3%A0_d%C3%A9cor_d%27engobe_Mus%C3%A9e_de_l%27Emperi_Salon_de_Provence_XIV_%C3%A8,_XVI_%C3%A8.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Carreaux_%C3%A0_d%C3%A9cor_d%27engobe_Mus%C3%A9e_de_l%27Emperi_Salon_de_Provence_XIV_%C3%A8%2C_XVI_%C3%A8.jpg/1280px-Carreaux_%C3%A0_d%C3%A9cor_d%27engobe_Mus%C3%A9e_de_l%27Emperi_Salon_de_Provence_XIV_%C3%A8%2C_XVI_%C3%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5625,
+      "hauteur": 2837
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Fliesen Schiene Anschluss andere Oberflächen.JPG",
+      "description": "Detail im gefliesten Bad: Übergang zwischen Fliesen und verputzter Wand durch Schienen. Rechts die Tür, links die deckenhoch geflieste Dusche mit Glas-Duschabtrennung.",
+      "categories": [
+        "Bathrooms",
+        "Floor tiles",
+        "Self-published work",
+        "Porcelain stoneware"
+      ],
+      "auteur": "Sonja1982",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fliesen_Schiene_Anschluss_andere_Oberfl%C3%A4chen.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Fliesen_Schiene_Anschluss_andere_Oberfl%C3%A4chen.JPG/1280px-Fliesen_Schiene_Anschluss_andere_Oberfl%C3%A4chen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Hotel bathroom with hand wash porcelain basin sink, mirror, waste bin, door, etc. in a hotel in Os, Hordaland, Norway 2018-03-19 F. Also wall and floor tiles.jpg",
+      "description": "Hotel bathroom with hand wash porcelain basin sink, mirror, waste bin, door, etc. in a hotel in Os, Hordaland, Norway (2018-03-19). Also wall and floor tiles.",
+      "categories": [
+        "Self-published work",
+        "Doors in Norway",
+        "Bathrooms in Norway",
+        "Sinks in Norway",
+        "Norway photographs taken on 2018-03-19"
+      ],
+      "auteur": "Wolfmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hotel_bathroom_with_hand_wash_porcelain_basin_sink,_mirror,_waste_bin,_door,_etc._in_a_hotel_in_Os,_Hordaland,_Norway_2018-03-19_F._Also_wall_and_floor_tiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Hotel_bathroom_with_hand_wash_porcelain_basin_sink%2C_mirror%2C_waste_bin%2C_door%2C_etc._in_a_hotel_in_Os%2C_Hordaland%2C_Norway_2018-03-19_F._Also_wall_and_floor_tiles.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Anschlag Türrahmen Schwelle 5,5cm Höhe IMG 3066.jpg",
+      "description": "Doorframe and Threshold Bathroom",
+      "categories": [
+        "Ceramic tiles",
+        "Self-published work"
+      ],
+      "auteur": "Ribax",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anschlag_T%C3%BCrrahmen_Schwelle_5,5cm_H%C3%B6he_IMG_3066.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Anschlag_T%C3%BCrrahmen_Schwelle_5%2C5cm_H%C3%B6he_IMG_3066.jpg/1280px-Anschlag_T%C3%BCrrahmen_Schwelle_5%2C5cm_H%C3%B6he_IMG_3066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ceramic tiles 01.jpg",
+      "description": "Ceramic tiles decorating an interior wall of the Tozeur train station",
+      "categories": [
+        "Ceramic tiles",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Houss 2020",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceramic_tiles_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ceramic_tiles_01.jpg/1280px-Ceramic_tiles_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8160,
+      "hauteur": 6144
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

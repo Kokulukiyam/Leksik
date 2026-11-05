@@ -11,7 +11,9 @@
       "metal door"
     ],
     "incompatibles": [
-      "porte"
+      "porte",
+      "porte-a-panneaux",
+      "porte-a-deux-vantaux"
     ],
     "categoriesCommons": [
       "Category:Metal doors",
@@ -122,6 +124,110 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3885,
       "hauteur": 5827
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Black small metal door in Plaka on 12-3-2023.jpg",
+      "description": "Black small metal door in Plaka.",
+      "categories": [
+        "Metal doors",
+        "Self-published work",
+        "Black doors",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_small_metal_door_in_Plaka_on_12-3-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Black_small_metal_door_in_Plaka_on_12-3-2023.jpg/1280px-Black_small_metal_door_in_Plaka_on_12-3-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A Secret Place of Queen Victoria Tallinn 9 June 2014.JPG",
+      "description": "A 'Secret Place' of Queen Victoria , Tallinn 9 June 2014",
+      "categories": [
+        "Doors",
+        "Taken with Olympus VR-340 / D-750",
+        "Self-published work",
+        "Estonia photographs taken on 2014-06-09",
+        "Queen Victoria (ship, 2007) in Tallinn"
+      ],
+      "auteur": "Pjotr Mahhonin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG/1280px-A_Secret_Place_of_Queen_Victoria_Tallinn_9_June_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Black metal door in Plaka on 11-21-2023.jpg",
+      "description": "Black metal door in Plaka.",
+      "categories": [
+        "Metal doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_metal_door_in_Plaka_on_11-21-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Black_metal_door_in_Plaka_on_11-21-2023.jpg/1280px-Black_metal_door_in_Plaka_on_11-21-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A key is inserted in a door lock.jpg",
+      "description": "A key is inserted in a door lock while an LG branded appliance is visible in the background. Light reflects off the metal, showcasing the surroundings.",
+      "categories": [
+        "Doors",
+        "Keys",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_key_is_inserted_in_a_door_lock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_key_is_inserted_in_a_door_lock.jpg/1280px-A_key_is_inserted_in_a_door_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Black metal door in Plaka on 11-20-2023.jpg",
+      "description": "Black metal door in Plaka.",
+      "categories": [
+        "Metal doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Doors in Athens"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Black_metal_door_in_Plaka_on_11-20-2023.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Black_metal_door_in_Plaka_on_11-20-2023.jpg/1280px-Black_metal_door_in_Plaka_on_11-20-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A plant stem door.jpg",
+      "description": "Wildlife in the hoods",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Cornelius Agordome",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_plant_stem_door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A_plant_stem_door.jpg/1280px-A_plant_stem_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Conduit, ne montre pas un regard."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cylindre noir ajouré couronné d'un couvercle, isolé dans un sous-bois feuillu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Objet peu lisible, pas clairement un regard."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur sombre d'une chambre avec câbles et briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Włocławek, Pologne",
+      "note": "Chambre télécom sombre, illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouverture carrée d'une fosse vue de dessus, avec pieds au bord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kibera, Kenya",
+      "note": "Surexposée, ambiguë (fosse)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouverture ovale jaune en polyester d'un collecteur dans une paroi béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord de canalisation, pas un regard lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fouille de chantier avec un anneau béton préfabriqué au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague, Tchéquie",
+      "note": "Chantier, regard non fermé ni lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin aquarellé de robots et d'ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

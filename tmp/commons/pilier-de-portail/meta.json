@@ -11,7 +11,13 @@
       "brick gate pier"
     ],
     "incompatibles": [
-      "mur-de-cloture"
+      "mur-de-cloture",
+      "cloture-grillagee",
+      "cloture-en-bois"
+    ],
+    "categoriesCommons": [
+      "Category:Gate piers",
+      "Category:Gates"
     ]
   },
   "candidats": [
@@ -133,6 +139,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Warwick_Eastgate_CV34.jpg/1280px-Warwick_Eastgate_CV34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2608,
       "hauteur": 4621
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Old Gatepier, Midgie Lane, Kilmaurs, East Ayrshire. A path that cuts through the old tenementers land.jpg",
+      "description": "Old Gatepier, Midgie Lane, Kilmaurs, East Ayrshire. A path that cuts through the old tenementers land and runs to the Carmel Water.",
+      "categories": [
+        "Kilmaurs",
+        "Self-published work",
+        "Gate piers",
+        "August 2020 in Scotland",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_Gatepier,_Midgie_Lane,_Kilmaurs,_East_Ayrshire._A_path_that_cuts_through_the_old_tenementers_land.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Old_Gatepier%2C_Midgie_Lane%2C_Kilmaurs%2C_East_Ayrshire._A_path_that_cuts_through_the_old_tenementers_land.jpg/1280px-Old_Gatepier%2C_Midgie_Lane%2C_Kilmaurs%2C_East_Ayrshire._A_path_that_cuts_through_the_old_tenementers_land.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2534,
+      "hauteur": 2737
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:500px photo (179746607).jpeg",
+      "description": "500px provided description: Untitled [#autumn ,#yellow ,#trees ,#sky ,#forest ,#clouds ,#tree ,#green]",
+      "categories": [
+        "CC-Zero",
+        "Gates",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(179746607).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/500px_photo_%28179746607%29.jpeg/1280px-500px_photo_%28179746607%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Királyi kert a prágai várban.jpg",
+      "description": "Királyi kert a prágai várban",
+      "categories": [
+        "Ball finials in the Czech Republic",
+        "GFDL",
+        "Royal Garden (Prague Castle)",
+        "License migration completed",
+        "Self-published work",
+        "Gate piers",
+        "Metal gates in Prague",
+        "Photos by Kádár Tamás"
+      ],
+      "auteur": "Kádár Tamás",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kir%C3%A1lyi_kert_a_pr%C3%A1gai_v%C3%A1rban.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Kir%C3%A1lyi_kert_a_pr%C3%A1gai_v%C3%A1rban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232084 - Ingresso - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Ingresso - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Gates",
+        "Self-published work",
+        "Arch gates in Italy"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232084_-_Ingresso_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232084_-_Ingresso_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Panenské Břežany, castle gate.jpg",
+      "description": "Castle gate in Panenské Břežany , Czech Republic",
+      "categories": [
+        "Metal gates in the Czech Republic",
+        "Gateposts",
+        "Self-published work",
+        "Gate piers",
+        "Cultural monuments in the Czech Republic with known IDs",
+        "Statues in Prague-East District",
+        "Gates in Prague-East District",
+        "Gate (Lower Castle in Panenské Břežany)"
+      ],
+      "auteur": "Pavel Hrdlička (Czech Wikipedia user Packa )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Panensk%C3%A9_B%C5%99e%C5%BEany,_castle_gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Panensk%C3%A9_B%C5%99e%C5%BEany%2C_castle_gate.jpg/1280px-Panensk%C3%A9_B%C5%99e%C5%BEany%2C_castle_gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3798,
+      "hauteur": 2463
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:\"Evening Elegance\" ✨🌙.jpg",
+      "description": "A beautifully lit entrance with fountains, greenery, and warm lights creating a magical night ambiance. 🌴💡🌊",
+      "categories": [
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "Abinaya Vijayan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg/1280px-%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2340
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

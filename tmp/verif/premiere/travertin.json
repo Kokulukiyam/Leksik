@@ -1,0 +1,53 @@
+{
+  "termId": "travertin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Colonne de concrétion calcaire dans une grotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spéléothème de grotte, pas du travertin de construction."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Bloc brut de travertin sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon géologique brut, pas un matériau de construction lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Concrétion rubanée en grotte avec un grillon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spéléothème, pas un revêtement."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Intérieur d'un aqueduc romain tapissé de concrétions et de racines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fréjus, France",
+      "note": "Dépôt calcaire d'aqueduc, sombre et confus."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Dalles carrées de travertin noce posées à plat, criblées de petites cavités.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture typique du travertin: cavités allongées, veines, bords adoucis; dallage clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Falaise de travertin recouverte de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sant Miquel del Fai, Espagne",
+      "note": "Paroi naturelle masquée par la végétation, peu lisible."
+    }
+  ]
+}

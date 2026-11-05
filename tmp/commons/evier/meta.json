@@ -123,6 +123,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/California_Kitchen_from_1980_%E2%80%93_04.jpg/1280px-California_Kitchen_from_1980_%E2%80%93_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2400,
       "hauteur": 1800
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:AW Bad Cannstatt Waschräume - LABW - Staatsarchiv Ludwigsburg PL 734 FG 57.jpg",
+      "description": "AW Bad Cannstatt Waschräume",
+      "categories": [
+        "Sinks",
+        "Uploaded with OpenRefine",
+        "Collections of Staatsarchiv Ludwigsburg",
+        "Files from Landesarchiv-BW with known IDs",
+        "Files from Landesarchiv Baden-Württemberg uploaded by CuratorBot",
+        "Staatsarchiv Ludwigsburg Findbuch PL 734",
+        "Ausbesserungswerk Stuttgart-Bad Cannstatt"
+      ],
+      "auteur": "Harald Knauer",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AW_Bad_Cannstatt_Waschr%C3%A4ume_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_FG_57.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/AW_Bad_Cannstatt_Waschr%C3%A4ume_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_FG_57.jpg/1280px-AW_Bad_Cannstatt_Waschr%C3%A4ume_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_FG_57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2664,
+      "hauteur": 1538
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Broken, waterless, abused hand basin with marijuana - dagga but from girls toilets in a Soweto High School (6662192165).jpg",
+      "description": "South Africa - various photos from The Clean Shop",
+      "categories": [
+        "Cannabis culture",
+        "Kitchen sinks",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken,_waterless,_abused_hand_basin_with_marijuana_-_dagga_but_from_girls_toilets_in_a_Soweto_High_School_(6662192165).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Broken%2C_waterless%2C_abused_hand_basin_with_marijuana_-_dagga_but_from_girls_toilets_in_a_Soweto_High_School_%286662192165%29.jpg/1280px-Broken%2C_waterless%2C_abused_hand_basin_with_marijuana_-_dagga_but_from_girls_toilets_in_a_Soweto_High_School_%286662192165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:-i---i- (46736614501).jpg",
+      "description": "",
+      "categories": [
+        "Sinks",
+        "Media lacking a description",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Thomas Woodtli",
+        "Uploads by Matlin with bad file names",
+        "Photos uploaded from Flickr by Matlin (needing check) with bad file names"
+      ],
+      "auteur": "Thomas Woodtli from Zürich, Switzerland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(46736614501).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/-i---i-_%2846736614501%29.jpg/1280px--i---i-_%2846736614501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Crabs-καβούρια.jpg",
+      "description": "Μετά απο ψάρεμα καβουριών",
+      "categories": [
+        "Kitchen sinks",
+        "Self-published work",
+        "Fishing in Greece",
+        "Unidentified Brachyura",
+        "Arthropods of Greece",
+        "Food preparation in Greece"
+      ],
+      "auteur": "The photo editors",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crabs-%CE%BA%CE%B1%CE%B2%CE%BF%CF%8D%CF%81%CE%B9%CE%B1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Crabs-%CE%BA%CE%B1%CE%B2%CE%BF%CF%8D%CF%81%CE%B9%CE%B1.jpg/1280px-Crabs-%CE%BA%CE%B1%CE%B2%CE%BF%CF%8D%CF%81%CE%B9%CE%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1152
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A Myanmar Girl Waiting For Bus at A Busstop Beside A Recently Setup Washing Basin.jpg",
+      "description": "A Myanmar Girl Waiting For Bus at A Bus Stop Beside A Recently Setup Washing Basin",
+      "categories": [
+        "COVID-19 pandemic in Myanmar",
+        "Sinks",
+        "Bus stops in Myanmar",
+        "Self-published work",
+        "OpenMyanmar",
+        "Hand soaps during the COVID-19 pandemic"
+      ],
+      "auteur": "Lionslayer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Myanmar_Girl_Waiting_For_Bus_at_A_Busstop_Beside_A_Recently_Setup_Washing_Basin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/A_Myanmar_Girl_Waiting_For_Bus_at_A_Busstop_Beside_A_Recently_Setup_Washing_Basin.jpg/1280px-A_Myanmar_Girl_Waiting_For_Bus_at_A_Busstop_Beside_A_Recently_Setup_Washing_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2562,
+      "hauteur": 1708
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:CSIRO ScienceImage 2790 Running Water in a Sink.jpg",
+      "description": "Water use and conservation are of vital importance in a country such as Australia. Photo Credit: Tracey Nicholls",
+      "categories": [
+        "Kitchen sinks",
+        "Photographs from CSIRO ScienceImage",
+        "CSIRO media uploaded by User:99of9",
+        "Kitchens in Australia",
+        "Vegetables of Australia",
+        "Water management in Australia"
+      ],
+      "auteur": "Tracey Nicholls, CSIRO",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_2790_Running_Water_in_a_Sink.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/CSIRO_ScienceImage_2790_Running_Water_in_a_Sink.jpg/1280px-CSIRO_ScienceImage_2790_Running_Water_in_a_Sink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1772,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

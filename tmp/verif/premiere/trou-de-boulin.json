@@ -1,0 +1,63 @@
+{
+  "termId": "trou-de-boulin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur d'église en pierre de taille rouge entre contreforts, percé de petits trous carrés réguliers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.53,
+        "largeur": 0.31,
+        "hauteur": 0.12
+      },
+      "lieu": "Saint-Avit-Sénieur, France",
+      "note": "Trous de boulin nets dans un mur appareillé ; rectangle sur une rangée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page de manuscrit enluminé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enluminure, pas une photo d'un mur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Photo noir et blanc d'un jardin avec murets de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Aucun trou de boulin visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Échafaudage en perches de bois autour d'une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zanzibar, Tanzanie",
+      "note": "Échafaudage, pas de trou de boulin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de moellons avec deux trous carrés sombres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.27,
+        "largeur": 0.46,
+        "hauteur": 0.21
+      },
+      "lieu": "Château de Cardiff, Pays de Galles",
+      "note": "Deux trous de boulin lisibles dans un mur ancien ; rectangle sur eux."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de brique avec fenêtre et porte, petits trous minuscules.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Williamsburg, États-Unis",
+      "note": "Trous trop petits, ambigus."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "termId": "beton-imprime",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Réparation d'un trottoir de pavés, armature visible sous barrières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Pas de surface imprimée visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Allée de béton fissurée par des racines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ewing, New Jersey",
+      "note": "Béton ordinaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Dalle de béton frais en cours d'estampage avec motif d'ardoise, ouvriers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.37,
+        "largeur": 0.98,
+        "hauteur": 0.55
+      },
+      "lieu": "États-Unis",
+      "note": "Rectangle sur la dalle estampée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Allée pavée dans un jardin de cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Peu lisible, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chemin aux dalles peintes de couleurs vives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Yellow Springs, Ohio",
+      "note": "Peint, pas clairement imprimé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Allée de béton ancienne fissurée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pennsylvanie",
+      "note": "Béton ordinaire."
+    }
+  ]
+}

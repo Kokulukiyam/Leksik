@@ -1,0 +1,53 @@
+{
+  "termId": "bois-composite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Profilé alvéolaire beige en fibres, fond sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilé isolé, pas reconnaissable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaquettes brunes d'échantillons de composite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillons peu parlants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Lames de terrasse rainurées vert-gris et brun-rouge alignées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lames composites rainurées typiques."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petites voitures jouets en plastique chargé de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jouets."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Belvédère à plancher et garde-corps en bois plastique recyclé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rachel Carson, Maine",
+      "note": "Matériau peu distinguable du bois."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit plat en PLA renforcé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet, pas du bardage ni du platelage."
+    }
+  ]
+}

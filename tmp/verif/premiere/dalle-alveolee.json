@@ -1,0 +1,53 @@
+{
+  "termId": "dalle-alveolee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Éléments de regards en béton préfabriqués empilés dans un dépôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tamil Nadu, Inde",
+      "note": "Anneaux de regard, pas de dalle alvéolée."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sous-face d'une dalle de béton à caissons carrés portée par des colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saga, Japon",
+      "note": "Dalle caissonnée, pas alvéolée."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tablier de pont en béton avec glissières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin, États-Unis",
+      "note": "Alvéoles non visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Rendu numérique abstrait d'un mur perforé et d'un trou noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, pas une dalle alvéolée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Moule métallique de fabrication d'une traverse béton avec armatures tendues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kazakhstan",
+      "note": "Traverse de voie ferrée, pas une dalle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Trottoir en pavés rouges et noirs le long d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thanjavur, Inde",
+      "note": "Sans rapport."
+    }
+  ]
+}

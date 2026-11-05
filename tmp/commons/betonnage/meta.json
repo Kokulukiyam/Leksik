@@ -11,7 +11,11 @@
       "concrete pour pump"
     ],
     "incompatibles": [
-      "beton-frais"
+      "beton-frais",
+      "pompe-a-beton"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete construction"
     ]
   },
   "candidats": [
@@ -143,6 +147,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Engineers_at_the_Construction_Site_17.jpg/1280px-Engineers_at_the_Construction_Site_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Post tensioned concrete slab on cellular beams.jpg",
+      "description": "Mario Kleff's Wandeegroup (Thailand) Company Limited is about to complete the first residential complex with a steel frame construction and a post-tensioned concrete slab with a span of 24.00 x 27.00 meters.",
+      "categories": [
+        "Self-published work",
+        "Construction in Thailand",
+        "Files with coordinates missing SDC location of creation",
+        "Long-span techniques in residential architecture",
+        "Buildings in Pattaya",
+        "Architectural designs by Mario Kleff",
+        "Concrete construction"
+      ],
+      "auteur": "Meow2021",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Post_tensioned_concrete_slab_on_cellular_beams.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Post_tensioned_concrete_slab_on_cellular_beams.jpg/1280px-Post_tensioned_concrete_slab_on_cellular_beams.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Engineers at the Construction Site 10.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Self-published work",
+        "Construction in Uganda",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Uganda",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Uganda",
+        "Images from Wiki Loves Africa 2017 in Uganda",
+        "Occupations of Uganda"
+      ],
+      "auteur": "Manu4ster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Engineers_at_the_Construction_Site_10.jpg/1280px-Engineers_at_the_Construction_Site_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Ready for concrete.jpg",
+      "description": "Radon/methane membrane, steel re-enforcement with edge thickener and peckafill type shutter.",
+      "categories": [
+        "Self-published work",
+        "Construction sites in the United Kingdom",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Concrete construction"
+      ],
+      "auteur": "Bugsybanana",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ready_for_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Ready_for_concrete.jpg/1280px-Ready_for_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Engineers at the Construction Site 16.jpg",
+      "description": "Ceci est une image d' \"Africain ou Africaine au travail\" en/au",
+      "categories": [
+        "Self-published work",
+        "Construction in Uganda",
+        "Images from Wiki Loves Africa 2017",
+        "Men at work in Uganda",
+        "Images from Wiki Loves Africa 2017 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Construction workers in Uganda",
+        "Images from Wiki Loves Africa 2017 in Uganda",
+        "Occupations of Uganda"
+      ],
+      "auteur": "Manu4ster",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Engineers_at_the_Construction_Site_16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Engineers_at_the_Construction_Site_16.jpg/1280px-Engineers_at_the_Construction_Site_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Construction de la route forestière de St Cassin au Col de Lélia. Coulage de la dalle de béton armé du pont de 10 m d'ouverture. Pk 795. N° 373. - Rolley - btv1b10688712h.jpg",
+      "description": "Photographie en noir et blanc de la restauration des terrains en montagne. Mots-clés : Ouvrages d'art ; Montagnole (Savoie, France) ; Savoie (France)",
+      "categories": [
+        "CC-Zero",
+        "Bridges in Savoie",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "PD France",
+        "1943 in Savoie",
+        "Images from Gallica",
+        "Files from Gallica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Photographies de restauration des terrains en montagne",
+        "Files from Gallica needing categories (images of 1943)",
+        "Savoie (département) in the Archives nationales (France)"
+      ],
+      "auteur": "Rolley, Jean, agent public de l'inspection des eaux et forêts",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construction_de_la_route_foresti%C3%A8re_de_St_Cassin_au_Col_de_L%C3%A9lia._Coulage_de_la_dalle_de_b%C3%A9ton_arm%C3%A9_du_pont_de_10_m_d%27ouverture._Pk_795._N%C2%B0_373._-_Rolley_-_btv1b10688712h.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Construction_de_la_route_foresti%C3%A8re_de_St_Cassin_au_Col_de_L%C3%A9lia._Coulage_de_la_dalle_de_b%C3%A9ton_arm%C3%A9_du_pont_de_10_m_d%27ouverture._Pk_795._N%C2%B0_373._-_Rolley_-_btv1b10688712h.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2550,
+      "hauteur": 3763
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Het vlechtwerk is gereed voor het storten van beton F57663.jpeg",
+      "description": "Het vlechtwerk is gereed voor het storten van beton",
+      "categories": [
+        "Uploaded with pattypan",
+        "Concrete in the Netherlands",
+        "Images from Fotopersbureau Gelderland",
+        "Concrete construction"
+      ],
+      "auteur": "J.F.M. Trum, Fotopersbureau Gelderland",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg/1280px-Het_vlechtwerk_is_gereed_voor_het_storten_van_beton_F57663.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2607,
+      "hauteur": 1901
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -12,6 +12,11 @@
     ],
     "incompatibles": [
       "balcon"
+    ],
+    "categoriesCommons": [
+      "Category:Loggias",
+      "Category:Loggias in France",
+      "Category:Balconies"
     ]
   },
   "candidats": [
@@ -144,6 +149,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Esmarchstra%C3%9Fe%2C_Kiel_%2821922832210%29.jpg/1280px-Esmarchstra%C3%9Fe%2C_Kiel_%2821922832210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3456,
       "hauteur": 5184
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Registan, Samarkand (8589011813).jpg",
+      "description": "Registan, Samarkand",
+      "categories": [
+        "Loggias",
+        "2013 in Samarkand",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files uploaded by Tyler de Noche",
+        "Uzbekistan photographs taken on 2013-03-09",
+        "Photographs by Aleksandr Zykov",
+        "Arcades in the Registan",
+        "Majolica tiles in the Registan",
+        "Loggias in the Registan"
+      ],
+      "auteur": "Aleksandr Zykov from Russia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Registan,_Samarkand_(8589011813).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Registan%2C_Samarkand_%288589011813%29.jpg/1280px-Registan%2C_Samarkand_%288589011813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chambéry Place de l'Hôtel de ville 1.JPG",
+      "description": "Chambéry, ville et préfecture du département de la Savoie (région Rhône-Alpes, France). Place de l'Hôtel de ville.",
+      "categories": [
+        "Taken with Olympus SP-570UZ",
+        "CC-Zero",
+        "Buildings in Chambéry",
+        "Self-published work",
+        "Loggias in France",
+        "2013 in Chambéry"
+      ],
+      "auteur": "Torsade de Pointes",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamb%C3%A9ry_Place_de_l%27H%C3%B4tel_de_ville_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chamb%C3%A9ry_Place_de_l%27H%C3%B4tel_de_ville_1.JPG/1280px-Chamb%C3%A9ry_Place_de_l%27H%C3%B4tel_de_ville_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1992
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Balcony (28686227892).jpg",
+      "description": "As all the pictures in &lt;a href=\" https://www.flickr.com/photos/carloszgz/sets \"&gt;my gallery&lt;/a&gt;, this is a FREE picture . You can download it and do whatever you want with it: share it, adapt it and/or combine it with other material and distribute the resulting works. I’d very much appreciate if you give photo credits to “Carlos ZGZ” when you use this picture. This would help me find it and add it to my photoset &lt;a href=\" https://www.flickr.com/photos/carloszgz/sets/72157651104515768 \"&gt;“Used elsewhere”&lt;/a&gt; . __ Como todas las imágenes de &lt;a href=\" https://www.flickr.c",
+      "categories": [
+        "Balconies",
+        "Unidentified Angiosperms",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Carlos ZGZ from Paris, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_(28686227892).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Balcony_%2828686227892%29.jpg/1280px-Balcony_%2828686227892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gjirokastër Skenduli-Haus - Sommergeschoss 1b Loggia.jpg",
+      "description": "Gjirokastër ( Albania ). Skenduli house ( 18th/19th century ): Second floor - Loggia.",
+      "categories": [
+        "Loggias",
+        "Self-published work",
+        "Skenduli house in Gjirokastër - Second floor"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gjirokast%C3%ABr_Skenduli-Haus_-_Sommergeschoss_1b_Loggia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gjirokast%C3%ABr_Skenduli-Haus_-_Sommergeschoss_1b_Loggia.jpg/1280px-Gjirokast%C3%ABr_Skenduli-Haus_-_Sommergeschoss_1b_Loggia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Parlement de Bretagne - Grande Chambre loge.jpg",
+      "description": "Loge dans la Grande Chambre du palais du Parlement de Bretagne à Rennes .",
+      "categories": [
+        "GFDL",
+        "Taken with Konica Minolta Dynax 7D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Grand’Chambre du parlement de Bretagne",
+        "License migration redundant",
+        "Self-published work",
+        "Loggias in France",
+        "Files by Pymouss",
+        "Images from the European Heritage Days 2010",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Pymouss",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parlement_de_Bretagne_-_Grande_Chambre_loge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Parlement_de_Bretagne_-_Grande_Chambre_loge.jpg/1280px-Parlement_de_Bretagne_-_Grande_Chambre_loge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3016,
+      "hauteur": 2008
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2014-365-363 Not a Collage (16143182941).jpg",
+      "description": "No editing beyond cropping on this photo.",
+      "categories": [
+        "Balconies",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2014-365-363_Not_a_Collage_(16143182941).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2014-365-363_Not_a_Collage_%2816143182941%29.jpg/1280px-2014-365-363_Not_a_Collage_%2816143182941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2652,
+      "hauteur": 1768
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

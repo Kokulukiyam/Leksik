@@ -1,0 +1,53 @@
+{
+  "termId": "zellige",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond octogonal décoré de zellige autour d'un lustre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rabat, Maroc",
+      "note": "Fragments très petits, peut se lire comme mosaïque."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mur couvert de petits carreaux émaillés blancs, verts et grenat en frise et damier étoilé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Rabat, Maroc",
+      "note": "Carreaux émaillés taillés à la main, motif géométrique, lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grande porte de bronze dans une façade sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rabat, Maroc",
+      "note": "Le zellige n'est pas le sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fontaine murale marocaine avec zellige dans une niche, reconstitution.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Epcot, États-Unis",
+      "note": "Réplique, zellige peu dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fenêtre à grille jaune et soubassement carrelé dans l'ombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Marrakech, Maroc",
+      "note": "Zellige secondaire et sombre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan de carreaux céramique en étoile bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jérusalem",
+      "note": "Carreaux pressés/peints, origine douteuse, pas du zellige sûr."
+    }
+  ]
+}

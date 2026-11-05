@@ -1,0 +1,53 @@
+{
+  "termId": "sommier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo floue en pose longue de fidèles devant une mosquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dacca, Bangladesh",
+      "note": "Floue, aucun sommier visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vestige d'un arc roman bouché avec claveaux de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Boreham, Angleterre",
+      "note": "Montre l'arc et ses claveaux, pas le sommier isolé; ambigu avec claveau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux arcades en pierre sur piles dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tàrrega, Espagne",
+      "note": "Sommier trop petit et peu distinct, confusion avec arc/piédroit."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arceau de jardin couvert de rosiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sommier."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade néo-Renaissance avec porte et fenêtres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague, Tchéquie",
+      "note": "Panneau visible, sommier non montré."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porche de pierre avec tour à horloge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Parham House, Angleterre",
+      "note": "Sommier non identifiable."
+    }
+  ]
+}

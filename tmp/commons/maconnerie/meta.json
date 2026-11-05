@@ -9,6 +9,14 @@
       "masonry wall construction",
       "mur en maçonnerie",
       "bricklaying wall"
+    ],
+    "categoriesCommons": [
+      "Category:Masonry"
+    ],
+    "incompatibles": [
+      "appareil-cyclopeen",
+      "appareil-reticule",
+      "opus-incertum"
     ]
   },
   "candidats": [
@@ -118,6 +126,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cordwood_wall_with_bottles_J2.JPG/1280px-Cordwood_wall_with_bottles_J2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2950,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A brick wall destroyed by erosion from dampness.jpg",
+      "description": "Кирпичная стена, разрушенная эрозией от сырости",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Taken with BQ Mobile Choice"
+      ],
+      "auteur": "Алёна Синичкина",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_wall_destroyed_by_erosion_from_dampness.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/A_brick_wall_destroyed_by_erosion_from_dampness.jpg/1280px-A_brick_wall_destroyed_by_erosion_from_dampness.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A brick wall made of bricks of different sizes.jpg",
+      "description": "Кирпичная стена из кирпича разного размера.",
+      "categories": [
+        "Masonry",
+        "Self-published work",
+        "Taken with BQ Mobile Choice"
+      ],
+      "auteur": "Алёна Синичкина",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_wall_made_of_bricks_of_different_sizes.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_brick_wall_made_of_bricks_of_different_sizes.jpg/1280px-A_brick_wall_made_of_bricks_of_different_sizes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Alhondiga column - panoramio.jpg",
+      "description": "Alhondiga column",
+      "categories": [
+        "Masonry",
+        "Interior of Alhóndiga Bilbao (Azkuna Zentroa)",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Spain photographs taken on 2012-04-06",
+        "Photos from Panoramio ID 4647437"
+      ],
+      "auteur": "Tim Tregenza",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alhondiga_column_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Alhondiga_column_-_panoramio.jpg/1280px-Alhondiga_column_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1361,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Apoyo de escalera de bóveda tabicada sobre viga brochal en una casa serrana valenciana.jpg",
+      "description": "Support of a Tile vault staircase on a beam in a Valencian country house.",
+      "categories": [
+        "Taken with Sony HDR-CX240",
+        "Vaults",
+        "Masonry",
+        "Bóveda tabicada",
+        "Self-published work",
+        "Tile vault"
+      ],
+      "auteur": "Barandat",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg/1280px-Apoyo_de_escalera_de_b%C3%B3veda_tabicada_sobre_viga_brochal_en_una_casa_serrana_valenciana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2272
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bossenmauerwerk.jpg",
+      "description": "Bossenmauerwerk",
+      "categories": [
+        "Copyrighted free use",
+        "Walls",
+        "Masonry",
+        "Media needing category review as of 10 August 2016"
+      ],
+      "auteur": "Reiner Flassig",
+      "licence": "Copyrighted free use",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bossenmauerwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bossenmauerwerk.jpg/1280px-Bossenmauerwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2830,
+      "hauteur": 1697
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:1392713 - Ipswich, Walls enclosing Jewish burial ground.jpg",
+      "description": "Walls Enclosing Jews' Burial Ground .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-pa",
+      "categories": [
+        "Masonry",
+        "Grade II listed buildings in Suffolk",
+        "Self-published work",
+        "Potential image for Wikidata item",
+        "Listed buildings in England with known IDs",
+        "Gravestones in Suffolk",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "October 2020 in Suffolk",
+        "Jewish cemeteries in England",
+        "Cemeteries in Ipswich"
+      ],
+      "auteur": "Barrymyles",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1392713_-_Ipswich,_Walls_enclosing_Jewish_burial_ground.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg/1280px-1392713_-_Ipswich%2C_Walls_enclosing_Jewish_burial_ground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "beton-prefabrique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tablier de pont temporaire en dalles de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wisconsin",
+      "note": "Chaussée, préfabrication peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Démolition d'un immeuble de logements en panneaux avec pelle mécanique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Panneaux peu lisibles, scène de démolition."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sous-face d'un auvent à caissons de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saga, Japon",
+      "note": "Caissons, préfabrication incertaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maquette urbaine en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Maquette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Trottoir pavé de pavés autobloquants rouges et noirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thanjavur, Inde",
+      "note": "Pavés, pas des éléments préfabriqués structurels clairs."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Monument en pierre devant des immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dresde",
+      "note": "Monument de pierre."
+    }
+  ]
+}

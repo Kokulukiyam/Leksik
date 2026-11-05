@@ -1,0 +1,53 @@
+{
+  "termId": "hauban",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poteau de bois avec câbles, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câbles de réseau, pas un hauban."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lampadaire et fils électriques dans le ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lindenhurst, États-Unis",
+      "note": "Fils, pas un hauban."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maquette en noir et blanc d'une plate-forme à câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette, pas une photo d'ouvrage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pylône du pont de Brooklyn avec câbles obliques et suspentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Pont suspendu mêlant câbles porteurs et haubans, ambigu."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Atrium en spirale avec tiges tendues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Pétersbourg, Russie",
+      "note": "Tiges de suspension, pas un hauban net."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade d'immeuble en cours d'isolation par l'extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Sans rapport."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "termId": "arc-outrepasse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Portique métallique routier en arc devant des montagnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "At-Bashy, Kirghizistan",
+      "note": "Structure métallique, pas un arc outrepassé."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cour de la mosquée des Omeyyades avec arcades en plein cintre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Damas, Syrie",
+      "note": "Arcs plein cintre, pas en fer à cheval."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Grand arc en fer à cheval décoré encadrant un bassin et un pavillon.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.07,
+        "largeur": 0.4,
+        "hauteur": 0.43
+      },
+      "lieu": "Putrajaya, Malaisie",
+      "note": "Fer à cheval net, courbe dépassant le demi-cercle et se resserrant à la base."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Arcs blancs de façade de stade sous des palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monaco",
+      "note": "Arcs allongés en plein cintre, pas outrepassés."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Galerie blanche à arcs outrepassés brisés à la mosquée Al-Qarawiyyin.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.21,
+        "largeur": 0.3,
+        "hauteur": 0.43
+      },
+      "lieu": "Fès, Maroc",
+      "note": "Arc en fer à cheval brisé (maghrébin) lisible, encadré sur l'arc de gauche."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Enluminure médiévale colorée avec arc en fer à cheval.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Miniature, pas une photo."
+    }
+  ]
+}

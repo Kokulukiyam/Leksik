@@ -11,7 +11,9 @@
       "low wall"
     ],
     "incompatibles": [
-      "mur-de-cloture"
+      "mur-de-cloture",
+      "haie",
+      "mur-de-soutenement"
     ]
   },
   "candidats": [
@@ -114,6 +116,104 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg/1280px-Fukuoka_Daimy%C5%8D_Garden_City_Tower_the_low-angle_shot_of_the_NE_side_Daimy%C5%8D_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20240812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2928,
       "hauteur": 3904
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Karting de Muret - Batiment.jpg",
+      "description": "Bâtiment principal du Karting de Muret",
+      "categories": [
+        "Muret",
+        "Self-published work"
+      ],
+      "auteur": "Nstaf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Karting_de_Muret_-_Batiment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Karting_de_Muret_-_Batiment.jpg/1280px-Karting_de_Muret_-_Batiment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Boite à livres - Muret - cinéma Veo.jpg",
+      "description": "Boite à livre située dans le hall du cinéma Veo de Muret",
+      "categories": [
+        "CC-Zero",
+        "Muret",
+        "Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license",
+        "Self-published work",
+        "Self-published work missing SDC copyright license",
+        "Public bookcases in Haute-Garonne",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Glacasa",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boite_%C3%A0_livres_-_Muret_-_cin%C3%A9ma_Veo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Boite_%C3%A0_livres_-_Muret_-_cin%C3%A9ma_Veo.jpg/1280px-Boite_%C3%A0_livres_-_Muret_-_cin%C3%A9ma_Veo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Walled garden and Low Pond, Penicuik Estate - geograph.org.uk - 3965002.jpg",
+      "description": "Walled garden and Low Pond, Penicuik Estate",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Penicuik (civil parish)"
+      ],
+      "auteur": "Jim Barton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walled_garden_and_Low_Pond,_Penicuik_Estate_-_geograph.org.uk_-_3965002.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Walled_garden_and_Low_Pond%2C_Penicuik_Estate_-_geograph.org.uk_-_3965002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 682
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:L'arche du Karting 2 Muret.jpg",
+      "description": "La nouvelle arche du karting 2 Muret aux couleurs de 2DNK",
+      "categories": [
+        "Muret",
+        "Self-published work"
+      ],
+      "auteur": "Nstaf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%27arche_du_Karting_2_Muret.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/L%27arche_du_Karting_2_Muret.jpg/1280px-L%27arche_du_Karting_2_Muret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Footpath between bank and low wall - geograph.org.uk - 7193051.jpg",
+      "description": "Footpath between bank and low wall",
+      "categories": [
+        "Images from Geograph Britain and Ireland",
+        "Alston Moor"
+      ],
+      "auteur": "Trevor Littlewood",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Footpath_between_bank_and_low_wall_-_geograph.org.uk_-_7193051.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Footpath_between_bank_and_low_wall_-_geograph.org.uk_-_7193051.jpg/1280px-Footpath_between_bank_and_low_wall_-_geograph.org.uk_-_7193051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1012
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Muret - Place Saint-martin - boîte à livres.jpg",
+      "description": "Boîte à livres à Muret",
+      "categories": [
+        "Muret",
+        "Public bookcases in Haute-Garonne",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Frank PHOTOGraphies",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muret_-_Place_Saint-martin_-_bo%C3%AEte_%C3%A0_livres.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Muret_-_Place_Saint-martin_-_bo%C3%AEte_%C3%A0_livres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1080,
+      "hauteur": 1920
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

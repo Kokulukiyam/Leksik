@@ -11,7 +11,15 @@
       "béton"
     ],
     "incompatibles": [
-      "beton-brut"
+      "beton-brut",
+      "beton-frais",
+      "beton-prefabrique",
+      "beton-imprime"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete",
+      "Category:Concrete walls",
+      "Category:Concrete structures"
     ]
   },
   "candidats": [
@@ -145,6 +153,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Concrete_block_wall_in_Muan_in_2026_%281%29.jpg/1280px-Concrete_block_wall_in_Muan_in_2026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:15 cm cubes used for cube test to measure concrete strength.jpg",
+      "description": "15 cm cubes used for cube test to measure concrete strength",
+      "categories": [
+        "Construction",
+        "Concrete",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2021-07-29"
+      ],
+      "auteur": "Fotokannan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg/1280px-15_cm_cubes_used_for_cube_test_to_measure_concrete_strength.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1844
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Minas de Riotinto, Pozo Rotilio 3.jpg",
+      "description": "Detail of Rotilio pithead. Nerva, Huelva, Andalusia, Spain",
+      "categories": [
+        "Pozo Rotilio",
+        "Self-published work",
+        "Concrete walls",
+        "Rusty objects in Spain",
+        "Photographs by LBM1948",
+        "Rusty walls"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Minas_de_Riotinto,_Pozo_Rotilio_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Minas_de_Riotinto%2C_Pozo_Rotilio_3.jpg/1280px-Minas_de_Riotinto%2C_Pozo_Rotilio_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2012.08 - 'Concrete & old brick foundation under Central Station Amsterdam', urban photo of construction activities, Fons Heijnsbroek (12101703396).jpg",
+      "description": "2012 - photo of new and old foundation layers under the Central Station Amsterdam, during the renovation works. The construction photo shows the late 19th century brick foundation and the new early-21st century concrete basement pillar under the 19th-century station building. The large station building is located on the border of the river IJ on an constructed dike in the water, circa 1890. Photography of construction activities and renovation in Amsterdam city, The Netherlands; a geo-tagged and free download image in the public domain / CC0 photo by photographer Fons Heijnsbroek",
+      "categories": [
+        "CC-Zero",
+        "Construction workers",
+        "Created with Adobe Photoshop Elements",
+        "Amsterdam Central station",
+        "High-visibility clothing",
+        "Concrete structures",
+        "Concrete columns",
+        "PD-Netherlands",
+        "Renovation in the Netherlands",
+        "Uploads by Matlin",
+        "Netherlands photographs taken on 2012-08-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "August 2012 in Amsterdam",
+        "Construction of Noord/Zuidlijn",
+        "Construction sites in Amsterdam",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2012)",
+        "Stationsplein area, neighbourhood of Amsterdam, in photos by Fons Heijnsbroek"
+      ],
+      "auteur": "Fons Heijnsbroek from Amsterdam, Netherlands",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012.08_-_%27Concrete_%26_old_brick_foundation_under_Central_Station_Amsterdam%27,_urban_photo_of_construction_activities,_Fons_Heijnsbroek_(12101703396).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2012.08_-_%27Concrete_%26_old_brick_foundation_under_Central_Station_Amsterdam%27%2C_urban_photo_of_construction_activities%2C_Fons_Heijnsbroek_%2812101703396%29.jpg/1280px-2012.08_-_%27Concrete_%26_old_brick_foundation_under_Central_Station_Amsterdam%27%2C_urban_photo_of_construction_activities%2C_Fons_Heijnsbroek_%2812101703396%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4724,
+      "hauteur": 3543
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2023-07-12 10 47 46 60-year old sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "60-year old sidewalk along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Concrete",
+        "Self-published work",
+        "July 2023 in New Jersey",
+        "United States photographs taken on 2023-07-12",
+        "Files with coordinates missing SDC location of creation",
+        "Sidewalks in Ewing Township, New Jersey",
+        "Lochatong Road (Ewing Township, New Jersey)",
+        "Famartin's 2023 photos",
+        "Famartin's July 2023 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2023-07-12_10_47_46_60-year_old_sidewalk_along_Lochatong_Road_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:CYII (1930-1932) 40.1.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: excavación y construcción del muro perimetral. Madrid",
+      "categories": [
+        "Concrete structures in Spain",
+        "Madrid in the 1930s",
+        "Concrete walls",
+        "Earthworks in Spain",
+        "Template Unknown (author)",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_40.1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/CYII_%281930-1932%29_40.1.jpg/1280px-CYII_%281930-1932%29_40.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2274,
+      "hauteur": 1667
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:00056.BH--Concrete coal trestle--George Prall--Delaware, NJ (6d874375-c187-4df7-8360-7f37a0d5e406).jpg",
+      "description": "00056.BH--Concrete coal trestle--George Prall--Delaware, NJ Keywords: concrete; coal trestle; Railroad engineering and operation; (NPS Focus Subject Thesaurus)",
+      "categories": [
+        "Delaware, Lackawanna and Western Railroad",
+        "Concrete structures",
+        "Knowlton Township, New Jersey",
+        "PD US expired",
+        "Template Unknown (author)",
+        "Images from NPGallery",
+        "Coal trestle diagrams"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:00056.BH--Concrete_coal_trestle--George_Prall--Delaware,_NJ_(6d874375-c187-4df7-8360-7f37a0d5e406).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/00056.BH--Concrete_coal_trestle--George_Prall--Delaware%2C_NJ_%286d874375-c187-4df7-8360-7f37a0d5e406%29.jpg/1280px-00056.BH--Concrete_coal_trestle--George_Prall--Delaware%2C_NJ_%286d874375-c187-4df7-8360-7f37a0d5e406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7380,
+      "hauteur": 2766
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

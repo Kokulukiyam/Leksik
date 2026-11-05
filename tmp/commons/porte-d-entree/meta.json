@@ -11,7 +11,12 @@
       "front door entrance"
     ],
     "incompatibles": [
-      "porte"
+      "porte",
+      "porte-vitree",
+      "porte-metallique",
+      "porte-a-panneaux",
+      "porte-a-deux-vantaux",
+      "huisserie"
     ],
     "categoriesCommons": [
       "Category:Front doors",
@@ -139,6 +144,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Abhimanya_Doors.jpg/1280px-Abhimanya_Doors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 8064,
       "hauteur": 6048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:New front door (5220796607).jpg",
+      "description": "The end result",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FX35",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "White doors",
+        "Front doors",
+        "Files from Timo Newton-Syms Flickr stream"
+      ],
+      "auteur": "Timo Newton-Syms from Helsinki, Finland and Chalfont St Giles, Bucks, UK",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New_front_door_(5220796607).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/New_front_door_%285220796607%29.jpg/1280px-New_front_door_%285220796607%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Arbeidermuseet Oslo entrance.JPG",
+      "description": "Arbeidermuseet i Sagveien 28, Sagene, Oslo, avd. av Oslo Museum.",
+      "categories": [
+        "Taken with Nikon D60",
+        "Arbeidermuseet, Oslo",
+        "Sagveien",
+        "Self-published work",
+        "Doors in Norway",
+        "Entrance stairs in Norway",
+        "June 2013 in Oslo",
+        "Entrance doors"
+      ],
+      "auteur": "Helge Høifødt",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arbeidermuseet_Oslo_entrance.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Arbeidermuseet_Oslo_entrance.JPG/1280px-Arbeidermuseet_Oslo_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:All knots and bells.jpg",
+      "description": "All knots and bells at door front",
+      "categories": [
+        "Doors",
+        "Knots",
+        "Bells",
+        "Pan Chang knots",
+        "Self-published work"
+      ],
+      "auteur": "Sneha G Gupta",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_knots_and_bells.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/All_knots_and_bells.jpg/1280px-All_knots_and_bells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Sign-1014254, Valletta, Malta.jpg",
+      "description": "Maltese-language university name sign, in which 'ta' means 'of' in Maltese .",
+      "categories": [
+        "University of Malta Valletta Campus",
+        "Buildings in Valletta",
+        "Self-published work",
+        "Arch portals",
+        "University signs",
+        "Arch windows in Malta",
+        "Front doors",
+        "Maltese-language plaques in Malta",
+        "Maltese-language signs",
+        "Buildings in Malta photographed in 2025",
+        "Black doors in Europe"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sign-1014254,_Valletta,_Malta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sign-1014254%2C_Valletta%2C_Malta.jpg/1280px-Sign-1014254%2C_Valletta%2C_Malta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bjugan Østre, Nord-Trøndelag - Riksantikvaren-T369 01 0043.jpg",
+      "description": "Bjugan Østre i Hegra, Nord-Trøndelag",
+      "categories": [
+        "PD Norway",
+        "Images from The Norwegian Directorate for Cultural Heritage",
+        "Cultural heritage monuments in Norway with known IDs",
+        "Doors in Norway",
+        "Cultural heritage monuments in Norway missing SDC location of creation",
+        "Cultural heritage monuments in Norway missing SDC depicts",
+        "History of Stjørdal",
+        "Entrance doors",
+        "Photographs by Halvor Vreim",
+        "Files uploaded by Riksbot",
+        "Bjugan Østre"
+      ],
+      "auteur": "Halvor Vreim",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bjugan_%C3%98stre,_Nord-Tr%C3%B8ndelag_-_Riksantikvaren-T369_01_0043.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bjugan_%C3%98stre%2C_Nord-Tr%C3%B8ndelag_-_Riksantikvaren-T369_01_0043.jpg/1280px-Bjugan_%C3%98stre%2C_Nord-Tr%C3%B8ndelag_-_Riksantikvaren-T369_01_0043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2334,
+      "hauteur": 3514
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:500px photo (68126493).jpeg",
+      "description": "500px provided description: 1840 [#street ,#door ,#sidewalk ,#grunge]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Isaac Bowen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(68126493).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/500px_photo_%2868126493%29.jpeg/1280px-500px_photo_%2868126493%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1366
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

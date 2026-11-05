@@ -1,0 +1,53 @@
+{
+  "termId": "metal-deploye",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gravure ancienne d'une machine à fabriquer du métal déployé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Grille de haut-parleur en maille losange avec un logo rouge au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément de mobilier, logo central, maille très fine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Angle d'un bâtiment habillé de mailles en losange de métal déployé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Grenchen, Suisse",
+      "note": "Maille losange très lisible sur toute la façade."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan abstrait d'une tôle à mailles losange en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Très abstrait, deux validées plus lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Clôture frontière en bois, grillage et barbelés, panneaux visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sorge, Allemagne",
+      "note": "Maille peu visible, panneaux et texte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade et garde-corps habillés de panneaux de métal déployé vus en perspective.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maille à losanges nette et dominante."
+    }
+  ]
+}

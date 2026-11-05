@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Siphons",
       "Category:Plumbing"
+    ],
+    "incompatibles": [
+      "siphon-de-sol"
     ]
   },
   "candidats": [
@@ -134,6 +137,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/4._Urine_pipe_to_temporary_storge_tanker_%287092684527%29.jpg/1280px-4._Urine_pipe_to_temporary_storge_tanker_%287092684527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1920,
       "hauteur": 1080
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Clam with its siphon out in Boothbay Maine.jpg",
+      "description": "Clam with its siphon out",
+      "categories": [
+        "Unidentified Bivalvia",
+        "CC-Zero",
+        "Siphons",
+        "Boothbay Harbor, Maine",
+        "Self-published work"
+      ],
+      "auteur": "Bigmacthealmanac",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clam_with_its_siphon_out_in_Boothbay_Maine.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Clam_with_its_siphon_out_in_Boothbay_Maine.jpg/1280px-Clam_with_its_siphon_out_in_Boothbay_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2943,
+      "hauteur": 1668
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:18 Jago Plumbing.JPG",
+      "description": "Jago Plumbing but they also do electrical work.",
+      "categories": [
+        "Taken with Nikon Coolpix P500",
+        "Plumbing",
+        "Self-published work",
+        "July 2014 in Nunavut",
+        "Companies of Cambridge Bay"
+      ],
+      "auteur": "CambridgeBayWeather",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:18_Jago_Plumbing.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/18_Jago_Plumbing.JPG/1280px-18_Jago_Plumbing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Siphoning.JPG",
+      "description": "Siphoning the beer from the residu into a second tank after the first fermentation. The second tank is again equipped with a vacuum closing and fermentation lock. After the second fermentation, there is another siphoning and the beer can be consumed.",
+      "categories": [
+        "Taken with Konica Minolta Dimage Z6",
+        "Siphons",
+        "Homebrewing",
+        "Self-published work",
+        "PD-self",
+        "Fermentation tanks"
+      ],
+      "auteur": "KVDP",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Siphoning.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Siphoning.JPG/1280px-Siphoning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1562,
+      "hauteur": 2490
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:0support (14993849934).jpg",
+      "description": "material support for households/residents",
+      "categories": [
+        "Taken with Canon PowerShot A75",
+        "Plumbing",
+        "Sanitation",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Adjumani",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0support_(14993849934).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/0support_%2814993849934%29.jpg/1280px-0support_%2814993849934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Tubo Drago para cerveza.jpg",
+      "description": "Heladera (keezer) de cerveza con tubo de CO2 Drago, adaptador y regulador de CO2. Baril slim de 20L de cerveza American Pale Ale Filidoro con Conector G Acoples rápidos de conector y canilla Botellas de cerveza Y termostato STC-1000",
+      "categories": [
+        "Siphons",
+        "Self-published work"
+      ],
+      "auteur": "Matybsas",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tubo_Drago_para_cerveza.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Tubo_Drago_para_cerveza.jpg/1280px-Tubo_Drago_para_cerveza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4096,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2006-02-15 Piping.jpg",
+      "description": "Tuyauterie d'une chaufferie.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G5",
+        "Plumbing",
+        "License migration redundant",
+        "Self-published work",
+        "Commons featured desktop backgrounds",
+        "Black and silver",
+        "Boiler rooms",
+        "Featured pictures on Wikipedia, Turkish",
+        "Photographs taken on 2006-02-15"
+      ],
+      "auteur": "Roger McLassus Installateur Notdienst Wien",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2006-02-15_Piping.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/2006-02-15_Piping.jpg/1280px-2006-02-15_Piping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

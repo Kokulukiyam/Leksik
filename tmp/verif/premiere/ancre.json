@@ -1,0 +1,58 @@
+{
+  "termId": "ancre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pièce de fer blanche aux deux extrémités recourbées, fixée sur un mur crépi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sárospatak, Hongrie",
+      "note": "Forme ornementale peu typique, léger doute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancre de fer en fleur de lis scellée dans un mur de pierre de taille.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.26,
+        "largeur": 0.22,
+        "hauteur": 0.26
+      },
+      "lieu": "Astrup, Danemark",
+      "note": "Ancre de façade nette ; rectangle de près."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de brique ruiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Koryajma, Russie",
+      "note": "Pas d'ancre lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade médiévale avec porte, minuscules ancres en S.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Banon, France",
+      "note": "Éléments trop petits."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade d'église avec fenêtre et petit crochet de fer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ipolytölgyes, Hongrie",
+      "note": "Élément trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grande ancre en X fixée au bout d'un tirant sur un mur de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Touraine, France",
+      "note": "Ancre et tirant très lisibles, occupe l'image."
+    }
+  ]
+}

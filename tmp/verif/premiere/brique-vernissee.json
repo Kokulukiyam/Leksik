@@ -1,0 +1,58 @@
+{
+  "termId": "brique-vernissee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de briques émaillées multicolores aux glaçures variées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Berlin-Adlershof",
+      "note": "Émail brillant très net, plein cadre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Brique réfractaire estampée, non émaillée, sur fond rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'émail."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de brique avec bandes de briques vertes émaillées, usées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.58,
+        "largeur": 0.67,
+        "hauteur": 0.31
+      },
+      "lieu": "Pavie, Italie",
+      "note": "Rectangle sur les assises émaillées vertes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche chromolithographiée de frise de briques émaillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nimroud",
+      "note": "Illustration, pas une photo."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison de brique avec petites tuiles émaillées en appui et soubassement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Émail discret, trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Brique estampée d'inscription dans un mur de Babylone.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Babylone, Irak",
+      "note": "Brique non émaillée."
+    }
+  ]
+}

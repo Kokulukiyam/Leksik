@@ -1,0 +1,58 @@
+{
+  "termId": "poutre-vierendeel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bottes de paille ou de fibres empilées contre un poteau béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baliuag, Philippines",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pont métallique rivé dont la poutre de rive a des ouvertures à montants rigides, sans diagonales.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.4,
+        "largeur": 0.79,
+        "hauteur": 0.22
+      },
+      "lieu": "Glendale, Californie, États-Unis",
+      "note": "Poutre Vierendeel nette, rectangle sur la poutre de rive."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Train sous une passerelle piétonne en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paignton, Royaume-Uni",
+      "note": "Passerelle trop petite, train dominant."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Passerelle à treillis métallique avec diagonales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kėdainiai, Lituanie",
+      "note": "Treillis à diagonales, pas Vierendeel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont rivé à poutres en arcades avec goussets en diagonale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruges, Belgique",
+      "note": "Goussets diagonaux, forme arquée ambiguë."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pont ferroviaire en arc bleu à montants courbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruges, Belgique",
+      "note": "Pont en arc avec contreventement, ambigu."
+    }
+  ]
+}

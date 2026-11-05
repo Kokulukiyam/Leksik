@@ -1,0 +1,58 @@
+{
+  "termId": "bardeau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur couvert de bardeaux de bois blonds en recouvrement, plein cadre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Fleuve Saint-Laurent, Québec",
+      "note": "Bardeaux fendus parfaitement lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salle de village dont toit et murs sont couverts de bardeaux de bois rouge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.3,
+        "largeur": 0.92,
+        "hauteur": 0.55
+      },
+      "lieu": "Ickford, Buckinghamshire",
+      "note": "Rectangle sur le bâtiment entièrement bardé."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan en contre-plongée de longues planchettes grises de toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bystřice nad Olší",
+      "note": "Planchettes longues, risque de confusion avec des lames."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne en noir et blanc de toits de bardeaux effondrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, illisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Petit bâtiment de réservoir d'eau à enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Linz",
+      "note": "Pas de bardeaux visibles, texte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Façade de petits éléments de bois découpés en écailles, vue en raccourci.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budurleni, Roumanie",
+      "note": "Motif atypique, ambigu."
+    }
+  ]
+}

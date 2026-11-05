@@ -1,0 +1,53 @@
+{
+  "termId": "laine-de-roche",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Assortiment de panneaux et rouleaux d'isolants minéraux sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Laine de verre jaune et de roche mêlées, doute avec la laine de verre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'immeuble sous échafaudage avec une mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Isolant jaune déchiré au sol après une explosion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Laine de verre jaune, pas de la roche."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cave en travaux avec un panneau d'isolant gris et un sac R22.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Almonte, Canada",
+      "note": "Isolant trop petit, sac au texte visible, peu net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carte postale ancienne d'un bâtiment de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sheffield, États-Unis",
+      "note": "Illustration, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vue aérienne de tuyauteries calorifugées dans une usine pétrolière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Calorifuge métallique, logo visible."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "voute-d-aretes",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Voûte sombre ornée de lobes en vestibule de madrasa, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Caire, Égypte",
+      "note": "Décor complexe et sombre, arêtes non lisibles, confusion possible avec voûte à nervures."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Voûte à nervures de bois multiples en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte à nervures/réseau, pas une voûte d'arêtes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Passage couvert en briques sous un porche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Katowice, Pologne",
+      "note": "Voûte en berceau, pas d'arêtes visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Voûte romaine en brique en ruine vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Berceau ou fragment, arêtes non lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Voûte peinte d'étoiles avec nervures d'une chapelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte sur croisée d'ogives, pas voûte d'arêtes."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gravure en coupe d'une voûte gothique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Dessin, pas une photo."
+    }
+  ]
+}

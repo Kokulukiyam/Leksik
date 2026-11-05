@@ -128,6 +128,113 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/0227_New_Delhi_-_Anand_Niketan_-_E85_2006-02-09_12-18-53_%2810542449195%29.jpg/1280px-0227_New_Delhi_-_Anand_Niketan_-_E85_2006-02-09_12-18-53_%2810542449195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2304,
       "hauteur": 1728
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Covered Light Switch 1 2016-05-14.jpg",
+      "description": "Covered Light Switch",
+      "categories": [
+        "Light switches",
+        "Self-published work",
+        "Files by Fastily",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "F ASTILY",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Covered_Light_Switch_1_2016-05-14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Covered_Light_Switch_1_2016-05-14.jpg/1280px-Covered_Light_Switch_1_2016-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:DECO switch.JPG",
+      "description": "NO/NC switch",
+      "categories": [
+        "GFDL",
+        "Electric switches",
+        "License migration redundant",
+        "Self-published work",
+        "1995 productions",
+        "Products of Korea"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DECO_switch.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/DECO_switch.JPG/1280px-DECO_switch.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Antique Light Switch.jpg",
+      "description": "Antique Light Switch panel",
+      "categories": [
+        "CC-Zero",
+        "Light switches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2024-02-03"
+      ],
+      "auteur": "Amitbalani",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antique_Light_Switch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Antique_Light_Switch.jpg/1280px-Antique_Light_Switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Close-up on the headlight switch control buttons.jpg",
+      "description": "Close-up on the headlight switch control buttons",
+      "categories": [
+        "Electric switches",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Close-up_on_the_headlight_switch_control_buttons.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Close-up_on_the_headlight_switch_control_buttons.jpg/1280px-Close-up_on_the_headlight_switch_control_buttons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:IOoOoOoI (5993287840).jpg",
+      "description": "Drauf gedrückt=nix passiert :-)",
+      "categories": [
+        "Images with watermarks",
+        "Electric switches",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Völklingen Ironworks in the 2010s"
+      ],
+      "auteur": "AngieD. from Scheuren/Unkel, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IOoOoOoI_(5993287840).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/IOoOoOoI_%285993287840%29.jpg/1280px-IOoOoOoI_%285993287840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1672,
+      "hauteur": 1028
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Chevening Flats light switch.jpg",
+      "description": "Chevening Flats light switch",
+      "categories": [
+        "CC-Zero",
+        "Chevening Flats",
+        "Light switches",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Siobhan Leachman",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevening_Flats_light_switch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Chevening_Flats_light_switch.jpg/1280px-Chevening_Flats_light_switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

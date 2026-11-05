@@ -1,0 +1,53 @@
+{
+  "termId": "bois-brule",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche de bois carbonisée, noire et craquelée en écailles, fixée au mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Yakisugi très net et dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planches carbonisées au premier plan, flou derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Bon sujet mais flou et planches inclinées, doublon de 01."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Planches en cours de brûlage, flamme au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Fabrication, pas le matériau posé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lames verticales carbonisées craquelées avec une lame non brûlée à droite.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect alligator très lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pavillon de jardin à bardage noir brûlé, vue éloignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "OKOPOD",
+      "note": "Matière peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planches noircies refroidies à l'eau sur bâche bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Fabrication, matière peu lisible."
+    }
+  ]
+}

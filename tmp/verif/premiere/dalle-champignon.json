@@ -1,0 +1,53 @@
+{
+  "termId": "dalle-champignon",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade vitrée d'un immeuble de bureaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Heerlen, Pays-Bas",
+      "note": "Extérieur, dalle champignon non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Trou rond dans un plancher de bois au-dessus d'une paroi rocheuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Týnčany, Tchéquie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Intérieur d'un plateau en rénovation : poteaux ronds évasés en tête portant une dalle sans poutres.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Heerlen, Pays-Bas",
+      "note": "Dalle champignon très lisible, têtes de poteaux évasées."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Deux dalles de béton fraîches dans des cadres de bois au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petites dalles, pas dalle champignon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Panneaux préfabriqués de façade posés debout, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Panneaux, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cour d'un bâtiment blanc avec pergola, banc et bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Porto Santo, Portugal",
+      "note": "Sans rapport."
+    }
+  ]
+}

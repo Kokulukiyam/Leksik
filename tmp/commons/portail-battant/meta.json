@@ -11,7 +11,8 @@
       "metal swing gate"
     ],
     "incompatibles": [
-      "portail-metallique"
+      "portail-metallique",
+      "portail-coulissant"
     ],
     "categoriesCommons": [
       "Category:Gates"
@@ -128,6 +129,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/A_Ganduje_Gate.jpg/1280px-A_Ganduje_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2385,
       "hauteur": 2079
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:\"Evening Elegance\" ✨🌙.jpg",
+      "description": "A beautifully lit entrance with fountains, greenery, and warm lights creating a magical night ambiance. 🌴💡🌊",
+      "categories": [
+        "Gates",
+        "Self-published work"
+      ],
+      "auteur": "Abinaya Vijayan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg/1280px-%22Evening_Elegance%22_%E2%9C%A8%F0%9F%8C%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2340
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232084 privacy gimp - Ingresso - arco-volta.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Ingresso - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Gates",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232084_privacy_gimp_-_Ingresso_-_arco-volta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232084_privacy_gimp_-_Ingresso_-_arco-volta.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A door in a frame.jpg",
+      "description": "A door in a frame.",
+      "categories": [
+        "Hospitals in Nepal",
+        "Gates",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2019-08-19"
+      ],
+      "auteur": "Gaurav_Dhwaj_Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_door_in_a_frame.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/A_door_in_a_frame.jpg/1280px-A_door_in_a_frame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A house along Freedom avenue.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Gates",
+        "Kitwe",
+        "Roads in Zambia",
+        "Lodges",
+        "Self-published work",
+        "Houses in Zambia",
+        "Images from Wiki Loves Africa 2022",
+        "Fences in Zambia",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Zambia"
+      ],
+      "auteur": "Olympian Xeus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_house_along_Freedom_avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_house_along_Freedom_avenue.jpg/1280px-A_house_along_Freedom_avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:500px photo (51597624).jpeg",
+      "description": "500px provided description: OLYMPUS DIGITAL CAMERA [#people ,#street ,#bw ,#monochrome ,#sw ,#olympus ,#candid ,#fineart ,#45mm ,#omd-em5]",
+      "categories": [
+        "Gates",
+        "Photographs by Magdalena Roeseler",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Magdalena Roeseler",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(51597624).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/500px_photo_%2851597624%29.jpeg/1280px-500px_photo_%2851597624%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1563
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:32561-Radebeul-2001-Mehrbild-Brück & Sohn Kunstverlag.jpg",
+      "description": "Radebeul; Mehrbild",
+      "categories": [
+        "Gates",
+        "Spitzhaus",
+        "Hoflößnitz",
+        "Bismarckturm (Radebeul)",
+        "Buildings in Radebeul",
+        "Uploaded with pattypan",
+        "Lößnitzgrundbahn",
+        "Altkötzschenbroda",
+        "Images from Brück & Sohn",
+        "Files with coordinates missing SDC location of creation",
+        "Postcards of Radebeul published by Brück & Sohn",
+        "Postcards with 11 images",
+        "2001 postcards of Landkreis Meißen",
+        "2001 postcards published by Brück & Sohn",
+        "Postcards published by Brück & Sohn with images of Brück & Sohn"
+      ],
+      "auteur": "Brück & Sohn",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:32561-Radebeul-2001-Mehrbild-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/32561-Radebeul-2001-Mehrbild-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg/1280px-32561-Radebeul-2001-Mehrbild-Br%C3%BCck_%26_Sohn_Kunstverlag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3512,
+      "hauteur": 2492
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

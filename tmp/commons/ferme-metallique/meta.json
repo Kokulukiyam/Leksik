@@ -12,7 +12,12 @@
     ],
     "incompatibles": [
       "ferme",
-      "poutre-treillis"
+      "poutre-treillis",
+      "charpente-metallique",
+      "gousset"
+    ],
+    "categoriesCommons": [
+      "Category:Roof trusses"
     ]
   },
   "candidats": [
@@ -127,6 +132,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ogbomosho_Methodist_Church_Nigeria_1971_Designed_by_Michael_Olutusen_Onafowokan_Steel_Roof_Trusses_Details_Drwg_Oa-71-35_8_025.jpg/1280px-Ogbomosho_Methodist_Church_Nigeria_1971_Designed_by_Michael_Olutusen_Onafowokan_Steel_Roof_Trusses_Details_Drwg_Oa-71-35_8_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3937,
       "hauteur": 2727
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bermuda (UK) image number 113 rafters at a bus stop.jpg",
+      "description": "A roof's rafters at a Bermudian bus stop.",
+      "categories": [
+        "CC-Zero",
+        "2016 in Bermuda",
+        "Roof trusses",
+        "Self-published work",
+        "Roofs in Bermuda",
+        "Bus shelters in Bermuda",
+        "Carpentry in Bermuda"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bermuda_(UK)_image_number_113_rafters_at_a_bus_stop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bermuda_%28UK%29_image_number_113_rafters_at_a_bus_stop.jpg/1280px-Bermuda_%28UK%29_image_number_113_rafters_at_a_bus_stop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2368,
+      "hauteur": 1806
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Förbindelselgången June 2025 03.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different parts of Stockholm's slaughterhouse, Sweden. When it was built, it was one of the world's most modern slaughterhouses and meat-packing districts. Today, the building is protected as a cultural heritage site. The photo was taken on a cloudy day with low contrast, using a normal lens to create a realistic image without exposure fusion or wide-angle distortion.",
+      "categories": [
+        "Liminal spaces",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Featured pictures of Stockholm",
+        "Featured pictures by Arild Vågen",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Featured pictures of building interiors",
+        "Files with coordinates missing SDC location of creation",
+        "Featured pictures of industry buildings",
+        "Taken with Fujifilm GFX 50S II",
+        "June 2025 in Stockholm",
+        "Enskede slakthus",
+        "Taken with Mamiya Sekor 55mm F2.8",
+        "Stockholm photographs taken on 2025-06-20"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_June_2025_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6230,
+      "hauteur": 4673
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:New-build Under Construction.jpg",
+      "description": "A new-build house under construction on the Birch Gate development in Wymondham, Norfolk.",
+      "categories": [
+        "Construction",
+        "Roof trusses",
+        "Self-published work",
+        "Houses in Norfolk, England",
+        "Brick houses in England",
+        "Buildings in Wymondham"
+      ],
+      "auteur": "Sebastiandoe5",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:New-build_Under_Construction.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/New-build_Under_Construction.jpg/1280px-New-build_Under_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dachstuhl Mansardgiebeldach2.jpg",
+      "description": "WWWWWWWWWWW",
+      "categories": [
+        "Mansards",
+        "Roof trusses",
+        "Self-published work"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachstuhl_Mansardgiebeldach2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Dachstuhl_Mansardgiebeldach2.jpg/1280px-Dachstuhl_Mansardgiebeldach2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Förbindelselgången June 2025 01.jpg",
+      "description": "Förbindelselgången was built in 1912 connecting different part of Stockholm's slaughterhouse.",
+      "categories": [
+        "Images with annotations",
+        "Roof trusses",
+        "Images recorded with pixel shifting",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Taken with Fujifilm GFX 50S II",
+        "Enskede slakthus",
+        "Taken with Mamiya Sekor 55mm F2.8",
+        "Stockholm photographs taken on 2025-06-20"
+      ],
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg/1280px-F%C3%B6rbindelselg%C3%A5ngen_June_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12546,
+      "hauteur": 9410
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Förbindelsehallen, 2010a.jpg",
+      "description": "Slakthusområdet, Förbindelsehallen",
+      "categories": [
+        "Taken with Nikon Coolpix S51",
+        "Roof trusses",
+        "Self-published work",
+        "Ceilings in Sweden",
+        "Skylights in Sweden",
+        "Passageways in Sweden",
+        "Interiors of factories in Stockholm",
+        "Photographs by Holger Ellgaard",
+        "Enskede slakthus"
+      ],
+      "auteur": "Holger.Ellgaard",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:F%C3%B6rbindelsehallen,_2010a.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/F%C3%B6rbindelsehallen%2C_2010a.jpg/1280px-F%C3%B6rbindelsehallen%2C_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2979,
+      "hauteur": 2139
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

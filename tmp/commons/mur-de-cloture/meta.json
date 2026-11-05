@@ -12,7 +12,12 @@
     ],
     "incompatibles": [
       "pilier-de-portail",
-      "chaperon"
+      "chaperon",
+      "haie"
+    ],
+    "categoriesCommons": [
+      "Category:Walls",
+      "Category:Fences"
     ]
   },
   "candidats": [
@@ -139,6 +144,132 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lodge%2C_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg/1280px-Lodge%2C_Gates_And_Boundary_Wall_Of_Bay_House_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A wall inscription at the temple.jpg",
+      "description": "Ateshgah is a fire temple located on the Absheron peninsula in the territory of Azerbaijan, 30 km from Baku city, near Surakhani village.",
+      "categories": [
+        "Walls",
+        "Self-published work",
+        "Inscriptions in Azerbaijan",
+        "Images from Wiki Loves Folklore 2023",
+        "Images from Wiki Loves Folklore 2023 in Azerbaijan",
+        "Images from Wiki Loves Folklore 2023 to check",
+        "Uploaded via Campaign:wlf 2023"
+      ],
+      "auteur": "Elchin Ahmadov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_wall_inscription_at_the_temple.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/A_wall_inscription_at_the_temple.jpg/1280px-A_wall_inscription_at_the_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:- panoramio - Matt Pearson.jpg",
+      "description": "Erewash Valley",
+      "categories": [
+        "Trees",
+        "Eastwood, Nottinghamshire",
+        "Fences",
+        "Pastures",
+        "Trails",
+        "Snow in art",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Black and white photographs of landscapes",
+        "Panoramio images reviewed by trusted users",
+        "Countryside in Nottinghamshire",
+        "Photos from Panoramio",
+        "Photographs taken on 2010-01-03",
+        "Images from Panoramio with bad file names"
+      ],
+      "auteur": "Matt Pearson",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_Matt_Pearson.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/-_panoramio_-_Matt_Pearson.jpg/1280px--_panoramio_-_Matt_Pearson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2672
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:020230816 151236 Zyndram's Hill photographs taken on 2023-08-16.jpg",
+      "description": "Zyndram's Hill photographs taken on 2023-08-16",
+      "categories": [
+        "Walls",
+        "Self-published work",
+        "Stone walls in Poland",
+        "Bronze Age in Lesser Poland",
+        "Zyndram's Hill photographs taken on 2023-08-16"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:020230816_151236_Zyndram%27s_Hill_photographs_taken_on_2023-08-16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/020230816_151236_Zyndram%27s_Hill_photographs_taken_on_2023-08-16.jpg/1280px-020230816_151236_Zyndram%27s_Hill_photographs_taken_on_2023-08-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20091125 05 Kreidefelsen Ruegen VictoriaSicht 012 slideScan PtrQs.jpg",
+      "description": "Victoria's View 110 metres above Baltic Sea in Nationalpark Jasmund, Germany",
+      "categories": [
+        "Taken with Minolta Dynax 9",
+        "Fences",
+        "Self-published work",
+        "Victoria-Sicht (Jasmund)",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:PtrQs",
+        "Scanned with Reflecta DigitDia 5000",
+        "No QIC by usr:PtrQs",
+        "Photographs taken with Minolta AF lenses",
+        "Scanned by PtrQs"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg/1280px-20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4883,
+      "hauteur": 3218
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:1550384905324-1781241230 for good person.jpg",
+      "description": "Devarahalli",
+      "categories": [
+        "Walls",
+        "Self-published work"
+      ],
+      "auteur": "Nagaraja88",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1550384905324-1781241230_for_good_person.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/1550384905324-1781241230_for_good_person.jpg/1280px-1550384905324-1781241230_for_good_person.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 2368
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A beautiful street.jpg",
+      "description": "Obodo mara mma",
+      "categories": [
+        "Fences",
+        "Streets in Nigeria",
+        "Self-published work",
+        "Black and white photographs of buildings",
+        "Images from Wiki Loves Africa 2019",
+        "Fences in Nigeria",
+        "Images from Wiki Loves Africa 2019 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2019 in Nigeria"
+      ],
+      "auteur": "Factual Evolution Media",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_beautiful_street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_beautiful_street.jpg/1280px-A_beautiful_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1676,
+      "hauteur": 2235
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

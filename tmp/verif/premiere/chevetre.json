@@ -1,0 +1,53 @@
+{
+  "termId": "chevetre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Charpente apparente d'une nef en contre-plongée, nombreuses pièces de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chorin, Allemagne",
+      "note": "Charpente/solivage trop complexe, aucun chevêtre identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne sépia d'une rue de Simla avec bâtiments en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Simla, Inde",
+      "note": "Aucun chevêtre visible, image ancienne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Salle de château avec plafond à poutres et cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Epping, Angleterre",
+      "note": "Plafond à poutres, trémie/chevêtre non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Cabane en adobe sous la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun chevêtre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Château blanc avec pan de bois et créneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zoug, Suisse",
+      "note": "Aucun chevêtre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison à colombages rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colombage, pas de chevêtre."
+    }
+  ]
+}

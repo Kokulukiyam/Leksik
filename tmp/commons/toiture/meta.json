@@ -9,6 +9,9 @@
       "house roof",
       "toiture maison",
       "roofs aerial view"
+    ],
+    "categoriesCommons": [
+      "Category:Roofs"
     ]
   },
   "candidats": [
@@ -177,6 +180,142 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Roof_of_Ladywood_House%2C_Porstmouth.jpg/1280px-Roof_of_Ladywood_House%2C_Porstmouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Old house typical of the island of Margarita.jpg",
+      "description": "Intérieur de maison traditionnelle (XIXème s.), île de Margarita , Venezuela, par Wilfredo Rodríguez",
+      "categories": [
+        "Taken with Nikon D300",
+        "CC-Zero",
+        "Retouched pictures",
+        "Featured pictures of Venezuela",
+        "Self-published work",
+        "Christmas in Venezuela",
+        "Featured pictures by User:Wilfredor",
+        "Featured pictures on Wikipedia, Spanish",
+        "Featured pictures of Venezuela by User:Wilfredor",
+        "Colonial house in San Juan Bautista",
+        "Files with coordinates missing SDC location of creation",
+        "Files with source materials at Commons Archive",
+        "Venezuela photographs taken on 2013-01-02",
+        "Featured pictures of Margarita Island",
+        "Featured photographs in the public domain",
+        "Files by Wilfredor",
+        "Houses interiors by Wilfredor",
+        "Poverty by Wilfredor",
+        "Images of Venezuela by User:Wilfredor",
+        "Photographs of Isla Margarita by Wilfredor",
+        "Photographs of San Juan Bautista by Wilfredor",
+        "Culture pictures by Wilfredor",
+        "Old Houses of Margarita Island by Wilfredor",
+        "Personal family collection of Wilfredor",
+        "Heavily photoshopped by Wilfredor"
+      ],
+      "auteur": "Wilfredor",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_house_typical_of_the_island_of_Margarita.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Old_house_typical_of_the_island_of_Margarita.jpg/1280px-Old_house_typical_of_the_island_of_Margarita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6467,
+      "hauteur": 5796
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Roof of house in Kargil.jpg",
+      "description": "View of a roof of a house in Kargil. Its made of mud, wood, thorns and stone slabs at the edge. there is a slight slope in the roof for drainage of snow water",
+      "categories": [
+        "Roofs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "FAYAZ SHUJA",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_of_house_in_Kargil.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Roof_of_house_in_Kargil.jpg/1280px-Roof_of_house_in_Kargil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 1472
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:House with Shingle Roof (Old house II) Egon Schiele 1915.jpg",
+      "description": "",
+      "categories": [
+        "Taken with Nikon D5100",
+        "1915 paintings",
+        "Self-published work",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "July 2012 photographs",
+        "Artworks with Wikidata item missing genre",
+        "Artworks digital representation of 2D work",
+        "History of Krems an der Donau",
+        "House with Shingle Roof (Old House II) (P295)"
+      ],
+      "auteur": "Egon Schiele",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:House_with_Shingle_Roof_(Old_house_II)_Egon_Schiele_1915.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/House_with_Shingle_Roof_%28Old_house_II%29_Egon_Schiele_1915.jpg/1280px-House_with_Shingle_Roof_%28Old_house_II%29_Egon_Schiele_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3601,
+      "hauteur": 2825
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:House with cane roof in Kosa.jpg",
+      "description": "Rural residential house with cane roof. Kosa village, Azov District, Rostov Oblast, Russia.",
+      "categories": [
+        "Thatched cottages",
+        "Kosa (Azov District)",
+        "Self-published work",
+        "Thatched roofs in Russia",
+        "Houses in Rostov Oblast",
+        "FoP-Russia",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Alexander Roumega",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:House_with_cane_roof_in_Kosa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/House_with_cane_roof_in_Kosa.jpg/1280px-House_with_cane_roof_in_Kosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:House with natural roof in Sinyavskoe.jpg",
+      "description": "House with natural roof in Sinyavskoe village, Neklinovsky District, Rostov Oblast, Russia",
+      "categories": [
+        "CC-Zero",
+        "Sinyavskoe",
+        "Self-published work",
+        "Thatched roofs in Russia",
+        "FoP-Russia",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Alexander Roumega",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:House_with_natural_roof_in_Sinyavskoe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/House_with_natural_roof_in_Sinyavskoe.jpg/1280px-House_with_natural_roof_in_Sinyavskoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2250
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

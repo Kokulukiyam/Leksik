@@ -1,0 +1,53 @@
+{
+  "termId": "pierre-reconstituee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Statuette de danseuse en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un matériau de construction lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plan de travail en granulats et éclats de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produit composite, pas imitation de pierre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade de brique avec petits décors sous fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portland, Oregon",
+      "note": "Décors minuscules, matière incertaine."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de moellons et galets en HDR.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre naturelle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Buste en pierre coulée dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Honolulu",
+      "note": "Sculpture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Cercueil en pierre dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matière incertaine."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "tole-larmee",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plaque de tôle à reliefs en forme de larmes, rouillée, plein cadre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif de larmes parfaitement lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chaussure à talon sur un repose-pied de moto, tôle striée en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle marginale, sujet autre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plancher de métro avec plaques striées et pieds de passagers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shenzhen, Chine",
+      "note": "Plaques partielles, scène encombrée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque en aluminium à cinq barres vissée sur un sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif à barres droites, pas des larmes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Plaque d'acier gris à reliefs en larmes, plein cadre, avec deux boulons.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif lisible et typique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Intérieur d'un autobus bleu avec marches métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Tôle peu visible, scène confuse."
+    }
+  ]
+}

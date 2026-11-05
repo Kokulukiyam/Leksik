@@ -9,6 +9,9 @@
       "drywall sheets stacked",
       "plaque de plâtre BA13",
       "incategory:\"Drywall\""
+    ],
+    "incompatibles": [
+      "enduit-de-lissage"
     ]
   },
   "candidats": [
@@ -118,6 +121,132 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Building_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-30-2019%29_%2839985877053%29.jpg/1280px-Building_out_rooms_in_the_back_of_house_area_of_the_future_LIRR_passenger_concourse._%28CM014B%2C_1-30-2019%29_%2839985877053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 2448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Drywall firestop problem4.jpg",
+      "description": "Finished, painted, fire-resistance rated drywall assembly. A common deficiency: Lift ceiling tiles and find electrical and mechanical service penetrations without a firestop .",
+      "categories": [
+        "Building code violations",
+        "Firestops",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "No firestop at all - empty hole",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_firestop_problem4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Drywall_firestop_problem4.jpg/1280px-Drywall_firestop_problem4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3482,
+      "hauteur": 2312
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2022-10-03 13 07 25 Sewer pipes about to be replaced in the basement of a house along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "Sewer pipes about to be replaced in the basement of a house along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Drywalls",
+        "Self-published work",
+        "October 2022 in New Jersey",
+        "Sewers in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2022-10-03",
+        "Water pipes in the United States",
+        "Sanitary sewers",
+        "Water in Ewing Township, New Jersey",
+        "Famartin's 2022 photos",
+        "Interiors of houses in Ewing Township, New Jersey",
+        "Famartin's October 2022 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2022-10-03_13_07_25_Sewer_pipes_about_to_be_replaced_in_the_basement_of_a_house_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2022-10-03_13_07_25_Sewer_pipes_about_to_be_replaced_in_the_basement_of_a_house_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Drywall firestop problem2.jpg",
+      "description": "This is code violation waiting to happen. The drywall is required to have a fire-resistance rating. The plumber is there before the drywaller. He follows a firestop specification by the mechanical engineer and hangs a steel sleeve in place, thus creating a round hole for the pipe ( penetrant ) to traverse. This is utterly wrong. The sleeve is but another penetrant. In this case, it is also a considerable heatsink, which will carry more heat through to the unexposed side. To avoid the problem, a Section 07840 Firestop specification could have been used, to regulate the forming of openings to en",
+      "categories": [
+        "Plumbing",
+        "Building code violations",
+        "Firestops",
+        "Drywalls",
+        "Self-published work",
+        "PD-self",
+        "Firestop specification problem: Broken workscope",
+        "Compromised drywall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drywall_firestop_problem2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Drywall_firestop_problem2.jpg/1280px-Drywall_firestop_problem2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2323,
+      "hauteur": 3448
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chalmette19Feb06GuttedHouseSheetrockPiles.jpg",
+      "description": "Interior of house in formerly Hurricane Katrina storm surge flooded Chalmette, Louisiana; it has been gutted down to the studs and has pile of sheetrock almost ready for instalation.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 50",
+        "Drywalls",
+        "License migration opt-out",
+        "Self-published work",
+        "Hurricane Katrina aftermath in Chalmette",
+        "February 2006 in Saint Bernard Parish"
+      ],
+      "auteur": "Infrogmation",
+      "licence": "CC BY 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chalmette19Feb06GuttedHouseSheetrockPiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Chalmette19Feb06GuttedHouseSheetrockPiles.jpg/1280px-Chalmette19Feb06GuttedHouseSheetrockPiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ceiling-and-windows-in-an-attic-apartment.jpg",
+      "description": "White ceilings and Velux windows in an apartment built in the attic.",
+      "categories": [
+        "Ceilings",
+        "Penthouses",
+        "Drywalls",
+        "Self-published work",
+        "Velux sloped windows"
+      ],
+      "auteur": "Kotivalo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceiling-and-windows-in-an-attic-apartment.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ceiling-and-windows-in-an-attic-apartment.jpg/1280px-Ceiling-and-windows-in-an-attic-apartment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2490,
+      "hauteur": 1619
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Continued installation of marble finishes in one of the Men's restrooms in the LIRR passenger concourse. (CM014B, 07-30-2018) (43111930774).jpg",
+      "description": "Continued installation of marble finishes in one of the Men's restrooms in the LIRR passenger concourse. (CM014B, 07-30-2018)",
+      "categories": [
+        "Drywalls",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images taken by the Metropolitan Transportation Authority (New York)",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Transportation files uploaded by Tyler de Noche",
+        "East Side Access construction/2018/08/03",
+        "Construction of LIRR Concourse (Grand Central Terminal)"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Continued_installation_of_marble_finishes_in_one_of_the_Men%27s_restrooms_in_the_LIRR_passenger_concourse._(CM014B,_07-30-2018)_(43111930774).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Continued_installation_of_marble_finishes_in_one_of_the_Men%27s_restrooms_in_the_LIRR_passenger_concourse._%28CM014B%2C_07-30-2018%29_%2843111930774%29.jpg/1280px-Continued_installation_of_marble_finishes_in_one_of_the_Men%27s_restrooms_in_the_LIRR_passenger_concourse._%28CM014B%2C_07-30-2018%29_%2843111930774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

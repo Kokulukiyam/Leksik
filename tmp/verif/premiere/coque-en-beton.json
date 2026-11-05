@@ -1,0 +1,53 @@
+{
+  "termId": "coque-en-beton",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Auvent d'accès de métro en béton à plis, sur deux appuis inclinés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Garching, Allemagne",
+      "note": "Dalle plissée, pas un voile mince à double courbure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur d'une filature abandonnée à charpente métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de coque en béton."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Auvent de béton à bord sinueux sur deux poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle plate, pas de double courbure."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Halle de gare de marchandises à toitures voûtées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vichy, France",
+      "note": "Voûtes en berceau, pas une coque à double courbure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Toiture en béton inclinée avec lanterneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aarhus, Danemark",
+      "note": "Plan incliné, pas une coque."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sous-face d'un plancher préfabriqué à poutrelles et hourdis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunisie",
+      "note": "Dalle à hourdis, pas une coque."
+    }
+  ]
+}

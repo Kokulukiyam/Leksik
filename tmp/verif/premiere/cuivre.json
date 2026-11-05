@@ -1,0 +1,58 @@
+{
+  "termId": "cuivre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Carte ancienne d'un champ aurifère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bethanga",
+      "note": "Carte."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Église sur colline boisée, bulbe de clocher sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gurnitz, Carinthie",
+      "note": "Bulbe sombre, cuivre non identifiable."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Feuille de cuivre natif orange sur fond bleu, musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Michigan",
+      "note": "Minéral brut, pas un usage architectural."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Vue renversée et floue d'un puits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Église dont le bulbe du clocher est en cuivre rouge brillant.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.69,
+        "y": 0.09,
+        "largeur": 0.17,
+        "hauteur": 0.27
+      },
+      "lieu": "Gurnitz, Carinthie",
+      "note": "Rectangle sur le bulbe en cuivre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Feuille de cuivre natif orange tachée, plein cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Michigan",
+      "note": "Minéral, aspect peu reconnaissable."
+    }
+  ]
+}

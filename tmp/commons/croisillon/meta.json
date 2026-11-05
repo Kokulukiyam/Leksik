@@ -11,7 +11,8 @@
       "tile spacers"
     ],
     "incompatibles": [
-      "carrelage"
+      "carrelage",
+      "cale-autonivelante"
     ],
     "categoriesCommons": [
       "Category:Tiling"
@@ -138,6 +139,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Isfahan_1210043_nevit.jpg/1280px-Isfahan_1210043_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2304,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Draufsicht quadratischer Natursteinfliesen aus nussbraunem Travertin Noce im Kreuzverband.jpg",
+      "description": "Macro photograph of square natural stone tiles made of walnut to dark brown Travertine Noce, dimensions 20x20x1 cm. The background illustrates an installed surface in a straight grid pattern (stacked bond) showcasing the characteristically open-pore mineral structure. In the center, four loose individual square tiles are stacked rotated and offset to demonstrate the square format, the calibrated 1 cm material thickness, and the antique tumbled edge profiles. A striking light mineral inclusion on the top tile highlights the organic formation and authenticity of the natural stone. Author: Frank ",
+      "categories": [
+        "Travertine",
+        "Stone (material)",
+        "Tiling",
+        "Self-published work"
+      ],
+      "auteur": "Fravert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Draufsicht_quadratischer_Natursteinfliesen_aus_nussbraunem_Travertin_Noce_im_Kreuzverband.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Draufsicht_quadratischer_Natursteinfliesen_aus_nussbraunem_Travertin_Noce_im_Kreuzverband.jpg/1280px-Draufsicht_quadratischer_Natursteinfliesen_aus_nussbraunem_Travertin_Noce_im_Kreuzverband.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3060,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Handyman photos Fix Barber Wilson diverter valve 11.JPG",
+      "description": "Drilling through tile requires a special bit (shown). This one cost about $10. Instead of buying a larger bit, I used this bit to make numerous holes in a circle and then chipped out the rest. Background: This is image 11 of a repair project to fix a shower/tub diverter valve made by Barber Wilsons & Co Ltd. The handle which was supposed to divert water to the shower but it did not work; a plastic piece inside was broken. Unfortunately, since this valve could not be fixed from the front, it required a major operation to open up the back and replace pipes. I ended up replacing the defective val",
+      "categories": [
+        "CC-Zero",
+        "Tiling",
+        "Self-published work",
+        "Plumbing tools",
+        "Handyman photos by tom sulcer"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handyman_photos_Fix_Barber_Wilson_diverter_valve_11.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Handyman_photos_Fix_Barber_Wilson_diverter_valve_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1064,
+      "hauteur": 853
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:(20250413) Berlin 04.jpg",
+      "description": "Berlin",
+      "categories": [
+        "Tiling",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Road paving",
+        "April 2025 in Berlin",
+        "Files by Roy Zuo"
+      ],
+      "auteur": "Roy Zuo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(20250413)_Berlin_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%2820250413%29_Berlin_04.jpg/1280px-%2820250413%29_Berlin_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Azulejos. Cartelería integrada. 01.jpg",
+      "description": "The inscription “CAFÉ” on blue and yellow tiles, surrounded by ornamental ceramic work and vegetal and animal motifs in the decoration of the San Telmo Art Nouveau kiosk.",
+      "categories": [
+        "Signage",
+        "Architecture",
+        "Art Nouveau",
+        "Ceramics",
+        "Kiosks",
+        "Las Palmas de Gran Canaria",
+        "Tiling",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "DRNRMRZ",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Azulejos._Carteler%C3%ADa_integrada._01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Azulejos._Carteler%C3%ADa_integrada._01.jpg/1280px-Azulejos._Carteler%C3%ADa_integrada._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Handyman photos Fix Barber Wilson diverter valve 12.JPG",
+      "description": "I am using a tiling drill bit to make a new hole for the valve stem to come through. I drill through the tile and then the cement backer board beneath it. The grey duct tape is to prevent chipping. Background: This is image 12 of a repair project to fix a shower/tub diverter valve made by Barber Wilsons & Co Ltd. The handle which was supposed to divert water to the shower but it did not work; a plastic piece inside was broken. Unfortunately, since this valve could not be fixed from the front, it required a major operation to open up the back and replace pipes. I ended up replacing the defectiv",
+      "categories": [
+        "Plumbing",
+        "CC-Zero",
+        "Tiling",
+        "Self-published work",
+        "Handyman photos by tom sulcer"
+      ],
+      "auteur": "Tomwsulcer",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG/1280px-Handyman_photos_Fix_Barber_Wilson_diverter_valve_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1335,
+      "hauteur": 852
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Hyperbole 1.jpg",
+      "description": "A hyperbola is a plane curve having two branches, formed by the intersection of a plane with both halves of a right circular cone at an angle parallel to the axis of the cone.",
+      "categories": [
+        "GFDL",
+        "Hyperbolas",
+        "Tiling",
+        "License migration redundant",
+        "Works of art",
+        "Self-published work",
+        "Spherical tilings",
+        "Hyperbola (rational function)"
+      ],
+      "auteur": "Jean Constant",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hyperbole_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyperbole_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1080,
+      "hauteur": 810
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

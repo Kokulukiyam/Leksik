@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "chaussee"
+    ],
+    "categoriesCommons": [
+      "Category:Road markings"
     ]
   },
   "candidats": [
@@ -242,6 +245,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Av_Doumer%2C_Vichy_-_marquage_au_sol_Zone_30_et_axe_cyclable.jpg/1280px-Av_Doumer%2C_Vichy_-_marquage_au_sol_Zone_30_et_axe_cyclable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bus at Av. Paulista, São Paulo02.jpg",
+      "description": "by Egil Fujikawa Nes for Connection Consulting",
+      "categories": [
+        "Road markings",
+        "February 2010 in São Paulo",
+        "Buses in São Paulo",
+        "Flickr images uploaded by Flickr upload bot",
+        "Brazil photographs taken on 2010-02-06",
+        "Bus lanes in São Paulo",
+        "Edifício Conde Andrea Matarazzo",
+        "CAIO Apache Vip",
+        "Avenida Paulista from the north",
+        "Parque Trianon from Avenida Paulista"
+      ],
+      "auteur": "connectionconsulting",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_at_Av._Paulista,_S%C3%A3o_Paulo02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bus_at_Av._Paulista%2C_S%C3%A3o_Paulo02.jpg/1280px-Bus_at_Av._Paulista%2C_S%C3%A3o_Paulo02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2588,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:20150717 IMG 6665 by sebaso (20433472438).jpg",
+      "description": "20150717 IMG_6665 by sebaso",
+      "categories": [
+        "Road markings",
+        "Flickr images reviewed by FlickreviewR",
+        "Zebra crossings in Mexico",
+        "Median strip of Paseo de la Reforma",
+        "Images by Sebaso"
+      ],
+      "auteur": "sebaso from Berlin, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20150717_IMG_6665_by_sebaso_(20433472438).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20150717_IMG_6665_by_sebaso_%2820433472438%29.jpg/1280px-20150717_IMG_6665_by_sebaso_%2820433472438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2008 05 29 - Bowie - MD564 over CSX - Ground pavement marking 1.JPG",
+      "description": "Ground-up yellow centerline pavement markings along MD 564 , Bowie , Maryland .",
+      "categories": [
+        "Taken with Canon PowerShot A650 IS",
+        "Road markings",
+        "Bowie, Maryland",
+        "Self-published work",
+        "Files by User:Thisisbossi",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2008-05-29",
+        "Pavements in Maryland"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2008_05_29_-_Bowie_-_MD564_over_CSX_-_Ground_pavement_marking_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2008_05_29_-_Bowie_-_MD564_over_CSX_-_Ground_pavement_marking_1.JPG/1280px-2008_05_29_-_Bowie_-_MD564_over_CSX_-_Ground_pavement_marking_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Advisory bike lane.jpg",
+      "description": "An advisory bike lane in Melbourne",
+      "categories": [
+        "Road markings",
+        "Self-published work"
+      ],
+      "auteur": "Hannah.Ferrier",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Advisory_bike_lane.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Advisory_bike_lane.jpg/1280px-Advisory_bike_lane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2040,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cartel desvío a Pedraza en Arcones.jpg",
+      "description": "Imagen tomada desde el coche en la N-110 a su paso por Arcones llamada aquí Calle Félix Rodríguez de la Fuente. A la derecha se ven las nuevas redes del campo de las antiguas escuelas instaladas a finales de 2022 para evitar que se cuelen balones a la carretera.",
+      "categories": [
+        "Road markings",
+        "N-110",
+        "National roads in Spain",
+        "Arcones",
+        "SG-V-2512",
+        "Self-published work",
+        "Roads in Castile and León",
+        "Pedestrian crossings in Spain",
+        "Road signs in the province of Segovia",
+        "Roads in the province of Segovia",
+        "Pedestrian crossing signs in Spain",
+        "Zebra crossings in Castile and León",
+        "Pedestrian crossings in Castile and León",
+        "Files with coordinates missing SDC location of creation",
+        "Road signs photographed in 2022",
+        "Señal S-13",
+        "Things named after Félix Rodríguez de la Fuente"
+      ],
+      "auteur": "Albergarri788",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cartel_desv%C3%ADo_a_Pedraza_en_Arcones.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cartel_desv%C3%ADo_a_Pedraza_en_Arcones.jpg/1280px-Cartel_desv%C3%ADo_a_Pedraza_en_Arcones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2403 - München - Goethestraße at Nußbaumstraße.JPG",
+      "description": "Goethe Street at Walnut Street, Munich , Germany",
+      "categories": [
+        "Taken with Canon PowerShot A640",
+        "Road markings",
+        "Self-published work",
+        "Goethestraße (München)",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)"
+      ],
+      "auteur": "Andrew Bossi",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:2403_-_M%C3%BCnchen_-_Goethestra%C3%9Fe_at_Nu%C3%9Fbaumstra%C3%9Fe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2403_-_M%C3%BCnchen_-_Goethestra%C3%9Fe_at_Nu%C3%9Fbaumstra%C3%9Fe.JPG/1280px-2403_-_M%C3%BCnchen_-_Goethestra%C3%9Fe_at_Nu%C3%9Fbaumstra%C3%9Fe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

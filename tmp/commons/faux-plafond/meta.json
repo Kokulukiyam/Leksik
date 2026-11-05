@@ -125,6 +125,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Cambo_628.jpg/1280px-Cambo_628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1969,
       "hauteur": 975
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:An Empty Ceiling.jpg",
+      "description": "The ceiling of an old building.",
+      "categories": [
+        "Ceilings",
+        "Empty",
+        "Self-published work",
+        "WikiSnap 2025"
+      ],
+      "auteur": "Atlantisboii",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_Empty_Ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/An_Empty_Ceiling.jpg/1280px-An_Empty_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2587,
+      "hauteur": 3449
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Armenian Church of St Philip 14.jpg",
+      "description": "Armenian Church of St Philip. Ceiling",
+      "categories": [
+        "Ceilings",
+        "Church of St. Felipe in Tashkent",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "HELindemann",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armenian_Church_of_St_Philip_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Armenian_Church_of_St_Philip_14.jpg/1280px-Armenian_Church_of_St_Philip_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2024,
+      "hauteur": 1524
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Amundsen-Scott South Pole Station (inside dome).jpg",
+      "description": "inside the dome p1040180.jpg",
+      "categories": [
+        "Ceilings",
+        "Taken with Panasonic Lumix DMC-FZ5",
+        "Amundsen-Scott South Pole Station",
+        "Flickr images uploaded by Flickr upload bot",
+        "Information field template with formatting",
+        "Antarctica Geodesic Dome"
+      ],
+      "auteur": "Levent Demirörs",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amundsen-Scott_South_Pole_Station_(inside_dome).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Amundsen-Scott_South_Pole_Station_%28inside_dome%29.jpg/1280px-Amundsen-Scott_South_Pole_Station_%28inside_dome%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:CAM-Melong- Hotel toiture de la case.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Hotels in Cameroon",
+        "Ceilings",
+        "Taken with Hitachi HDC-1095E",
+        "Melong",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Cameroon"
+      ],
+      "auteur": "WILLAV-FR",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CAM-Melong-_Hotel_toiture_de_la_case.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/CAM-Melong-_Hotel_toiture_de_la_case.jpg/1280px-CAM-Melong-_Hotel_toiture_de_la_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Budapest ceiling detail (16268852999).jpg",
+      "description": "Budapest 2012",
+      "categories": [
+        "Ceilings",
+        "2012 in Budapest",
+        "Photographs by Thomas Quine",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Thomas Quine",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Budapest_ceiling_detail_(16268852999).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Budapest_ceiling_detail_%2816268852999%29.jpg/1280px-Budapest_ceiling_detail_%2816268852999%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3872
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Arquitecura (137466267).jpeg",
+      "description": "500px provided description: Arquitecura [#city ,#urban ,#architecture ,#photo ,#moment ,#day ,#photography ,#i ,#color image ,#ig ,#instagram ,#photooftheday ,#iphonesia]",
+      "categories": [
+        "Ceilings",
+        "Interior of the Cathedral of Lima",
+        "Files with coordinates missing SDC location of creation",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Daniela Alexandra",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arquitecura_(137466267).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Arquitecura_%28137466267%29.jpeg/1280px-Arquitecura_%28137466267%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1150
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

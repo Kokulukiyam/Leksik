@@ -11,7 +11,8 @@
       "shop shutter"
     ],
     "incompatibles": [
-      "volet-roulant"
+      "volet-roulant",
+      "coffre-de-volet-roulant"
     ],
     "categoriesCommons": [
       "Category:Roller shutters",
@@ -154,6 +155,134 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Lechnerplatz_2A%2C_Rollladen%2C_2023_Szeged.jpg/1280px-Lechnerplatz_2A%2C_Rollladen%2C_2023_Szeged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1873,
       "hauteur": 1404
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Lösch1.jpg",
+      "description": "3000000m³",
+      "categories": [
+        "Roller shutters",
+        "Self-published work"
+      ],
+      "auteur": "Ansgar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%C3%B6sch1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/L%C3%B6sch1.jpg/1280px-L%C3%B6sch1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Framed (187513913).jpeg",
+      "description": "500px provided description: Framed [#window ,#wood ,#bricks ,#blinds]",
+      "categories": [
+        "Shutters",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Thibauld Nion",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Framed_(187513913).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Framed_%28187513913%29.jpeg/1280px-Framed_%28187513913%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1367,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Cafe bistro elite - closed.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Roller shutters",
+        "Keupstraße (Köln)",
+        "Self-published work",
+        "Cafés in Cologne",
+        "Uploaded with Mobile/Android",
+        "White on red signs",
+        "Cafés at night",
+        "Elite (text)"
+      ],
+      "auteur": "Hundfred23",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cafe_bistro_elite_-_closed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cafe_bistro_elite_-_closed.jpg/1280px-Cafe_bistro_elite_-_closed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Singapore building with coloured shutters-2 (5917588747).jpg",
+      "description": "Singapore building with coloured shutters",
+      "categories": [
+        "Shutters",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Media needing category review as of 2 October 2018",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Singapore_building_with_coloured_shutters-2_(5917588747).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Singapore_building_with_coloured_shutters-2_%285917588747%29.jpg/1280px-Singapore_building_with_coloured_shutters-2_%285917588747%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1880,
+      "hauteur": 1282
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Casa de Joaquín Tinoco Granados.JPG",
+      "description": "Corner where General José Joaquín Tinoco Granados was assassinated on August 10, 1919. 3rd. street, 7th. Avenue, San José, Costa Rica.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon Coolpix S4",
+        "Roller shutters",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Corner buildings in Costa Rica",
+        "2008 in San José, Costa Rica",
+        "Houses in San José, Costa Rica"
+      ],
+      "auteur": "Lex.mercurio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_Joaqu%C3%ADn_Tinoco_Granados.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Casa_de_Joaqu%C3%ADn_Tinoco_Granados.JPG/1280px-Casa_de_Joaqu%C3%ADn_Tinoco_Granados.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:God bless the Corporation! (9066196888).jpg",
+      "description": "Protest against evictions from tenement buildings on York Street in Dublin captured by Elinor Wiltshire and her Rolleiflex camera. Date: Circa June/July 1964 NLI Ref.: WIL 3[8 ]",
+      "categories": [
+        "1964 in Ireland",
+        "Taken with Phase One P65+",
+        "Shutters",
+        "Demolition",
+        "Billboards",
+        "York Street, Dublin",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Eviction in Ireland",
+        "Images from the National Library of Ireland",
+        "Supported by Wikimedia UK",
+        "Files from Flickr's 'The Commons'",
+        "Construction debris",
+        "1964 in Dublin",
+        "Content media by years - Supported by Wikimedia UK - 2014",
+        "Files with coordinates missing SDC location of creation",
+        "Unidentified advertising",
+        "Shepparton Preserving Company",
+        "Baby carriages in the 1960s",
+        "Tenement buildings in Dublin",
+        "Images from the National Library of Ireland Wiltshire Photographic Collection",
+        "Tea chests"
+      ],
+      "auteur": "National Library of Ireland on The Commons",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:God_bless_the_Corporation!_(9066196888).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/God_bless_the_Corporation%21_%289066196888%29.jpg/1280px-God_bless_the_Corporation%21_%289066196888%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1986
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

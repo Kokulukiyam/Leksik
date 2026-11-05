@@ -230,6 +230,107 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Entrance_to_Bet_Emmanuel%2C_Lalibela%2C_Ethiopia_%283325996687%29.jpg/1280px-The_Entrance_to_Bet_Emmanuel%2C_Lalibela%2C_Ethiopia_%283325996687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1993,
       "hauteur": 3024
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Seuil-FR-08-panneau-02.jpg",
+      "description": "Seuil (Ardennes, France) ;",
+      "categories": [
+        "City limit signs in Ardennes (department)",
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-panneau-02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Seuil-FR-08-panneau-02.jpg/1280px-Seuil-FR-08-panneau-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Seuil-FR-08-bouche d'incendie-01.jpg",
+      "description": "Seuil (Ardennes, France) ; bouche d'incendie",
+      "categories": [
+        "Fire hydrants in Ardennes",
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-bouche_d%27incendie-01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Seuil-FR-08-bouche_d%27incendie-01.jpg/1280px-Seuil-FR-08-bouche_d%27incendie-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2596
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Seuil-FR-08-panneau-06.jpg",
+      "description": "Seuil (Ardennes, France) ;",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-panneau-06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Seuil-FR-08-panneau-06.jpg/1280px-Seuil-FR-08-panneau-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Seuil-FR-08-calvaire-04.jpg",
+      "description": "Seuil (Ardennes, France) ; calvaire",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-calvaire-04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Seuil-FR-08-calvaire-04.jpg/1280px-Seuil-FR-08-calvaire-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Seuil-FR-08-auberge-02.jpg",
+      "description": "Seuil (Ardennes, France) ; auberge Chez Joël",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-auberge-02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seuil-FR-08-auberge-02.jpg/1280px-Seuil-FR-08-auberge-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Seuil-FR-08-panneau-03.jpg",
+      "description": "Seuil (Ardennes, France) ;",
+      "categories": [
+        "City limit signs in Ardennes (department)",
+        "Taken with Olympus E-520",
+        "Seuil (Ardennes)",
+        "Self-published work"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seuil-FR-08-panneau-03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seuil-FR-08-panneau-03.jpg/1280px-Seuil-FR-08-panneau-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

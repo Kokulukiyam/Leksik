@@ -1,0 +1,53 @@
+{
+  "termId": "verre-arme",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Petit encrier ancien en verre ambré à décor géométrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de collection, aucun treillis métallique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Flûte à champagne, chandeliers et haut-de-forme sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Souffleur de verre au travail devant son établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fabrication artisanale, pas de verre armé."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Appareil photo moyen format avec bague allonge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Perles de verre colorées suspendues, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Balcon avec gazon artificiel et salon de jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

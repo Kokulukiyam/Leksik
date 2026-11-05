@@ -13,7 +13,11 @@
     "incompatibles": [
       "poteau",
       "profile-en-h",
-      "platine"
+      "platine",
+      "profile-en-i"
+    ],
+    "categoriesCommons": [
+      "Category:Steel structures"
     ]
   },
   "candidats": [
@@ -137,6 +141,136 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Plain_base_plates_for_columns_%281907%29_%2814591582860%29.jpg/1280px-Plain_base_plates_for_columns_%281907%29_%2814591582860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3408,
       "hauteur": 2496
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Eu Amo Fabri na Praça da Estação, Coronel Fabriciano MG.JPG",
+      "description": "\" Eu Amo Fabri \" (\"I love Fabri\") in the Estação Square with the Pereira's House visible on the right, in Coronel Fabriciano, Minas Gerais, Brazil.",
+      "categories": [
+        "Praça da Estação (Coronel Fabriciano)",
+        "Sobrado dos Pereira",
+        "Steel structures",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "3D letter place name signs in Brazil",
+        "Brazil photographs taken on 2024-07-23",
+        "Os Cinco Elementos da Natureza monument",
+        "I love (heart) city signs in Brazil"
+      ],
+      "auteur": "HVL",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eu_Amo_Fabri_na_Pra%C3%A7a_da_Esta%C3%A7%C3%A3o,_Coronel_Fabriciano_MG.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Eu_Amo_Fabri_na_Pra%C3%A7a_da_Esta%C3%A7%C3%A3o%2C_Coronel_Fabriciano_MG.JPG/1280px-Eu_Amo_Fabri_na_Pra%C3%A7a_da_Esta%C3%A7%C3%A3o%2C_Coronel_Fabriciano_MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3270,
+      "hauteur": 2180
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Dachsteinseilbahn III Krippenstein pillar.jpg",
+      "description": "Pillar of Dachsteinbahn III, Upper Austria",
+      "categories": [
+        "Krippenstein",
+        "Dachsteinbahn",
+        "Steel structures",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Draceane – Austria",
+        "Aerial lift pylons in Austria",
+        "Taken with Canon EOS 1100D and Canon EF-S 18-55mm F3.5-5.6 III",
+        "Files by Draceane (non-standard naming)"
+      ],
+      "auteur": "Draceane",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachsteinseilbahn_III_Krippenstein_pillar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dachsteinseilbahn_III_Krippenstein_pillar.jpg/1280px-Dachsteinseilbahn_III_Krippenstein_pillar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4272
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Eu Amo Vargem Alegre na Praça Israel Nunes, Vargem Alegre MG.JPG",
+      "description": "\" Eu Amo Vargem Alegre \" (\"I love Vargem Alegre\") in the Israel Nunes Square, in Vargem Alegre, Minas Gerais, Brazil.",
+      "categories": [
+        "Steel structures",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "3D letter place name signs in Brazil",
+        "I love (heart) city signs in Brazil",
+        "Brazil photographs taken on 2025-09-22",
+        "Praça Israel Nunes",
+        "Monuments and memorials in Vargem Alegre"
+      ],
+      "auteur": "HVL",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Eu_Amo_Vargem_Alegre_na_Pra%C3%A7a_Israel_Nunes,_Vargem_Alegre_MG.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Eu_Amo_Vargem_Alegre_na_Pra%C3%A7a_Israel_Nunes%2C_Vargem_Alegre_MG.JPG/1280px-Eu_Amo_Vargem_Alegre_na_Pra%C3%A7a_Israel_Nunes%2C_Vargem_Alegre_MG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2432
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Ambulance base.jpg",
+      "description": "A ambulance base in Dryden, Ontario. Two EMS vehicles can be seen in the background",
+      "categories": [
+        "Steel structures",
+        "Self-published work",
+        "July 2023 in Ontario",
+        "Files with coordinates missing SDC location of creation",
+        "Ambulances in Ontario",
+        "Emergency medical services in Ontario",
+        "Buildings in Dryden"
+      ],
+      "auteur": "50tr5",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ambulance_base.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Ambulance_base.jpg/1280px-Ambulance_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Forma y fondo; arte conceptual sin concepto. (3371091056).jpg",
+      "description": "Forma y fondo; arte conceptual sin concepto.",
+      "categories": [
+        "Steel structures",
+        "Flickr images reviewed by FlickreviewR",
+        "Gray and red",
+        "Gray background",
+        "Red lines",
+        "Photographs by Carlos Adampol Galindo",
+        "Corona del Pedregal de Mathias Goeritz",
+        "Photographs of horizontal lines"
+      ],
+      "auteur": "Carlos Adampol Galindo from DF, México",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forma_y_fondo;_arte_conceptual_sin_concepto._(3371091056).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Forma_y_fondo%3B_arte_conceptual_sin_concepto._%283371091056%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 853
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bytom Rozbark mine steel structure.jpg",
+      "description": "pozostałości zabudowy rejonu głównego Kopalni Węgla Kamiennego Rozbark (resztka estakady taśmociągu, który dostarczał węgiel do kotłowni), konstrukcja stalowa (ściany były wypełnione cegłą, widać pozostałości) obok maszynowni szybu Bończyk (fragment z lewej), Bytom-Rozbark, ul. Chorzowska, widok od ulicy Chorzowskiej. Wyjaśnienie p. Marka Lohera: „zainstalowany tam był przenośnik kubełkowy ze względu na mało miejsca i sporą różnicę wysokości. Otóż zrąb szybu Bończyk i jego budynek maszynowni - znajdowały się na poziomie bocznicy kolejowej, czyli kilka metrów niżej od terenu reszty zabudowy. Po",
+      "categories": [
+        "Rozbark coal mine",
+        "Steel structures",
+        "Self-published work",
+        "Ruins in Silesian Voivodeship",
+        "2019 in Bytom",
+        "Chorzowska Street in Bytom",
+        "Steel constructions",
+        "Images by Gower"
+      ],
+      "auteur": "Adrian Tync",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bytom_Rozbark_mine_steel_structure.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bytom_Rozbark_mine_steel_structure.jpg/1280px-Bytom_Rozbark_mine_steel_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3042,
+      "hauteur": 4563
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

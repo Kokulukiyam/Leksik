@@ -12,7 +12,13 @@
     ],
     "incompatibles": [
       "linteau",
-      "chainage-horizontal"
+      "chainage-horizontal",
+      "linteau-prefabrique"
+    ],
+    "categoriesCommons": [
+      "Category:Lintels",
+      "Category:Concrete beams",
+      "Category:Formwork"
     ]
   },
   "candidats": [
@@ -117,6 +123,151 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036045.jpg/1280px-Holy_Cross_Catholic_School%2C_Church_Street%2C_Latonia%2C_Covington%2C_KY_-_52361036045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2830,
       "hauteur": 3774
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Jumet - Chapelle Notre-Dame des Affligés (chronogramme 1677).jpg",
+      "description": "Jumet ( Charleroi - Belgique ) - Chapelle Notre-Dame des Affligés (XVIIe - XVIIIe siècle) - ancienne porte d'entrée à linteau droit portant le chronogramme «hanC pIVs aeDeM ereXIt popVLVs» (1677).",
+      "categories": [
+        "Chapelle Notre-Dame des Affligés (Jumet)",
+        "Lintels",
+        "Images with annotations",
+        "Self-published work",
+        "Latin inscriptions in Belgium",
+        "2011 in Charleroi",
+        "Photographs taken on 2011-09-07",
+        "September 2011 Belgium photographs",
+        "Small caps mixed case in Roman numeral chronograms",
+        "Plaques referencing 1677 in Belgium",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Images by Jmh2o",
+        "Chronograms in writing in Charleroi",
+        "MDCLXVVVII (numeral)"
+      ],
+      "auteur": "Jmh2o",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_(chronogramme_1677).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_%28chronogramme_1677%29.jpg/1280px-Jumet_-_Chapelle_Notre-Dame_des_Afflig%C3%A9s_%28chronogramme_1677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:1930 ARQUITECTURA 40.jpg",
+      "description": "Anuncio de la empresa \"Construcción Triangular Española Cía. Ltda.\", de vigas prefabricadas. El Ferrol (La Coruña, Galicia, España)",
+      "categories": [
+        "Triangular objects",
+        "Template Unknown (author)",
+        "1930 advertisements in Spain",
+        "Precast concrete elements",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Concrete beams",
+        "Economy of Ferrol",
+        "Arquitectura, 1930"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:1930_ARQUITECTURA_40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1930_ARQUITECTURA_40.jpg/1280px-1930_ARQUITECTURA_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3757,
+      "hauteur": 3006
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:BoA 2 Neurath Luftaufnahme.jpg",
+      "description": "Beton-Schalung und -Schaltechnik von NOE im Einsatz beim Bau des weltweit größten Braunkohlekraftwerkes mit optimierter Anlagentechnik, Neurath",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Formwork",
+        "Kraftwerk Neurath",
+        "NOE-Schaltechnik",
+        "License migration redundant",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Construction sites in Rhein-Kreis Neuss"
+      ],
+      "auteur": "NOE-Schaltechnik, Dirk Laubner",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BoA_2_Neurath_Luftaufnahme.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/BoA_2_Neurath_Luftaufnahme.jpg/1280px-BoA_2_Neurath_Luftaufnahme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2923,
+      "hauteur": 2087
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Lintel to Henry Nisbet from Dean House, reused in Dean Cemetery.jpg",
+      "description": "Lintel to Henry Nisbet from Dean House, reused in Dean Cemetery",
+      "categories": [
+        "Lintels",
+        "Self-published work"
+      ],
+      "auteur": "Stephencdickson",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lintel_to_Henry_Nisbet_from_Dean_House,_reused_in_Dean_Cemetery.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lintel_to_Henry_Nisbet_from_Dean_House%2C_reused_in_Dean_Cemetery.jpg/1280px-Lintel_to_Henry_Nisbet_from_Dean_House%2C_reused_in_Dean_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3088,
+      "hauteur": 2056
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:CYII (1930-1932) 43.jpg",
+      "description": "Obras del Cuarto Depósito del Canal de Isabel II: colocación de las vigas de hormigón armado de la cubierta. . Madrid",
+      "categories": [
+        "Madrid in the 1930s",
+        "Template Unknown (author)",
+        "Gantry cranes in Spain",
+        "Scanned by LBM1948",
+        "PD-Spain-anon-80",
+        "Men at work in the Community of Madrid",
+        "Concrete beams",
+        "Cuarto depósito del Canal de Isabel II",
+        "Construction sites in Madrid",
+        "Canal de Isabel II in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:CYII_(1930-1932)_43.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/CYII_%281930-1932%29_43.jpg/1280px-CYII_%281930-1932%29_43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2518,
+      "hauteur": 3821
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Building construction Moira Close Broadwater Farm Haringey 2025 29.jpg",
+      "description": "Building construction at Moira Close, in the Borough of Haringey in London , England, on 20 May 2025. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Tottenham , this uploader's Buildings in London photos , and 'categories' at the bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera : Canon PowerShot SX60 HS Software : DxO PhotoLab 7 Elite .",
+      "categories": [
+        "Theodolites",
+        "Images with annotations",
+        "Formwork",
+        "Self-published work",
+        "Railings in London",
+        "Construction sites in London",
+        "2025 in the London Borough of Haringey",
+        "May 2025 in London",
+        "London photographs taken on 2025-05-20",
+        "Men at work in London",
+        "Spring in the London Borough of Haringey",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Buildings in the London Borough of Haringey photographed in 2025",
+        "Hard hats in London",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Construction at Broadwater Farm Estate",
+        "Moira Close, Tottenham",
+        "High-visibility vests in London",
+        "Men wearing hard hats in the United Kingdom",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_29.jpg/1280px-Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

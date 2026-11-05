@@ -1,0 +1,53 @@
+{
+  "termId": "structure-tridimensionnelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvriers sur nacelle devant de gros tubes blancs dans un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Farmington, États-Unis",
+      "note": "Pas de réseau de barres lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Monument à cadres métalliques dans un pré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hedeby, Allemagne",
+      "note": "Pas une structure tridimensionnelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue en contre-plongée dans une tour de treillis tubulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mer du Nord (Troll A)",
+      "note": "Tour en treillis, pas une couverture en pyramides."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Train sur un quai, charpente tubulaire en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taichung, Taïwan",
+      "note": "Train dominant, structure peu lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Schéma CAD de tétraèdres en treillis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros tubes d'acier et nœuds sous la couverture d'un quai, parmi des câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taichung, Taïwan",
+      "note": "Désordonné, confusion possible avec une poutre treillis."
+    }
+  ]
+}

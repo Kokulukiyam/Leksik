@@ -1,0 +1,58 @@
+{
+  "termId": "efflorescence",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de béton gris avec deux longues coulures de dépôt blanc sous un joint.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.22,
+        "largeur": 0.25,
+        "hauteur": 0.62
+      },
+      "lieu": "Lingen, Allemagne",
+      "note": "Dépôt blanc de sels sur le béton, nettement visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Quai de métro avec mur de béton taché et panneau décoratif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich",
+      "note": "Traces peu lisibles, panneau dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur écaillé aux couleurs saturées sous néon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couleurs faussées, peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques recouvert d'un voile blanc sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wuppertal, Allemagne",
+      "note": "Aspect ambigu, graffitis."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de briques avec longues coulures blanches de sels, mousse verte.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Schmallenberg, Allemagne",
+      "note": "Coulures blanches de sels sur maçonnerie de briques."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sol de briques de cave couvert de touffes blanches de sels.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect cotonneux ambigu avec moisissure."
+    }
+  ]
+}

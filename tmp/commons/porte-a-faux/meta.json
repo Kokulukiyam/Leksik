@@ -11,7 +11,13 @@
       "cantilevered slab"
     ],
     "incompatibles": [
-      "encorbellement"
+      "encorbellement",
+      "balcon",
+      "casquette"
+    ],
+    "categoriesCommons": [
+      "Category:Cantilevers",
+      "Category:Cantilever balconies"
     ]
   },
   "candidats": [
@@ -149,6 +155,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg/1280px-Cantilever_sign_B%26B_Bij_de_Friesche_Poort_in_Bourtange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4500,
       "hauteur": 3375
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Klimaanlagen Aussengerät Montage-Auslegerschiene.jpg",
+      "description": "Ausleger mit C-Schiene, hier Hilti-Schiene",
+      "categories": [
+        "Self-published work",
+        "Cantilevers",
+        "Steel strut channels"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Klimaanlagen_Aussenger%C3%A4t_Montage-Auslegerschiene.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Klimaanlagen_Aussenger%C3%A4t_Montage-Auslegerschiene.jpg/1280px-Klimaanlagen_Aussenger%C3%A4t_Montage-Auslegerschiene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3532,
+      "hauteur": 2580
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Cantilever (16732301846).jpg",
+      "description": "cantilever",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Cantilever balconies",
+        "Files from jean-daniel pauget Flickr stream"
+      ],
+      "auteur": "jean-daniel pauget",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cantilever_(16732301846).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cantilever_%2816732301846%29.jpg/1280px-Cantilever_%2816732301846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:High Line td (2023-06-23) 021 - 30th Street Spur.jpg",
+      "description": "Walking east underneath 10 Hudson Yards along the 30th Street Spur of Section 3 of the High Line, above 30th Street and 10th Avenue in Hudson Yards, Hell's Kitchen, Midtown Manhattan. Pictured is a cantilevered overlook with glass panels.",
+      "categories": [
+        "Taken with Sony DSC-RX100 III",
+        "Self-published work",
+        "Flowers and plants of the High Line (New York City)",
+        "High Line spur at 30th Street",
+        "Files with coordinates missing SDC location of creation",
+        "Cantilevers",
+        "High Line (New York City) in 2023",
+        "Hudson Yards in 2023",
+        "2023 Manhattan photographs by Tdorante10",
+        "Railway photographs taken on 2023-06-23",
+        "June 2023 in Manhattan, New York City",
+        "Scenic overlooks on the High Line (New York City)",
+        "Coach Passage under 10 Hudson Yards",
+        "Photographs by Tdorante10 taken on 2023-06-23"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:High_Line_td_(2023-06-23)_021_-_30th_Street_Spur.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/High_Line_td_%282023-06-23%29_021_-_30th_Street_Spur.jpg/1280px-High_Line_td_%282023-06-23%29_021_-_30th_Street_Spur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:6 Sion Hill, Bristol, April 2019.jpg",
+      "description": "Number 6 And Attached Area Railings, Gates And Piers .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start",
+      "categories": [
+        "Self-published work",
+        "Terraced houses in Bristol",
+        "Listed buildings in England with known IDs",
+        "Grade II listed houses in Bristol",
+        "Uploaded via Campaign:wlm-gb-eng",
+        "April 2019 in Bristol",
+        "Sion Hill, Bristol",
+        "Cantilever balconies",
+        "Photographs by No Swan So Fine/Bristol"
+      ],
+      "auteur": "No Swan So Fine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6_Sion_Hill,_Bristol,_April_2019.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/6_Sion_Hill%2C_Bristol%2C_April_2019.jpg/1280px-6_Sion_Hill%2C_Bristol%2C_April_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Big Blue Gantry Over Gillies Avenue.jpg",
+      "description": "The \"Big Blue\" gantry crane building the new Newmarket Viaduct in Auckland , New Zealand . Yes, it DOES cantilever like that, most of the crane is to the left, outside of the image.",
+      "categories": [
+        "2010 photographs of New Zealand",
+        "Gillies Avenue",
+        "Self-published work",
+        "PD-self",
+        "Replacement of the Newmarket Viaduct",
+        "Construction cranes in New Zealand",
+        "2010 in Auckland",
+        "Height limit warning road signs in New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "Cantilevers",
+        "Light blue objects",
+        "Photos taken by Ingolfson",
+        "Gantry cranes in New Zealand"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Big_Blue_Gantry_Over_Gillies_Avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Big_Blue_Gantry_Over_Gillies_Avenue.jpg/1280px-Big_Blue_Gantry_Over_Gillies_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Abstützung eines FAUN-Krans.jpg",
+      "description": "Extended support leg of a FAUN mobile crane.",
+      "categories": [
+        "Mobile cranes in Germany",
+        "Self-published work",
+        "Mobile cranes with supports extended",
+        "Files by User:High Contrast",
+        "Cantilevers",
+        "Tadano Faun vehicles",
+        "Hydraulic pistons",
+        "Faun cranes",
+        "Vehicles in Vilshofen an der Donau",
+        "Truck wheels"
+      ],
+      "auteur": "High Contrast",
+      "licence": "CC BY 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abst%C3%BCtzung_eines_FAUN-Krans.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Abst%C3%BCtzung_eines_FAUN-Krans.jpg/1280px-Abst%C3%BCtzung_eines_FAUN-Krans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2220,
+      "hauteur": 1700
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

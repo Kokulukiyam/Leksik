@@ -1,0 +1,53 @@
+{
+  "termId": "botte-de-paille",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Champ moissonné avec des balles de paille rondes dispersées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Balles rondes agricoles, pas de bottes empilées en mur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Cabane à toit de chaume et parois de roseaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bagnacavallo, Italie",
+      "note": "Chaume et roseaux, pas de bottes."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Champ de balles rondes en sépia avec éoliennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balles agricoles, image teintée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison enduite de teinte jaune pâle, présentée comme maison en bottes de paille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dyssekilde, Danemark",
+      "note": "Les bottes ne sont pas visibles sous l'enduit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Presse à balles rouge éjectant une balle ronde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pologne",
+      "note": "Machine agricole."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Maison blanche enduite à toit d'ardoises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dyssekilde, Danemark",
+      "note": "Les bottes ne sont pas visibles sous l'enduit."
+    }
+  ]
+}

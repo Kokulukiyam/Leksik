@@ -116,6 +116,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Drain_cover_with_trap.jpg/1280px-Drain_cover_with_trap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4096,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:-42 drain.jpg",
+      "description": "drain",
+      "categories": [
+        "Toilets",
+        "Self-published work",
+        "Floor drains"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-42_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/-42_drain.jpg/1280px--42_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8341,
+      "hauteur": 6645
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Baugrube in der Rüssmatte.jpg",
+      "description": "Eine Baugrube mit Aushub daneben in der Rüssmatte, Gemeinde Wohlenschwil.",
+      "categories": [
+        "Wohlenschwil",
+        "Drains",
+        "Self-published work",
+        "Construction excavations",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Joris Egger"
+      ],
+      "auteur": "Joris Egger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baugrube_in_der_R%C3%BCssmatte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Baugrube_in_der_R%C3%BCssmatte.jpg/1280px-Baugrube_in_der_R%C3%BCssmatte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:65AGBVardPbchbath2.jpg",
+      "description": "Image, slimline drain in shower Imange slimline trenchdrain in shower",
+      "categories": [
+        "Self-published work",
+        "PD-self",
+        "Floor drains",
+        "Wet rooms",
+        "Shower drain water management"
+      ],
+      "auteur": "Troy Creighton",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:65AGBVardPbchbath2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/65AGBVardPbchbath2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 937,
+      "hauteur": 698
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Drain hole in the office garage.jpg",
+      "description": "Drainage hole",
+      "categories": [
+        "CC-Zero",
+        "Floor drains",
+        "Images uploaded by Commons Uploader for Mobile"
+      ],
+      "auteur": "Ser Amantio di Nicolao",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Drain_hole_in_the_office_garage.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Drain_hole_in_the_office_garage.jpg/1280px-Drain_hole_in_the_office_garage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Shower Repair.jpg",
+      "description": "Shower repair showing drain piping with trap.",
+      "categories": [
+        "Taken with Canon EOS 40D",
+        "Drain covers",
+        "Self-published work",
+        "Floor drains",
+        "Wet rooms"
+      ],
+      "auteur": "Hardyplants",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Shower_Repair.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Shower_Repair.jpg/1280px-Shower_Repair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2160,
+      "hauteur": 1299
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Blocked floor drain.jpg",
+      "description": "A blocked floor drain in a kitchen, with the waste water in the drain not flowing down.",
+      "categories": [
+        "Self-published work",
+        "Floor drains",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Sgconlaw",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blocked_floor_drain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Blocked_floor_drain.jpg/1280px-Blocked_floor_drain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

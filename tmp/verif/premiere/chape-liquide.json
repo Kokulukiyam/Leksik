@@ -1,0 +1,53 @@
+{
+  "termId": "chape-liquide",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ouvrier posant un gabarit rouge sur des solives en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chape."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier réglant un béton frais à la règle dans un coffrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Diego Garcia",
+      "note": "Béton extérieur, pas chape liquide."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvrier agenouillé lissant une chape humide dans une pièce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape lissée à la main, non lisible comme chape fluide."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande pièce vitrée au sol lisse et brillant de chape fluide fraîchement coulée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface autonivelante très lisse, typique d'une chape liquide."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pièce rose avec sol brun humide et bandes périphériques bleues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, nature de la chape incertaine."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pompe à chape sur remorque, tuyaux et sable au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériel, pas la chape elle-même."
+    }
+  ]
+}

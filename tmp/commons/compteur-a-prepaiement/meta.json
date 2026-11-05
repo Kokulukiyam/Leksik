@@ -68,5 +68,7 @@
       "largeur": 2283,
       "hauteur": 1631
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

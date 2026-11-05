@@ -1,0 +1,58 @@
+{
+  "termId": "silex",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couverture d'un livre avec dessins de pointes de silex taillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couverture de livre, dessins."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pignon de brique avec mur de silex apparents, tuiles au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.6,
+        "y": 0.5,
+        "largeur": 0.4,
+        "hauteur": 0.5
+      },
+      "lieu": "Edingthorpe, Norfolk, Royaume-Uni",
+      "note": "Rectangle sur les silex, distincts de la brique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit bâtiment brique et silex, petit et masqué par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Henley-on-Thames",
+      "note": "Silex trop petit et caché."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Silex en pendentif sur cordon, fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de bijouterie, pas un mur ni un rognon lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier de maison brique et silex avec échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Northrepps, Norfolk",
+      "note": "Silex peu visible, scène confuse."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pignon entièrement en silex noirs et blancs avec pierres sculptées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Sulhamstead Abbots, Berkshire",
+      "note": "Silex dominants et clairs."
+    }
+  ]
+}

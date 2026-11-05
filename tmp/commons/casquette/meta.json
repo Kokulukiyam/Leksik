@@ -12,7 +12,11 @@
     ],
     "incompatibles": [
       "auvent",
-      "brise-soleil-horizontal"
+      "brise-soleil-horizontal",
+      "marquise"
+    ],
+    "categoriesCommons": [
+      "Category:Canopies"
     ]
   },
   "candidats": [
@@ -160,6 +164,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/South_Ruislip_Underground_Station_%28Central_Line_and_Chiltern_Railways%29.jpg/1280px-South_Ruislip_Underground_Station_%28Central_Line_and_Chiltern_Railways%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2576,
       "hauteur": 1932
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Andreasgasse 7 I.jpg",
+      "description": "Die denkmalgeschützte Bundesmobiliensammlung (ehem. kaiserliches Hofmobiliendepot) in der Andreasgasse 7 in Wien-Neubau. Ce document montre le monument protégé portant ObjektID 26685 en Autriche. ( Commons , de , Wikidata )",
+      "categories": [
+        "Taken with Nikon D50",
+        "Canopies",
+        "Cultural heritage monuments in Austria with known IDs",
+        "Andreaspark (Vienna)",
+        "Images by Michael Kranewitter",
+        "Andreasgasse 7, Vienna",
+        "Vienna photographs taken on 2011-04-25"
+      ],
+      "auteur": "Michael Kranewitter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andreasgasse_7_I.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Andreasgasse_7_I.jpg/1280px-Andreasgasse_7_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2906,
+      "hauteur": 1994
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Canopied passage to the Golden Temple, Amritsar.jpg",
+      "description": "Canopied passage to the Golden Temple, Amritsar.",
+      "categories": [
+        "Taken with Canon PowerShot G9",
+        "Canopies",
+        "Golden Temple (Harmandir Sahib)",
+        "Flickr images uploaded by Flickr upload bot",
+        "Files with coordinates missing SDC location of creation",
+        "Harmandir Sahib causeway"
+      ],
+      "auteur": "Ken Wieland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Canopied_passage_to_the_Golden_Temple,_Amritsar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Canopied_passage_to_the_Golden_Temple%2C_Amritsar.jpg/1280px-Canopied_passage_to_the_Golden_Temple%2C_Amritsar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2023-01-18 A canopy made from car at 22 Pekini Avenue.jpg",
+      "description": "A clothes shop entrance at 22 Pekini Avenue, Tbilisi, with a canopy made from half of a car attached to the building wall",
+      "categories": [
+        "Novelty architecture",
+        "Canopies",
+        "ZAZ-965 Zaporozhets",
+        "Self-published work",
+        "Three-quarter views of automobiles",
+        "Clothing shops in Georgia (country)",
+        "Taken on missing SDC inception",
+        "Buildings in Georgia (country) photographed in 2023",
+        "Files with coordinates missing SDC location of creation",
+        "Number 1995 on vehicle registration plates",
+        "2023 in Tbilisi",
+        "Georgia (country) photographs taken on 2023-01-18",
+        "Pekini Avenue, Tbilisi",
+        "Shop entrances",
+        "Automobiles in Tbilisi",
+        "Repurposed automobiles",
+        "Entrances in Tbilisi",
+        "Photographs by Yuri Samoylov taken in 2023"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg/1280px-2023-01-18_A_canopy_made_from_car_at_22_Pekini_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3002,
+      "hauteur": 4003
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Botanischer Garten Zürich 16.jpg",
+      "description": "Botanisches Institut der Universität Zürich",
+      "categories": [
+        "Canopies",
+        "WikiAlpenforum",
+        "Self-published work",
+        "Taken by Burkhard Muecke",
+        "WikiAlpenforum Bot. Garten Zürich 2017-08-26"
+      ],
+      "auteur": "Burkhard Mücke",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_Z%C3%BCrich_16.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Botanischer_Garten_Z%C3%BCrich_16.jpg/1280px-Botanischer_Garten_Z%C3%BCrich_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3984,
+      "hauteur": 2240
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bucuresti, Romania, Palatul Regal (Muzeul National de Arta al Romaniei - Galeria de Arta Europeana); B-II-m-A-19856.JPG",
+      "description": "Bucuresti, Romania, Palatul Regal (Muzeul National de Arta al Romaniei - Galeria de Arta Europeana); B-II-m-A-19856",
+      "categories": [
+        "Taken with Nikon Coolpix L100",
+        "Canopies",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2014",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Images from Wiki Loves Monuments 2014 in Romania",
+        "Uploaded via Campaign:wlm-ro",
+        "Romania photographs taken on 2014-08-16",
+        "Awnings of the Royal Palace (Bucharest)",
+        "Doors of the Royal Palace (Bucharest)"
+      ],
+      "auteur": "Britchi Mirela",
+      "licence": "CC BY-SA 3.0 ro",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bucuresti,_Romania,_Palatul_Regal_(Muzeul_National_de_Arta_al_Romaniei_-_Galeria_de_Arta_Europeana);_B-II-m-A-19856.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Bucuresti%2C_Romania%2C_Palatul_Regal_%28Muzeul_National_de_Arta_al_Romaniei_-_Galeria_de_Arta_Europeana%29%3B_B-II-m-A-19856.JPG/1280px-Bucuresti%2C_Romania%2C_Palatul_Regal_%28Muzeul_National_de_Arta_al_Romaniei_-_Galeria_de_Arta_Europeana%29%3B_B-II-m-A-19856.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Abri de la Croix d'Amanzé.jpg",
+      "description": "Abri de la Croix d'Amanzé",
+      "categories": [
+        "CC-Zero",
+        "Canopies",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2026-03-03"
+      ],
+      "auteur": "Werner Wanderfreund",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abri_de_la_Croix_d%27Amanz%C3%A9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Abri_de_la_Croix_d%27Amanz%C3%A9.jpg/1280px-Abri_de_la_Croix_d%27Amanz%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

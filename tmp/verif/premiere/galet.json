@@ -1,0 +1,58 @@
+{
+  "termId": "galet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Banc de galets au bord d'une rivière, paysage de montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cruet, Savoie",
+      "note": "Galets trop petits, paysage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Église et mur de cimetière en galets roulés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.06,
+        "y": 0.8,
+        "largeur": 0.9,
+        "hauteur": 0.17
+      },
+      "lieu": "Barcugnan, France",
+      "note": "Rectangle sur le mur de galets."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol pavé de petits pavés avec confettis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lamego, Portugal",
+      "note": "Pavés taillés, pas des galets."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Galets de plage avec un papillon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pett Level, Angleterre",
+      "note": "Papillon dominant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Grand mur de soutènement en galets alignés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Kanazawa, Japon",
+      "note": "Galets arrondis très lisibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Pavés carrés à gauche, galets à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vadstena, Suède",
+      "note": "Mélange pavés et galets, ambigu."
+    }
+  ]
+}

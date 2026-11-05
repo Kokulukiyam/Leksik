@@ -11,7 +11,8 @@
       "grouting tiles"
     ],
     "incompatibles": [
-      "carrelage"
+      "carrelage",
+      "croisillon"
     ]
   },
   "candidats": [
@@ -123,6 +124,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Grouting_tile_finishes_along_the_44th_Street_passenger_corridor_of_the_future_LIRR_concourse._%28CM014B%2C_01-03-2019%29_%2831660454047%29.jpg/1280px-Grouting_tile_finishes_along_the_44th_Street_passenger_corridor_of_the_future_LIRR_concourse._%28CM014B%2C_01-03-2019%29_%2831660454047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 2448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Granite tile 04 ao 8k (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granite_tile_04_ao_8k_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Granite_tile_04_ao_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-Granite_tile_04_ao_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Grouting tile at the south end of the passenger concourse. 05-08-2019 (47766651702).jpg",
+      "description": "Grouting tile at the south end of the passenger concourse. 05-08-2019",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2019/05/10",
+        "East Side Access construction/2019/05/08"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grouting_tile_at_the_south_end_of_the_passenger_concourse._05-08-2019_(47766651702).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Grouting_tile_at_the_south_end_of_the_passenger_concourse._05-08-2019_%2847766651702%29.jpg/1280px-Grouting_tile_at_the_south_end_of_the_passenger_concourse._05-08-2019_%2847766651702%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Granite tile 04 disp 8k (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granite_tile_04_disp_8k_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Granite_tile_04_disp_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-Granite_tile_04_disp_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bílá a šedá špárovka detail.JPG",
+      "description": "Grey and white tilling grout.",
+      "categories": [
+        "Taken with Canon PowerShot A580",
+        "Tiles",
+        "Grouting",
+        "Files by Juandev",
+        "Gray tiles"
+      ],
+      "auteur": "Juan de Vojníkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:B%C3%ADl%C3%A1_a_%C5%A1ed%C3%A1_%C5%A1p%C3%A1rovka_detail.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/B%C3%ADl%C3%A1_a_%C5%A1ed%C3%A1_%C5%A1p%C3%A1rovka_detail.JPG/1280px-B%C3%ADl%C3%A1_a_%C5%A1ed%C3%A1_%C5%A1p%C3%A1rovka_detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Granite tile 04 arm 8k (Amal Kumar via Poly Haven).jpg",
+      "description": "Texture of a granite footpath. Length: 2 meters. Sampling: 4096 px/m.",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with OpenRefine",
+        "Files uploaded by PantheraLeo1359531",
+        "Files from Poly Haven (flat list)",
+        "Files uploaded with OpenRefine by PantheraLeo1359531",
+        "Granite Tile 04 (Poly Haven)"
+      ],
+      "auteur": "Amal Kumar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granite_tile_04_arm_8k_(Amal_Kumar_via_Poly_Haven).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Granite_tile_04_arm_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg/1280px-Granite_tile_04_arm_8k_%28Amal_Kumar_via_Poly_Haven%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8192,
+      "hauteur": 8192
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Špáry.JPG",
+      "description": "Grey and white tilling grout.",
+      "categories": [
+        "Taken with Canon PowerShot A580",
+        "Tiles",
+        "Grouting",
+        "Files by Juandev",
+        "Gray tiles"
+      ],
+      "auteur": "Juan de Vojníkov",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C5%A0p%C3%A1ry.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%C5%A0p%C3%A1ry.JPG/1280px-%C5%A0p%C3%A1ry.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

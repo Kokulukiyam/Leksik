@@ -13,6 +13,10 @@
     "incompatibles": [
       "colonne",
       "pilier"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete columns",
+      "Category:Columns"
     ]
   },
   "candidats": [
@@ -128,6 +132,132 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fractured_reinforced_concrete_column.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "largeur": 1200,
       "hauteur": 1600
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Close-up view on the demolition of the C.S. Post Building Amsterdam on Oosterdokseiland, February 2011.jpg",
+      "description": "close-up view on the demolition of the C.S. Post Building Amsterdam on Oosterdokseiland, February 2011. on the background the windows of the new Amsterdam Conservatory; free photo Amsterdam, Fons Heijnsbroek, 2011",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ5",
+        "CC-Zero",
+        "Destroyed buildings in Amsterdam",
+        "Oosterdokseiland",
+        "Concrete columns",
+        "Self-published work",
+        "Gray impressions",
+        "Netherlands photographs taken on 2011-02-19",
+        "February 2011 in Amsterdam",
+        "Rebar in the Netherlands",
+        "Debris in the Netherlands",
+        "Post CS gebouw",
+        "Demolitions in Amsterdam",
+        "Rebar on site",
+        "Rusty construction materials",
+        "Demolition equipment",
+        "Stationspostkantoor (Amsterdam)",
+        "Photographs by Fons Heijnsbroek in Amsterdam (2011)"
+      ],
+      "auteur": "Fons Heijnsbroek",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Close-up_view_on_the_demolition_of_the_C.S._Post_Building_Amsterdam_on_Oosterdokseiland,_February_2011.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Close-up_view_on_the_demolition_of_the_C.S._Post_Building_Amsterdam_on_Oosterdokseiland%2C_February_2011.jpg/1280px-Close-up_view_on_the_demolition_of_the_C.S._Post_Building_Amsterdam_on_Oosterdokseiland%2C_February_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3552,
+      "hauteur": 2368
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 40.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:03016 - AHMEDABAD - Asociación hilanderos (arq. LE CORBUSIER).jpg",
+      "description": "Mill Owners Association Building, Ahmedabad, India. Architect Le CORBUSIER, 1952-54. Detail.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "Mill Owners' Association Building",
+        "License migration redundant",
+        "Concrete columns",
+        "Self-published work",
+        "Columns in India",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Adrián MALLOL i MORETTI",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:03016_-_AHMEDABAD_-_Asociaci%C3%B3n_hilanderos_(arq._LE_CORBUSIER).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/03016_-_AHMEDABAD_-_Asociaci%C3%B3n_hilanderos_%28arq._LE_CORBUSIER%29.jpg/1280px-03016_-_AHMEDABAD_-_Asociaci%C3%B3n_hilanderos_%28arq._LE_CORBUSIER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 39.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Castro Valley station 2816 14.JPG",
+      "description": "Concrete columns at the Castro Valley BART station — in Castro Valley, Alameda County, California. Patterned steel rain gutter collectors.",
+      "categories": [
+        "Taken with Canon PowerShot A510",
+        "Castro Valley station",
+        "CC-Zero",
+        "Concrete columns",
+        "Columns in California",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "BART in 2012",
+        "Rain gutters in the United States",
+        "Newspaper vending machines in California"
+      ],
+      "auteur": "Pedro Xing",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castro_Valley_station_2816_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Castro_Valley_station_2816_14.JPG/1280px-Castro_Valley_station_2816_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Colonna (75427559).jpeg",
+      "description": "500px provided description: KONICA MINOLTA DIGITAL CAMERA [#sky ,#greece ,#blue ,#column]",
+      "categories": [
+        "Columns",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Francesca Capochiani",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonna_(75427559).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Colonna_%2875427559%29.jpeg/1280px-Colonna_%2875427559%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

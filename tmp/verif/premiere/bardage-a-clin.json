@@ -1,0 +1,58 @@
+{
+  "termId": "bardage-a-clin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison bleue à clins, vue large avec arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison, Wisconsin",
+      "note": "Clin trop petit, maison complexe."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pavillon blanc à clins dans un parc enneigé, caché par les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gaylord, Minnesota",
+      "note": "Clin peu lisible, texte visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison victorienne bleue, vue de côté avec lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison, Wisconsin",
+      "note": "Clin peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pignon à colombage dont le haut est en planches horizontales à recouvrement grises et vertes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.4,
+        "largeur": 0.5,
+        "hauteur": 0.2
+      },
+      "lieu": "Bünde, Allemagne",
+      "note": "Rectangle sur les planches à clin nettes."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade de maison bleue à clins, fenêtres et porche, branches devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison, Wisconsin",
+      "note": "Façade encombrée, clin discret."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Intérieur de comble avec voliges anciennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ephraim Hawley House",
+      "note": "Intérieur sombre."
+    }
+  ]
+}
