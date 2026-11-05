@@ -1,0 +1,53 @@
+{
+  "termId": "filet-de-protection",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Terrasse sous parasol, filet lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filet non dominant."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Intérieur de stade avec filet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet chantier, illisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Filet rouge de clôture avec panneau écrit dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pas sur échafaudage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Joueurs de cricket devant pavillon, filet vert à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filet de sport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Variante de la précédente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filet de sport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Filet blanc devant une façade de gymnase.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filet de façade, texte visible, contexte flou."
+    }
+  ]
+}

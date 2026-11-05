@@ -2011,6 +2011,19 @@
     "note": "Vérification : Panier, bras et engin bien visibles et dominants ; version rail-route mais sans doute possible. Contre-vérification : Nacelle à bras articulé déployé avec panier en hauteur (version rail-route) ; élément dominant et clair."
   },
   {
+    "id": "etai-10",
+    "termId": "etai",
+    "fichier": "commons/etai-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Molgreen",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20170714_xl_P1130512-taz-Die-Tageszeit-Richtfest--Schweiz-Aufrichte--in-der-Friedrichstrasse-20-22.jpg",
+    "statut": "validée",
+    "note": "Vérification : Étais verticaux bien visibles et dominants, typiques ; le terme générique convient (étai métallique incompatible). Contre-vérification : Forêt d'étais métalliques télescopiques sous un coffrage de dalle : les étais sont l'élément dominant, sans ambiguïté."
+  },
+  {
     "id": "coffrage-03",
     "termId": "coffrage",
     "fichier": "commons/coffrage-03.webp",
@@ -2097,6 +2110,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Carpenters_continue_to_install_formwork_around_existing_columns_in_the_concourse._(CM014B,_1-03-2018)_(25706275198).jpg",
     "statut": "validée",
     "note": "Vérification : Caisson vertical autour d'un poteau, clair ; photo sombre mais lisible ; rectangle sur le coffrage central. Contre-vérification : Caisson vertical carré de coffrage de poteau, maintenu par des étais tirants, bien désigné par le rectangle."
+  },
+  {
+    "id": "betonniere-10",
+    "termId": "betonniere",
+    "fichier": "commons/betonniere-10.webp",
+    "rectangle": null,
+    "lieu": "Portugal",
+    "source": "commons",
+    "auteur": "Antonio da Silva Martins from Aveiro, Portugal",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Betoneira_(24967347173).jpg",
+    "statut": "validée",
+    "note": "Vérification : Machine entière, nette et dominante, sans autre élément ; cuve et volant bien visibles. Contre-vérification : Bétonnière à cuve rotative et roues, levée par des chaînes, isolée sur le ciel : très claire."
   },
   {
     "id": "pelle-hydraulique-01",
@@ -2229,6 +2255,19 @@
     "note": "Vérification : Camion routier à benne basculante, bien lisible. Contre-vérification : Camion à benne basculante relevée, clair et dominant ; essieux routiers, pas un tombereau."
   },
   {
+    "id": "camion-benne-08",
+    "termId": "camion-benne",
+    "fichier": "commons/camion-benne-08.webp",
+    "rectangle": null,
+    "lieu": "Colorado, États-Unis",
+    "source": "commons",
+    "auteur": "Burningsaviour",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Peterbilt_330_dump_with_dirt_tub_dump_body.JPG",
+    "statut": "validée",
+    "note": "Vérification : Camion et caisse basculante entiers, nets, typiques. Contre-vérification : Camion-benne routier avec caisse basculante, vu de trois quarts, dominant l'image."
+  },
+  {
     "id": "camion-toupie-01",
     "termId": "camion-toupie",
     "fichier": "commons/camion-toupie-01.webp",
@@ -2320,6 +2359,19 @@
     "note": "Vérification : Lame d'acier triangulaire, objet entier et net ; fond détouré mais photo réelle. Contre-vérification : Truelle de maçon à lame triangulaire et manche bois, photo réelle détourée, sans ambiguïté avec la taloche ou le platoir."
   },
   {
+    "id": "truelle-12",
+    "termId": "truelle",
+    "fichier": "commons/truelle-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mielon",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kielnia_002.JPG",
+    "statut": "validée",
+    "note": "Vérification : Photo réelle nette, lame triangulaire et manche coudé bien visibles. Contre-vérification : Truelle triangulaire à manche coudé en bois, en gros plan : sans ambiguïté."
+  },
+  {
     "id": "brouette-01",
     "termId": "brouette",
     "fichier": "commons/brouette-01.webp",
@@ -2331,6 +2383,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:2008-07-15_Construction_wheelbarrow_at_Duke.jpg",
     "statut": "validée",
     "note": "Vérification : Brouette classique complète, claire et dominante. Contre-vérification : Brouette à une roue et deux bras chargée de terre, claire et dominante."
+  },
+  {
+    "id": "brouette-08",
+    "termId": "brouette",
+    "fichier": "commons/brouette-08.webp",
+    "rectangle": {
+      "x": 0.16,
+      "y": 0.49,
+      "largeur": 0.31,
+      "hauteur": 0.27
+    },
+    "lieu": "Pérou",
+    "source": "commons",
+    "auteur": "Luca Nebuloni",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carretilla_en_medio_de_ruinas_incas.jpg",
+    "statut": "validée",
+    "note": "Vérification : Brouette complète et nette, isolée ; rectangle serré. Contre-vérification : Brouette à une roue chargée de pierres, bien cadrée par le rectangle."
   },
   {
     "id": "pelle-01",
@@ -5916,6 +5986,50 @@
     "note": "Vérification : Perron de villa, marches encadrées. Contre-vérification : Petit escalier extérieur à quelques marches et palier devant l'entrée, désigné par le rectangle ; perron typique."
   },
   {
+    "id": "rampe-d-acces-03",
+    "termId": "rampe-d-acces",
+    "fichier": "commons/rampe-d-acces-03.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.56,
+      "largeur": 0.54,
+      "hauteur": 0.34
+    },
+    "lieu": "Oulu, Finlande",
+    "source": "commons",
+    "auteur": "Estormiz",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Asemakatu_5_Oulu_20201212_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plan incliné d'accès nettement visible avec garde-corps ; panneau d'accessibilité sans le mot. Contre-vérification : Rampe d'accès en bois avec garde-corps le long d'une façade, pictogramme fauteuil roulant à côté : le plan incliné domine le rectangle."
+  },
+  {
+    "id": "ascenseur-01",
+    "termId": "ascenseur",
+    "fichier": "commons/ascenseur-01.webp",
+    "rectangle": null,
+    "lieu": "AIDAprima",
+    "source": "commons",
+    "auteur": "Balou46",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:AIDAprima-aufzuege.JPG",
+    "statut": "validée",
+    "note": "Vérification : Portes palières nettes, sans ambiguïté. Contre-vérification : Palier d'ascenseurs avec plusieurs portes palières inox et indicateurs d'étage : terme juste."
+  },
+  {
+    "id": "ascenseur-03",
+    "termId": "ascenseur",
+    "fichier": "commons/ascenseur-03.webp",
+    "rectangle": null,
+    "lieu": "Athènes, Grèce",
+    "source": "commons",
+    "auteur": "SucreRouge",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Elevator_door,_Red_Cross_building,_Omonia,_Athens.JPG",
+    "statut": "validée",
+    "note": "Vérification : Porte palière dominante et claire. Contre-vérification : Porte palière d'ascenseur ancienne avec indicateur d'étage et bouton d'appel, dominante."
+  },
+  {
     "id": "mitigeur-01",
     "termId": "mitigeur",
     "fichier": "commons/mitigeur-01.webp",
@@ -6042,6 +6156,37 @@
     "note": "Vérification : Cuvette à la turque (type asiatique) claire, cadrée. Contre-vérification : Cuvette à la turque encastrée au sol, bien encadrée ; reconnaissable."
   },
   {
+    "id": "douchette-wc-03",
+    "termId": "douchette-wc",
+    "fichier": "commons/douchette-wc-03.webp",
+    "rectangle": {
+      "x": 0.42,
+      "y": 0.08,
+      "largeur": 0.08,
+      "hauteur": 0.3
+    },
+    "lieu": "Krasnodar, Russie",
+    "source": "commons",
+    "auteur": "Karyev",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bidet_shower_greek_style.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la douchette, bien visible. Contre-vérification : Douchette hygiénique à gâchette sur son support à côté de la cuvette, bien désignée par le rectangle."
+  },
+  {
+    "id": "urinoir-01",
+    "termId": "urinoir",
+    "fichier": "commons/urinoir-01.webp",
+    "rectangle": null,
+    "lieu": "Gelsenkirchen, Allemagne",
+    "source": "commons",
+    "auteur": "Serdelll",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:FC_Schalke_04_Urinal.jpg",
+    "statut": "validée",
+    "note": "Vérification : Urinoir dominant et net. Contre-vérification : Gros plan d'un urinoir mural en céramique sur carrelage : forme et évacuation caractéristiques, sans ambiguïté."
+  },
+  {
     "id": "pomme-de-douche-04",
     "termId": "pomme-de-douche",
     "fichier": "commons/pomme-de-douche-04.webp",
@@ -6058,6 +6203,153 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Homeshower.JPG",
     "statut": "validée",
     "note": "Vérification : Pomme fixe nette, cadrée de près. Contre-vérification : Pomme de douche murale projetant ses jets, précisément encadrée ; terme juste."
+  },
+  {
+    "id": "receveur-de-douche-05",
+    "termId": "receveur-de-douche",
+    "fichier": "commons/receveur-de-douche-05.webp",
+    "rectangle": null,
+    "lieu": "Royaume-Uni",
+    "source": "commons",
+    "auteur": "KateGoodall",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Slipper_Baths_-_disused_shower_tray_at_Walsall_Gala_Baths_9-4-15.JPG",
+    "statut": "validée",
+    "note": "Vérification : Receveur clair et dominant, même s il est sale. Contre-vérification : Receveur de douche d'angle à fond antidérapant et bonde, entre murs carrelés : terme juste."
+  },
+  {
+    "id": "douche-a-l-italienne-04",
+    "termId": "douche-a-l-italienne",
+    "fichier": "commons/douche-a-l-italienne-04.webp",
+    "rectangle": null,
+    "lieu": "Navire Amorella, Viking Line",
+    "source": "commons",
+    "auteur": "AleWi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg",
+    "statut": "validée",
+    "note": "Vérification : Sol carrelé continu en pente vers des siphons, sans receveur. Contre-vérification : Douches collectives de plain-pied sur sol carrelé avec siphons de sol, sans aucun receveur : douche à l'italienne."
+  },
+  {
+    "id": "baignoire-04",
+    "termId": "baignoire",
+    "fichier": "commons/baignoire-04.webp",
+    "rectangle": {
+      "x": 0.37,
+      "y": 0.6,
+      "largeur": 0.35,
+      "hauteur": 0.27
+    },
+    "lieu": "Château de Cahaignes, France",
+    "source": "commons",
+    "auteur": "Raphaël Bacco",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bath_Room_(96377061).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la baignoire. Contre-vérification : Baignoire en fonte sur pieds dans une pièce lambrissée abandonnée, bien cadrée par le rectangle."
+  },
+  {
+    "id": "baignoire-06",
+    "termId": "baignoire",
+    "fichier": "commons/baignoire-06.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.66,
+      "largeur": 0.49,
+      "hauteur": 0.27
+    },
+    "lieu": "Kenya",
+    "source": "commons",
+    "auteur": "Olashxs",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:A_Kenya_(10).jpg",
+    "statut": "validée",
+    "note": "Vérification : Baignoire nette, rectangle posé dessus. Contre-vérification : Baignoire en fonte sur pieds en plein air, bien cadrée par le rectangle ; la douche au-dessus reste hors du cadre principal."
+  },
+  {
+    "id": "bonde-03",
+    "termId": "bonde",
+    "fichier": "commons/bonde-03.webp",
+    "rectangle": {
+      "x": 0.35,
+      "y": 0.67,
+      "largeur": 0.29,
+      "hauteur": 0.31
+    },
+    "lieu": "Suède",
+    "source": "commons",
+    "auteur": "Holger.Ellgaard",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Br%C3%A4ddavlopp_tv%C3%A4ttst%C3%A4ll.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la bonde, pas sur le trop-plein. Contre-vérification : Bonde métallique à clapet au fond d'un lavabo, nettement désignée par le rectangle."
+  },
+  {
+    "id": "tube-en-cuivre-03",
+    "termId": "tube-en-cuivre",
+    "fichier": "commons/tube-en-cuivre-03.webp",
+    "rectangle": null,
+    "lieu": "Grand Coulee Dam, États-Unis",
+    "source": "commons",
+    "auteur": "Achim Hering",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cp25_grand_coulee_dam3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tubes orangés nets et dominants. Contre-vérification : Trois tubes en cuivre orangés sortant d'une dalle, en gros plan : matériau reconnaissable."
+  },
+  {
+    "id": "coude-04",
+    "termId": "coude",
+    "fichier": "commons/coude-04.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.22,
+      "largeur": 0.65,
+      "hauteur": 0.58
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Cschirp",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Copper-press-fitting.JPG",
+    "statut": "validée",
+    "note": "Vérification : Coude de tuyauterie net et dominant, change la direction du tube. Contre-vérification : Coude à 90° en cuivre à sertir sur une canalisation, bien cadré par le rectangle."
+  },
+  {
+    "id": "raccord-03",
+    "termId": "raccord",
+    "fichier": "commons/raccord-03.webp",
+    "rectangle": {
+      "x": 0.49,
+      "y": 0.49,
+      "largeur": 0.26,
+      "hauteur": 0.26
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Torsten Bätge",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kupferfittings_4062.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la réduction, raccord générique non ambigu (ni coude ni té). Contre-vérification : Réduction en cuivre désignée par le rectangle parmi d'autres raccords ; coudes et té sont hors du cadre."
+  },
+  {
+    "id": "collier-de-fixation-01",
+    "termId": "collier-de-fixation",
+    "fichier": "commons/collier-de-fixation-01.webp",
+    "rectangle": {
+      "x": 0.49,
+      "y": 0.39,
+      "largeur": 0.3,
+      "hauteur": 0.15
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Dmitry G",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Green_plastic_pipes.JPG",
+    "statut": "validée",
+    "note": "Vérification : Les deux colliers sont encadrés, l'élément est clair. Contre-vérification : Deux colliers métalliques à garniture caoutchouc maintenant des tubes PPR, bien désignés par le rectangle."
   },
   {
     "id": "vanne-d-arret-06",
@@ -6130,6 +6422,55 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Water_tunk_at_saadani_National_Park.jpg",
     "statut": "validée",
     "note": "Vérification : Château d'eau sur fût, net et dominant. Contre-vérification : Réservoir d'eau sur fût maçonné, encadré ; château d'eau évident."
+  },
+  {
+    "id": "chauffe-eau-solaire-06",
+    "termId": "chauffe-eau-solaire",
+    "fichier": "commons/chauffe-eau-solaire-06.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "PeterVauhn",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Calentador_solar_tubes_de_vacio.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ensemble ballon horizontal et capteur à tubes, net et dominant. Contre-vérification : Chauffe-eau solaire complet (tubes sous vide + ballon horizontal) devant une maison, dominant l'image."
+  },
+  {
+    "id": "capteur-solaire-thermique-03",
+    "termId": "capteur-solaire-thermique",
+    "fichier": "commons/capteur-solaire-thermique-03.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.37,
+      "largeur": 1,
+      "hauteur": 0.63
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Darshangetsz",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Photo_10-01-15_9_43_14_am.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur les tubes seuls, hors ballon : capteur thermique sans doute. Contre-vérification : Gros plan sur les tubes sous vide du capteur, bien cadrés par le rectangle ; le ballon n'apparaît qu'en bordure."
+  },
+  {
+    "id": "capteur-solaire-thermique-05",
+    "termId": "capteur-solaire-thermique",
+    "fichier": "commons/capteur-solaire-thermique-05.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.47,
+      "largeur": 0.75,
+      "hauteur": 0.42
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mk2010",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_water_heater.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur les tubes, sans le ballon ni les tuyaux. Contre-vérification : Rectangle sur le capteur à tubes sous vide, le ballon au-dessus restant essentiellement hors du cadre."
   },
   {
     "id": "bouteille-de-gaz-02",
@@ -6238,6 +6579,50 @@
     "note": "Vérification : Prises claires, toutes la même réponse. Contre-vérification : Blocs de prises murales en saillie avec fiches branchées ; terme juste."
   },
   {
+    "id": "boite-de-derivation-03",
+    "termId": "boite-de-derivation",
+    "fichier": "commons/boite-de-derivation-03.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.34,
+      "largeur": 0.14,
+      "hauteur": 0.29
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "MTA Capital Construction Mega Projects",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Identifying_and_tagging_conduits_at_the_3rd_floor_service_corridor_of_the_Yard_Services_Building_located_in_Queens._(CS179,_09-17-2018)_(29890345017).jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur la boîte centrale ; les étiquettes de tension ne donnent pas la réponse. Contre-vérification : Boîte de dérivation métallique à couvercle sur des conduits en faux plafond, bien désignée par le rectangle."
+  },
+  {
+    "id": "chemin-de-cables-04",
+    "termId": "chemin-de-cables",
+    "fichier": "commons/chemin-de-cables-04.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Leotard",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cabtray_09.JPG",
+    "statut": "validée",
+    "note": "Vérification : Support en treillis chargé de câbles, net et dominant. Contre-vérification : Chemins de câbles en treillis métallique portant des câbles, en gros plan : sans ambiguïté."
+  },
+  {
+    "id": "paratonnerre-01",
+    "termId": "paratonnerre",
+    "fichier": "commons/paratonnerre-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Dilshan Jayakody from Maharagama, Sri Lanka",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Conventional_Lightning_Rod_(46429374125).jpg",
+    "statut": "validée",
+    "note": "Vérification : Paratonnerre conventionnel net, conducteur de descente visible. Contre-vérification : Tige de paratonnerre à pointes au sommet d'un mât avec feuillard de descente, sur le ciel : clair."
+  },
+  {
     "id": "ampoule-04",
     "termId": "ampoule",
     "fichier": "commons/ampoule-04.webp",
@@ -6295,6 +6680,55 @@
     "note": "Vérification : Rectangle sur la rangée d'appliques. Contre-vérification : Rangée d'appliques murales en coupelle éclairant vers le haut, encadrées ; terme juste."
   },
   {
+    "id": "suspension-01",
+    "termId": "suspension",
+    "fichier": "commons/suspension-01.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Caterpillar84",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chandelier_of_crystal.jpg",
+    "statut": "validée",
+    "note": "Vérification : Luminaire suspendu, net et dominant. Contre-vérification : Lustre en cristal suspendu au plafond par une tige, vu de dessous : luminaire suspendu dominant."
+  },
+  {
+    "id": "suspension-02",
+    "termId": "suspension",
+    "fichier": "commons/suspension-02.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.05,
+      "largeur": 0.36,
+      "hauteur": 0.46
+    },
+    "lieu": "Palacio Santos",
+    "source": "commons",
+    "auteur": "JacobinoWunsh",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Comedor_de_verano_-_Palacio_Santos02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Suspension bien lisible, cadrée. Contre-vérification : Lustre pendu à une longue chaîne sous un haut plafond, bien cadré par le rectangle."
+  },
+  {
+    "id": "suspension-05",
+    "termId": "suspension",
+    "fichier": "commons/suspension-05.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.3,
+      "largeur": 0.4,
+      "hauteur": 0.65
+    },
+    "lieu": "Quito, Équateur",
+    "source": "commons",
+    "auteur": "Ranoutofusername",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antiguo_C%C3%ADrculo_Militar,_Quito_05.jpg",
+    "statut": "validée",
+    "note": "Vérification : Suspension clairement cadrée malgré le décor chargé. Contre-vérification : Grand lustre en cristal pendu à une chaîne sous un plafond à caissons, bien cadré par le rectangle."
+  },
+  {
     "id": "reglette-02",
     "termId": "reglette",
     "fichier": "commons/reglette-02.webp",
@@ -6313,6 +6747,42 @@
     "note": "Vérification : Rectangle sur la réglette de premier plan. Contre-vérification : Réglette tubulaire étanche fixée au plafond, encadrée ; terme juste."
   },
   {
+    "id": "projecteur-05",
+    "termId": "projecteur",
+    "fichier": "commons/projecteur-05.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.31,
+      "largeur": 0.66,
+      "hauteur": 0.35
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Lamiot",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2007_10_05_06_38Lille.jpg",
+    "statut": "validée",
+    "note": "Vérification : Batterie de projecteurs nette et dominante. Contre-vérification : Couronne de projecteurs orientables au sommet d'un mât d'éclairage, bien désignée par le rectangle."
+  },
+  {
+    "id": "bloc-autonome-d-eclairage-de-securite-03",
+    "termId": "bloc-autonome-d-eclairage-de-securite",
+    "fichier": "commons/bloc-autonome-d-eclairage-de-securite-03.webp",
+    "rectangle": {
+      "x": 0.49,
+      "y": 0.59,
+      "largeur": 0.17,
+      "hauteur": 0.27
+    },
+    "lieu": "Shenzhen, Chine",
+    "source": "commons",
+    "auteur": "Lanesihouemc POmeit",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E7%9F%B3%E5%BB%88%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Shixia_Times_Square_%E5%95%86%E5%A0%B4_mall_McDonald%27s_Restaurant_stair_sign_mind_your_head_February_2024_R12S.jpg",
+    "statut": "validée",
+    "note": "Vérification : BAES typique, cadré de près ; texte chinois sans rapport. Contre-vérification : Bloc d'éclairage de secours avec pictogramme de sortie lumineux EXIT et flèche, bien cadré par le rectangle."
+  },
+  {
     "id": "panneau-photovoltaique-05",
     "termId": "panneau-photovoltaique",
     "fichier": "commons/panneau-photovoltaique-05.webp",
@@ -6324,6 +6794,55 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:92.1_Capital_FM_Tower_Building.jpg",
     "statut": "validée",
     "note": "Vérification : Panneaux nets et dominants. Contre-vérification : Champ de panneaux photovoltaïques à cellules bien visibles ; terme juste."
+  },
+  {
+    "id": "onduleur-03",
+    "termId": "onduleur",
+    "fichier": "commons/onduleur-03.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Zátonyi Sándor, (ifj.) Fizped",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Growatt_MOD_4000TL3-X_inverter_data_sheet.jpg",
+    "statut": "validée",
+    "note": "Vérification : Boîtier mural typique, dominant. Contre-vérification : Onduleur photovoltaïque mural (étiquette « PV Grid Inverter ») avec dissipateur, en gros plan."
+  },
+  {
+    "id": "onduleur-06",
+    "termId": "onduleur",
+    "fichier": "commons/onduleur-06.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.02,
+      "largeur": 0.21,
+      "hauteur": 0.23
+    },
+    "lieu": "Kenya",
+    "source": "commons",
+    "auteur": "PowerAfricaSolar",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_Installation_in_Kenya.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur l'onduleur à écran bleu ; les batteries restent hors cadre. Contre-vérification : Onduleur hybride mural à écran, désigné par le rectangle au-dessus du parc de batteries, qui reste hors du cadre."
+  },
+  {
+    "id": "batterie-solaire-05",
+    "termId": "batterie-solaire",
+    "fichier": "commons/batterie-solaire-05.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.15,
+      "largeur": 0.65,
+      "hauteur": 0.75
+    },
+    "lieu": "Wisconsin",
+    "source": "commons",
+    "auteur": "Photo by Cody Kabus. – U.S. Department of Energy from United States",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kabus_000246_171296_516068_4578_(36775938376).jpg",
+    "statut": "validée",
+    "note": "Vérification : Batteries dominantes, cadrées ; régulateur laissé hors cadre. Contre-vérification : Deux batteries à décharge profonde reliées à un régulateur solaire, bien cadrées par le rectangle."
   },
   {
     "id": "split-02",
@@ -6401,6 +6920,19 @@
     "note": "Vérification : Net et dominant. Contre-vérification : Ventilateur de plafond à cinq pales avec kit d'éclairage ; le ventilateur domine."
   },
   {
+    "id": "extracteur-d-air-03",
+    "termId": "extracteur-d-air",
+    "fichier": "commons/extracteur-d-air-03.webp",
+    "rectangle": null,
+    "lieu": "Hong Kong",
+    "source": "commons",
+    "auteur": "BaINSCHAUW Lamidou",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:HK_KTD_Sau_Mau_Ping_%E5%AE%89%E6%B3%B0%E9%82%A8_On_Tai_Estate_%E6%8A%BD%E6%B0%A3%E6%89%87_white_window_mount_ventilating_fans_January_2023_Px3_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Extracteur de fenêtre typique, net et dominant. Contre-vérification : Extracteur d'air hélicoïdal fixé dans une baie de fenêtre, en gros plan : sans ambiguïté."
+  },
+  {
     "id": "grille-de-ventilation-03",
     "termId": "grille-de-ventilation",
     "fichier": "commons/grille-de-ventilation-03.webp",
@@ -6425,6 +6957,50 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:St_John_Calder_Grove_036.jpg",
     "statut": "validée",
     "note": "Vérification : Grille nette et dominante. Contre-vérification : Grille de ventilation à fentes scellée dans une maçonnerie ; terme juste."
+  },
+  {
+    "id": "gaine-de-ventilation-01",
+    "termId": "gaine-de-ventilation",
+    "fichier": "commons/gaine-de-ventilation-01.webp",
+    "rectangle": null,
+    "lieu": "Kentucky, États-Unis",
+    "source": "commons",
+    "auteur": "PEO ACWA",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7514300488).jpg",
+    "statut": "validée",
+    "note": "Vérification : Gaines circulaires de ventilation, nettes et dominantes. Contre-vérification : Grosses gaines rondes en tôle à brides reliées à un caisson de traitement d'air sur une toiture technique : gaines de ventilation dominantes."
+  },
+  {
+    "id": "hotte-01",
+    "termId": "hotte",
+    "fichier": "commons/hotte-01.webp",
+    "rectangle": null,
+    "lieu": "Milan",
+    "source": "commons",
+    "auteur": "Air fans",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cappa_d%27aspirazione_Ariston.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hotte classique, dominante et claire. Contre-vérification : Hotte de cuisine inox avec boutons de commande sous un meuble haut, en gros plan."
+  },
+  {
+    "id": "hotte-03",
+    "termId": "hotte",
+    "fichier": "commons/hotte-03.webp",
+    "rectangle": {
+      "x": 0.13,
+      "y": 0.46,
+      "largeur": 0.7,
+      "hauteur": 0.28
+    },
+    "lieu": "Italie",
+    "source": "commons",
+    "auteur": "Antonio Mette",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cappa_di_aspirazione_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hotte bien identifiable, cadrée. Contre-vérification : Hotte inox à cheminée au-dessus du plan de cuisson, bien cadrée par le rectangle."
   },
   {
     "id": "extincteur-02",
@@ -6456,6 +7032,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Fire_extinguisher_2.jpg",
     "statut": "validée",
     "note": "Vérification : Image typique, dominante et claire. Contre-vérification : Extincteur rouge à poignée et tuyau, seul et dominant ; sans ambiguïté."
+  },
+  {
+    "id": "detecteur-de-fumee-02",
+    "termId": "detecteur-de-fumee",
+    "fichier": "commons/detecteur-de-fumee-02.webp",
+    "rectangle": {
+      "x": 0.24,
+      "y": 0.07,
+      "largeur": 0.57,
+      "hauteur": 0.78
+    },
+    "lieu": "Japon",
+    "source": "commons",
+    "auteur": "Syced",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fire_detector_showcased_by_Shibuya_fire_authority.jpg",
+    "statut": "validée",
+    "note": "Vérification : Détecteur net et dominant, cadré ; texte japonais non révélateur. Contre-vérification : Détecteur de fumée rond à chambre de détection, en gros plan et bien cadré."
   },
   {
     "id": "cloison-03",

@@ -1,0 +1,53 @@
+{
+  "termId": "parquet",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Salle de sport avec sacs de frappe et un homme ; parquet au sol en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le sol n'est pas dominant, sujet principal autre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Mortier militaire posé sur un parquet marqueté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet militaire dominant."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tringle à rideau en réparation devant un parquet à motifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet secondaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros plan de lames de chêne gris posées en chevrons.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet clair et dominant ; variantes (point de Hongrie, bâtons rompus) incompatibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle ronde délabrée aux grandes baies, parquet sombre en chevrons au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet sombre et petit, scène dominée par le décor."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Parquet en panneaux de chêne de lames croisées avec petits carrés d'acajou.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement de lames de bois assemblées, net et plein cadre."
+    }
+  ]
+}

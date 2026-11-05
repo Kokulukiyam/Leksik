@@ -1,0 +1,37 @@
+{
+  "termId": "ragreage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plan en noir et blanc d'un temple.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan, pas une photo."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo encadrée d'un bâtiment, avec carton de légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Collines de craie blanche sous un ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage géologique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panorama de collines colorées de craie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage géologique."
+    }
+  ]
+}

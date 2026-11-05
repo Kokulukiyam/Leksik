@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sculpture, pas un outil réel."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pignon d'un toit courbe vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tête d'une pioche à deux lames plates (type herminette) plantée dans une pelouse, gros plan.",
+      "verdict": "validée",
+      "rectangle": "",
+      "lieu": "",
+      "note": "Outil clair et dominant, deux lames plates sur manche, conforme à la définition."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieille photo de pelles et pioches en faisceaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne photo sépia, outils en tas, pas lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme torse nu tenant une pioche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, outil peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Monument en pierre avec une pioche et un casque posés dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil trop petit, texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soldat portant une pioche sur l'épaule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, outil partiellement caché."
     }
   ]
 }

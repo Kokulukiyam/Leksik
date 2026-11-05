@@ -1,0 +1,53 @@
+{
+  "termId": "beton-cire",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grande salle avec public et grue de caméra, sol gris sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Empreintes de chaussures sur un sol en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un béton ciré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol en béton poli beige à joint de retrait et reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli (granulats apparents), confondable avec le béton poli voisin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Réseau de microfissures sur un sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Défaut, pas un béton ciré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Moules cubiques en acier pour essais de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Hangar au sol de béton lissé et poli, opérateur sur une lisseuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli industriel, confondable avec béton poli."
+    }
+  ]
+}

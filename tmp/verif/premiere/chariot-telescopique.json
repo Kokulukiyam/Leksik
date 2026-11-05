@@ -1,0 +1,58 @@
+{
+  "termId": "chariot-telescopique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chariot télescopique rouge Loxam bras levé avec crochet, qui dépanne une voiture de course.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.08,
+        "largeur": 0.56,
+        "hauteur": 0.76
+      },
+      "lieu": "",
+      "note": "Engin reconnaissable, rectangle sur le télescopique ; nom de loueur sans lien avec la réponse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison en démolition, bras d'engin à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Engin militaire à flèche déchargeant une barge sur la plage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin militaire de manutention de conteneurs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de réfection avec échafaudages et petit engin rouge lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin trop petit."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Engin vert à bras télescopique et godet-benne en salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équipement atypique, doute."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chariot militaire à fourches déchargeant une capsule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chariot militaire, scène encombrée."
+    }
+  ]
+}

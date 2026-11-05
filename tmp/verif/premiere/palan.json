@@ -1,0 +1,58 @@
+{
+  "termId": "palan",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Palan à levier posé à plat sur fond gris, chaîne en zigzag.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet bien visible mais moins typique ; deux meilleures retenues."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Palan à chaîne rouge sur chariot, suspendu à la poutre d'un portique roulant, en studio.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.17,
+        "largeur": 0.14,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Palan à chaîne manuel net, rectangle sur le palan."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Palans à chaîne et à levier rouges, chaînes et crochets, en gros plan publicitaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palans clairement identifiables, étiquette technique sans lien avec la réponse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en réfection avec échafaudage et panneau de travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palan non visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hommes manœuvrant un trépied de perches avec poulie sous des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trépied avec poulie, pas un palan clair."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Panneau d'information en bois dans un sous-bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

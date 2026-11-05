@@ -1,0 +1,53 @@
+{
+  "termId": "mousse-expansive",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Essais de flamme sur mousses polyuréthane en laboratoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas la mousse en bombe."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvrier projetant de la mousse isolante violette dans des combles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse projetée (isolant), pas mousse expansive en bombe."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Pompe à eau de rue gainée de mousse jaune dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte inapproprié, mousse peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bombe aérosol de scellant pour laine de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produit différent, avec texte."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pont de quai de chargement en acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier projetant de la mousse isolante dans un vide sanitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse projetée, scène large, mousse non visible."
+    }
+  ]
+}

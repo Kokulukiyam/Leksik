@@ -1,0 +1,53 @@
+{
+  "termId": "trappe-de-visite",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Porte d'accès ovale à persiennes au pied d'une éolienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte d'éolienne, pas une trappe de faux plafond ou de cloison."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol en mosaïque rouge avec bordure décorative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mécanicien d'aviation travaillant sur un panneau d'accès d'avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte aéronautique, personne dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Porte vitrée en bois avec grille de protection.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Trappe rouge dans un mur de bardage bois près d'une passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trappe industrielle, pas un panneau d'accès dans faux plafond ou cloison."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Moteur de voiture vu par une trappe de service.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mécanique automobile."
+    }
+  ]
+}

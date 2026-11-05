@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Image sombre, casque petit, scène composée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Autoportrait d'un homme au casque blanc sous une charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Visage dominant, casque partiel."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue d'un chantier urbain à Amsterdam, ouvrier lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Casque de chantier blanc (UVEX) en gros plan sur fond bleu, avec un détail des inscriptions.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casque net et dominant ; logo mais pas de réponse écrite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne d'une fouille de chantier en 1904.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, casque absent."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Affiche dessinée de sécurité avec une tortue casquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne d'une pelle mécanique sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, sans casque lisible."
     }
   ]
 }

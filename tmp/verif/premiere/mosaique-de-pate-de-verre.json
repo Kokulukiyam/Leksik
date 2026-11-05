@@ -1,0 +1,53 @@
+{
+  "termId": "mosaique-de-pate-de-verre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Colonne recouverte de mosaïque de verre dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque d'art sur colonne, pas le produit de douche ou piscine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Banc en forme de pastèque en tessères de céramique brisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque de céramique, pas pâte de verre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Maison à étages sous un ciel poussiéreux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Médaillon hexagonal de verre cathédrale avec figure de moine, dans le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrail, pas pâte de verre en carreaux."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colonne revêtue de petits carreaux rouges devant une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux de céramique, pas certain pâte de verre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Planche d'encyclopédie sur la mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    }
+  ]
+}

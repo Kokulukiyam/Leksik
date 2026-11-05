@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet, texte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fiche de naturalisation d'une personne nommée Cordeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Borne en pierre pyramidale contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Borne, pas un cordeau."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Route et panneau de comté Mason.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fiche jaune avec photo d'une borne, Mason-Dixon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Borne en bord de route dans la forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau Mason Dixon Line et pilier de pierre en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

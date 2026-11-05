@@ -1,0 +1,13 @@
+{
+  "termId": "corniere-d-angle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ancienne photo en noir et blanc d'une ferme avec barrière blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport, aucune cornière visible."
+    }
+  ]
+}

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tramway et chantier de pont sur le Rhin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux barres d'acier d'armature scellées dans du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres, pas de fil à ligaturer."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tas de ferraille et fers à béton sur un terrain de démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de fil à ligaturer identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de béton avec attentes d'armatures en caissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Barres d'armature empilées en entrepôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres, pas de fil à ligaturer."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couronnes d'acier à béton jaunies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aciers en couronnes, pas du fil recuit."
     }
   ]
 }

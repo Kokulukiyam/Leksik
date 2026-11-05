@@ -1,0 +1,53 @@
+{
+  "termId": "cloison-vitree",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Hall de musée avec grande verrière et façade vitrée à poteaux, banque d'accueil jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur-rideau et toiture vitrée, pas une cloison intérieure en panneaux de verre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Entrée d'immeuble avec porte tournante sous une grande façade vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade vitrée extérieure avec enseigne ; pas une cloison de bureau."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux personnes derrière une vitre, reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portrait de personnes, vitre accessoire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade d'immeuble à fenêtres en damier, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade, pas de cloison vitrée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Verre de thé sur une table devant un garde-corps en verre et le Nil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Immeuble de bureaux à façade vitrée vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade extérieure, pas une cloison intérieure."
+    }
+  ]
+}

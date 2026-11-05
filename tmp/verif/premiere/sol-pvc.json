@@ -1,0 +1,53 @@
+{
+  "termId": "sol-pvc",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couloir de bureau au sol souple multicolore par grands aplats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau (vinyle, linoléum ou autre) pas certain."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plan dessiné à la main d'une chambre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Atelier de voilerie, sol de résine jaune brillant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol en résine plutôt, pas du PVC."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Peinture d'arc-en-ciel sur dalles de jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Échantillon de faux pont de teck synthétique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement de bateau, pas sol PVC de bâtiment."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Parquet en chevrons d'un showroom.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet bois."
+    }
+  ]
+}

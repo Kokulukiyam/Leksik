@@ -1,0 +1,53 @@
+{
+  "termId": "baguette-d-angle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Perçage d'un trou dans une faïence avec foret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de baguette d'angle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Niche de mosaïque géométrique en faïence d'Ispahan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Même niche de mosaïque d'Ispahan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Enseigne « CAFÉ » en azulejos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Angle de salle de bains carrelée en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune baguette visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Terrasse en chantier avec sol brut et plots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

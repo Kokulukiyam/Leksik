@@ -1,0 +1,53 @@
+{
+  "termId": "verriere-interieure",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Front de mer avec immeuble Art déco en forme de paquebot au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune verrière lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gratte-ciel moderniste à façade vitrée sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur-rideau extérieur."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade de brique avec fenêtres à petits carreaux métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres extérieures, pas une verrière intérieure."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gratte-ciel noir en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Façade extérieure."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade nocturne de théâtre avec enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien d'une verrière intérieure."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Théâtre au bord de la rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Extérieur, sans verrière intérieure."
+    }
+  ]
+}

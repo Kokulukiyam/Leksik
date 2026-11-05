@@ -1,0 +1,53 @@
+{
+  "termId": "tombereau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cabine d'une pelle orange avec conductrice souriante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un tombereau."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion benne orange avec lame chasse-neige sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-benne."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue aérienne d'un tombereau articulé et de bulldozers sur un terrassement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin petit, plusieurs engins, rectangle nécessaire et vue peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chargeuse versant de la neige dans un camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un tombereau."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tombereau articulé Liebherr jaune, benne et six roues, vu de profil sur un terrain dégagé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tombereau articulé net et dominant."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camionnette à benne basculante sur un stand de salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camionnette, pas un tombereau."
+    }
+  ]
+}

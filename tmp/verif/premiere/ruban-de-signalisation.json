@@ -1,0 +1,45 @@
+{
+  "termId": "ruban-de-signalisation",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruban rouge et blanc posé au sol le long d'une chaussée, avec une barrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruban trop petit/à plat, scène de rue confuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Policiers dans un parc derrière une grille, ruban rouge et blanc lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruban petit et caché par la grille."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Drag queen devant une foule contenue par un ruban.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le ruban est secondaire, foule dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Drag queen au milieu d'une rue bordée de foule et de ruban.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le ruban est secondaire, foule dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Nuit, ruban jaune minuscule près d'un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruban jaune, trop petit et mal éclairé."
+    }
+  ]
+}

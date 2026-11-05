@@ -1,0 +1,53 @@
+{
+  "termId": "barre-de-seuil",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sas d'écluse à l'eau verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil d'écluse, autre sens."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure d'une porte antique à deux vantaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sentier dans un bois sur un talus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seuil de camp préhistorique, autre sens."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maison de pierre avec jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mosaïque de poissons au mur, plinthe en pierre en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de barre de seuil."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancienne photo d'un pavillon d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, sans rapport."
+    }
+  ]
+}

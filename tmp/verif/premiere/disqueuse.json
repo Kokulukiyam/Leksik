@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Outil trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Meuleuse d'angle pneumatique sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuleuse pneumatique à tige, pas une disqueuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Moulin à café électrique vert et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Marin visage protégé meulant dans des gerbes d'étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne et étincelles dominent, outil peu visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme moulant des grains dans un petit moulin manuel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Disqueuse à disque diamant posée sur une palette au milieu de briques, niveau et pinceau à côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.32,
+        "largeur": 0.17,
+        "hauteur": 0.26
+      },
+      "lieu": "",
+      "note": "Outil net et identifiable ; rectangle sur la disqueuse car autres outils présents."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau explicatif sur une ponceuse à bois historique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, sans rapport."
     }
   ]
 }

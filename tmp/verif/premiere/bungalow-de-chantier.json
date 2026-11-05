@@ -1,0 +1,53 @@
+{
+  "termId": "bungalow-de-chantier",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Bâtiment modulaire gris à toit plat vu d'en haut, près de la High Line.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte de chantier peu net, bâtiment vu surtout par son toit."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle le long d'un chantier, cabane blanche tronquée à droite avec logo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Module cadré en partie, logo, élément secondaire."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit chalet rouge sur remorque près d'une pelleteuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maisonnette tractable, pas un module de chantier."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Buses en béton de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ancienne baraque en bois sur cales, photo noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique, pas un bungalow de chantier moderne."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage d'une structure métallique de poste électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans module-bureau."
+    }
+  ]
+}

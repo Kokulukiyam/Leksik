@@ -1,0 +1,13 @@
+{
+  "termId": "plaque-de-platre-hydrofuge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tableau noir vert avec dessins de craie et ballons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau, pas une plaque de plâtre."
+    }
+  ]
+}

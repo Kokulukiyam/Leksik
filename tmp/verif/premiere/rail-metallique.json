@@ -1,0 +1,53 @@
+{
+  "termId": "rail-metallique",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grue et charpente métallique sur un chantier industriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente, pas un rail de cloison."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ferraillage d'une dalle et structure métallique en fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Structure métallique d'usine envahie par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Poutres blanches posées au sol d'un chantier de stade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ossature d'un bâtiment en construction avec voitures au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ancien bâtiment en brique et colombage couvert de graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

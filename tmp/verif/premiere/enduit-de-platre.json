@@ -1,0 +1,53 @@
+{
+  "termId": "enduit-de-platre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade d'immeuble à enduit gris rugueux, fenêtres à volets roulants.",
+      "verdict": "rejetée",
+      "rectangle": "",
+      "lieu": "Zagreb",
+      "note": "Enduit extérieur (crépi), pas un enduit de plâtre intérieur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Portrait d'une femme en intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portrait."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chapiteaux et plâtre ancien dans un monument en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plâtre ancien dégradé, pas un enduit lisse lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tuyauterie avec protection ignifuge écaillée et légende incrustée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flocage coupe-feu, texte visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sculpture blanche en plâtre sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Modèle sculpté, pas un enduit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Homme de dos projetant un enduit fin au pistolet sur un mur de plaques de plâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, enduit de finition confondable avec l'enduit de lissage."
+    }
+  ]
+}

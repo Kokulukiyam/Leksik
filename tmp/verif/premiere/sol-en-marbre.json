@@ -1,0 +1,53 @@
+{
+  "termId": "sol-en-marbre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Éclat de roche grisâtre posé à côté d'une règle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon minéral, pas un sol."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Autel en marbre blanc avec statuettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un sol."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Roche cristalline blanche et ocre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon géologique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grande dalle de marbre clair brute, dressée contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle en stock, pas un sol posé."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Échantillon de roche sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon géologique."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lame mince de roche en lumière polarisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Micrographie."
+    }
+  ]
+}

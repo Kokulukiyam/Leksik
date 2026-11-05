@@ -1,0 +1,53 @@
+{
+  "termId": "listel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Lavabo de toilettes sous une bande bleue de carreaux dans une faïence blanche, avec panneau et distributeur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande d'une hauteur de carreau, masquée en partie ; pas clairement un listel."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau de carreaux de céramique à motifs bleus, verts et orange (gare de Tozeur).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement entier, pas une bande."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Toilettes handicapés avec une bande bleue dans une faïence blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bande large, scène dominée par les sanitaires."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panneau de carreaux de céramique à motifs (Tozeur).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de listel."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Carreau de céramique ottomane isolé dans une vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreau isolé, pas un listel."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Toilettes avec faïence rouge et sol sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans listel."
+    }
+  ]
+}

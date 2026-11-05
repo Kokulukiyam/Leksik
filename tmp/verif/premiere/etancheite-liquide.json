@@ -1,0 +1,53 @@
+{
+  "termId": "etancheite-liquide",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalator de station de métro avec rubans de signalisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune étanchéité visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Panneau manuscrit annonçant une fuite d'eau près d'un escalator.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, pas d'étanchéité."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Logo d'une entreprise d'hydroisolation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Logo."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Relevé de membrane bitumineuse noire sous panneau de contreplaqué sur une toiture-terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane en feuille, pas une résine liquide."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tableau d'étanchéité de montres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Seau de produit d'étanchéité (Hydrolin) sur graviers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produit en pot, pas l'application sur sol de douche."
+    }
+  ]
+}

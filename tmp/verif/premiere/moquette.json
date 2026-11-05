@@ -1,0 +1,58 @@
+{
+  "termId": "moquette",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Court de tennis en dalles perforées rouge et verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol sportif, pas moquette."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Moquette arrachée après inondation avec sous-couche et marteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image dégradée, élément peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Couloir d'hôtel entièrement recouvert d'une moquette bleue à motifs dorés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.5,
+        "largeur": 0.96,
+        "hauteur": 0.48
+      },
+      "lieu": "Bad Schallerbach, Autriche",
+      "note": "Moquette bien visible, rectangle sur la partie de sol."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Salon du château de Stockholm avec tapisserie murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de moquette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poseur tendant une moquette beige le long d'un radiateur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, moquette secondaire."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Outil de pose (tendeur) sur moquette beige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil dominant."
+    }
+  ]
+}

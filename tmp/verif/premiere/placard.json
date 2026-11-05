@@ -1,0 +1,53 @@
+{
+  "termId": "placard",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Grand meuble vitré en acajou avec étagères dans une pièce, ancienne resserre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble vitré, pas clairement un placard intégré fermé par des portes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Lampe en fer forgé devant un meuble en chêne sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet dominant : lampe."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Escalier métallique et rangées de vestiaires métalliques, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Casiers de vestiaire, pas un placard."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Armoire ancienne en bois sculpté ouverte, pleine d'archives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble isolé, pas un placard intégré."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Reproduction ancienne d'une armoire de style joséphiniste.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure/reproduction, meuble."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vaisselier rouge avec poteries.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble de rangement, pas un placard."
+    }
+  ]
+}

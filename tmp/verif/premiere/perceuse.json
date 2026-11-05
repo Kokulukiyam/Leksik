@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Forets, pas une perceuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plaques d'acier percées empilées sur une palette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces percées, pas une perceuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Outils miniers anciens (mèches, perforateurs) accrochés dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs outils, perceuse non isolée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ancienne perceuse électrique à poignée en D, mandrin à gauche, posée sur un rocher.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perceuse à main nette et dominante, mandrin visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Perceuse à colonne dans un atelier poussiéreux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perceuse d'établi, vue encombrée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même ancienne perceuse électrique, vue de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 09, une seule retenue."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Perceuse à colonne dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perceuse d'établi, pas l'outil à main, cadrage coupé."
     }
   ]
 }

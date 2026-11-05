@@ -1,0 +1,53 @@
+{
+  "termId": "tige-de-coffrage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Une cravate à rayures sur moquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Page de brevet imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Page de brevet américain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Marin avec casque et une chaîne sur l'épaule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Élastiques à cheveux spiralés colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dessin de réseaux sociaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin hors sujet."
+    }
+  ]
+}

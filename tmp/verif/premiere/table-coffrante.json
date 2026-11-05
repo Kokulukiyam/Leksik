@@ -1,0 +1,29 @@
+{
+  "termId": "table-coffrante",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sous-face d'un coffrage de dalle sur étais métalliques dans un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de dalle sur étais, pas une table volante."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne photo noir et blanc de tables à souder pour moules de tuyaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, ancien cliché."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Militaire travaillant du contreplaqué en atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

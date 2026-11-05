@@ -1,0 +1,212 @@
+[
+  {
+    "cle": "etai/10",
+    "accord": true,
+    "raison": "Forêt d'étais métalliques télescopiques sous un coffrage de dalle : les étais sont l'élément dominant, sans ambiguïté."
+  },
+  {
+    "cle": "etai-en-bois/06",
+    "accord": false,
+    "raison": "Perches de bois sous une dalle, mais petites dans un vaste panorama, mêlées à des perches inclinées et à un pilier : peu lisible sur téléphone et confusion possible avec un échafaudage en bois."
+  },
+  {
+    "cle": "betonniere/10",
+    "accord": true,
+    "raison": "Bétonnière à cuve rotative et roues, levée par des chaînes, isolée sur le ciel : très claire."
+  },
+  {
+    "cle": "camion-benne/08",
+    "accord": true,
+    "raison": "Camion-benne routier avec caisse basculante, vu de trois quarts, dominant l'image."
+  },
+  {
+    "cle": "truelle/12",
+    "accord": true,
+    "raison": "Truelle triangulaire à manche coudé en bois, en gros plan : sans ambiguïté."
+  },
+  {
+    "cle": "brouette/08",
+    "accord": true,
+    "raison": "Brouette à une roue chargée de pierres, bien cadrée par le rectangle."
+  },
+  {
+    "cle": "rampe-d-acces/03",
+    "accord": true,
+    "raison": "Rampe d'accès en bois avec garde-corps le long d'une façade, pictogramme fauteuil roulant à côté : le plan incliné domine le rectangle."
+  },
+  {
+    "cle": "ascenseur/01",
+    "accord": true,
+    "raison": "Palier d'ascenseurs avec plusieurs portes palières inox et indicateurs d'étage : terme juste."
+  },
+  {
+    "cle": "ascenseur/03",
+    "accord": true,
+    "raison": "Porte palière d'ascenseur ancienne avec indicateur d'étage et bouton d'appel, dominante."
+  },
+  {
+    "cle": "douchette-wc/03",
+    "accord": true,
+    "raison": "Douchette hygiénique à gâchette sur son support à côté de la cuvette, bien désignée par le rectangle."
+  },
+  {
+    "cle": "urinoir/01",
+    "accord": true,
+    "raison": "Gros plan d'un urinoir mural en céramique sur carrelage : forme et évacuation caractéristiques, sans ambiguïté."
+  },
+  {
+    "cle": "receveur-de-douche/05",
+    "accord": true,
+    "raison": "Receveur de douche d'angle à fond antidérapant et bonde, entre murs carrelés : terme juste."
+  },
+  {
+    "cle": "douche-a-l-italienne/04",
+    "accord": true,
+    "raison": "Douches collectives de plain-pied sur sol carrelé avec siphons de sol, sans aucun receveur : douche à l'italienne."
+  },
+  {
+    "cle": "baignoire/04",
+    "accord": true,
+    "raison": "Baignoire en fonte sur pieds dans une pièce lambrissée abandonnée, bien cadrée par le rectangle."
+  },
+  {
+    "cle": "baignoire/06",
+    "accord": true,
+    "raison": "Baignoire en fonte sur pieds en plein air, bien cadrée par le rectangle ; la douche au-dessus reste hors du cadre principal."
+  },
+  {
+    "cle": "bonde/03",
+    "accord": true,
+    "raison": "Bonde métallique à clapet au fond d'un lavabo, nettement désignée par le rectangle."
+  },
+  {
+    "cle": "tube-en-cuivre/03",
+    "accord": true,
+    "raison": "Trois tubes en cuivre orangés sortant d'une dalle, en gros plan : matériau reconnaissable."
+  },
+  {
+    "cle": "coude/04",
+    "accord": true,
+    "raison": "Coude à 90° en cuivre à sertir sur une canalisation, bien cadré par le rectangle."
+  },
+  {
+    "cle": "raccord/03",
+    "accord": true,
+    "raison": "Réduction en cuivre désignée par le rectangle parmi d'autres raccords ; coudes et té sont hors du cadre."
+  },
+  {
+    "cle": "collier-de-fixation/01",
+    "accord": true,
+    "raison": "Deux colliers métalliques à garniture caoutchouc maintenant des tubes PPR, bien désignés par le rectangle."
+  },
+  {
+    "cle": "pompe-immergee/02",
+    "accord": false,
+    "raison": "Grosse pompe boueuse à crépine, ventrue plutôt qu'étroite, sortie d'un trou par un ouvrier : ressemble autant à une pompe de relevage/épuisement qu'à une pompe de forage."
+  },
+  {
+    "cle": "chauffe-eau-solaire/06",
+    "accord": true,
+    "raison": "Chauffe-eau solaire complet (tubes sous vide + ballon horizontal) devant une maison, dominant l'image."
+  },
+  {
+    "cle": "capteur-solaire-thermique/03",
+    "accord": true,
+    "raison": "Gros plan sur les tubes sous vide du capteur, bien cadrés par le rectangle ; le ballon n'apparaît qu'en bordure."
+  },
+  {
+    "cle": "capteur-solaire-thermique/05",
+    "accord": true,
+    "raison": "Rectangle sur le capteur à tubes sous vide, le ballon au-dessus restant essentiellement hors du cadre."
+  },
+  {
+    "cle": "boite-de-derivation/03",
+    "accord": true,
+    "raison": "Boîte de dérivation métallique à couvercle sur des conduits en faux plafond, bien désignée par le rectangle."
+  },
+  {
+    "cle": "chemin-de-cables/04",
+    "accord": true,
+    "raison": "Chemins de câbles en treillis métallique portant des câbles, en gros plan : sans ambiguïté."
+  },
+  {
+    "cle": "paratonnerre/01",
+    "accord": true,
+    "raison": "Tige de paratonnerre à pointes au sommet d'un mât avec feuillard de descente, sur le ciel : clair."
+  },
+  {
+    "cle": "paratonnerre/04",
+    "accord": false,
+    "raison": "Photo produit studio d'une tête de paratonnerre à dispositif d'amorçage, hors de tout bâtiment : objet peu reconnaissable, loin de la tige décrite."
+  },
+  {
+    "cle": "suspension/01",
+    "accord": true,
+    "raison": "Lustre en cristal suspendu au plafond par une tige, vu de dessous : luminaire suspendu dominant."
+  },
+  {
+    "cle": "suspension/02",
+    "accord": true,
+    "raison": "Lustre pendu à une longue chaîne sous un haut plafond, bien cadré par le rectangle."
+  },
+  {
+    "cle": "suspension/05",
+    "accord": true,
+    "raison": "Grand lustre en cristal pendu à une chaîne sous un plafond à caissons, bien cadré par le rectangle."
+  },
+  {
+    "cle": "projecteur/05",
+    "accord": true,
+    "raison": "Couronne de projecteurs orientables au sommet d'un mât d'éclairage, bien désignée par le rectangle."
+  },
+  {
+    "cle": "bloc-autonome-d-eclairage-de-securite/03",
+    "accord": true,
+    "raison": "Bloc d'éclairage de secours avec pictogramme de sortie lumineux EXIT et flèche, bien cadré par le rectangle."
+  },
+  {
+    "cle": "onduleur/03",
+    "accord": true,
+    "raison": "Onduleur photovoltaïque mural (étiquette « PV Grid Inverter ») avec dissipateur, en gros plan."
+  },
+  {
+    "cle": "onduleur/06",
+    "accord": true,
+    "raison": "Onduleur hybride mural à écran, désigné par le rectangle au-dessus du parc de batteries, qui reste hors du cadre."
+  },
+  {
+    "cle": "batterie-solaire/01",
+    "accord": false,
+    "raison": "Batteries dans le coffre d'un autocar scolaire : contexte de véhicule, rien n'indique un stockage photovoltaïque."
+  },
+  {
+    "cle": "batterie-solaire/05",
+    "accord": true,
+    "raison": "Deux batteries à décharge profonde reliées à un régulateur solaire, bien cadrées par le rectangle."
+  },
+  {
+    "cle": "extracteur-d-air/03",
+    "accord": true,
+    "raison": "Extracteur d'air hélicoïdal fixé dans une baie de fenêtre, en gros plan : sans ambiguïté."
+  },
+  {
+    "cle": "gaine-de-ventilation/01",
+    "accord": true,
+    "raison": "Grosses gaines rondes en tôle à brides reliées à un caisson de traitement d'air sur une toiture technique : gaines de ventilation dominantes."
+  },
+  {
+    "cle": "hotte/01",
+    "accord": true,
+    "raison": "Hotte de cuisine inox avec boutons de commande sous un meuble haut, en gros plan."
+  },
+  {
+    "cle": "hotte/03",
+    "accord": true,
+    "raison": "Hotte inox à cheminée au-dessus du plan de cuisson, bien cadrée par le rectangle."
+  },
+  {
+    "cle": "detecteur-de-fumee/02",
+    "accord": true,
+    "raison": "Détecteur de fumée rond à chambre de détection, en gros plan et bien cadré."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "termId": "sol-en-resine",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol en lames de bois sombre en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet, pas une résine."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Local technique au sol lisse jaunâtre poussiéreux avec incrustation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nature du sol incertaine, image composite."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plan de chambre dessiné à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Natte d'herbe tressée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne en noir et blanc de dalles de basalte hexagonales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Parquet clair à motifs en chevrons dans une salle d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet."
+    }
+  ]
+}

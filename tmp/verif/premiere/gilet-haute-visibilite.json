@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas un gilet haute visibilité jaune/orange ; texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Secouristes en tenue rouge et jaune fluo près d'un hélicoptère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Combinaisons de secours, pas un gilet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers en tenue orange sur un chantier de voirie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Veste et pantalon, personnages petits."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Travaux ferroviaires avec ouvriers en orange au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Éboueur en tenue fluo devant un camion-benne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gilet peu lisible, scène chargée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier en veste et pantalon orange fluo qui lisse du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble complet, pas un gilet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Groupe de policiers et agents en gilets jaunes réfléchissants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de groupe, gilets de police."
     }
   ]
 }

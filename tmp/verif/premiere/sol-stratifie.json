@@ -1,0 +1,53 @@
+{
+  "termId": "sol-stratifie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Dalle de stratifié imitation parquet marqueté posée sur un autre sol clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut être pris pour un parquet ; pas typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ancienne photographie de pavage de basalte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux hommes posent des lames de stratifié sur sous-couche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, sol peu lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carrelage beige de salle de bains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrelage, pas stratifié."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan de la tranche d'une lame stratifiée à noyau aggloméré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail technique, pas lisible comme sol stratifié."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Deux hommes posent du stratifié dans une chambre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes ; stratifié pourrait passer pour parquet."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "declencheur-manuel",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Centrale d'alarme incendie beige murale avec plan et clé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Centrale, pas un déclencheur manuel."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Schéma d'un système de détection incendie sur panneau, avec titre en allemand.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau pédagogique, texte visible, éléments minuscules."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Affiche papier annonçant un test d'alarme incendie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, pas l'objet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Femme gesticulant devant une porte verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Coffret blanc fixé à un mur avec étiquettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffret ambigu, pas un déclencheur."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sonnerie d'alarme rouge ronde fixée au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sirène/sonnerie, pas un déclencheur manuel."
+    }
+  ]
+}

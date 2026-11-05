@@ -1,0 +1,53 @@
+{
+  "termId": "pilonneuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mini-pelle blanche Bobcat sur chenilles dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pilonneuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plaque vibrante à moteur sur un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque vibrante, pas une pilonneuse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Accessoire vibrofonceur de pelle posé sur l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pilonneuse."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tractopelle jaune avec un engin dans le godet en ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une pilonneuse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Deux soldats autour d'une machine jaune à moteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine mal identifiable, plaque vibrante probable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvriers avec plaques vibrantes sur un chemin enrobé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques vibrantes."
+    }
+  ]
+}

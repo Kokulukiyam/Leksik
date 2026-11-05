@@ -1,0 +1,53 @@
+{
+  "termId": "lambris",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cage d'escalier avec balustrade en fer forgé et soubassement carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lambris."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalier d'honneur du château de Valençay, tapisserie et soubassement panneauté blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux moulurés (boiserie), tapisserie dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Panneau de stuc sculpté de Samarra.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Stuc, pas lambris."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Soubassement de marbre dans un hall à Fukuoka.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marbre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Entrée d'immeuble avec peintures murales et portes blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lambris de bois."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Salle vide avec boiseries en panneaux de bois en soubassement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux moulurés (boiserie), pas des lames emboîtées."
+    }
+  ]
+}

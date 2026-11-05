@@ -1,0 +1,53 @@
+{
+  "termId": "dumper",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Camion benne avec lame chasse-neige sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-benne."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Camion plateau Scattolini sur un salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Engin à benne basculante vu de loin au bord de l'eau, benne à l'arrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit dans l'image, benne à l'arrière : peut se lire tombereau."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Camionnette à benne basculée sur un salon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camionnette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chantier urbain avec camion, mini-pelle Kobelco et ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de dumper identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Camion benne déversant du gravier sur un chantier ferroviaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-benne."
+    }
+  ]
+}

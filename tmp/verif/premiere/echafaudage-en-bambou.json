@@ -1,0 +1,53 @@
+{
+  "termId": "echafaudage-en-bambou",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc de plateformes sur pilotis dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un échafaudage de chantier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade d'immeuble couverte d'un échafaudage tubulaire métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage métallique."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment en construction à Kampot couvert de perches ligaturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perches irrégulières, doute bambou / bois."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ancienne photo d'une tour couverte d'échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage non bambou."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Troncs verticaux et ouvriers sur une plateforme devant une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Troncs/perches pas clairement du bambou."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Perches de bois inclinées au-dessus d'une ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Partiel, flou sur la matière, mal lisible."
+    }
+  ]
+}

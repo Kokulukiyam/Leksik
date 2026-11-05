@@ -1,0 +1,53 @@
+{
+  "termId": "granito",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol en terrazzo à fins éclats noirs et blancs, avec un grand médaillon circulaire coloré (jaune, bleu, rouge, vert) incrusté.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Regina, Saskatchewan, Canada",
+      "note": "Éclats de marbre noyés dans un liant, surface poncée et polie : typiquement un granito, sans joints de carreaux."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Hall à sol en terrazzo clair semé de petits motifs noirs, reflets de vitres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol clair peu lisible, éclats rares, scène sombre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail de sol en terrazzo coloré figurant un observatoire, fissuré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif figuratif et fissures ; moins typique."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Couloir au sol en terrazzo beige à éclats blancs, noirs et ocre, plinthes en bois sombre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Venise, Italie",
+      "note": "Sol en granito clair et net, éclats bien visibles, occupe toute l'image."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Salle de machines avec sol en terrazzo à bandes décoratives et pompes noires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompes dominantes, sol en grand angle moins lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Sol en dalles de terrazzo gris avec autocollants de distanciation et texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte et autocollants visibles."
+    }
+  ]
+}

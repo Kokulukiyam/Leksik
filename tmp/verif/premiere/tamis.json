@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Filtre optique, pas un tamis."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gouttière zinc avec crapaudine à grille obstruée de feuilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Crapaudine, pas un tamis de chantier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fromage blanc égoutté dans un linge au-dessus d'un bol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuisine, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Passoire à manche rouge sur un plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ustensile de cuisine, pas un tamis à sable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fromage égouttant dans un linge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuisine, sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand filtre industriel bleu ouvert, grille interne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filtre de centrale, pas un tamis de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trépied en bois avec tissu dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet ambigu, pas lisible."
     }
   ]
 }

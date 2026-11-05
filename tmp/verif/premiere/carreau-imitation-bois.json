@@ -1,0 +1,45 @@
+{
+  "termId": "carreau-imitation-bois",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Nef de cathédrale néogothique voûtée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol en lames à aspect bois brun vieilli, joints très fins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seule la description Commons indique du carrelage ; visuellement indiscernable d'un stratifié ou parquet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tambour d'orchestre peint « Odd Fellows Band ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Carte postale ancienne d'un bâtiment de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gravure d'un asile de comté, légende visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

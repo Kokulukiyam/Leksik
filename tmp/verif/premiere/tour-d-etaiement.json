@@ -1,0 +1,58 @@
+{
+  "termId": "tour-d-etaiement",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Église avec étaiements en bois sur un côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étaiement de bois, pas une tour."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure de grands étaiements en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ancienne photo de contreventements en bois dans une ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étais en bois, noir et blanc."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Viaduc en construction avec piles et grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tours non lisibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Énorme échafaudage tubulaire en cube contre un château.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut être pris pour un échafaudage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Tablier de pont en coffrage porté par des tours d'étaiement en cadres métalliques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.28,
+        "largeur": 0.8,
+        "hauteur": 0.46
+      },
+      "lieu": "",
+      "note": "Tours d'étaiement sous coffrage de pont, rectangle sur les tours."
+    }
+  ]
+}

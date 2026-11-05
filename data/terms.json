@@ -695,6 +695,17 @@
     "priorite": 2
   },
   {
+    "id": "etai",
+    "terme": "l'étai",
+    "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1,
+    "incompatibles": [
+      "etai-metallique",
+      "etai-en-bois"
+    ]
+  },
+  {
     "id": "coffrage",
     "terme": "le coffrage",
     "definition": "Moule provisoire, en bois ou en métal, dans lequel on coule le béton pour lui donner sa forme.",
@@ -740,6 +751,13 @@
       "coffrage-bois",
       "coffrage-metallique"
     ]
+  },
+  {
+    "id": "betonniere",
+    "terme": "la bétonnière",
+    "definition": "Machine à cuve rotative inclinable, électrique ou thermique, qui malaxe le béton ou le mortier sur le chantier.",
+    "categorie": "Chantier et outillage",
+    "priorite": 1
   },
   {
     "id": "pelle-hydraulique",
@@ -2532,6 +2550,27 @@
     ]
   },
   {
+    "id": "rampe-d-acces",
+    "terme": "la rampe d'accès",
+    "definition": "Plan incliné qui permet aux fauteuils roulants et poussettes de franchir une différence de niveau.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "bateau-de-trottoir"
+    ]
+  },
+  {
+    "id": "ascenseur",
+    "terme": "l'ascenseur",
+    "definition": "Cabine qui se déplace verticalement pour transporter des personnes d'un étage à l'autre, vue par ses portes palières.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "bouton-d-appel",
+      "monte-charge"
+    ]
+  },
+  {
     "id": "mitigeur",
     "terme": "le mitigeur",
     "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
@@ -2568,11 +2607,101 @@
     ]
   },
   {
+    "id": "douchette-wc",
+    "terme": "la douchette WC",
+    "definition": "Petite douchette à main reliée à un flexible près de la cuvette, servant à la toilette intime, très répandue au Sénégal.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "cuvette-de-wc",
+      "wc-suspendu",
+      "wc-a-la-turque"
+    ]
+  },
+  {
+    "id": "urinoir",
+    "terme": "l'urinoir",
+    "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
     "id": "pomme-de-douche",
     "terme": "la pomme de douche",
     "definition": "Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
+  },
+  {
+    "id": "receveur-de-douche",
+    "terme": "le receveur de douche",
+    "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "caniveau-de-douche"
+    ]
+  },
+  {
+    "id": "douche-a-l-italienne",
+    "terme": "la douche à l'italienne",
+    "definition": "Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "receveur-de-douche",
+      "siphon-de-sol"
+    ]
+  },
+  {
+    "id": "baignoire",
+    "terme": "la baignoire",
+    "definition": "Grande cuve sanitaire en acrylique, en fonte ou en acier dans laquelle on prend un bain.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "bonde",
+    "terme": "la bonde",
+    "definition": "Pièce métallique ou plastique au fond d'un lavabo, d'un évier, d'une baignoire ou d'un receveur, par laquelle l'eau s'écoule.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "siphon",
+      "siphon-de-sol"
+    ]
+  },
+  {
+    "id": "tube-en-cuivre",
+    "terme": "le tube en cuivre",
+    "definition": "Tuyau métallique de teinte orangée utilisé pour l'eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "coude",
+    "terme": "le coude",
+    "definition": "Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "raccord",
+      "te"
+    ]
+  },
+  {
+    "id": "raccord",
+    "terme": "le raccord",
+    "definition": "Pièce qui relie deux tuyaux entre eux ou un tuyau à un appareil : manchon, réduction, union…",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "collier-de-fixation",
+    "terme": "le collier de fixation",
+    "definition": "Bride en métal ou en plastique vissée au mur qui maintient un tuyau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
   },
   {
     "id": "vanne-d-arret",
@@ -2597,6 +2726,28 @@
     "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
+  },
+  {
+    "id": "chauffe-eau-solaire",
+    "terme": "le chauffe-eau solaire",
+    "definition": "Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "capteur-solaire-thermique",
+      "chauffe-eau-electrique",
+      "panneau-photovoltaique"
+    ]
+  },
+  {
+    "id": "capteur-solaire-thermique",
+    "terme": "le capteur solaire thermique",
+    "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "panneau-photovoltaique"
+    ]
   },
   {
     "id": "bouteille-de-gaz",
@@ -2637,6 +2788,30 @@
     "priorite": 1
   },
   {
+    "id": "boite-de-derivation",
+    "terme": "la boîte de dérivation",
+    "definition": "Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "boite-d-encastrement"
+    ]
+  },
+  {
+    "id": "chemin-de-cables",
+    "terme": "le chemin de câbles",
+    "definition": "Support en treillis ou en tôle perforée, suspendu ou fixé au mur, qui porte les câbles dans les locaux techniques et les faux plafonds.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "paratonnerre",
+    "terme": "le paratonnerre",
+    "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
     "id": "ampoule",
     "terme": "l'ampoule",
     "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
@@ -2655,6 +2830,16 @@
     "priorite": 1
   },
   {
+    "id": "suspension",
+    "terme": "la suspension",
+    "definition": "Luminaire accroché au plafond par un fil, une chaîne ou une tige.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "applique"
+    ]
+  },
+  {
     "id": "reglette",
     "terme": "la réglette",
     "definition": "Luminaire long et étroit à tube fluorescent ou LED, fixé au plafond ou au mur.",
@@ -2666,11 +2851,42 @@
     ]
   },
   {
+    "id": "projecteur",
+    "terme": "le projecteur",
+    "definition": "Luminaire puissant orientable, à LED ou à halogène, qui éclaire une façade, une cour ou un chantier.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "bloc-autonome-d-eclairage-de-securite",
+    "terme": "le bloc autonome d'éclairage de sécurité",
+    "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
     "id": "panneau-photovoltaique",
     "terme": "le panneau photovoltaïque",
     "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
+  },
+  {
+    "id": "onduleur",
+    "terme": "l'onduleur",
+    "definition": "Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "batterie-solaire",
+    "terme": "la batterie solaire",
+    "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "onduleur"
+    ]
   },
   {
     "id": "split",
@@ -2697,6 +2913,16 @@
     "priorite": 1
   },
   {
+    "id": "extracteur-d-air",
+    "terme": "l'extracteur d'air",
+    "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "grille-de-ventilation"
+    ]
+  },
+  {
     "id": "grille-de-ventilation",
     "terme": "la grille de ventilation",
     "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
@@ -2704,11 +2930,39 @@
     "priorite": 1
   },
   {
+    "id": "gaine-de-ventilation",
+    "terme": "la gaine de ventilation",
+    "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2
+  },
+  {
+    "id": "hotte",
+    "terme": "la hotte",
+    "definition": "Appareil placé au-dessus de la cuisinière qui aspire les fumées et les odeurs de cuisson.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "extracteur-d-air",
+      "bouche-d-extraction"
+    ]
+  },
+  {
     "id": "extincteur",
     "terme": "l'extincteur",
     "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
+  },
+  {
+    "id": "detecteur-de-fumee",
+    "terme": "le détecteur de fumée",
+    "definition": "Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "sprinkler"
+    ]
   },
   {
     "id": "cloison",

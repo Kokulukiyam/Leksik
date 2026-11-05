@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Tournevis classique à manche, entièrement visible. Pointe petite et photo modeste mais sans doute possible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tournevis plat à manche noir posé à la verticale sur une table en bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil net, entier, dominant, fond uni."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tournevis plat à manche noir sur un rocher au bord de l'eau, cadrage très étroit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bon outil mais image en bandeau très étroit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trois tournevis coudés en L sur fond vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tournevis coudés, moins typiques."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tournevis à embouts rangés dans le manche, avec mètre ruban.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mètre ruban distrait, outil moins typique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieux tournevis à manche en bois tenu dans une main, outils en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Main et fond encombré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Enfant tenant un petit objet métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, objet peu lisible."
     }
   ]
 }

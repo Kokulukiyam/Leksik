@@ -1,0 +1,63 @@
+{
+  "termId": "goulotte-a-gravats",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Longue goulotte noire à tronçons emboîtés suspendue le long de la façade d'un immeuble en rénovation.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.05,
+        "largeur": 0.4,
+        "hauteur": 0.93
+      },
+      "lieu": "",
+      "note": "Goulotte nette, rectangle sur le tube."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Goulotte grise descendant le long des balcons d'un immeuble en chantier vers une benne.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.16,
+        "largeur": 0.18,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Goulotte visible et lisible, rectangle serré."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Cour de mosquée en travaux avec débris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de goulotte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Goulotte bleue à tronçons emboîtés sortant d'une fenêtre de façade en brique vers un tas de gravats.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mouscron, Belgique",
+      "note": "Image claire, goulotte dominante."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne d'un conduit en béton rempli de débris de coffrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage hydraulique, pas une goulotte."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Soldats devant les débris d'un avion, photo historique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

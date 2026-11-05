@@ -1,0 +1,53 @@
+{
+  "termId": "plancher-d-echafaudage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison avec petit échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher non visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Façade avec échafaudage et bâche, lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planchers trop petits."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Immeuble entièrement bâché sous échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planchers non visibles."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeubles avec échafaudage vus d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planchers non visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Échafaudage tubulaire vu d'en bas devant façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher non identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Lac ou lagune avec piquets dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

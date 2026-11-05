@@ -1,0 +1,58 @@
+{
+  "termId": "papier-peint",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur rose avec affiches et logo collés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de papier peint."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Salon classique à boiseries dorées et panneaux de tapisserie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boiseries et décor peint, pas un papier peint clair."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Téléphone posé sur surface sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur tendu d'un papier peint à grands motifs végétaux dorés sur fond sombre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.0,
+        "largeur": 0.8,
+        "hauteur": 0.88
+      },
+      "lieu": "",
+      "note": "Papier peint à motif net et dominant, rectangle pour exclure le cadre."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fragments de vieux papiers peints sous cadre, appartement de Raspoutine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décollé, vitrine, peu lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'un revêtement mural crème à relief ondulé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut aussi être toile de verre ou enduit."
+    }
+  ]
+}

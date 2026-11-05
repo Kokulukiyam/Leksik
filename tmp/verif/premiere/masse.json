@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Outil non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Femme frappant une imprimante avec une masse sur la chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante, outil peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marteau ancien à tête rectangulaire et manche court, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau d'armurier de musée, doute avec marteau ou massette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Marin casqué tenant un manche de masse sur l'épaule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tête de l'outil non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Marteau ancien de forme allongée sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une masse typique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maillet en bois à tête cylindrique rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maillet, pas une masse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Marteau de charpentier cassé avec clous et planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau, pas une masse."
     }
   ]
 }

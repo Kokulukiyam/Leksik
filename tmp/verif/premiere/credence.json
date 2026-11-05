@@ -1,0 +1,53 @@
+{
+  "termId": "credence",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de cuisine carrelé en cours de travaux, tissu à théières sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de plan de travail, aucune crédence lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Toilettes accessibles avec carreaux beiges et petit plan en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une crédence de cuisine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade murale ancienne carrelée avec panneau de location.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau avec texte, pas de crédence."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Image sombre retouchée de carreaux (effet de contours).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mur de douche carrelé endommagé par un séisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une crédence."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Rénovation de carrelage mural dans une station de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une crédence."
+    }
+  ]
+}

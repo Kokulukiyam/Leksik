@@ -1,0 +1,53 @@
+{
+  "termId": "monte-charge",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Planche ancienne dessinée de moufles et cordages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Planche ancienne dessinée de poulies et caps de mouton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vieux treuil à engrenages rouillé dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treuil, pas un monte-charge."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Planche ancienne dessinée de moufles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une grue de port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue de port, ancien cliché."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Benne rouillée montée le long d'une échelle-rail contre un échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Monte-matériaux à benne sur échelle, pas plateforme sur mât : doute."
+    }
+  ]
+}

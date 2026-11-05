@@ -1,0 +1,53 @@
+{
+  "termId": "doublage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Paroi de station de métro à ossature métallique et isolant, en démontage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paroi en chantier, doublage non lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ligne industrielle de fabrication de plaques avec gaines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sous-sol en travaux avec solivage et gaines, murs en plaques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublage non identifiable."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvriers installant des panneaux dans une galerie de gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier, pas de doublage net."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de plaques de plâtre sur tréteaux devant une ossature avec laine minérale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ambiguë : plaques seules ou ossature, pas un doublage achevé."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chambre blanche à plafond décoratif et niches voûtées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor intérieur fini, pas un doublage."
+    }
+  ]
+}

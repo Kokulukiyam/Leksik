@@ -1,0 +1,53 @@
+{
+  "termId": "enduit-de-lissage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Plafond de tôle projeté de plâtre ignifuge, avec légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit de protection incendie, texte visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Poutrelle projetée de plâtre ignifuge, avec légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projection ignifuge, texte."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Projection ignifuge et coupe-feu annotée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Pansements et compresses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Vente de livres dans une bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Abri commémoratif à murs jaunes et colonnes blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murs peints, pas d'enduit de lissage identifiable."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "termId": "niveleuse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Niveleuse jaune ancienne dans une carrière, lame à l'avant, au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin petit et ressemble à un bulldozer."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Niveleuse orange à six roues, lame sous le châssis, sur une chaussée neuve.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveleuse claire et dominante."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Engin orange ancien vu de face, teinte violacée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image altérée, lame invisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Niveleuse à six roues réglant une plateforme de gravier, lame sous le châssis.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveleuse typique, nette."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Soldat devant une niveleuse militaire kaki.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnage dominant, engin partiellement caché."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Canon ou matériel militaire exposé en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    }
+  ]
+}

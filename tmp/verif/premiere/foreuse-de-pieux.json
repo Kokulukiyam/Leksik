@@ -1,0 +1,53 @@
+{
+  "termId": "foreuse-de-pieux",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pelle rouge CAT équipée d'un vibrofonceur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vibrofonçage, pas une foreuse."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un vibrofonceur rouge devant un échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau vibrant, pas une foreuse."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Foreuse sur chenilles jaune avec haut mât et tarière, sur un chantier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foreuse de pieux typique, nette et dominante."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Foreuse sur chenilles jaune à haut mât près d'un port.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foreuse à mât clairement visible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Mât de foreuse minuscule derrière une palissade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grue à chenilles bleue GEKA devant de hautes poutres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue, pas une foreuse."
+    }
+  ]
+}

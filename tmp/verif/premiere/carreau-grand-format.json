@@ -1,0 +1,53 @@
+{
+  "termId": "carreau-grand-format",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Sol de pièce vide en carreaux de porcelaine gris clair poli, grands carrés à joints fins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Format apparemment carré (~60 cm), pas clairement 60x120 ; confondable avec le grès cérame poli."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Sol d'église en carreaux décoratifs et terre cuite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux anciens."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sol de chœur en carreaux victoriens géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux décoratifs."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Sol de sanctuaire en carreaux de motifs géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux décoratifs."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Sol de chœur en carreaux victoriens colorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux décoratifs."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Urinoirs en céramique dans des toilettes carrelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux, sujet urinoirs."
+    }
+  ]
+}
