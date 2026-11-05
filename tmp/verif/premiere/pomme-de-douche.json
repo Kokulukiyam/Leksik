@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Paraty, Brésil",
       "note": "Appareil électrique et fils apparents, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Salle d'eau avec chauffe-eau mural, flexible et pomme de douche en haut, mitigeur.",
+      "verdict": "rejetée",
+      "note": "Chauffe-eau dominant, pomme petite.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Couloir de cabines de douche, deux portes numérotées.",
+      "verdict": "rejetée",
+      "note": "Pas de pomme visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pomme de douche chromée ronde fixe sur bras mural, jets d'eau.",
+      "verdict": "validée",
+      "note": "Pomme nette, dominante, photo claire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande salle de douches carrelée avec robinetteries au mur.",
+      "verdict": "rejetée",
+      "note": "Éléments trop petits.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieille pomme de douche rouge rouillée sous du houblon, en plein air.",
+      "verdict": "rejetée",
+      "note": "Cachée par la végétation, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Colonne de robinets anciens à manettes blanches dans une douche en marbre.",
+      "verdict": "rejetée",
+      "note": "Robinetterie, pas de pomme.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

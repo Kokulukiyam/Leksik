@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Munich, Allemagne",
       "note": "Fermeture de véhicule, pas un verrou de menuiserie."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fermeture de barrière en bois : barre de fer pivotante à volute qui retombe dans un crochet.",
+      "verdict": "rejetée",
+      "note": "Loquet pivotant, pas un verrou coulissant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite porte de cachot en bois avec judas grillagé et petit verrou, vue d'ensemble.",
+      "verdict": "rejetée",
+      "note": "Verrou trop petit dans l'image.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte à croix de Saint-André avec grosse serrure à boîtier et barre coulissante au-dessus.",
+      "verdict": "rejetée",
+      "note": "Verrou mêlé à la serrure, risque de confusion avec serrure/pêne.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fermeture à levier sur un poteau de barrière de pré.",
+      "verdict": "rejetée",
+      "note": "Mécanisme de barrière à levier, ressemble à un loquet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure d'un verrou de porte, légende ALAMUD.",
+      "verdict": "rejetée",
+      "note": "Gravure, pas une photo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur d'exposition couvert d'une collection de serrures et verrous anciens.",
+      "verdict": "rejetée",
+      "note": "Trop d'objets, illisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -53,6 +53,59 @@
       },
       "lieu": "Californie, États-Unis",
       "note": "Évier double bac typique ; quelques objets autour, cadre sur le bac."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Noir et blanc : longue rangée de lavabos collectifs de vestiaire avec rampe de pommes.",
+      "verdict": "rejetée",
+      "note": "Lavabos collectifs, pas un évier de cuisine.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bac inox rempli de détritus sous un petit robinet, mur jauni.",
+      "verdict": "rejetée",
+      "note": "Sale, lavabo ou bac ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieux lavabo mural en céramique couvert d'algues, deux robinets.",
+      "verdict": "rejetée",
+      "note": "C'est un lavabo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Crabes cuits entassés dans un bac blanc.",
+      "verdict": "rejetée",
+      "note": "Sujet principal : les crabes.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poste de lavage de mains extérieur en inox sur pieds bleus, arrêt de bus.",
+      "verdict": "rejetée",
+      "note": "Lavabo de rue improvisé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Évier inox à un bac et égouttoir, robinet mélangeur, mains remplissant un verre, légumes au fond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.47,
+        "largeur": 0.95,
+        "hauteur": 0.52
+      },
+      "note": "Évier de cuisine inox typique ; rectangle sur le bac pour le distinguer du robinet.",
+      "lieu": ""
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "La peinture domine, l'enduit n'est pas lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade jaune à peintures murales de saints, boutique au rez-de-chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les fresques dominent, crépi peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Peinture murale Hotel Post sur mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fresque et texte, enduit lisse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fresque d'un luthier sur façade blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fresque, pas l'enduit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fresque de saint Christophe sur un mur jaune au crépi rugueux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "La fresque domine ; impossible de l'écarter par un rectangle utile."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande façade rose à décor peint baroque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor peint dominant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fresque de constructeurs de bateaux dans un hall de gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fresque et portes ; enduit non distinct."
     }
   ]
 }

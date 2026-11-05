@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Cadran net ; rectangle écarte le robinet voisin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangée de compteurs d'eau sur colonnes dans un cadre métallique au sol, trottoir.",
+      "verdict": "rejetée",
+      "note": "Compteurs petits, scène sale et confuse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Compteurs d'eau blancs poussiéreux sur tuyaux galvanisés, détritus, ombre forte.",
+      "verdict": "rejetée",
+      "note": "Sombre et sale, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Batterie de compteurs d'eau alignés contre un mur, tuyaux bleus.",
+      "verdict": "rejetée",
+      "note": "Cadrage lointain, compteurs minuscules.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan du cadran d'un compteur d'eau : totalisateur à chiffres, aiguille rouge, m3.",
+      "verdict": "validée",
+      "lieu": "Quezon City, Philippines",
+      "note": "Cadran de compteur net et dominant.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Borne bleue en pelouse au bord d'une route, sol affaissé autour.",
+      "verdict": "rejetée",
+      "note": "Aucun compteur visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Longue rangée de compteurs d'eau bleus sur tuyaux le long d'un canal insalubre.",
+      "verdict": "rejetée",
+      "note": "Éléments petits, scène chargée.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

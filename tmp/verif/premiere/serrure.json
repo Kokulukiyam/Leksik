@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Poignée de porte et texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poignée à levier chromée et verrou à rosace rouge et blanche sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée, verrou et cylindre mêlés : ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Même fermeture de fenêtre beige en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce n'est pas une serrure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poignée à levier et rosace de verrou sur porte grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée et cylindre mêlés : ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte médiévale cloutée à ferrures, avec une grande platine de serrure visible et un panneau écrit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrure mêlée aux pentures, panneau avec texte."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte en bois clair avec une barre de verrouillage multipoint, une poignée et un trousseau de clés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs éléments (poignée, clé, cylindre) : ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vieille porte de bois fermée par une chaîne et un cadenas rouillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadenas et chaîne, pas une serrure."
     }
   ]
 }

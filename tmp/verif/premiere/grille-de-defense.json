@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Grille absente."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison victorienne verte avec grilles blanches aux fenêtres du rez-de-chaussée derrière une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grilles petites, clôture ajourée parasite."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment en bois avec une petite fenêtre grillagée et une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille trop petite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Long couloir de cloître à arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille quasi invisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur blanc long avec fenêtres grillées sous rideaux violets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grilles sombres et peu lisibles en perspective."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade crépie d'une maison à porte double sous un toit de tuiles, avec fenêtres protégées par des grilles de fer forgé noires.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.7,
+        "y": 0.19,
+        "largeur": 0.27,
+        "hauteur": 0.38
+      },
+      "lieu": "Californie, États-Unis",
+      "note": "Grille de fenêtre en fer forgé nette, encadrée pour la distinguer de la rampe d'escalier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre cintrée dont les volets verts sont protégés par une grande grille de fer forgé rouillée à barreaux et frises.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille de défense typique, élément dominant."
     }
   ]
 }

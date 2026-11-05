@@ -53,6 +53,54 @@
       },
       "lieu": "Nagykanizsa, Hongrie",
       "note": "Lames horizontales et coffre bien visibles ; rectangle sur la fenêtre centrale."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de café de nuit, rideaux à lames fermés sur fenêtre et porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, texte d'enseigne ; rideau de commerce."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Baie à trois arcs avec volets intérieurs à lames orientables blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets intérieurs à lames (plantation shutters), pas des volets roulants."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rideau métallique baissé sous une enseigne lumineuse chinoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau de commerce avec texte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade en brique avec volets battants blancs repliés sur un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets battants."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Linteau sculpté d'anges au-dessus d'un tablier de bois à lames dans un arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mécanisme et coffre non identifiables, ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade en brique d'Amsterdam avec volets rouges battants ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets battants."
     }
   ]
 }

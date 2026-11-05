@@ -3605,6 +3605,24 @@
     "note": "Vérification : Ralentisseur transversal net, rectangle sur la bosse pour la distinguer des voitures et piétons. Contre-vérification : Ralentisseur en caoutchouc posé en travers de la rue, bien désigné par le rectangle."
   },
   {
+    "id": "dos-d-ane-12",
+    "termId": "dos-d-ane",
+    "fichier": "commons/dos-d-ane-12.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.78,
+      "largeur": 0.72,
+      "hauteur": 0.22
+    },
+    "lieu": "Minsk, Bélarus",
+    "source": "commons",
+    "auteur": "Homoatrox",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2019.11.06_Pierachodnaja_street_(Minsk)_Belarus.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bosse jaune et noire en travers de la chaussée, encadrée ; rectangle levant le doute avec les maisons et la clôture. Contre-vérification : Bosse striée jaune et noir en travers de la chaussée, nettement désignée par le rectangle : dos-d'âne sans ambiguïté."
+  },
+  {
     "id": "passage-pieton-03",
     "termId": "passage-pieton",
     "fichier": "commons/passage-pieton-03.webp",
@@ -3652,6 +3670,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Amboy_(California,_USA),_Hist._Route_66_--_2012_--_1.jpg",
     "statut": "validée",
     "note": "Vérification : Marquage au sol clair (ligne axiale, rive et signes peints), plein cadre. Contre-vérification : Lignes jaunes et blanches et logos Route 66 peints sur la chaussée, le marquage est le sujet évident."
+  },
+  {
+    "id": "marquage-au-sol-07",
+    "termId": "marquage-au-sol",
+    "fichier": "commons/marquage-au-sol-07.webp",
+    "rectangle": {
+      "x": 0.23,
+      "y": 0.77,
+      "largeur": 0.69,
+      "hauteur": 0.18
+    },
+    "lieu": "São Paulo, Brésil",
+    "source": "commons",
+    "auteur": "connectionconsulting",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bus_at_Av._Paulista,_S%C3%A3o_Paulo02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Inscription peinte sur la chaussée, nettement un marquage au sol ; rectangle sur l'inscription. Contre-vérification : Inscription « ONIBUS » peinte en blanc sur la chaussée, cadrée par le rectangle : marquage au sol évident."
   },
   {
     "id": "terre-plein-central-02",
@@ -3823,6 +3859,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Canons_gate_pillar_-_2026-05-20.jpg",
     "statut": "validée",
     "note": "Vérification : Pilier de portail maçonné coiffé d'un chapeau ; portail non visible mais forme et contexte typiques. Contre-vérification : Pilier maçonné blanc coiffé d'un chapeau mouluré et d'une boule, à l'entrée entre deux clôtures ; bien désigné."
+  },
+  {
+    "id": "pilier-de-portail-09",
+    "termId": "pilier-de-portail",
+    "fichier": "commons/pilier-de-portail-09.webp",
+    "rectangle": {
+      "x": 0.6,
+      "y": 0.11,
+      "largeur": 0.2,
+      "hauteur": 0.8
+    },
+    "lieu": "Prague, Tchéquie",
+    "source": "commons",
+    "auteur": "Kádár Tamás",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kir%C3%A1lyi_kert_a_pr%C3%A1gai_v%C3%A1rban.jpg",
+    "statut": "validée",
+    "note": "Vérification : Piliers maçonnés porteurs du portail, nets ; rectangle sur le pilier de droite. Contre-vérification : Pilier maçonné coiffé d'un chapeau et d'une boule, auquel est fixé le portail en fer forgé, bien cadré."
   },
   {
     "id": "chaperon-01",
@@ -4259,6 +4313,19 @@
     "note": "Vérification : Façade d'ensemble claire malgré l'arbre. Contre-vérification : Bâtiment de brique vu en entier avec murs et ouvertures, la façade d'ensemble est le sujet."
   },
   {
+    "id": "facade-08",
+    "termId": "facade",
+    "fichier": "commons/facade-08.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "AnRo0002",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20110617Richard-Wagner-Str70_Saarbruecken1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Façade vue de face dans son ensemble, de la toiture au rez-de-chaussée ; seules des barrières de chantier au bas. Contre-vérification : Vue frontale complète d'une façade d'immeuble avec ses balcons et ouvertures : photo typique de façade."
+  },
+  {
     "id": "mur-rideau-01",
     "termId": "mur-rideau",
     "fichier": "commons/mur-rideau-01.webp",
@@ -4512,6 +4579,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Calico_cat_in_top_of_a_glass_balustrade.jpg",
     "statut": "validée",
     "note": "Vérification : Remplissage en verre feuilleté à profilé ; le chat est secondaire, rectangle sur le verre. Contre-vérification : Garde-corps à panneaux de verre dans un cadre, bien cadré par le rectangle ; le chat ne prête pas à confusion de terme."
+  },
+  {
+    "id": "garde-corps-a-barreaudage-05",
+    "termId": "garde-corps-a-barreaudage",
+    "fichier": "commons/garde-corps-a-barreaudage-05.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.16,
+      "largeur": 0.85,
+      "hauteur": 0.27
+    },
+    "lieu": "Barcelone, Espagne",
+    "source": "commons",
+    "auteur": "Eric Salard",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:BCN_SPOTTERS_AREA_(6972339392).jpg",
+    "statut": "validée",
+    "note": "Vérification : Barreaudage métallique vertical net ; rectangle sur la plate-forme haute, hors graffiti. Contre-vérification : Garde-corps métallique à barreaux verticaux rapprochés entre lisse basse et main courante, bien désigné."
   },
   {
     "id": "garde-corps-en-fer-forge-01",
@@ -4790,6 +4875,24 @@
     "note": "Vérification : Pignon à redents bien lisible, rectangle vérifié. Contre-vérification : Pignon enduit aux rampants en gradins successifs, bien dégagé sur le ciel et cadré : pignon à redents."
   },
   {
+    "id": "toiture-11",
+    "termId": "toiture",
+    "fichier": "commons/toiture-11.webp",
+    "rectangle": {
+      "x": 0.21,
+      "y": 0.1,
+      "largeur": 0.71,
+      "hauteur": 0.31
+    },
+    "lieu": "Kosa, région de Rostov, Russie",
+    "source": "commons",
+    "auteur": "Alexander Roumega",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:House_with_cane_roof_in_Kosa.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toiture entière clairement visible ; rectangle sur la couverture. Contre-vérification : Toit de chaume d'une maison vu de l'extérieur, encadré : toiture claire pour un terme générique."
+  },
+  {
     "id": "terrasse-accessible-01",
     "termId": "terrasse-accessible",
     "fichier": "commons/terrasse-accessible-01.webp",
@@ -4870,6 +4973,37 @@
     "note": "Vérification : Toit à deux versants avec pignon à chaque bout, encadré sur la première maison. Contre-vérification : Toit de tuiles à deux versants avec pignon bien visible, rectangle bien placé."
   },
   {
+    "id": "toit-a-deux-pans-07",
+    "termId": "toit-a-deux-pans",
+    "fichier": "commons/toit-a-deux-pans-07.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.22,
+      "largeur": 0.56,
+      "hauteur": 0.31
+    },
+    "lieu": "Cariló, Argentine",
+    "source": "commons",
+    "auteur": "Dario Alpern",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Capilla_Nuestra_Se%C3%B1ora_del_Perpetuo_Socorro_(2).JPG",
+    "statut": "validée",
+    "note": "Vérification : Deux versants et pignon nets ; rectangle sur le toit principal. Contre-vérification : Toit à deux versants en tuiles avec pignon en façade, bien cadré par le rectangle."
+  },
+  {
+    "id": "toit-a-deux-pans-09",
+    "termId": "toit-a-deux-pans",
+    "fichier": "commons/toit-a-deux-pans-09.webp",
+    "rectangle": null,
+    "lieu": "Charleston, États-Unis",
+    "source": "commons",
+    "auteur": "ProfReader",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:168_Smith_(2026).jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit à deux pans très lisible, photo claire. Contre-vérification : Maison au toit à deux pans en tôle avec pignon visible, forme lisible sans ambiguïté."
+  },
+  {
     "id": "toit-a-quatre-pans-03",
     "termId": "toit-a-quatre-pans",
     "fichier": "commons/toit-a-quatre-pans-03.webp",
@@ -4904,6 +5038,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:RUS-2016-Bolshoi_Zayatsky_Island-Stone_House.jpg",
     "statut": "validée",
     "note": "Vérification : Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture. Contre-vérification : Toit à quatre versants avec faîtage court et croupes, sans pignon, rectangle juste."
+  },
+  {
+    "id": "toit-monopente-10",
+    "termId": "toit-monopente",
+    "fichier": "commons/toit-monopente-10.webp",
+    "rectangle": null,
+    "lieu": "Suède",
+    "source": "commons",
+    "auteur": "Taxelson",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:HultsfredsHembygdspark98.JPG",
+    "statut": "validée",
+    "note": "Vérification : Un seul versant incliné, net et dominant. Contre-vérification : Abri en rondins couvert d'un unique versant incliné : toit monopente évident."
   },
   {
     "id": "demi-croupe-04",
@@ -4996,6 +5143,24 @@
     "note": "Vérification : Forme en V très lisible, rectangle vérifié. Contre-vérification : Couverture de station-service à deux versants relevés vers l'extérieur et inclinés vers le centre en V : toit papillon."
   },
   {
+    "id": "avant-toit-09",
+    "termId": "avant-toit",
+    "fichier": "commons/avant-toit-09.webp",
+    "rectangle": {
+      "x": 0.02,
+      "y": 0.44,
+      "largeur": 0.91,
+      "hauteur": 0.17
+    },
+    "lieu": "Kawit, Philippines",
+    "source": "commons",
+    "auteur": "Ramon FVelasquez",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:AguinaldoShrinejf0990_08.JPG",
+    "statut": "validée",
+    "note": "Vérification : Débord de toit au-dessus du mur bien lisible. Contre-vérification : Débord de toit vu par-dessous avec ses consoles, en saillie de la façade, désigné par le rectangle."
+  },
+  {
     "id": "charpente-02",
     "termId": "charpente",
     "fichier": "commons/charpente-02.webp",
@@ -5007,6 +5172,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Roof_Timbers_-_geograph.org.uk_-_1740919.jpg",
     "statut": "validée",
     "note": "Vérification : Ossature de toit en bois lisible et dominante. Contre-vérification : Ossature de bois apparente vue de dessous (entraits, arbalétriers, chevrons), la charpente dans son ensemble."
+  },
+  {
+    "id": "charpente-12",
+    "termId": "charpente",
+    "fichier": "commons/charpente-12.webp",
+    "rectangle": null,
+    "lieu": "Hautecombe, Savoie, France",
+    "source": "commons",
+    "auteur": "Florian Pépellin",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Plafond_Charpente_Grange_Bateli%C3%A8re_%C3%A0_Hautecombe_(juillet_2026).JPG",
+    "statut": "validée",
+    "note": "Vérification : Charpente bois nette et dominante. Contre-vérification : Charpente en bois apparente (fermes, pannes, chevrons) vue de l'intérieur : terme générique juste."
   },
   {
     "id": "liteau-02",
@@ -5043,6 +5221,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Panneau_sandwich.jpg",
     "statut": "validée",
     "note": "Vérification : Objet clair et dominant, âme isolante bien visible ; étiquette de marque sans donner la réponse. Contre-vérification : Échantillon de panneau de couverture nervuré vert dont la tranche montre nettement l'âme en mousse entre deux tôles ; rectangle bien placé."
+  },
+  {
+    "id": "plaque-translucide-05",
+    "termId": "plaque-translucide",
+    "fichier": "commons/plaque-translucide-05.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.13,
+      "largeur": 1,
+      "hauteur": 0.19
+    },
+    "lieu": "Fujikawaguchiko, Japon",
+    "source": "commons",
+    "auteur": "GiveMeMollusks",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Unmanned_vegetable_stall_in_Fujikawaguchiko,_Japan.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plaques ondulées translucides nettes ; rectangle sur le toit, hors panneaux de prix. Contre-vérification : Couverture en plaques ondulées translucides laissant passer la lumière, bien cadrée."
   },
   {
     "id": "tuile-mecanique-03",
@@ -5254,6 +5450,19 @@
     "note": "Vérification : Panneaux soudés à mailles régulières, typiques du treillis soudé pour dalles. Contre-vérification : Gros plan d'un panneau de treillis à mailles régulières en barres crénelées soudées posé sur du gravier ; lisible et sans ambiguïté."
   },
   {
+    "id": "treillis-soude-09",
+    "termId": "treillis-soude",
+    "fichier": "commons/treillis-soude-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Lamiot",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Assemblage_de_fers_%C3%A0_b%C3%A9ton_soud%C3%A9s_Lille_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Maille soudée orthogonale bien lisible ; typique du treillis soudé. Contre-vérification : Panneaux empilés de barres d'acier soudées en mailles rectangulaires : treillis soudé clair."
+  },
+  {
     "id": "cale-d-armature-06",
     "termId": "cale-d-armature",
     "fichier": "commons/cale-d-armature-06.webp",
@@ -5422,9 +5631,9 @@
     "note": "Vérification : Deux trous de boulin lisibles dans un mur ancien ; rectangle sur eux. Contre-vérification : Mur ancien en moellons avec deux cavités rectangulaires alignées, désignées par le rectangle : trous de boulin plausibles et lisibles."
   },
   {
-    "id": "chape-liquide-04",
-    "termId": "chape-liquide",
-    "fichier": "commons/chape-liquide-04.webp",
+    "id": "chape-10",
+    "termId": "chape",
+    "fichier": "commons/chape-10.webp",
     "rectangle": null,
     "lieu": "",
     "source": "commons",
@@ -5432,7 +5641,33 @@
     "licence": "CC BY-SA 4.0",
     "lienSource": "https://commons.wikimedia.org/wiki/File:LiquidScreed.jpg",
     "statut": "validée",
-    "note": "Vérification : Surface autonivelante très lisse, typique d'une chape liquide. Contre-vérification : Sol de chantier fraîchement coulé, fluide, parfaitement plan et miroitant : chape liquide autonivelante typique."
+    "note": "Vérification : Chape (liquide) lisse bien visible sur tout le sol ; terme incompatible avec chape liquide donc acceptable. Contre-vérification : Chape fluide fraîchement coulée et parfaitement plane sur le plancher d'une pièce en chantier."
+  },
+  {
+    "id": "chape-11",
+    "termId": "chape",
+    "fichier": "commons/chape-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Hundehalter",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Estrichverlegung_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chape fraîche dressée sur toute la pièce, bande de rive visible ; un peu sombre mais claire. Contre-vérification : Chape de mortier dressée à la règle dans une pièce, bande périphérique bleue visible : chape typique."
+  },
+  {
+    "id": "ciment-10",
+    "termId": "ciment",
+    "fichier": "commons/ciment-10.webp",
+    "rectangle": null,
+    "lieu": "Hsinchu, Taïwan",
+    "source": "commons",
+    "auteur": "Solomon203",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Asia_Cement_Portland_Cement_Type1_50kg_20170624.jpg",
+    "statut": "validée",
+    "note": "Vérification : Sac de ciment net et dominant ; inscriptions en chinois, sans mot français donnant la réponse. Contre-vérification : Sac de ciment Portland de 50 kg en gros plan : ciment livré en sac, sans ambiguïté."
   },
   {
     "id": "sable-03",
@@ -5459,6 +5694,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Pile_of_Sand_for_Building_in_Anambra_State.jpg",
     "statut": "validée",
     "note": "Vérification : Tas de sable net et dominant, matière reconnaissable. Contre-vérification : Gros tas de sable fin occupant toute l'image ; identification évidente."
+  },
+  {
+    "id": "gravier-12",
+    "termId": "gravier",
+    "fichier": "commons/gravier-12.webp",
+    "rectangle": null,
+    "lieu": "Klöch, Autriche",
+    "source": "commons",
+    "auteur": "Geolina163",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kl%C3%B6ch_Basaltkies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tas de gravier clairs et dominants, grain bien visible. Contre-vérification : Tas de pierre concassée grise sur un dépôt : gravier évident."
   },
   {
     "id": "poutre-03",
@@ -5547,6 +5795,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Steel_Frame_Commercial_Building_Under_Construction,_Ann_Arbor_Township,_Michigan.JPG",
     "statut": "validée",
     "note": "Vérification : Poteaux, poutres et diagonales apparents, bien lisible. Contre-vérification : Structure en acier de plusieurs niveaux, poteaux, poutres et contreventements visibles ; rectangle englobant toute l'ossature."
+  },
+  {
+    "id": "profile-en-i-07",
+    "termId": "profile-en-i",
+    "fichier": "commons/profile-en-i-07.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.12,
+      "largeur": 0.52,
+      "hauteur": 0.78
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Sastognuti",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stahltr%C3%A4ger_(steel_profile).jpg",
+    "statut": "validée",
+    "note": "Vérification : Section en I nette ; ailes assez étroites par rapport à la hauteur (type IPE) ; rectangle sur le profilé central. Contre-vérification : Extrémité d'une poutrelle d'acier montrant nettement sa section en I, bien cadrée."
   },
   {
     "id": "profile-en-h-03",

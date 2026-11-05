@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Adnet, Autriche",
       "note": "Pentures, pas paumelles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande porte de grange rouge en planches avec un arrêt de volet noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de paumelle visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande penture ornementale peinte sur une porte de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Penture, pas une paumelle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Charnière à deux ailes vissée sur l'angle d'une malle recouverte de tissu, étiquette de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière de meuble photographiée comme objet de collection, pas une paumelle de menuiserie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande penture noire en cœur sur une porte de bois cloutée d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Penture, pas une paumelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poutre sombre dans un angle de maçonnerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vitrine de musée avec pentures et ferrures anciennes en fer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Collection d'objets mélangés, rien d'identifiable."
     }
   ]
 }

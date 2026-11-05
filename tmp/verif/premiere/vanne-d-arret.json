@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Vanne quart de tour à poignée rouge, cadrée ; texte de marque sans gêne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vanne inox à bride et levier long posée sur un sol dallé.",
+      "verdict": "rejetée",
+      "note": "Vanne industrielle haute pression, pas une vanne de bâtiment.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fond de regard avec plusieurs compteurs d'eau et robinets à volant.",
+      "verdict": "rejetée",
+      "note": "Compteurs dominants, vannes à volant : confusion.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Énorme vanne sphérique verte et rouge dans une centrale hydroélectrique.",
+      "verdict": "rejetée",
+      "note": "Équipement industriel géant, marque visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rangée de robinets à boule à poignée jaune avec manomètres.",
+      "verdict": "rejetée",
+      "note": "Manomètres au premier plan, banc d'essai.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vannes à boule inox à brides en stock sur le sol.",
+      "verdict": "rejetée",
+      "note": "Vannes industrielles sans manette, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Noir et blanc : ouvrier dans un grand conduit circulaire devant une paroi.",
+      "verdict": "rejetée",
+      "note": "Archive, pas une vanne d'arrêt lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

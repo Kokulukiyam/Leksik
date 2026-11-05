@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Bad Harzburg, Allemagne",
       "note": "Volume clos de l'escalier bien lisible ; image entière."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue plongeante sur un escalier tournant à rampe en fer et marbre, carreaux de zellige, dans un hôtel.",
+      "verdict": "rejetée",
+      "note": "Cage vue d'en haut, mais l'escalier et la rampe dominent ; ambiguë avec escalier tournant ou rampe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cage d'escalier d'un immeuble, murs roses encadrant deux fenêtres, palier et volée au premier plan.",
+      "verdict": "validée",
+      "lieu": "Alaverdi, Arménie",
+      "note": "Volume vertical fermé par ses murs, avec fenêtres, clairement une cage d'escalier ; l'état dégradé ne gêne pas.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier en bois dans un puits circulaire en brique et pierre, donjon de château.",
+      "verdict": "rejetée",
+      "note": "Escalier de donjon, image atypique et peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue d'en haut sur un hall avec un bar et des personnes, escalier à main courante sur le côté.",
+      "verdict": "rejetée",
+      "note": "Cage non lisible, personnes au premier plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Noir et blanc : vue vers le haut dans une cage d'escalier sombre, poutres et plafond.",
+      "verdict": "rejetée",
+      "note": "Sombre et abstraite.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Volée droite d'escalier avec main courante métallique contre un mur jaune.",
+      "verdict": "rejetée",
+      "note": "Montre une volée, pas le volume de la cage.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

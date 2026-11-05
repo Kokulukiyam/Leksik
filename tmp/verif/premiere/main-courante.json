@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Newcastle, Royaume-Uni",
       "note": "Barre continue nette et dominante ; supports atypiques."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux mains courantes tubulaires en inox, en perspective au-dessus d'un escalier de granit, mur coloré flou au fond.",
+      "verdict": "validée",
+      "lieu": "",
+      "note": "Les barres à saisir occupent tout l'axe de l'image, nettes et sans ambiguïté.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite barrière en bois rustique au bord d'un à-pic de montagne.",
+      "verdict": "rejetée",
+      "note": "Pas de main courante d'escalier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Passerelle en bois dans une forêt avec garde-corps en bois.",
+      "verdict": "rejetée",
+      "note": "Garde-corps de passerelle, pas d'escalier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Banc et rampe tubulaire devant une porte vitrée dans une serre.",
+      "verdict": "rejetée",
+      "note": "Rampe peu visible, banc dominant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Descente d'escalier voûtée en pierre avec une fine main courante métallique sur le côté.",
+      "verdict": "rejetée",
+      "note": "Main courante petite et peu lisible dans la voûte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Femme descendant un escalier extérieur, garde-corps en fer à béton au premier plan.",
+      "verdict": "rejetée",
+      "note": "Personne dominante, garde-corps de fortune.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

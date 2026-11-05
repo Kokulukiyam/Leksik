@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Église en brique au loin, au bout d'un escalier extérieur à rampe métallique.",
+      "verdict": "rejetée",
+      "note": "Sous-face de la dalle inclinée non visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux détails de balustrade en bois tourné.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Marches en béton sous un pont avec gravats et dalles brisées.",
+      "verdict": "rejetée",
+      "note": "Paillasse non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Hall d'exposition avec un escalier métallique autour d'une trémie ovale.",
+      "verdict": "rejetée",
+      "note": "Escalier métallique, pas de paillasse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur un angle de marche en béton fissuré.",
+      "verdict": "rejetée",
+      "note": "Montre la marche, pas la paillasse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue plongeante sur une cage d'escalier à rampe en fer et main courante en bois, marches en marbre.",
+      "verdict": "rejetée",
+      "note": "Montre la cage et la rampe, paillasse non visible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

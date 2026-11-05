@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de portail visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couloir couvert en noir et blanc avec des passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Portillon en fer forgé gris sur un chemin de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portillon battant, pas un portail coulissant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Route de campagne sous un portique de bienvenue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun portail."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Stéréographie ancienne sépia d'une porte de ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, pas de portail coulissant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ruines de briques avec grands arcs et clôture basse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue de l'intérieur d'un salon de coiffure ouvert sur la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

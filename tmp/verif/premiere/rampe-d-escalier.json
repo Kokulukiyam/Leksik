@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet, chat."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ancienne voie ferrée vue d'un pont, amas de ferrailles et de grilles sur le côté.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Allée en pente douce bordée de mains courantes métalliques menant à un jardin.",
+      "verdict": "rejetée",
+      "note": "Rampe d'accès, pas d'escalier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier métallique extérieur peint en ocre, garde-corps à lisses horizontales suivant la pente des volées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.11,
+        "largeur": 0.7,
+        "hauteur": 0.76
+      },
+      "note": "Garde-corps incliné qui suit la volée, net ; rectangle sur la rampe de la volée centrale.",
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur une main courante tubulaire et ses supports blancs, sur un palier.",
+      "verdict": "rejetée",
+      "note": "Montre la main courante et ses supports, pas la rampe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Dessin aquarellé d'une rampe en fer forgé doré (Lequeu).",
+      "verdict": "rejetée",
+      "note": "Dessin, pas une photo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux mains courantes tubulaires en inox en perspective au-dessus de marches sombres.",
+      "verdict": "rejetée",
+      "note": "Main courante seule, ambiguë avec le terme voisin.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

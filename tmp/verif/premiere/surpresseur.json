@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pompe manuelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cour afghane avec pompe à main, bidons jaunes, villageois et soldat.",
+      "verdict": "rejetée",
+      "note": "Pompe à main, pas un surpresseur ; scène de rue.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Motopompe d'irrigation sur dalle au bord d'un champ, bâchée.",
+      "verdict": "rejetée",
+      "note": "Pompe agricole, pas de réservoir sous pression.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Même motopompe d'irrigation devant un champ.",
+      "verdict": "rejetée",
+      "note": "Pompe agricole, pas un surpresseur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fillette actionnant une pompe à bras, seau au pied.",
+      "verdict": "rejetée",
+      "note": "Pompe à bras.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fillette abaissant le levier d'une pompe à bras.",
+      "verdict": "rejetée",
+      "note": "Pompe à bras.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fillette debout devant une pompe à bras, levier relevé.",
+      "verdict": "rejetée",
+      "note": "Pompe à bras.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

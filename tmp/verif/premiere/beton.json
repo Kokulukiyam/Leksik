@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Parpaings."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trois moules cubiques métalliques pour éprouvettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moules, pas du béton."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur en béton banché fortement taché de rouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton fortement coloré, non gris typique, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fondation en béton et brique sous une gare, ouvrier au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier confuse, matériaux mêlés."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan d'un trottoir ancien à granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour du gravier ou de l'asphalte."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un chantier de canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Archive, béton non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plan ou dessin technique d'ouvrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

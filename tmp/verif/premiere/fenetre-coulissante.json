@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Contre-jour, illisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite fenêtre grillagée dans un mur crépi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre fixe à grille, rien ne montre un coulissement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Salle de classe avec rangées de bancs et fenêtres lointaines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres minuscules, mécanisme non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre ancienne en bois de nuit à côté d'un lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre à battants, sombre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouverture noire dans un mur ocre avec une arme sur le rebord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de fenêtre coulissante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Livres sur un rebord devant une fenêtre à contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mécanisme invisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade carrelée avec fenêtres à volets roulants gris fermés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets roulants, pas de fenêtre coulissante lisible."
     }
   ]
 }

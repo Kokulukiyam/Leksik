@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Kharkiv",
       "note": "Texte, pas de cuvette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ventouses de déboucheur en vrac dans un rayon de magasin.",
+      "verdict": "rejetée",
+      "note": "Pas une cuvette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cabine de WC étroite avec chasse haute noire, abattant noir et cuvette au fond.",
+      "verdict": "rejetée",
+      "note": "Cuvette petite, chasse haute dominante : confusion avec réservoir.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Noir et blanc : cour d'usine de céramique avec sanitaires empilés.",
+      "verdict": "rejetée",
+      "note": "Vue d'usine, éléments minuscules.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toilette sèche en bois et inox sur fond blanc.",
+      "verdict": "rejetée",
+      "note": "Toilette sèche, pas une cuvette en céramique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cabine de WC avec cuvette blanche petite au fond, barres d'appui.",
+      "verdict": "rejetée",
+      "note": "Cuvette trop petite, scène chargée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Local de stockage de supermarché avec armoire, étagères et panneau.",
+      "verdict": "rejetée",
+      "note": "Aucune cuvette visible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

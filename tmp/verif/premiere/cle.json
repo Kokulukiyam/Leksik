@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Floue et logo visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Main tenant un trousseau de clés avec porte-clés en forme de maison.",
+      "verdict": "rejetée",
+      "note": "Clés petites et mêlées au porte-clés, photo publicitaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande clé en métal à panneton crénelé posée sur une pierre devant un lac.",
+      "verdict": "validée",
+      "note": "Clé nette, dominante, tige, anneau et panneton visibles ; le texte de la marque ne donne pas la réponse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Clé ancienne dans une serrure de porte, en noir et blanc, bibliothèque floue.",
+      "verdict": "rejetée",
+      "note": "Noir et blanc, clé petite et en partie cachée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Panneau d'information imprimé avec photos et texte sur une évasion.",
+      "verdict": "rejetée",
+      "note": "Document texte, clé minuscule.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Clé plate cassée en deux morceaux sur un plan de bois.",
+      "verdict": "rejetée",
+      "note": "Clé cassée, image ambiguë.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Selle de vélo avec étiquettes et petite clé accrochée.",
+      "verdict": "rejetée",
+      "note": "Clé trop petite, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

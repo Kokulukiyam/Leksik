@@ -1647,6 +1647,18 @@
     ]
   },
   {
+    "id": "garde-corps-a-barreaudage",
+    "terme": "le garde-corps à barreaudage",
+    "definition": "Garde-corps métallique à barreaux verticaux rapprochés fixés entre une lisse haute et une lisse basse.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 1,
+    "incompatibles": [
+      "garde-corps",
+      "balcon",
+      "barreaudage"
+    ]
+  },
+  {
     "id": "garde-corps-en-fer-forge",
     "terme": "le garde-corps en fer forgé",
     "definition": "Garde-corps en fers forgés et assemblés en volutes ou motifs décoratifs.",
@@ -1764,6 +1776,13 @@
     ]
   },
   {
+    "id": "toiture",
+    "terme": "la toiture",
+    "definition": "Ensemble des ouvrages qui couvrent et ferment le haut d'un bâtiment, vus de l'extérieur.",
+    "categorie": "Toitures",
+    "priorite": 1
+  },
+  {
     "id": "terrasse-accessible",
     "terme": "la terrasse accessible",
     "definition": "Toiture-terrasse aménagée pour circuler et séjourner, avec revêtement de sol et garde-corps.",
@@ -1817,6 +1836,17 @@
     ]
   },
   {
+    "id": "toit-monopente",
+    "terme": "le toit monopente",
+    "definition": "Toit formé d'un seul versant incliné.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "toiture",
+      "versant"
+    ]
+  },
+  {
     "id": "demi-croupe",
     "terme": "la demi-croupe",
     "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
@@ -1863,6 +1893,16 @@
     ]
   },
   {
+    "id": "avant-toit",
+    "terme": "l'avant-toit",
+    "definition": "Partie du toit qui déborde en avant de la façade pour protéger le mur de la pluie et du soleil.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "toiture"
+    ]
+  },
+  {
     "id": "charpente",
     "terme": "la charpente",
     "definition": "Ossature en bois ou en métal qui porte la couverture d'un toit.",
@@ -1896,6 +1936,18 @@
     "incompatibles": [
       "bac-acier",
       "plaque-translucide"
+    ]
+  },
+  {
+    "id": "plaque-translucide",
+    "terme": "la plaque translucide",
+    "definition": "Plaque de couverture en polycarbonate ou polyester qui laisse passer la lumière, posée parmi les tôles.",
+    "categorie": "Toitures",
+    "priorite": 1,
+    "incompatibles": [
+      "bac-acier",
+      "tole-ondulee",
+      "polycarbonate-alveolaire"
     ]
   },
   {
@@ -2104,14 +2156,23 @@
     ]
   },
   {
-    "id": "chape-liquide",
-    "terme": "la chape liquide",
-    "definition": "Chape fluide coulée à la pompe, qui se met de niveau d'elle-même et donne une surface très lisse.",
+    "id": "chape",
+    "terme": "la chape",
+    "definition": "Couche de mortier ou de béton coulée et dressée sur un plancher pour obtenir une surface plane avant le revêtement de sol.",
     "categorie": "Gros œuvre et maçonnerie",
-    "priorite": 3,
+    "priorite": 1,
     "incompatibles": [
-      "chape",
-      "ragreage"
+      "dallage"
+    ]
+  },
+  {
+    "id": "ciment",
+    "terme": "le ciment",
+    "definition": "Poudre grise qui durcit avec l'eau, base du mortier et du béton, livrée en sacs sur le chantier.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "incompatibles": [
+      "mortier"
     ]
   },
   {
@@ -2120,6 +2181,16 @@
     "definition": "Granulat fin livré en tas sur le chantier, mélangé au ciment pour le mortier et le béton.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 1
+  },
+  {
+    "id": "gravier",
+    "terme": "le gravier",
+    "definition": "Granulat de petits cailloux ou de pierre concassée, comme le basalte à Dakar, livré en tas pour fabriquer le béton.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 1,
+    "incompatibles": [
+      "sable"
+    ]
   },
   {
     "id": "poutre",
@@ -2178,6 +2249,17 @@
       "profile-en-h",
       "charpente-metallique",
       "ferme-metallique"
+    ]
+  },
+  {
+    "id": "profile-en-i",
+    "terme": "le profilé en I",
+    "definition": "Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.",
+    "categorie": "Structure",
+    "priorite": 1,
+    "incompatibles": [
+      "profile-en-h",
+      "poutre"
     ]
   },
   {

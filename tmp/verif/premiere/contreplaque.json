@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Gare de Zwolle, Pays-Bas",
       "note": "Panneaux de contreplaqué lisibles ; rampe rouge au premier plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cônes de chantier posés sur des plaques de bois et une grille d'avaloir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contreplaqué en second plan, tranche non visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Archive noir et blanc avec légende, supports de moteur d'avion en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien avec texte, pièces peu lisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtres d'un mur blanc condamnées par des panneaux de bois, graffiti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux d'aspect OSB, abîmés, ambigus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Soldat sangle des piles de planches empilées sur un camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de personnage, tranches couvertes d'inscriptions."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grille d'avaloir posée sur une plaque de bois, cône orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet principal : la grille."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau clair à trois couches épaisses posé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau trois plis en bois massif (Accoya), pas un contreplaqué typique à fines feuilles."
     }
   ]
 }

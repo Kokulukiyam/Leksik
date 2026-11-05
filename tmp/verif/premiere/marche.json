@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Wyndmoor, Pennsylvanie",
       "note": "Ancienne, marches petites."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trois marches en dalles de pierre usées devant le portail d'une église, vues de face.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.33,
+        "largeur": 0.84,
+        "hauteur": 0.28
+      },
+      "lieu": "Boô-Silhen, Hautes-Pyrénées, France",
+      "note": "Marches de pierre nettes ; rectangle sur la marche centrale pour désigner une seule marche."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hall de gare avec une descente d'escalier vers le quai.",
+      "verdict": "rejetée",
+      "note": "Marches petites et secondaires.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur une marche et une contremarche en stratifié avec profilé de nez de marche en laiton.",
+      "verdict": "rejetée",
+      "note": "Ambigu avec nez de marche et contremarche.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Volée d'escalier à marches métalliques ajourées vue d'en haut, mur en béton.",
+      "verdict": "rejetée",
+      "note": "Vue d'ensemble de volée, marche non isolée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Terrasse monumentale à balustres sur une colline, avec ciel bleu.",
+      "verdict": "rejetée",
+      "note": "Marches à peine visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Large escalier sombre en noir et blanc vu depuis un hall, avec mains courantes.",
+      "verdict": "rejetée",
+      "note": "Sombre, marche non isolée.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

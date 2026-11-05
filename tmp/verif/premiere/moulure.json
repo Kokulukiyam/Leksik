@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure et texte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de salle de jeux à panneaux en relief jaunes, enseigne Premier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement à panneaux, enseigne et texte visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Frise sculptée de bas-relief au-dessus d'un arc, sous une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bas-relief ou frise, pas une moulure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Planche de catalogue ancien avec profils de moulures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fragment de pierre à inscription dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moulure non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Planche de catalogue ancien avec profils de moulures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fragment de pierre à frise d'oves et de godrons, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut aussi illustrer l'ove ou la frise, terme voisin."
     }
   ]
 }

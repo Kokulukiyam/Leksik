@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Acier non lisible, image sans rapport clair."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fût de bois sombre avec veinage doré, très contrasté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de l'acier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poteau et platine galvanisés avec une cale rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Acier galvanisé, terme voisin (incompatible mais déjà similaire à une rejetée), cadrage confus."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Charpente métallique en treillis sous le toit d'une gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferme métallique, éclairage jaune, matériau peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pile de panneaux de treillis soudé d'armature rouillés posés sur un dallage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.01,
+        "y": 0.22,
+        "largeur": 0.98,
+        "hauteur": 0.76
+      },
+      "lieu": "La Palma, Espagne",
+      "note": "Armatures en acier, clairement visibles, mentionnées dans la définition."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grues mobiles levant une poutre métallique au-dessus d'une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier, métal petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Foreuse de chantier sur terrain nu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin, pas de matériau."
     }
   ]
 }

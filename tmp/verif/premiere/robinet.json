@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Leonardtown, États-Unis",
       "note": "Ressemble à une vanne/raccord."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d'un robinet extérieur chromé fixé à un mur de briques, bec fileté.",
+      "verdict": "validée",
+      "note": "Robinet mural typique, net et dominant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Évier inox posé sur une table bleue avec un petit robinet bleu, dans la rue.",
+      "verdict": "rejetée",
+      "note": "Évier dominant, robinet minuscule.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur une manette de robinet et son embase au-dessus d'un bac.",
+      "verdict": "rejetée",
+      "note": "Seule la manette est visible, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Robinet monocommande chromé sur un lavabo blanc carrelé.",
+      "verdict": "rejetée",
+      "note": "Lavabo/mitigeur : confusion possible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mitigeur de cuisine à col de cygne sur un évier, devant une fenêtre.",
+      "verdict": "rejetée",
+      "note": "Évier et mitigeur, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Robinet chromé à bec en U carré sur fond blanc, marque Quooker au pied.",
+      "verdict": "validée",
+      "note": "Robinet seul, net et isolé.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

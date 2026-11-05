@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Palier non dominant, sombre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cage d'escalier claire avec deux volées, un chariot de supermarché au premier plan.",
+      "verdict": "rejetée",
+      "note": "Palier peu identifiable, objet distrayant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux détails de balustrade en bois tourné.",
+      "verdict": "rejetée",
+      "note": "Montre la rampe, pas un palier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Flacon de parfum et figurine posés sur un escalier métallique vert.",
+      "verdict": "rejetée",
+      "note": "Nature morte hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sol damier noir et blanc au pied d'un escalier à rampe en fer forgé doré, Versailles.",
+      "verdict": "rejetée",
+      "note": "Sol en damier ambigu (palier ou simple sol), vue incomplète.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier étroit et raide descendant entre deux murs enduits vers une porte sombre.",
+      "verdict": "rejetée",
+      "note": "Pas de palier visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan flou sur une main courante en pierre et des balustres.",
+      "verdict": "rejetée",
+      "note": "Flou, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

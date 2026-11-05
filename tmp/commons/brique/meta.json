@@ -7,6 +7,20 @@
     "requetes": [
       "incategory:\"Brick walls\"",
       "brick wall texture"
+    ],
+    "requetes2": [
+      "red brick wall",
+      "mur de briques",
+      "brick masonry wall"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "brique-creuse"
+    ],
+    "categoriesCommons": [
+      "Category:Bricks",
+      "Category:Brick walls",
+      "Category:Brickwork"
     ]
   },
   "candidats": [
@@ -138,6 +152,114 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg/1280px-2019-07-08_-_Appareillage_de_briques_et_de_galets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2021-06-10 Pferdeturm (Hannover).JPG",
+      "description": "Blick auf den Pferdeturm in Hannover Kleefeld, rechts ein Teil des Eisstadions am Pferdeturm",
+      "categories": [
+        "Bricks",
+        "Kleefeld (Hannover)",
+        "Pferdeturm (Hannover)",
+        "Wikipedia Hannover 2021 Contributions"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021-06-10_Pferdeturm_(Hannover).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2021-06-10_Pferdeturm_%28Hannover%29.JPG/1280px-2021-06-10_Pferdeturm_%28Hannover%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1421,
+      "hauteur": 2131
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Beach or country dress with the full dirndl skirt, designed by Dorothy Cox, 1948.jpg",
+      "description": "The beach or country dress with the full dirndl skirt iiiquilted printed cotton with a cover-up top by Dorothy Cox Identifier : ladieshomejourna65janwyet ( find matches ) Title : The Ladies' home journal Year : 1889 ( 1880s ) Authors : Wyeth, N. C. (Newell Convers), 1882-1945 Subjects : Women's periodicals Janice Bluestein Longone Culinary Archive Publisher : Philadelphia : (s.n.) Contributing Library : Internet Archive Digitizing Sponsor : Internet Archive View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see ",
+      "categories": [
+        "Brick walls",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Fashion in 1948",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Internet Archive Book Images Flickr stream",
+        "Files from Flickr's 'The Commons'",
+        "Ladies' Home Journal, 1948",
+        "Dorothy Cox",
+        "Deletion requests August 2026"
+      ],
+      "auteur": "Internet Archive Book Images",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beach_or_country_dress_with_the_full_dirndl_skirt,_designed_by_Dorothy_Cox,_1948.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Beach_or_country_dress_with_the_full_dirndl_skirt%2C_designed_by_Dorothy_Cox%2C_1948.jpg/1280px-Beach_or_country_dress_with_the_full_dirndl_skirt%2C_designed_by_Dorothy_Cox%2C_1948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1492,
+      "hauteur": 2260
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Ceglyana kladka.jpg",
+      "description": "Декоративна кладка",
+      "categories": [
+        "Self-published work",
+        "Brickwork",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Woodengood",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ceglyana_kladka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ceglyana_kladka.jpg/1280px-Ceglyana_kladka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2826,
+      "hauteur": 3956
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2000 year old bricks.jpg",
+      "description": "जमदग्नि ऋषि के आश्रम की नीव की ईंट",
+      "categories": [
+        "Bricks",
+        "Self-published work",
+        "Taken with Vivo Y20"
+      ],
+      "auteur": "DRDEVIPRASADSINGH",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000_year_old_bricks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2000_year_old_bricks.jpg/1280px-2000_year_old_bricks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:207 366 - Dreiecke Triangles (28089308283).jpg",
+      "description": "One year, two perspectives. This image is part of a 365(+1) project, my friend &lt;a href=\" https://www.flickr.com/photos/tiloschaffrik \"&gt;Tilo&lt;/a&gt; and I are working on. If you want to see more, check out our website &lt;a href=\" http://zweisichtig.de/ \" rel=\"nofollow\"&gt;zweisichtig.de&lt;/a&gt;.",
+      "categories": [
+        "Brick walls",
+        "Flickr images reviewed by FlickreviewR 2",
+        "MH2024",
+        "Boris Thaser (photographer)"
+      ],
+      "auteur": "Boris Thaser from Augsburg, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:207_366_-_Dreiecke_Triangles_(28089308283).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg/1280px-207_366_-_Dreiecke_Triangles_%2828089308283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4886,
+      "hauteur": 3183
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dóm tér. Fortepan 92226.jpg",
+      "description": "Dóm tér.",
+      "categories": [
+        "Images from Fortepan",
+        "Images uploaded by Fæ",
+        "Brickwork",
+        "1939 in Szeged",
+        "Spirals in architecture"
+      ],
+      "auteur": "FOTO:Fortepan — ID 92226 : Adományozó/Donor: Ebner.",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:D%C3%B3m_t%C3%A9r._Fortepan_92226.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/D%C3%B3m_t%C3%A9r._Fortepan_92226.jpg/1280px-D%C3%B3m_t%C3%A9r._Fortepan_92226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3714,
+      "hauteur": 3639
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

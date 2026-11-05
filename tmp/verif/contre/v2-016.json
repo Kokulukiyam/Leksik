@@ -1,0 +1,22 @@
+[
+  {"cle": "dos-d-ane/12", "accord": true, "raison": "Bosse striée jaune et noir en travers de la chaussée, nettement désignée par le rectangle : dos-d'âne sans ambiguïté."},
+  {"cle": "marquage-au-sol/07", "accord": true, "raison": "Inscription « ONIBUS » peinte en blanc sur la chaussée, cadrée par le rectangle : marquage au sol évident."},
+  {"cle": "pilier-de-portail/09", "accord": true, "raison": "Pilier maçonné coiffé d'un chapeau et d'une boule, auquel est fixé le portail en fer forgé, bien cadré."},
+  {"cle": "facade/08", "accord": true, "raison": "Vue frontale complète d'une façade d'immeuble avec ses balcons et ouvertures : photo typique de façade."},
+  {"cle": "loggia/08", "accord": false, "raison": "Galerie couverte en retrait à arcades sous le toit : la série d'arcs fait de « l'arcade » une réponse plausible, ambigu."},
+  {"cle": "garde-corps-a-barreaudage/05", "accord": true, "raison": "Garde-corps métallique à barreaux verticaux rapprochés entre lisse basse et main courante, bien désigné."},
+  {"cle": "toiture/11", "accord": true, "raison": "Toit de chaume d'une maison vu de l'extérieur, encadré : toiture claire pour un terme générique."},
+  {"cle": "toit-a-deux-pans/07", "accord": true, "raison": "Toit à deux versants en tuiles avec pignon en façade, bien cadré par le rectangle."},
+  {"cle": "toit-a-deux-pans/09", "accord": true, "raison": "Maison au toit à deux pans en tôle avec pignon visible, forme lisible sans ambiguïté."},
+  {"cle": "toit-monopente/10", "accord": true, "raison": "Abri en rondins couvert d'un unique versant incliné : toit monopente évident."},
+  {"cle": "avant-toit/09", "accord": true, "raison": "Débord de toit vu par-dessous avec ses consoles, en saillie de la façade, désigné par le rectangle."},
+  {"cle": "charpente/12", "accord": true, "raison": "Charpente en bois apparente (fermes, pannes, chevrons) vue de l'intérieur : terme générique juste."},
+  {"cle": "plaque-translucide/05", "accord": true, "raison": "Couverture en plaques ondulées translucides laissant passer la lumière, bien cadrée."},
+  {"cle": "treillis-soude/09", "accord": true, "raison": "Panneaux empilés de barres d'acier soudées en mailles rectangulaires : treillis soudé clair."},
+  {"cle": "chape/10", "accord": true, "raison": "Chape fluide fraîchement coulée et parfaitement plane sur le plancher d'une pièce en chantier."},
+  {"cle": "chape/11", "accord": true, "raison": "Chape de mortier dressée à la règle dans une pièce, bande périphérique bleue visible : chape typique."},
+  {"cle": "ciment/10", "accord": true, "raison": "Sac de ciment Portland de 50 kg en gros plan : ciment livré en sac, sans ambiguïté."},
+  {"cle": "gravier/12", "accord": true, "raison": "Tas de pierre concassée grise sur un dépôt : gravier évident."},
+  {"cle": "profile-en-i/07", "accord": true, "raison": "Extrémité d'une poutrelle d'acier montrant nettement sa section en I, bien cadrée."},
+  {"cle": "ferme-metallique/08", "accord": true, "raison": "Halle couverte de fermes en profilés d'acier triangulés, clairement visibles dans le rectangle."}
+]

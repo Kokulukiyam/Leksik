@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Szeged",
       "note": "Lames en bois, pas un rideau en acier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle de plafond avec une baguette de bois et un faux plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Volet en planches de bois grises dans un encadrement de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volet de bois, pas un rideau métallique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Devanture de café de nuit avec rideaux à lames fermés sur fenêtre et porte, enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo sombre, enseigne en texte visible, et le rideau de fenêtre peut passer pour un volet roulant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtres ouvertes avec volets de bois à lames orientables jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Persiennes, pas un rideau métallique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble d'angle avec rez-de-chaussée fermé par des rideaux rouges à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideaux trop petits dans une façade complexe, ambigus avec des volets roulants."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne noir et blanc d'une rue avec bâtiment en brique et enfants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de rideau métallique."
     }
   ]
 }

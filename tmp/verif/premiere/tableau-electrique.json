@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Mayence, Allemagne",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coffret de distribution de chantier bleu en cadre galvanisé, prises CEE rouges et petits disjoncteurs, sur l'asphalte.",
+      "verdict": "rejetée",
+      "note": "Coffret de chantier à prises : confusion avec prise de courant, pas un tableau de logement.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieux panneau en bois verni avec interrupteurs à couteau et fils sur isolateurs en porcelaine.",
+      "verdict": "rejetée",
+      "note": "Installation ancienne, peu représentative d'un tableau électrique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand mur de musée couvert de câbles anciens, pupitre de commutateurs en bas.",
+      "verdict": "rejetée",
+      "note": "Installation de musée, éléments petits.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boîte en carton ancienne Volkswagen sur fond blanc.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de musée avec réseau de câbles et tableau de commutateurs anciens.",
+      "verdict": "rejetée",
+      "note": "Installation de musée, texte Homo Faber visible, pas clair.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit boîtier mural ancien de coupe-circuit et disjoncteur sur mur rose.",
+      "verdict": "rejetée",
+      "note": "Petit appareil ancien, pas un tableau lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

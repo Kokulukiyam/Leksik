@@ -3,11 +3,23 @@
     "id": "beton-brut",
     "terme": "le béton brut",
     "categorie": "Matériaux et revêtements",
-    "definition": "Béton laissé apparent tel qu'il sort du coffrage, avec la trace des planches.",
+    "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
     "requetes": [
       "béton brut",
       "board-formed concrete wall",
       "exposed concrete brutalist"
+    ],
+    "requetes2": [
+      "board-marked concrete",
+      "béton banché brut planches",
+      "board formed concrete texture"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Concrete walls"
+    ],
+    "incompatibles": [
+      "beton-desactive"
     ]
   },
   "candidats": [
@@ -128,6 +140,168 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg/1280px-MGH_Kon-ya-machi_Daimy%C5%8D_Bldg_the_b%C3%A9ton_brut_Daimy%C5%8D_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Levada do Caniçal, Parque Natural da Madeira - 2018-04-08 - IMG 3332.jpg",
+      "description": "Levada do Caniçal. Esta levada, exemplo da forma tradicional de aproveitamento humano dos recursos hídricos naturais da Madeira, em prática desde o povoamento da região no século XV, marca o limite do Parque Natural da Madeira. Edifícios industriais e indústria extratora dentro do Parque Natural da Madeira.",
+      "categories": [
+        "Corrugated iron buildings",
+        "Levada do Caniçal",
+        "Self-published work",
+        "Concrete walls",
+        "Quarries in Madeira",
+        "Industry buildings in Madeira",
+        "2018 in Machico",
+        "Buildings in Machico",
+        "Warehouses in Madeira",
+        "Uploaded via Campaign:wle-pt",
+        "Portugal photographs taken on 2018-04-08",
+        "April 2018 in Portugal",
+        "Photos taken by DarwIn",
+        "Grates in Portugal",
+        "Images from Wiki Loves Earth 2021 in Portugal",
+        "Images from Wiki Loves Earth 2021",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Sites indexed in the WDPA in Portugal with known IDs",
+        "Images from Wiki Loves Earth 2021 in Portugal to check",
+        "Images from Wiki Loves Earth missing SDC inception",
+        "Ageratina adenophora in Madeira",
+        "Wiki Loves Earth 2021 Human Rights and Environment Special Nomination"
+      ],
+      "auteur": "Paulo SP/ Wikimedia",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Levada_do_Cani%C3%A7al,_Parque_Natural_da_Madeira_-_2018-04-08_-_IMG_3332.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Levada_do_Cani%C3%A7al%2C_Parque_Natural_da_Madeira_-_2018-04-08_-_IMG_3332.jpg/1280px-Levada_do_Cani%C3%A7al%2C_Parque_Natural_da_Madeira_-_2018-04-08_-_IMG_3332.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Concrete shadow (17388255682).jpg",
+      "description": "Edinburgh",
+      "categories": [
+        "Edinburgh",
+        "Shadows",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Concrete walls",
+        "Photographs by Magnus Hagdorn"
+      ],
+      "auteur": "marsupium photography",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_shadow_(17388255682).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Concrete_shadow_%2817388255682%29.jpg/1280px-Concrete_shadow_%2817388255682%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Minas de Riotinto, Pozo Rotilio 3.jpg",
+      "description": "Detail of Rotilio pithead. Nerva, Huelva, Andalusia, Spain",
+      "categories": [
+        "Pozo Rotilio",
+        "Self-published work",
+        "Concrete walls",
+        "Rusty objects in Spain",
+        "Photographs by LBM1948",
+        "Rusty walls"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Minas_de_Riotinto,_Pozo_Rotilio_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Minas_de_Riotinto%2C_Pozo_Rotilio_3.jpg/1280px-Minas_de_Riotinto%2C_Pozo_Rotilio_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Friedhofskapelle Bad Holzhausen von Südosten.jpg",
+      "description": "Die Friedhofskapelle in Bad Holzhausen (Stadtteil von Preußisch Oldendorf ) aus südöstlicher Richtung.",
+      "categories": [
+        "Friedhofskapelle (Bad Holzhausen)",
+        "Self-published work",
+        "Concrete walls",
+        "Walls in North Rhine-Westphalia",
+        "Trees in Kreis Minden-Lübbecke",
+        "Ginkgo biloba in North Rhine-Westphalia",
+        "Summer 2018 in North Rhine-Westphalia",
+        "Files with coordinates missing SDC location of creation (52° N, 8° E)"
+      ],
+      "auteur": "Sonojak",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Friedhofskapelle_Bad_Holzhausen_von_S%C3%BCdosten.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Friedhofskapelle_Bad_Holzhausen_von_S%C3%BCdosten.jpg/1280px-Friedhofskapelle_Bad_Holzhausen_von_S%C3%BCdosten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:. - Flickr - Blandine Géneau.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Concrete walls",
+        "Photographs taken on 2008-01-22",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Blandine Géneau from Marseille, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:._-_Flickr_-_Blandine_G%C3%A9neau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/._-_Flickr_-_Blandine_G%C3%A9neau.jpg/1280px-._-_Flickr_-_Blandine_G%C3%A9neau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1862,
+      "hauteur": 1394
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Coastal Erosion-4230, Dingle Peninsula, Co. Kerry, Ireland.jpg",
+      "description": "View of Brandon Bay from the Maharees, north of Castlegregory, with a cloud covered Mt Brandon and Brandon Point (Srón Bhroin) in the left background.",
+      "categories": [
+        "Skylines in the Republic of Ireland",
+        "Seascapes of Ireland",
+        "Water reflections in Ireland",
+        "Coastal erosion in Ireland",
+        "Clouds and blue sky in Ireland",
+        "Remote views of mountains in Ireland",
+        "Mount Brandon",
+        "Tombolos",
+        "Ripples (water waves)",
+        "Beach erosion",
+        "Tide pools",
+        "Brandon Bay",
+        "Dingle Way",
+        "Mountains with clouds in Ireland",
+        "Self-published work",
+        "Concrete walls",
+        "Views from beaches",
+        "Beaches in spring",
+        "Scenic drives in Ireland",
+        "Water reflections of clouds",
+        "Spring in County Kerry",
+        "Damaged seawalls",
+        "Reflections in still water",
+        "Coasts of County Kerry",
+        "Views of County Kerry",
+        "White clouds with blue sky background",
+        "Sunny and shady mountainsides",
+        "Clouds from below",
+        "Cloud shapes",
+        "High spring tides",
+        "Floating algae",
+        "Maharees Peninsula",
+        "Brandon Head",
+        "Coasts at high tide"
+      ],
+      "auteur": "Maoileann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coastal_Erosion-4230,_Dingle_Peninsula,_Co._Kerry,_Ireland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Coastal_Erosion-4230%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg/1280px-Coastal_Erosion-4230%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

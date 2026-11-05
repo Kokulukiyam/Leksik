@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle de balustrade verte vue en contre-plongée, peu nette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fer peint, forme incertaine, mal éclairé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grand portail en arc de fer ornementé entre deux piliers de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Beau portail mais ensemble complexe ; plafond de 3 images atteint, la 11 est plus nette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grille ornementale noire dans une ouverture de muret de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille petite, entourée de brique et de végétation."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade classique avec garde-corps et grilles noires, entrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferronnerie accessoire."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan d'une grille à volutes, enroulements et rosettes dorées en fer forgé, sur pavés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bratislava, Slovaquie",
+      "note": "Volutes et barres tordues nettes, remplissent tout le cadre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Objet métallique tordu sur fond vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet d'art ou antiquité, pas d'architecture."
     }
   ]
 }

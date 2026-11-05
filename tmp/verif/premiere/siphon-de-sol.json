@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Collage, pas une photo unique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol carrelé blanc avec petite grille carrée à côté d'une cuvette de WC et d'un robinet d'arrêt.",
+      "verdict": "rejetée",
+      "note": "Grille petite, cuvette dominante : confusion.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de fouille avec un regard cylindrique, ciel dégagé.",
+      "verdict": "rejetée",
+      "note": "Pas un siphon de sol.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Caniveau linéaire inox dans une douche vitrée en granit.",
+      "verdict": "rejetée",
+      "note": "C'est un caniveau de douche ; filigrane visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grille ronde à fentes en diagonale dans un sol gris peint, vue de dessus.",
+      "verdict": "validée",
+      "note": "Grille de sol nette, centrée et dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Receveur de douche carrelé éventré, siphon et canalisation à nu, grille au fond.",
+      "verdict": "rejetée",
+      "note": "Chantier de réparation, confus.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Siphon de sol carré en inox, grille perforée relevée à la main laissant voir le puits sombre.",
+      "verdict": "validée",
+      "note": "Siphon de sol clair, cuisine ; grille articulée visible, un peu sale.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

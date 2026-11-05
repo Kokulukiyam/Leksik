@@ -7,6 +7,19 @@
     "requetes": [
       "incategory:\"Gargoyles\"",
       "gargoyle cathedral"
+    ],
+    "requetes2": [
+      "gargoyle spout cathedral roof",
+      "gargouille cathédrale",
+      "gargoyle water spout gothic"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "gargouille-de-terrasse"
+    ],
+    "categoriesCommons": [
+      "Category:Gargoyles",
+      "Category:Gargoyles in France"
     ]
   },
   "candidats": [
@@ -117,6 +130,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/K%C4%B1rklareliMuseum_%2826%29.JPG/1280px-K%C4%B1rklareliMuseum_%2826%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1505,
       "hauteur": 2388
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Gargoyle at The Treehouse - panoramio.jpg",
+      "description": "Gargoyle at The Treehouse",
+      "categories": [
+        "Gargoyles",
+        "North Sydney, New South Wales",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Sculptures in New South Wales",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Australia photographs taken on 2011-01-28",
+        "Files with coordinates missing SDC location of creation (34° S, 151° E)"
+      ],
+      "auteur": "holabendez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargoyle_at_The_Treehouse_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gargoyle_at_The_Treehouse_-_panoramio.jpg/1280px-Gargoyle_at_The_Treehouse_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1944,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ça gargouille aussi ! (24587190274).jpg",
+      "description": "ça gargouille aussi !",
+      "categories": [
+        "Gargoyles in France",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Amanda Hinault Flickr stream",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Amanda Hinault from Lannion, France",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%87a_gargouille_aussi_!_(24587190274).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%C3%87a_gargouille_aussi_%21_%2824587190274%29.jpg/1280px-%C3%87a_gargouille_aussi_%21_%2824587190274%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Gargouille (8405158270).jpg",
+      "description": "Gargouille",
+      "categories": [
+        "Église Saint-Pierre (Caen)",
+        "Gargoyles in France",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Aymeric B. Flickr stream"
+      ],
+      "auteur": "Aymeric B. from Maisons-Alfort, France",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gargouille_(8405158270).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Gargouille_%288405158270%29.jpg/1280px-Gargouille_%288405158270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2098,
+      "hauteur": 1180
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Aigues Mortes gargoyle (223691329).jpg",
+      "description": "Aigues Mortes gargoyle",
+      "categories": [
+        "Ramparts of Aigues-Mortes",
+        "Gargoyles in France",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Andy Hay Flickr stream"
+      ],
+      "auteur": "Andy Hay",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aigues_Mortes_gargoyle_(223691329).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aigues_Mortes_gargoyle_%28223691329%29.jpg/1280px-Aigues_Mortes_gargoyle_%28223691329%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1502,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Flying away.jpg",
+      "description": "Just reminds me of a gargoyle",
+      "categories": [
+        "Black and white photographs",
+        "Gargoyles",
+        "Souqs",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Earth 2022",
+        "Images from Wiki Loves Earth 2022 in United Arab Emirates",
+        "Images from Wiki Loves Earth 2022 in United Arab Emirates - missing",
+        "Uploaded via Campaign:wle-ae",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation",
+        "Souk Madinat Jumeirah"
+      ],
+      "auteur": "CSphotos",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Flying_away.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Flying_away.jpg/1280px-Flying_away.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 3779
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Brckenmnnchen O (258316169).jpeg",
+      "description": "500px provided description: Brckenmnnchen O []",
+      "categories": [
+        "Gargoyles",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Simon Samtleben",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brckenmnnchen_O_(258316169).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Brckenmnnchen_O_%28258316169%29.jpeg/1280px-Brckenmnnchen_O_%28258316169%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1067
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

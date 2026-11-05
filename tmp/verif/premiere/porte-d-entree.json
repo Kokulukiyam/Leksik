@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte et stand."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte d'entrée blanche à imposte demi-ronde, entre deux châssis vitrés à petits carreaux, sous un auvent en briques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.23,
+        "largeur": 0.21,
+        "hauteur": 0.66
+      },
+      "lieu": "Royaume-Uni",
+      "note": "Porte d'entrée de logement très claire ; rectangle sur le vantail pour la distinguer des châssis latéraux."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte rouge ouverte d'un immeuble avec enseigne, personne dans l'entrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Entrée d'un local avec enseigne, moins nette que la 07 ; plafond de 3."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Décoration de cloches en fer suspendue à un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arc d'entrée de l'université de Malte avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, entrée institutionnelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo noir et blanc d'une vieille entrée de bois à pilastres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, porte usée et peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Devanture sombre avec petite porte vitrée en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Local commercial, très sombre."
     }
   ]
 }

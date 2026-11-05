@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Tempe, Arizona",
       "note": "Maillage de moustiquaire bien visible sur toute l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Voiture ancienne rose et blanche à vitres arrière voilées, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voiture, moustiquaire non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Enfant portant un paquet de moustiquaires en plastique bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moustiquaire de lit emballée, pas sur une baie."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur une toile à mailles fines noires tendue dans un cadre de fenêtre blanc, avec une mouche posée dessus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maille serrée de moustiquaire très lisible, élément occupant toute l'image."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Affiche de propagande américaine avec un moustique dessiné et du texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin avec texte, pas une photo."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Groupe d'enfants et d'adultes autour d'une moustiquaire de lit lors d'une campagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moustiquaire de lit, scène de foule."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Enfant en équilibre sur les mains devant une moustiquaire de lit bleue suspendue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moustiquaire de lit, sujet secondaire."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de siphon identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coquillage de mye avec son siphon sortant, sur le sable.",
+      "verdict": "rejetée",
+      "note": "Siphon de mollusque, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiments bleus d'une entreprise de plomberie, camionnette.",
+      "verdict": "rejetée",
+      "note": "Aucun siphon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Homme soutirant de la bière par un tuyau vers un bidon bleu.",
+      "verdict": "rejetée",
+      "note": "Siphonnage de liquide, pas un siphon sanitaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque ancienne au mur avec tube et raccords PVC gris posés devant.",
+      "verdict": "rejetée",
+      "note": "Aucun siphon identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Congélateur transformé en tireuse à bière avec bouteille de CO2 et fût.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tuyauterie métallique et gaines dans une chaufferie.",
+      "verdict": "rejetée",
+      "note": "Aucun siphon identifiable.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

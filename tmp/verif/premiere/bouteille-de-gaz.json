@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Lebanon, Tennessee",
       "note": "Dessin/carte postale, texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cadre de bouteilles de gaz bleues (argon) sur palette devant un rideau métallique.",
+      "verdict": "rejetée",
+      "note": "Bouteilles industrielles d'argon avec étiquette, pas des bouteilles domestiques butane/propane.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur le sommet d'une cartouche de butane à valve.",
+      "verdict": "rejetée",
+      "note": "Cartouche de camping, pas une bouteille de gaz.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bouteille de plongée jaune et grise couchée sur des pavés.",
+      "verdict": "rejetée",
+      "note": "Bouteille d'air respirable, pas un gaz domestique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite bouteille de gaz domestique turquoise avec collerette grise et losange inflammable, sur fond vert.",
+      "verdict": "validée",
+      "note": "Bouteille de gaz isolée, nette et dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cartouche de butane pour réchaud de camping sur une table de pique-nique.",
+      "verdict": "rejetée",
+      "note": "Cartouche aérosol, pas une bouteille ; texte butane visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Femme portant une bouteille de gaz bleue sur la tête, enfant dans le dos.",
+      "verdict": "rejetée",
+      "note": "Bouteille petite, personne dominante.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

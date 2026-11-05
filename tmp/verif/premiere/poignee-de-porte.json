@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Poignée non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vieille porte en bois d'une cabane en rondins avec lanterne ; aucune poignée nette.",
+      "verdict": "rejetée",
+      "note": "Poignée absente ou illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros verrou à barre en fer sur une porte en bois à croix de Saint-André.",
+      "verdict": "rejetée",
+      "note": "C'est un verrou, pas une poignée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poignée-béquille de fer forgé sur platine ouvragée avec trou de serrure, porte en bois à panneaux ouverte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.27,
+        "largeur": 0.31,
+        "hauteur": 0.14
+      },
+      "note": "Béquille bien visible, rectangle sur le levier pour éviter la confusion avec la platine/serrure.",
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Verrou à coulisse en bois sur une vieille porte.",
+      "verdict": "rejetée",
+      "note": "Verrou en bois, pas une poignée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Béquille en laiton en forme d'oiseau sur une porte bleu-vert, cylindre de serrure en dessous.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.41,
+        "y": 0.27,
+        "largeur": 0.36,
+        "hauteur": 0.38
+      },
+      "note": "Levier net et dominant ; rectangle pour le distinguer du cylindre voisin.",
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portail d'église gothique à double battant, vue d'ensemble.",
+      "verdict": "rejetée",
+      "note": "Poignées trop petites.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

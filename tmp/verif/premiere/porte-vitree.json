@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Installation sans vitrage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Double porte vitrée à cadre de bois entre cloisons de verre dans un hall, avec écrans au-dessus.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.125,
+        "y": 0.33,
+        "largeur": 0.7,
+        "hauteur": 0.67
+      },
+      "lieu": "WikiCon, Allemagne",
+      "note": "Grand vitrage occupant presque tout le vantail ; rectangle sur la porte."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Atelier avec vantaux de porte en fabrication.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Atelier, pièces non vitrées."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Entrée sombre avec paroi vitrée et marches, croix au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de planches et de tôle rouillée, vêtements accrochés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une porte vitrée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hall d'hôtel de nuit vu à travers une grande paroi de verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paroi vitrée, pas une porte clairement identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte blanche intérieure à panneaux ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine, non vitrée."
     }
   ]
 }

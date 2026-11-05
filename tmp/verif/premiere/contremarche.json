@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue plongeante sur un escalier hélicoïdal et ses contours ondulés sur un sol en pierre.",
+      "verdict": "rejetée",
+      "note": "Contremarches non identifiables.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marches très sombres et contrastées, éclairées en rasant, escalier dégradé.",
+      "verdict": "rejetée",
+      "note": "Trop sombre, contremarche illisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Touristes sur un escalier du parc Güell, ciel et pins.",
+      "verdict": "rejetée",
+      "note": "Contremarches cachées par la foule.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Volée à marches métalliques ajourées vue d'en haut, mur en béton.",
+      "verdict": "rejetée",
+      "note": "Marches sans contremarche pleine.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Marchepied portatif gris et jaune posé sur un trottoir.",
+      "verdict": "rejetée",
+      "note": "Objet hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier à marches métalliques ajourées vu d'en haut dans une cage en béton.",
+      "verdict": "rejetée",
+      "note": "Marches ajourées, pas de contremarche.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

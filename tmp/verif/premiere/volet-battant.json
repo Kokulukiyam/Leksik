@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Volet déposé, pas en situation, image noir et blanc."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur bleu avec grand volet de bois à lames fermé, porte en tôle et fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non retenue : photo très proche de celles de volet-battant déjà validées, scène chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte coréenne traditionnelle à treillis dans un cadre peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte à treillis, pas un volet battant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit volet bleu fermé sur un mur sombre, enseigne en cyrillique visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible et élément petit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Persienne verte ouverte à côté d'une fresque murale sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Persienne partielle, signature visible, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand bâtiment aux volets multicolores vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments trop petits."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Volets verdâtres ouverts vus en contre-plongée sur une façade en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même photo que celle validée pour volet ; réservée à ce terme."
     }
   ]
 }

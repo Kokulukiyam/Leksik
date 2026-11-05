@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Objets distrayants."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade vitrée d'un bâtiment floue, photographiée à travers une vitre.",
+      "verdict": "rejetée",
+      "note": "Flou, escalier invisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Noir et blanc : volée droite de marches en granito derrière un garde-corps, mur de briques blanches.",
+      "verdict": "rejetée",
+      "note": "Volée tronquée, sans paliers visibles ; image à fort contraste peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cage d'escalier avec volées en granito et rampe en fer, vue plongeante en biais.",
+      "verdict": "rejetée",
+      "note": "Cadrage oblique, volée coupée et sans paliers lisibles ; ambiguë avec rampe et cage.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Personnes sur un escalier avec rampe, tableaux au mur, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "note": "Volée peu lisible, rampe dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux détails de balustrade en bois tourné.",
+      "verdict": "rejetée",
+      "note": "Montre la rampe, pas la volée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier d'embarquement mobile d'aéroport vu de dos.",
+      "verdict": "rejetée",
+      "note": "Équipement mobile, pas une volée de bâtiment.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

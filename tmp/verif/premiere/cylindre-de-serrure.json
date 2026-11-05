@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poignée en laiton sur platine ouvragée avec trou de serrure, vue de face.",
+      "verdict": "rejetée",
+      "note": "Montre une poignée et une plaque, pas le cylindre (barillet) ; trou de clé à l'ancienne.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tracteur compact bleu sur un stand de salon.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Écusson armorié sculpté dans le grès au-dessus d'une ouverture.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tracteur compact avec cabine sur un stand de salon.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Platine de fer forgé avec poignée-loquet torsadée et entrée de clé sur une porte brune.",
+      "verdict": "rejetée",
+      "note": "Serrure ancienne, aucun cylindre visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tracteur tondant un terrain de cricket.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

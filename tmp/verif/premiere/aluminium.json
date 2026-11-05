@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Métal non identifiable avec certitude."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vitrine encadrée de flacons pédagogiques sur l'aluminium, texte allemand.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, objets minuscules."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Profilés d'aluminium d'une serre, gros plan sali.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau peu lisible, détail technique confus."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Machine-outil industrielle et tôle sur châssis bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contexte industriel, pas architectural."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment industriel en pierre sous un ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "L'aluminium n'est pas visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coupe d'un profilé extrudé anodisé bleu avec joints noirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Teinte bleue, objet isolé ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Machine automatisée à profilés aluminium et bacs noirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas une réalisation d'architecture."
     }
   ]
 }

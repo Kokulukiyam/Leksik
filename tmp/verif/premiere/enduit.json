@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Intérieur peint, enduit non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Intérieur d'un abri jaune avec piédestal en marbre blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit non sujet de la photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fillette qui joue avec du plâtre à une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne, pas de mur enduit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur écaillé jaune et bleu avec porte bleue en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit dégradé et peinture écaillée, trop ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'immeuble en cours de finition avec échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Revêtement non lisible, éléments divers."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un homme en fauteuil roulant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d'un mur couvert d'un crépi irrégulier couleur sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture ambiguë (enduit, tyrolien, terre), sans contexte de mur."
     }
   ]
 }

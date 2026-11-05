@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Œuvre d'art, pas un chauffe-eau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panorama d'une salle de bains ancienne de musée avec baignoire et colonne-chauffe-bain en cuivre.",
+      "verdict": "rejetée",
+      "note": "Chauffe-bain ancien à bois/charbon, pas électrique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sanitaires publics avec lavabos et petits chauffe-eau muraux blancs au fond à droite.",
+      "verdict": "rejetée",
+      "note": "Chauffe-eau petits et en arrière-plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panorama de la même salle de bains ancienne avec colonne de chauffe en cuivre.",
+      "verdict": "rejetée",
+      "note": "Chauffe-bain ancien, pas électrique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle de bains ancienne : baignoire, colonne en cuivre et pomme de douche.",
+      "verdict": "rejetée",
+      "note": "Chauffe-bain ancien, pas électrique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ballon cylindrique blanc Laars en cave avec tuyauterie cuivre et petit vase d'expansion.",
+      "verdict": "rejetée",
+      "note": "Énergie non identifiable (pourrait être un ballon de stockage de chaudière), scène encombrée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit boîtier blanc mural avec manomètre et tuyaux gris sur mur fissuré.",
+      "verdict": "rejetée",
+      "note": "Appareil mural sans réservoir, plutôt chauffe-eau instantané ou chaudière.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

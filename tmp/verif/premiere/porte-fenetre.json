@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de porte-fenêtre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pied d'arbres à contreforts dans une forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte de pierre roulante dans une cave troglodytique, étiquette « Stone door ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte donnant un autre terme, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte métallique sombre ouverte dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine, pas une porte-fenêtre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Décoration de cloches suspendue à un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Double porte bleu-vert patinée sous un balcon à garde-corps.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte pleine, pas vitrée, pas une porte-fenêtre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grande porte de bronze sculptée ouverte dans un passage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte monumentale pleine."
     }
   ]
 }

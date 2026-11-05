@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gradins, peu clair."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue plongeante sur un palier et une volée d'escalier en bois avec garde-corps à barreaux, pièces et meubles autour.",
+      "verdict": "rejetée",
+      "note": "Escalier partiel et encombré, ambigu avec palier/rampe ; signature en filigrane.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Flacon de parfum et figurine de chien posés sur une marche d'escalier métallique verte.",
+      "verdict": "rejetée",
+      "note": "Nature morte, escalier à peine visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier tournant étroit et sombre jonché de gravats.",
+      "verdict": "rejetée",
+      "note": "Sombre, délabré, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Hall de gare avec une descente d'escalier vers le quai, voyageurs au premier plan.",
+      "verdict": "rejetée",
+      "note": "Escalier petit et secondaire dans l'image.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux fauteuils en bois sculpté devant un escalier à rampe ferronnée dans un hall.",
+      "verdict": "rejetée",
+      "note": "Les fauteuils dominent, escalier masqué.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue plongeante sur un escalier hélicoïdal à main courante en bois et sol en pierre.",
+      "verdict": "rejetée",
+      "note": "Escalier courbe pouvant illustrer colimaçon ou autre terme voisin.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

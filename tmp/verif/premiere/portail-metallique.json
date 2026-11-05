@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Élément petit et peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poste de garde et clôture grise au bord d'une rue, portail lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail trop petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Couloir couvert intérieur en noir et blanc avec des passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Portail en fer noir étroit dans un mur de pierre envahi de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit, à moitié caché, plutôt un portillon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portail à barreaux de deux vantaux (un ouvert) devant une cour d'école, avec chaîne et panneaux jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux en texte et barreaudage seul, ambigu avec le barreaudage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passage voûté en noir et blanc fermé au fond par une grille en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, élément lointain."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portail à deux vantaux en acier peint rouge-brun, barreaux à pointes, motifs de croissant et d'étoile, entre deux piliers de pierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grand portail métallique net, bien éclairé, dominant dans l'image."
     }
   ]
 }

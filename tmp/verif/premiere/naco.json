@@ -53,6 +53,59 @@
       },
       "lieu": "Porto Alegre, Brésil",
       "note": "Fenêtres à jalousies nettes ; rectangle sur la rangée de fenêtres, enfants en dessous."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre d'école à lames de verre horizontales sur cadre métallique, dans un mur saumon, avec deux personnes à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.04,
+        "largeur": 0.48,
+        "hauteur": 0.64
+      },
+      "lieu": "Santa Maria, Brésil",
+      "note": "Fenêtre à lames de verre typique, encadrée de près."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre ajourée en pierre sculptée d'un palais indien en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jali de pierre, pas un naco."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salle de réunion avec public et projecteur ; fenêtres à lames très petites sur la gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément trop petit et masqué par la scène."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue de la rue à travers une fenêtre à battant basculant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lames."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur une fenêtre à lames de verre horizontales sur cadre sombre, vue sur une terrasse et une colline.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Lames de verre parallèles très lisibles (une lame manquante), élément dominant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade carrelée avec fenêtres à volets roulants gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets roulants, pas de naco."
     }
   ]
 }

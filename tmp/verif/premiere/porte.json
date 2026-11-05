@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gros plan abstrait, pas lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de brique avec deux portes en bois brun à imposte grillagée, perron de trois marches ; la porte de gauche est encadrée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.33,
+        "largeur": 0.13,
+        "hauteur": 0.43
+      },
+      "lieu": "Schwerin, Allemagne",
+      "note": "Porte en bois lisible, rectangle sur le vantail gauche pour lever le doute avec l'autre porte."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur sombre avec vantail de bois ouvert sur la lumière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, contre-jour."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte de bois à arbre découpé, texte hébreu et latin au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, porte double d'une synagogue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Devanture sombre avec petite porte vitrée en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte vitrée, très sombre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte indienne sculptée dans un musée, panneau d'avertissement visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de musée avec panneau, cadre sculpté."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte blanche intérieure à panneaux ouverte, poignée noire, avec une autre porte floue au fond.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte nette et dominante au premier plan."
     }
   ]
 }

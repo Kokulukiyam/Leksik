@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Marrakech",
       "note": "Grille ornée dominante, lecture ambiguë."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand bâtiment au bord d'une rivière aux volets colorés multicolores, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments trop petits, effet de façade."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade en brique avec fenêtres aux persiennes blanches ouvertes et balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non retenue, déjà 2 validées ; persiennes très spécifiques."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade verte avec rangées de fenêtres à persiennes grises fermées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non retenue, déjà 2 validées ; répétitif et persiennes."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux panneaux de bois posés au sol avec pentures, hors contexte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas posés sur une fenêtre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade jaune avec fenêtres à persiennes grises ouvertes, vue d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non retenue, déjà 2 validées ; persiennes."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux maisons de brique à Amsterdam avec volets rouges ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même photo que dans volet-battant, réservée à ce terme."
     }
   ]
 }

@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Support métallique galvanisé sous un bloc de climatisation fixé à un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équipement technique, pas un porte-à-faux d'ouvrage lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue nocturne d'un ensemble immeuble avec volume en saillie, sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre et ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Promenade plantée de la High Line, New York.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de porte-à-faux identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade crème d'un immeuble avec balcons en fer, voitures au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcons : terme voisin, pas de porte-à-faux net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portique de lancement bleu en treillis au-dessus d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin de chantier, pas un ouvrage en porte-à-faux clair."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stabilisateur d'un camion-grue sur des pavés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin, pas de l'architecture."
     }
   ]
 }

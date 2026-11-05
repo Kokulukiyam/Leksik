@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Cosne, France",
       "note": "Engin de chantier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Temple népalais à toits étagés ; une petite cuve noire au pied, à droite.",
+      "verdict": "rejetée",
+      "note": "Cuve minuscule, temple dominant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux grandes citernes cylindriques bleues en acier sur socle, tuyauterie bleue.",
+      "verdict": "rejetée",
+      "note": "Citernes métalliques peintes, pas du polyéthylène.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arrière d'une citerne routière verte, plaque Struvertank.",
+      "verdict": "rejetée",
+      "note": "Citerne de camion, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne noir et blanc d'une grande citerne en tôle ondulée couchée.",
+      "verdict": "rejetée",
+      "note": "Citerne métallique, image d'archive.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arrière d'un camion citerne rouge, roue et fixations.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancien réservoir circulaire recouvert d'herbe dans un champ.",
+      "verdict": "rejetée",
+      "note": "Ouvrage enterré, pas une cuve en polyéthylène.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

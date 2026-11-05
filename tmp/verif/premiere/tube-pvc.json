@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Tube multicouche, pas PVC."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros tuyaux noirs empilés, poussiéreux, vus de côté.",
+      "verdict": "rejetée",
+      "note": "Matière non identifiable (polyéthylène probable), pas du PVC.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers sous un plafond béton chargé de tuyaux isolés, verts et orange.",
+      "verdict": "rejetée",
+      "note": "Image de type capture, scène chargée, tubes variés.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros tubes noirs annelés empilés dans une cour, extrémités bleues.",
+      "verdict": "rejetée",
+      "note": "Tubes annelés en polyéthylène, pas du PVC.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyau blanc vertical avec raccord à tampon sortant d'un conteneur bleu.",
+      "verdict": "rejetée",
+      "note": "Raccord au premier plan, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuyau bleu annelé sortant du sable.",
+      "verdict": "rejetée",
+      "note": "Gaine annelée, pas du PVC.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stock de tuyaux noirs et rouges devant une usine.",
+      "verdict": "rejetée",
+      "note": "Vue lointaine, matière indistincte.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

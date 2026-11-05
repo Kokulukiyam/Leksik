@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Un seul vantail."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte brune à deux vantaux sous une imposte, dans une façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petite dans l'image, deux vantaux peu lisibles ; la 12 est meilleure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grand vantail de bronze sculpté ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul vantail visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Entrée vitrée moderne sous auvent avec enseigne de magasin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseigne et texte visibles, porte vitrée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte de bois doré richement décorée, ouverte, à vantaux repliés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quatre panneaux articulés, ambigu avec une porte pliante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan de lames verticales de bois et métal avec poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas lisible comme porte à deux vantaux."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte rouge bordeaux à deux vantaux égaux à panneaux, dans un encadrement de pierre et fronton, mur de brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.34,
+        "largeur": 0.36,
+        "hauteur": 0.5
+      },
+      "lieu": "États-Unis",
+      "note": "Fente centrale nette ; rectangle sur le vantail double, pas sur l'encadrement."
     }
   ]
 }

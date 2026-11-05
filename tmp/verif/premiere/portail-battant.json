@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de portail."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Jardin éclairé de nuit avec un portique au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de portail lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ruine de briques avec arcs et clôture basse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Intérieur d'un salon de coiffure ouvert sur la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rue en travaux avec palmiers et mur de clôture lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail trop petit et flou."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Noir et blanc d'un passant derrière une grille ouvragée à barreaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille vue de près sans portail identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carte postale de Radebeul avec plusieurs vignettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage, hors sujet."
     }
   ]
 }

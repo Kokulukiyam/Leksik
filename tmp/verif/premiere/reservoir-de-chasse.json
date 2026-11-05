@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "Londres",
       "note": "Aucun réservoir."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "WC avec réservoir adossé, abattant relevé, barres d'appui et poubelle jaune.",
+      "verdict": "rejetée",
+      "note": "Scène chargée, réservoir partiellement caché, cuvette sale.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cuvette de WC avec réservoir adossé en haut, abattant ouvert, barres d'appui bleues.",
+      "verdict": "rejetée",
+      "note": "Réservoir coupé par le cadre, cuvette dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cabine de WC avec petite cuvette au fond, sans réservoir visible.",
+      "verdict": "rejetée",
+      "note": "Réservoir non visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue du dessus d'un WC à réservoir adossé, abattant relevé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.21,
+        "y": 0.07,
+        "largeur": 0.48,
+        "hauteur": 0.2
+      },
+      "note": "Réservoir blanc encadré, cuvette dominante sinon ; rectangle lève le doute.",
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cabine de WC avec réservoir de chasse haut noir, tuyau blanc, chaînette et cuvette en bas.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.12,
+        "largeur": 0.27,
+        "hauteur": 0.15
+      },
+      "lieu": "Mundesley, Norfolk, Angleterre",
+      "note": "Chasse haute très reconnaissable, rectangle sur le réservoir."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "WC adapté avec réservoir surmonté d'un petit lavabo, barres d'appui bleues.",
+      "verdict": "rejetée",
+      "note": "Réservoir combiné à un lave-mains, ambigu.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

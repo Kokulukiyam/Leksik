@@ -125,6 +125,113 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/-37_Construction.jpg/1280px--37_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 12528,
       "hauteur": 9967
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Armenian Construction worker sleeping.jpg",
+      "description": "Armenian construction worker sleeping on the cinder blocks.",
+      "categories": [
+        "Construction sites",
+        "Construction workers",
+        "Armenian National Agrarian University",
+        "Self-published work",
+        "Construction sites in Armenia",
+        "Construction workers in Armenia",
+        "Sleeping men"
+      ],
+      "auteur": "Narek75",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armenian_Construction_worker_sleeping.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Armenian_Construction_worker_sleeping.jpg/1280px-Armenian_Construction_worker_sleeping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bgaraxa obras.jpg",
+      "description": "boulevard",
+      "categories": [
+        "Construction sites",
+        "Taken with Fujifilm FinePix S4000",
+        "Self-published work"
+      ],
+      "auteur": "Guileite20",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bgaraxa_obras.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bgaraxa_obras.jpg/1280px-Bgaraxa_obras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2800,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bau des Lasch-Bunkers (1939).jpg",
+      "description": "Bau des Lasch-Bunkers vor der Albertus-Universität Königsberg",
+      "categories": [
+        "Construction sites",
+        "Albertina, Königsberg",
+        "PD-anon-70-EU",
+        "East Prussia during World War II",
+        "Template Unknown (author)",
+        "Lasch bunker (museum blindage)"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bau_des_Lasch-Bunkers_(1939).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bau_des_Lasch-Bunkers_%281939%29.jpg/1280px-Bau_des_Lasch-Bunkers_%281939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1125
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:-76wiki.jpg",
+      "description": "Crane",
+      "categories": [
+        "Construction sites",
+        "Self-published work",
+        "Large images"
+      ],
+      "auteur": "Park taeho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-76wiki.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/-76wiki.jpg/1280px--76wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12528,
+      "hauteur": 9967
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:500px photo (168065537).jpeg",
+      "description": "500px provided description: Img 8226 Jpg [#city ,#color ,#travel ,#light ,#white ,#art ,#black]",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names",
+        "Incandescent electric lighting"
+      ],
+      "auteur": "Gyori Fanni",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(168065537).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/500px_photo_%28168065537%29.jpeg/1280px-500px_photo_%28168065537%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A construction worker plastering a house 01.jpg",
+      "description": "A construction worker plastering a house",
+      "categories": [
+        "Construction sites",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "Chabie10",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_construction_worker_plastering_a_house_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A_construction_worker_plastering_a_house_01.jpg/1280px-A_construction_worker_plastering_a_house_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1440,
+      "hauteur": 1918
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

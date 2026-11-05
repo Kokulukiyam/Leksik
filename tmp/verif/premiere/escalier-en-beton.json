@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas en béton."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand escalier de pierre à rampe en fer forgé sous des arcs dans un monastère.",
+      "verdict": "rejetée",
+      "note": "Escalier en pierre, pas en béton.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalier peint et écaillé dans un bâtiment abandonné, avec graffitis et garde-corps métallique.",
+      "verdict": "rejetée",
+      "note": "Matériau recouvert de peinture, béton non certain.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier sombre à marches peintes et balustrade en bois dans une maison ancienne.",
+      "verdict": "rejetée",
+      "note": "Escalier en bois.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cage d'escalier en béton brut : volées, garde-corps pleins et paillasses en béton apparent, parements bois au fond.",
+      "verdict": "validée",
+      "note": "Béton apparent clairement visible sur marches et garde-corps, sans ambiguïté.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gradins en béton d'un théâtre de plein air au bord d'une rivière, spectateurs assis.",
+      "verdict": "rejetée",
+      "note": "Gradins, pas un escalier.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux détails de balustrade et rampe d'escalier en bois tourné.",
+      "verdict": "rejetée",
+      "note": "Escalier en bois.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

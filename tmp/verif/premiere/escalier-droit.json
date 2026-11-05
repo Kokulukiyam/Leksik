@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Objets au premier plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hall d'exposition avec un escalier métallique qui tourne autour d'une trémie ovale.",
+      "verdict": "rejetée",
+      "note": "Escalier tournant, pas droit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hall de gare avec une descente d'escalier vers le quai.",
+      "verdict": "rejetée",
+      "note": "Escalier petit, secondaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Intérieur d'église : marches recouvertes de tapis rouge menant à l'autel.",
+      "verdict": "rejetée",
+      "note": "Emmarchement partiel, l'autel et la coupole dominent.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue plongeante sur un escalier hélicoïdal à main courante en bois.",
+      "verdict": "rejetée",
+      "note": "Escalier courbe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cage d'escalier ancienne en bois avec balustres tournés et plafond à stucs dorés.",
+      "verdict": "rejetée",
+      "note": "Escalier à volées multiples, cadrage oblique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier de navire en inox avec main courante, à côté d'un panneau décoratif bleu.",
+      "verdict": "rejetée",
+      "note": "Escalier partiel, cadrage confus.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

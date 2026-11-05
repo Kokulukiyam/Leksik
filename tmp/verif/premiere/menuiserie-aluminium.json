@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Lake Geneva, Wisconsin",
       "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre en bois à deux battants ouverte sur un jardin avec statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Menuiserie bois."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande fenêtre à petits-bois peinte gris-vert, reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadre peint, matériau non identifiable comme aluminium."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre à petits-bois rouge dans un encadrement de brique et terre cuite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Menuiserie bois."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre ancienne à petits-bois, noir et blanc, verre dépoli.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Menuiserie ancienne, pas aluminium."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade enduite avec quatre fenêtres anciennes à frontons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres anciennes abîmées."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Entrepôt rempli de fenêtres blanches et portes en stock.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés blancs sans matériau lisible, probablement PVC."
     }
   ]
 }

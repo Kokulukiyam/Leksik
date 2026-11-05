@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Arcs trop petits."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tonnelle de verdure en arc dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc végétal, pas un arc maçonné."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande arche en demi-cercle presque entièrement noire, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contraste excessif, intérieur noir, peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couloir en tôle ondulée avec une petite arche au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc minuscule et ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade à arcs mauresques festonnés, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs polylobés, pas plein cintre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tunnel de branches formant des arcs dans la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs végétaux, ogivaux."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Esplanade de mosquée avec portail à arc brisé au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc brisé, trop petit."
     }
   ]
 }

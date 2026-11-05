@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Porte intérieure peinte, matériau non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte en fer forgé ajouré à volutes dans un encadrement de marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille ouvragée de ferronnerie, pas une porte en tôle d'acier ; confusion possible avec porte vitrée/grille."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coque d'un paquebot avec une porte de coupée sur ponton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une porte métallique de bâtiment, élément minuscule."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte d'entrée à grille de fer ajourée Art déco devant un vitrage éclairé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferronnerie sur vitrage, pas une porte en tôle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan flou d'une clé dans la serrure d'un meuble blanc LG.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Logo visible, pas une porte métallique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte bleu nuit en fer à motifs géométriques ajourés sur vitrage dépoli.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte-grille ouvragée : ambiguë avec porte vitrée ou grille, pas typique de la tôle d'acier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Base d'un arbre à contreforts dans une forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }
