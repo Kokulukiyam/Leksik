@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Barres cintrées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de recouvrement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coffrage sous un pont en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan de barres crénelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de recouvrement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Aqueduc en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poteau cassé laissant voir les cadres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de recouvrement."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poteau de parking cassé avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de recouvrement."
     }
   ]
 }

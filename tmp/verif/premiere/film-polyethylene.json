@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte visible, pare-vapeur et non film polyéthylène."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Feuille d'aluminium en isolant de sauna.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pare-vapeur aluminium, pas un film polyéthylène sous dallage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pare-vapeur blanc avec adhésif contre une ossature OSB.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pare-vapeur de paroi, pas un polyane sous dallage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pare-vapeur de toiture Intello.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pare-vapeur de toiture, texte visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Feuille blanche dépassant entre une dalle de béton et l'enrobé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nature du film douteuse, trop ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur de petite construction avec membranes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membranes de paroi."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade avec membrane et bandes adhésives jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Écran de façade, pas un film sous dallage."
     }
   ]
 }

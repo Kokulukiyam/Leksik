@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Balustrade en pierre en perspective.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dalle béton neuve avec ouvertures coffrées en bois et armatures en attente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvertures ambiguës (réservations ou trémies), mal lisibles : doute."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Immeuble à plancher en dalle sur poutres alvéolaires en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune trémie visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers au bord d'une ouverture de plancher dans un local technique encombré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouverture dans un plancher mais cadrage et contexte confus ; confusion possible avec la réservation."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rendu 3D d'un assemblage de poutre et dalles alvéolées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne d'un chantier avec grue et coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, sans rapport."
     }
   ]
 }

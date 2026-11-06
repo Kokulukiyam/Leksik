@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Prédalles, pas des nervures."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux coffrages en bois remplis de béton au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petites dalles, sans nervures."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hall de gare avec plafond à caissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond caissonné, petit et peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ferraillage d'un plancher avec gaines de précontrainte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures, nervures non démontrées."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutrelles et entrevous en terre cuite avant bétonnage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher à poutrelles et hourdis, confusion possible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pavillon préfabriqué en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sous-face d'un plancher en entrevous de béton et poutrelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher poutrelles-hourdis, pas une dalle nervurée nette."
     }
   ]
 }

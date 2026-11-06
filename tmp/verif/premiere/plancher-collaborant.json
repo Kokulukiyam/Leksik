@@ -24,6 +24,14 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade d'un immeuble de logements en métal perforé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun plancher collaborant visible."
     }
   ]
 }

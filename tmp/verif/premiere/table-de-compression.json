@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coffrage de dalle en béton avec tranchée en cours de ferraillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de table de compression sur hourdis."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment blanc à toit en tuiles avec jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dalle de béton sur une tombe avec une croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tablier de pont avec dalles préfabriquées posées côte à côte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalles de pont, pas une table de compression."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneaux de façade préfabriqués posés en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pose de panneaux en béton sur le tablier d'un pont en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalles sur structure métallique, pas une table de compression."
     }
   ]
 }

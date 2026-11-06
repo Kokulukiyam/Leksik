@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Éléments trop petits."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Station-service de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gravure ancienne de plan de toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plan ancien de toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dessous d un toit asiatique en bois avec chevrons et poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop de pièces, chevrons pas isolés."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente sous échafaudage et bâche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Débord de toit usé avec gouttière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chevrons peu lisibles."
     }
   ]
 }

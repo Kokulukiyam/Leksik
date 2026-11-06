@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Réseau de lattes dans les deux sens, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit sous liteaux jaunes à côté d une tour en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Direction des pièces ambiguë, tour dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers sur une charpente, chevrons et liteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvriers et chevrons dominants."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couvreur posant des tuiles sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Liteaux petits."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite maison en construction vue à travers une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Liteaux non lisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même maison vue à travers une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Liteaux non lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois ouvriers sur une croupe avec liteaux et écran.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes."
     }
   ]
 }

@@ -32,6 +32,22 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rouille, béton éclaté et acier à nu clairement visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Console de pont en béton avec fissure, taches de rouille et armature affleurante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corrosion peu lisible, cadrage confus, éclairage médiocre."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poutre de pont en béton dont le béton éclaté laisse voir plusieurs barres d'acier rouillées à nu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rouille, éclatement et acier à nu nets et dominants dans l'image."
     }
   ]
 }

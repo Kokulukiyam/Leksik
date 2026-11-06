@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Alvéoles parallèles nettement visibles ; rectangle sur la brique du dessus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hangar de séchage de briques crues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques pleines, pas de brique creuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Baie murée en briques derrière une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de brique creuse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux briques de terre cuite brute en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques pleines archéologiques."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rue bordée d'un bâtiment en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Briques de ciment empilées sur une bâche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas des briques creuses en terre cuite."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tas de briques cassées et brûlées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques pleines abîmées."
     }
   ]
 }

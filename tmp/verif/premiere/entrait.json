@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Structure métallique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bâtiment effondré avec charpente brisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Désordre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hall avec foule et toit en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Schéma de ferme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Halle métallique avec fourgonnettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d entrait lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gare routière avec bus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Halle industrielle vide à charpente métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d entrait isolable."
     }
   ]
 }

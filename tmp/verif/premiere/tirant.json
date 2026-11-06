@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Hellín, Espagne",
       "note": "Arc sans tirant visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Galerie à arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tirant visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur de mosquée en flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arche gonflable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arcade sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arc en brique ruiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arcades de rempart.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tirant visible."
     }
   ]
 }

@@ -2931,6 +2931,42 @@
     "note": "Vérification : Aiguille plongée dans le béton et flexible nets, rectangle sur l'aiguille. Contre-vérification : Le rectangle désigne l'aiguille vibrante plongée dans le béton frais au bout de son flexible ; juste."
   },
   {
+    "id": "aiguille-vibrante-07",
+    "termId": "aiguille-vibrante",
+    "fichier": "commons/aiguille-vibrante-07.webp",
+    "rectangle": {
+      "x": 0.45,
+      "y": 0.1,
+      "largeur": 0.2,
+      "hauteur": 0.82
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Wacker Neuson SE",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Wacker_Neuson_Innenr%C3%BCttler_IREN.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tête d aiguille et flexible nets au contact du béton ; rectangle sur l aiguille. Contre-vérification : Photo réelle : le rectangle suit le flexible et l'aiguille plongée dans le béton frais d'un ferraillage, convertisseur Wacker à côté ; terme juste."
+  },
+  {
+    "id": "aiguille-vibrante-08",
+    "termId": "aiguille-vibrante",
+    "fichier": "commons/aiguille-vibrante-08.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.4,
+      "largeur": 0.25,
+      "hauteur": 0.45
+    },
+    "lieu": "Djibouti",
+    "source": "commons",
+    "auteur": "U.S. Navy photo by Mass Communication Specialist 2nd Class Michael Lindsey",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:US_Navy_110311-N-SN160-026_Construction_Electrician_Constructionman_Hanni_Leah_Perez,_a_Seabee_assigned_to_Naval_Mobile_Construction_Battalion_(NMC.jpg",
+    "statut": "validée",
+    "note": "Vérification : Aiguille vibrante en cours de vibrage ; plongée dans le béton, flexible lisible. Contre-vérification : Photo réelle : un ouvrier plonge le flexible et l'aiguille dans le béton frais entre les attentes, scène typique de vibration ; terme juste."
+  },
+  {
     "id": "tenaille-01",
     "termId": "tenaille",
     "fichier": "commons/tenaille-01.webp",
@@ -3009,6 +3045,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Welding_Machine_001.jpg",
     "statut": "validée",
     "note": "Vérification : Poste net de face, rectangle exclut le panneau de dessins au-dessus. Contre-vérification : Poste à souder Electra (bornes porte-électrode et masse, réglage d'ampérage) bien cadré ; terme juste."
+  },
+  {
+    "id": "scie-circulaire-09",
+    "termId": "scie-circulaire",
+    "fichier": "commons/scie-circulaire-09.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.69,
+      "largeur": 0.3,
+      "hauteur": 0.25
+    },
+    "lieu": "Kitchen installation IKEA",
+    "source": "commons",
+    "auteur": "Stilfehler",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Circular_Saw_Ready_to_Cut_a_Filler_Panel.jpg",
+    "statut": "validée",
+    "note": "Vérification : Scie circulaire portative nette et reconnaissable, encadrée de près. Contre-vérification : Photo réelle : scie circulaire portative à lame ronde bien cadrée par le rectangle, sans ambiguïté."
   },
   {
     "id": "scie-sauteuse-01",
@@ -3252,6 +3306,19 @@
     "note": "Vérification : Machine entière, nette et typique ; rectangle exclut la mallette. Contre-vérification : Coupe-carreau manuel à rails et molette (photo produit réelle), bien désigné ; terme juste."
   },
   {
+    "id": "coupe-carreau-09",
+    "termId": "coupe-carreau",
+    "fichier": "commons/coupe-carreau-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Wielkijacek",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Montolit_MASTERPIUMA_93_P3.jpg",
+    "statut": "validée",
+    "note": "Vérification : Coupe-carreau manuel typique, net et dominant. Contre-vérification : Photo réelle d'un coupe-carreau manuel à rail et molette, objet seul et dominant ; terme juste."
+  },
+  {
     "id": "cle-serre-tube-02",
     "termId": "cle-serre-tube",
     "fichier": "commons/cle-serre-tube-02.webp",
@@ -3393,6 +3460,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Ear_muff_white_bg.jpg",
     "statut": "validée",
     "note": "Vérification : Objet isolé, net et typique. Contre-vérification : Casque anti-bruit Husqvarna isolé sur fond blanc, coquilles et arceau bien visibles."
+  },
+  {
+    "id": "harnais-de-securite-12",
+    "termId": "harnais-de-securite",
+    "fichier": "commons/harnais-de-securite-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.2,
+      "largeur": 0.8,
+      "hauteur": 0.78
+    },
+    "lieu": "Atlantique, USS Constitution",
+    "source": "commons",
+    "auteur": "U.S. Navy photo by Mass Communication Specialist 1st Class Eric Brown",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:US_Navy_090427-N-2893B-001_ATLANTIC_OCEAN_(April_27)_-_USS_Constitution_crewmember_Aviation_Electrician%27s_Mate_2nd_Class,_Tony_Barnardo,_clips_a_safety_harness_onto_the_foremast_topsail_yard.jpg",
+    "statut": "validée",
+    "note": "Vérification : Harnais antichute et longe clairement visibles, malgré le contexte maritime. Contre-vérification : Photo réelle : homme portant un harnais à sangles avec longe et mousqueton, bien encadré ; terme juste."
   },
   {
     "id": "station-totale-05",
@@ -3665,6 +3750,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:A_puddle_after_rain_on_a_damaged_asphalt_surface,_a_storm_drain_grate_on.jpg",
     "statut": "validée",
     "note": "Vérification : Grille bien visible, rectangle sur la grille pour écarter la flaque. Contre-vérification : Grille en fonte à fentes posée dans la chaussée, bien encadrée par le rectangle : grille avaloir."
+  },
+  {
+    "id": "grille-avaloir-09",
+    "termId": "grille-avaloir",
+    "fichier": "commons/grille-avaloir-09.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.38,
+      "largeur": 0.39,
+      "hauteur": 0.5
+    },
+    "lieu": "Avezzano, Italie",
+    "source": "commons",
+    "auteur": "Marica Massaro",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Caditoia_a_L.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille en fonte nette dans le caniveau, encadrée de près. Contre-vérification : Photo réelle : grille en fonte posée dans le caniveau devant l'avaloir, bien encadrée ; terme juste."
   },
   {
     "id": "dalot-05",
@@ -4241,6 +4344,42 @@
     "note": "Vérification : Haie taillée nette, bien encadrée. Contre-vérification : Haie basse d'arbustes taillés serrés le long d'un parking, dominante dans le rectangle."
   },
   {
+    "id": "mur-de-soutenement-07",
+    "termId": "mur-de-soutenement",
+    "fichier": "commons/mur-de-soutenement-07.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.2,
+      "largeur": 0.67,
+      "hauteur": 0.21
+    },
+    "lieu": "Parkersburg, Virginie-Occidentale",
+    "source": "commons",
+    "auteur": "Redi-Rock International",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Redi-Rock_cobblestone-gravity-park-FosterSupply-ParkersbergRiverpointPark4_(24870053564).jpg",
+    "statut": "validée",
+    "note": "Vérification : Murs de soutènement étagés nets ; le mur supérieur est encadré. Contre-vérification : Photo réelle : mur en blocs retenant la plateforme du bâtiment, sol nettement plus haut derrière ; terme juste."
+  },
+  {
+    "id": "mur-de-soutenement-12",
+    "termId": "mur-de-soutenement",
+    "fichier": "commons/mur-de-soutenement-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.48,
+      "largeur": 0.65,
+      "hauteur": 0.15
+    },
+    "lieu": "Bhoutan",
+    "source": "commons",
+    "auteur": "Vinayaraj",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chelela_to_Paro_road_views_during_LGFC_-_Bhutan_2019_(145).jpg",
+    "statut": "validée",
+    "note": "Vérification : Mur de pierre qui retient clairement le talus au-dessus de la route ; encadré. Contre-vérification : Photo réelle : mur en moellons le long d'une route retenant le versant boisé ; terme juste."
+  },
+  {
     "id": "barbacane-04",
     "termId": "barbacane",
     "fichier": "commons/barbacane-04.webp",
@@ -4308,6 +4447,24 @@
     "note": "Vérification : Panneau gabion encadré, net. Contre-vérification : Panneau de clôture en cage grillagée remplie de pierres, bien isolé par le rectangle : gabion."
   },
   {
+    "id": "enrochement-08",
+    "termId": "enrochement",
+    "fichier": "commons/enrochement-08.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.26,
+      "largeur": 0.5,
+      "hauteur": 0.28
+    },
+    "lieu": "Irlande",
+    "source": "commons",
+    "auteur": "Mucklagh",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lifebuoy-1020670,_Dingle_Peninsula,_Co._Kerry,_Ireland.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gros blocs de roche en protection de dune, encadrés ; la bouée orange est hors du cadre. Contre-vérification : Photo réelle : gros blocs de roche protégeant le pied de la dune sur une plage, bien encadrés ; terme juste."
+  },
+  {
     "id": "pergola-02",
     "termId": "pergola",
     "fichier": "commons/pergola-02.webp",
@@ -4324,6 +4481,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:20150508%EC%B5%9C%EA%B4%91%EB%AA%A8DSC09893.JPG",
     "statut": "validée",
     "note": "Vérification : Structure à poteaux et poutres couverte de glycine; rectangle sur la pergola. Contre-vérification : Structure de poteaux et poutres couverte de glycine au-dessus d'une terrasse avec tables : pergola dominante dans le rectangle."
+  },
+  {
+    "id": "pergola-07",
+    "termId": "pergola",
+    "fichier": "commons/pergola-07.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.07,
+      "largeur": 0.43,
+      "hauteur": 0.88
+    },
+    "lieu": "Pakistan",
+    "source": "commons",
+    "auteur": "Fahadmasood",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fahdi.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pergola en bois de poteaux et poutres ajourées, nette et dominante. Contre-vérification : Photo réelle : pergola en bois à poteaux et poutres ajourées au-dessus d'une allée, élément dominant du rectangle."
+  },
+  {
+    "id": "pergola-12",
+    "termId": "pergola",
+    "fichier": "commons/pergola-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.45,
+      "largeur": 0.95,
+      "hauteur": 0.5
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Marushaneltrve",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Facultad_de_ingenier%C3%ADa_industrial.jpg",
+    "statut": "validée",
+    "note": "Vérification : Couvert léger de poteaux et poutres ajourés couvert de bougainvillée ; structure lisible sous la végétation. Contre-vérification : Photo réelle : pergola à poteaux bois couverte de bougainvillées au-dessus d'une terrasse ; terme juste."
   },
   {
     "id": "grille-d-arbre-03",
@@ -4360,6 +4553,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Banga_Plaza_td_(2019-12-17)_02.jpg",
     "statut": "validée",
     "note": "Vérification : Gazon ras net au premier plan; rectangle sur la pelouse. Contre-vérification : Grande surface de gazon court tondu occupant le rectangle : pelouse."
+  },
+  {
+    "id": "pelouse-09",
+    "termId": "pelouse",
+    "fichier": "commons/pelouse-09.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.68,
+      "largeur": 1,
+      "hauteur": 0.32
+    },
+    "lieu": "Château de Pourtalès, Strasbourg",
+    "source": "commons",
+    "auteur": "Jonathan M",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Absolute_Chateau_de_Pourtales_01.JPG",
+    "statut": "validée",
+    "note": "Vérification : Vaste pelouse tondue, nette ; rectangle sur le gazon pour écarter le château. Contre-vérification : Photo réelle : vaste gazon tondu devant un château, rectangle sur la pelouse ; terme juste."
   },
   {
     "id": "aire-de-jeux-01",
@@ -4561,6 +4772,24 @@
     "note": "Vérification : Espace couvert devant la porte, net. Contre-vérification : Petit abri couvert sur poteaux de bois devant une porte d'entrée, formant espace avant la porte : porche."
   },
   {
+    "id": "porche-10",
+    "termId": "porche",
+    "fichier": "commons/porche-10.webp",
+    "rectangle": {
+      "x": 0.52,
+      "y": 0.31,
+      "largeur": 0.3,
+      "hauteur": 0.64
+    },
+    "lieu": "Ziębice, Pologne",
+    "source": "commons",
+    "auteur": "Halicki Cette photo a été créée avec un Nikon D90 .",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Zi%C4%99bice,_ko%C5%9Bci%C3%B3%C5%82_ewangelicki,_03.JPG",
+    "statut": "validée",
+    "note": "Vérification : Porche d'église clair ; rectangle sur la partie porche. Contre-vérification : Photo réelle : petit porche maçonné à fronton et arc devant l'entrée latérale d'une église, bien encadré ; terme juste."
+  },
+  {
     "id": "chaine-d-angle-02",
     "termId": "chaine-d-angle",
     "fichier": "commons/chaine-d-angle-02.webp",
@@ -4669,6 +4898,24 @@
     "note": "Vérification : Bande vitrée très allongée, encadrée sur la partie nette. Contre-vérification : Bande horizontale continue de vitrages courant sur la façade en béton, bien encadrée : fenêtre en bandeau."
   },
   {
+    "id": "fenetre-en-bandeau-09",
+    "termId": "fenetre-en-bandeau",
+    "fichier": "commons/fenetre-en-bandeau-09.webp",
+    "rectangle": {
+      "x": 0.265,
+      "y": 0.435,
+      "largeur": 0.475,
+      "hauteur": 0.1
+    },
+    "lieu": "Petit-Lancy, Genève",
+    "source": "commons",
+    "auteur": "MHM55",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:B%C3%A2timent_artisanal_Louis-Hubert_porte_05-06.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fenêtres juxtaposées en bandeau continu ; rectangle sur la bande. Contre-vérification : Photo réelle : longue fenêtre horizontale continue sur la façade d'un bâtiment industriel, bien encadrée ; terme juste."
+  },
+  {
     "id": "meurtriere-02",
     "termId": "meurtriere",
     "fichier": "commons/meurtriere-02.webp",
@@ -4767,6 +5014,24 @@
     "note": "Vérification : Ferronnerie ornementale nette et dominante. Contre-vérification : Garde-corps en fer forgé à motifs de branches décoratives devant des portes-fenêtres, bien encadré."
   },
   {
+    "id": "garde-corps-en-fer-forge-11",
+    "termId": "garde-corps-en-fer-forge",
+    "fichier": "commons/garde-corps-en-fer-forge-11.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.22,
+      "largeur": 1,
+      "hauteur": 0.5
+    },
+    "lieu": "Bratislava, Slovaquie",
+    "source": "commons",
+    "auteur": "Lure",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bratislava_Palugyayov_pal%C3%A1c_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Garde-corps ornemental net et dominant ; rectangle sur le fer forgé. Contre-vérification : Photo réelle : garde-corps de balcon en fer forgé à volutes et armoiries, bien encadré ; terme juste."
+  },
+  {
     "id": "balustrade-06",
     "termId": "balustrade",
     "fichier": "commons/balustrade-06.webp",
@@ -4778,6 +5043,60 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nossa_Senhora_do_Carmo_Salvador_Bahia_Balustrade_2019-0322.jpg",
     "statut": "validée",
     "note": "Vérification : Rangée de balustres surmontée d'une tablette, nette. Contre-vérification : Rampe d'escalier en pierre formée de balustres sous une main courante : balustrade très lisible."
+  },
+  {
+    "id": "balustrade-09",
+    "termId": "balustrade",
+    "fichier": "commons/balustrade-09.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.16,
+      "largeur": 0.76,
+      "hauteur": 0.4
+    },
+    "lieu": "Hong Kong",
+    "source": "commons",
+    "auteur": "Mamebacks",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:HK_Central_Des_Voeux_Road_Legislative_Council_Building_%E8%8A%B1%E5%B4%97%E5%B2%A9_%E9%BA%BB%E7%9F%B3_architecture_Aug-2010.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rangée de balustres entre appui et tablette, nette ; rectangle sur la balustrade. Contre-vérification : Photo réelle : rangée de balustres en pierre sous une tablette, bien encadrée ; terme juste."
+  },
+  {
+    "id": "balustrade-12",
+    "termId": "balustrade",
+    "fichier": "commons/balustrade-12.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.13,
+      "largeur": 0.45,
+      "hauteur": 0.8
+    },
+    "lieu": "São Tomé",
+    "source": "commons",
+    "auteur": "Ji-Elle",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Balustrade_d%C3%A9labr%C3%A9e_le_long_de_l%27Avenida_12_Julho_%C3%A0_S%C3%A3o_Tom%C3%A9_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Balustres tournés très nets ; rectangle sur les trois balustres. Contre-vérification : Photo réelle : balustres en pierre usés sous une tablette au bord de la mer, bien lisibles ; terme juste."
+  },
+  {
+    "id": "brise-soleil-orientable-08",
+    "termId": "brise-soleil-orientable",
+    "fichier": "commons/brise-soleil-orientable-08.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.07,
+      "largeur": 0.83,
+      "hauteur": 0.69
+    },
+    "lieu": "Bad Rappenau (Bonfeld), Allemagne",
+    "source": "commons",
+    "auteur": "Roman Eisele",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bad_Rappenau_-_Bonfeld_-_neues_Pfarrhaus_-_Fenster_mit_fast_geschlossener_Jalousie.jpg",
+    "statut": "validée",
+    "note": "Vérification : Store extérieur à lames orientables (jalousie extérieure), net et dominant. Contre-vérification : Photo réelle : store extérieur à lames métalliques abaissé devant une fenêtre, bien encadré ; terme juste."
   },
   {
     "id": "store-banne-06",
@@ -4796,6 +5115,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Rue_Hoche,_Cannes_(20260619-IMG_3774).jpg",
     "statut": "validée",
     "note": "Vérification : Store en toile déployé, net ; rectangle sur le store de gauche (deux stores visibles). Contre-vérification : Store en toile déroulé au-dessus d'une terrasse de café, bien cadré par le rectangle ; terme juste."
+  },
+  {
+    "id": "store-banne-12",
+    "termId": "store-banne",
+    "fichier": "commons/store-banne-12.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0,
+      "largeur": 0.68,
+      "hauteur": 0.59
+    },
+    "lieu": "Jiufen, Taïwan",
+    "source": "commons",
+    "auteur": "Laika ac from UK",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Jiufen_(23672902943).jpg",
+    "statut": "validée",
+    "note": "Vérification : Stores bannes dépliés, bras articulés visibles, dominants. Contre-vérification : Photo réelle : stores en toile rayée déployés avec bras articulés visibles ; terme juste."
   },
   {
     "id": "voile-d-ombrage-01",
@@ -4881,6 +5218,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:L%C3%A6ss%C3%B8esgades_Skole_hj%C3%B8rnerisalit.jpg",
     "statut": "validée",
     "note": "Vérification : Risalit d'angle sur toute la hauteur, rectangle vérifié. Contre-vérification : Travée de façade en brique en légère saillie, sur toute la hauteur jusqu'à son propre pignon, bien cadrée par le rectangle : avant-corps."
+  },
+  {
+    "id": "arcade-07",
+    "termId": "arcade",
+    "fichier": "commons/arcade-07.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.45,
+      "largeur": 0.89,
+      "hauteur": 0.33
+    },
+    "lieu": "Máriapócs, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Arcade_corridor_between_monastery_and_church,_2017_M%C3%A1riap%C3%B3cs.jpg",
+    "statut": "validée",
+    "note": "Vérification : Suite d'arcs sur piliers en façade, très lisible. Contre-vérification : Photo réelle : suite de trois arcs sur piliers en rez-de-chaussée formant passage couvert, bien encadrée ; terme juste."
   },
   {
     "id": "coursive-01",
@@ -5255,6 +5610,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:M%C3%A1jus_1._park_5,_Kegeldach,_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg",
     "statut": "validée",
     "note": "Vérification : Cône net, très lisible. Contre-vérification : Toit en cône couvert de bardeaux sur une tour ronde, cadré par le rectangle : toit conique sans doute."
+  },
+  {
+    "id": "toit-conique-10",
+    "termId": "toit-conique",
+    "fichier": "commons/toit-conique-10.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.12,
+      "largeur": 0.64,
+      "hauteur": 0.52
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tulpen_Haus,_Kegeldach,_2021_Tatab%C3%A1nya-%C3%93v%C3%A1ros.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit conique net sur tour circulaire, dominant. Contre-vérification : Photo réelle : toit conique en tuiles écailles sur une tourelle ronde, bien encadré ; terme juste."
+  },
+  {
+    "id": "toit-conique-12",
+    "termId": "toit-conique",
+    "fichier": "commons/toit-conique-12.webp",
+    "rectangle": {
+      "x": 0.54,
+      "y": 0.03,
+      "largeur": 0.44,
+      "hauteur": 0.4
+    },
+    "lieu": "Kenya",
+    "source": "commons",
+    "auteur": "Wycondi",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Tom_Mboya_Mausoleum.jpg",
+    "statut": "validée",
+    "note": "Vérification : Toit conique très lisible, rectangle sur le cône. Contre-vérification : Photo réelle : toit conique sur un bâtiment circulaire, bien encadré ; terme juste."
   },
   {
     "id": "toiture-cintree-01",

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tramway jaune longeant un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en pierre de taille, tramway dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de briques avec un oculus rayonnant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques, pas des moellons."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pan de mur de ruine en pierres et coraux noyés dans du mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau atypique, éléments peu lisibles : doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur en briques avec fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques, pas des moellons."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Forteresse d'Aqaba en pierre de taille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre de taille régulière, plan large."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur d'une maison ancienne en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques, pas des moellons."
     }
   ]
 }

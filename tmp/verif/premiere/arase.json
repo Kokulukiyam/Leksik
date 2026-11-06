@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sommet irrégulier, pas un rang mis de niveau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Briques romaines estampillées en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de murs en parpaings avec ouvrier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'arase identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo générique de bâtiment en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arcades en briques d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de briques avec un bas en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'arase identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment en briques avec un violon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

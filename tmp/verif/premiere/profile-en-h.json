@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Bois."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvriers sur des poutres d'acier d'un tablier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés trop confus."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Détail d'un profilé riveté sur un gazomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doute sur le profil."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Profilé en I ou H en noir et blanc, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, profil ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Charpente métallique levée à la grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés non lisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur à ossature métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop d'éléments."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pelleteuse et profilés au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés secondaires, pelleteuse dominante."
     }
   ]
 }

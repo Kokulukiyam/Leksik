@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Sachkhere, Géorgie",
       "note": "Personnes au premier plan, remblai non évident."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Barrière sur une digue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Digue, pas un remblai de chantier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de tunnel avec conduites jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de remblai lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Quai en bois dans un port de plaisance.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Terre rouge versée depuis une benne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Élevage de poissons sur un lac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Paysage en noir et blanc avec route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Remblai non identifiable."
     }
   ]
 }

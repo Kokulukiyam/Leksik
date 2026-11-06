@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans joint visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cour d'un bâtiment administratif avec jardin et bancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun joint de fractionnement lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tombe avec dalle de béton et croix de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle funéraire, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pavillon préfabriqué en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux de façade, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond de grotte avec planches et trou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rendu 3D d'un assemblage poutre-dalle alvéolée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu 3D, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pose de dalles préfabriquées sur un tablier de pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de joint scié visible."
     }
   ]
 }

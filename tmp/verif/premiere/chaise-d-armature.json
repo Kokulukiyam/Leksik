@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chaises illisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Armatures de radier avec attentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaises non identifiables."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Piles béton le long d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan bleu de barres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Machine à cintrer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment en construction avec coffrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaises invisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Barres d'acier stockées en entrepôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

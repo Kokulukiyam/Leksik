@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pile circulaire, confusion avec colonne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Page de livre avec fragments de piliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction de planche."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petits poteaux de pierre devant une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments de clôture, trop petits."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Borne en granit avec inscriptions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Borne, texte visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Colonne de marbre en ruine, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colonne, pas un pilier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pilier de brique couvert de rosier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sommet caché par la végétation, confusion avec pilier de portail."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pile de viaduc au pied d'une falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pile de pont lointaine, peu lisible."
     }
   ]
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tuile canal en coupe, floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuile canal, pas mécanique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fragment de tuile vernissée rouge dans une main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fragment."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couvreurs posant des plaques de couverture métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle, pas une tuile."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan de tuiles anciennes couvertes de lichen.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Type incertain."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tas de tuiles cassées sur bâche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débris."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Six tuiles mécaniques à emboîtement posées au sol devant un mur, avec nervures et rebords.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.35,
+        "largeur": 0.96,
+        "hauteur": 0.4
+      },
+      "lieu": "",
+      "note": "Tuiles à emboîtement bien visibles."
     }
   ]
 }

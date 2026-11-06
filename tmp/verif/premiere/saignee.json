@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans saignée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur en pierre à bossage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de saignée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cathédrale en briques de Pereslavl.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de saignée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Jaunes briques avec mortier épais, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint de maçonnerie, pas une saignée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arcades en briques d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne d'ouvriers enduisant un mur d'adobe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soubassement en pierre à peinture écaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

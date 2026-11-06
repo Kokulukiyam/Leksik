@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fermes industrielles en bois sur une maison en construction sous échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Charpente peinte en vert vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces entremêlées, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Charpente en bois vue de dessous, chevrons et entraits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arbalétrier non isolable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ferme en bois d un bâtiment réhabilité.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièces nombreuses, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Halle métallique avec fourgonnettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Halle avec remorque argentée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mortier en bois (pilon) sur le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mortier de cuisine, pas un lit de mortier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment au Pakistan en rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Peinture ancienne d'un jardin avec perroquets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de maison ancienne avec enduit dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lit de mortier non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne d'ouvriers enduisant un mur d'adobe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, pas de lit de mortier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur en briques sans lit de mortier clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints non lisibles."
     }
   ]
 }

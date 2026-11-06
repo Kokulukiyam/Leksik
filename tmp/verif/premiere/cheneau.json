@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Contexte indéterminé, trop ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couvreurs sur un toit d ardoise près d une souche de cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chéneau non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tas de gravats de briques devant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boutique avec grilles, panneau de laboratoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier casqué posant une gouttière pendante blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gouttière, pas chéneau ; personne dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment en béton avec rampe-goulotte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Caniveau envahi d herbe le long d un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Caniveau au sol, pas un chéneau."
     }
   ]
 }

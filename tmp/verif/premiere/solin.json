@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme (ville de Solin, Croatie)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Statue en pierre blanche dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maisons sur une colline.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun solin visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Place avec bâtiments jaunes et terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun solin visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Montagne et carrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bassins en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Monument blanc dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

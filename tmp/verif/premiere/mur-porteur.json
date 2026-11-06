@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle de mur de briques et d'enduit sur dallage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien ne montre un rôle porteur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de pierre en sous-bois, effet infrarouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, mur de clôture."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pan de mur ancien en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rôle porteur non démontré."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur ocre avec une fenêtre et une arme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de pierre avec souche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture ou de soutènement."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Muraille crénelée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rempart, pas un mur porteur de bâtiment."
     }
   ]
 }

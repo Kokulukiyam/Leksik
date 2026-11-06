@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Débris."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Piles de tuiles en terre cuite, plates et faîtières mélangées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mélange de types, pas de canal net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tuiles à emboîtement crème posées sur une paroi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce sont des tuiles mécaniques."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne en noir et blanc d une tuile à emboîtement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancienne, pas une tuile canal."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Six tuiles à emboîtement posées au sol devant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuiles mécaniques, pas canal."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tôle profilée rouge imitant la tuile en usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Métal, pas une tuile."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de tuiles moussues et mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage confus, type peu net."
     }
   ]
 }

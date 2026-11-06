@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sablière non isolable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d une pièce de bois dégradée avec rainures circulaires de connecteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sablière identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancienne carte postale d un grand bâtiment à pans de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document ancien, sablière invisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison à colombages rouges avec lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berod, Allemagne",
+      "note": "Sablière non distincte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pavillon à pans de bois couvert de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Sablière non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rue avec maison à colombages au toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hemsbach, Allemagne",
+      "note": "Sablière non distincte."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade à colombages en bois sombre avec fenêtres et inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sablière claire."
     }
   ]
 }

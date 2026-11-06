@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Amsterdam, Pays-Bas",
       "note": "Verrière noyée dans d'autres éléments ; moins claire que 02/04."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux vues stéréo d une trappe triangulaire sur un monticule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cour de musée couverte d une toiture vitrée sur ossature métallique, au-dessus de cages blanches suspendues.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.5
+      },
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Verrière de cour nette ; rectangle sur le vitrage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ventilateur sous une ouverture lumineuse, image très retravaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet, retouchée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Même cour vitrée sous un autre angle, cages suspendues dominantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Doublon de 08, moins lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand oculus circulaire translucide dans un plafond de bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt lanterneau ou oculus, ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d un vitrage sur ossature sombre, ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail trop abstrait."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Mexique",
       "note": "Pas de ferraillage de dalle lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Barres d'acier en tas liées par des rubans verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres stockées, pas une nappe de dalle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poteau de béton cassé avec armatures apparentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec une nappe de dalle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plaques de béton fissurées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Soudeur sur une armature verticale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une nappe de dalle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Enseigne lumineuse dans une exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de barres d'acier crénelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une nappe."
     }
   ]
 }

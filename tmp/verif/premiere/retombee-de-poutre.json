@@ -1,0 +1,53 @@
+{
+  "termId": "retombee-de-poutre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Poutre béton sur un camion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Transport de poutre."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pièce mécanique de voiture de course.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Plancher à hourdis et poutrelles avant coulage, vue de dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune retombée visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photo ancienne de levage d une poutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Charpente en bois dans une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutre bois, pas une retombée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Prédalles préfabriquées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de retombée."
+    }
+  ]
+}

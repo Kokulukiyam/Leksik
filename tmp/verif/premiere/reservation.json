@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Réservations non identifiables."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand échafaudage sur un chantier de bibliothèque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne d'un chantier de béton avec armatures et coffrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, aucune réservation lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier d'un immeuble de bureaux, façade bâchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne d'hommes sur un réservoir (reservoir, pas réservation).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade en béton brut d'un immeuble d'habitation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune réservation identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur en béton strié avec ombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

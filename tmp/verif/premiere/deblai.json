@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Butte, pas un déblai."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier avec tunnel et conduites jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tas de déblai clair."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vaste excavation en montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terrassement sans tas de terre identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur blanc taché d'argile rouge au-dessus d'une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Terre rouge versée depuis une benne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan ambigu, plutôt remblai ou terre rapportée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chantier de tranchée avec engins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène trop confuse pour illustrer le déblai seul."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fouille circulaire avec parois blindées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustre plutôt une paroi ou un blindage."
     }
   ]
 }

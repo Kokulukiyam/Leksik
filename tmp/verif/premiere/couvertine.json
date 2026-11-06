@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Couvertine non visible ou trop petite."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gravure de garde-corps en bois (dessin d'un traité).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plaque métallique ronde cloutée sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Muret de pierre en bord de terrasse avec une sculpture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Couronnement en pierre, pas un profilé métallique ; ambigu avec chaperon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ancienne photo sépia d'un château au bord d'une rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne, couvertine invisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de brique d'un château avec une passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune couvertine identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancienne photo sépia d'un château en ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne, sans objet."
     }
   ]
 }

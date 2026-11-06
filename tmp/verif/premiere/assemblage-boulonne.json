@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mécanique automobile."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Liaison rouillée d'un dispositif ferroviaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de voie, peu claire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Trois têtes de boulons rouillées sur une plaque verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Têtes isolées, assemblage peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneau de règlement de toilettes publiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boulons dans du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assemblage bois."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bride boulonnée de deux tronçons d'un mât métallique galvanisé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Deux sections métalliques réunies par des boulons à travers des brides."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Boulon rouillé sur un angle d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul boulon, flou."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de reprise lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Imprimante 3D béton dans un atelier de laboratoire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne de quatre hommes sur une surface bétonnée d'un réservoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, sans reprise lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Homme assis près d'un conteneur et d'un muret en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Armatures et coffrage de rive d'une dalle en préparation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferraillage, pas de reprise de bétonnage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trottoir neuf lisse contre un vieux trottoir à granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même scène que la 01 : joint entre deux trottoirs d'âges différents, doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne d'un ouvrier sur une structure en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, sans rapport."
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "termId": "poutrelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Regards préfabriqués en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tamil Nadu, Inde",
+      "note": "Pas de poutrelle."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne en noir et blanc de poutres béton posées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madrid, Espagne",
+      "note": "Photo ancienne de poutres, pas des poutrelles."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Stand d éléments préfabriqués en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Erode, Inde",
+      "note": "Pas de poutrelle."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Photos anciennes noir et blanc de pose de poutres de couverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madrid, Espagne",
+      "note": "Poutres, document ancien."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Poutre béton d angle sous un vitrail dans une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, États-Unis",
+      "note": "Poutre de structure, pas une poutrelle."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poutres de pont préfabriquées sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Poutres de pont, pas des poutrelles."
+    }
+  ]
+}

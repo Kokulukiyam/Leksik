@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Document imprimé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pont en arc à treillis, photo ancienne en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien, petit, grain important."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cour de l'auberge George Inn, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Treillis aluminium de scène en atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encombré, fond confus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Piliers et poutres sous une station de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans treillis net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portique de poutres à treillis blanches levé sur un chantier, ciel dégagé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.17,
+        "largeur": 0.92,
+        "hauteur": 0.7
+      },
+      "lieu": "",
+      "note": "Poutres triangulées à deux membrures, nettes et dominantes."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pont Auckland avec cyclistes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillis flou et lointain."
     }
   ]
 }

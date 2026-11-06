@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mur de briques."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Muret de pierres couvert de givre, entouré d'herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierres masquées par le givre, détail illisible ; doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de pierres et mortier avec porte coréenne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur lié au mortier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Canal d'irrigation et murets en oasis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murets peu lisibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand mur en pierre de taille de la citadelle d'Amman.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre de taille appareillée, ruine, pas de la pierre sèche."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toiture en lauzes avec un panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau et texte visibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pan de mur de ruine en pierres et coraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierres liées au mortier, pas de la pierre sèche."
     }
   ]
 }

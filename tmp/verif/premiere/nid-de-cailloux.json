@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cabine sanitaire en conteneur avec une personne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Robinets sur une cloison de conteneur bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo en noir et blanc d'un escalier en béton avec un homme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de nid de cailloux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Colonne en béton bouchardé aux granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface bouchardée volontairement, pas un défaut de coulage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Démolition d'un immeuble avec pelle et gravats.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Moulage d'un cube d'éprouvette avec du mortier versé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

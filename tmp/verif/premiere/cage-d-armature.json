@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Barquisimeto, Venezuela",
       "note": "Cage de fondation visible, vue frontale claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Image sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Image sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Image sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cages d'armature cylindriques de pieux posées au sol sur un chantier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.36,
+        "largeur": 0.85,
+        "hauteur": 0.58
+      },
+      "lieu": "Allemagne",
+      "note": "Cages complètes, bien lisibles, distinctes du ferraillage de dalle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Image sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Image sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rejetée."
     }
   ]
 }

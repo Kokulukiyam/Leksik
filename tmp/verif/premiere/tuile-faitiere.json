@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Faîtière typique et dominante."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Crécerelle sur une toiture de tuiles plates.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Faîtage peu lisible, oiseau dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Quatre tuiles demi-rondes posées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait être canal, usage non montré."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit en lauzes ou ardoises épaisses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de faîtière."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tourterelle sur le faîtage d un toit de tuiles mécaniques ; rang de tuiles faîtières avec closoir ondulé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.52,
+        "largeur": 1.0,
+        "hauteur": 0.18
+      },
+      "lieu": "",
+      "note": "Faîtières bien encadrées, oiseau en arrière-plan."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tas de tuiles cassées sur bâche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Débris."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toit métallique avec tourelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tuile."
     }
   ]
 }

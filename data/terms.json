@@ -1021,6 +1021,17 @@
     "priorite": 2
   },
   {
+    "id": "scie-circulaire",
+    "terme": "la scie circulaire",
+    "definition": "Scie électrique à lame ronde dentée, portative ou sur table, pour débiter le bois et les panneaux.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "scie-sauteuse",
+      "tronconneuse"
+    ]
+  },
+  {
     "id": "scie-sauteuse",
     "terme": "la scie sauteuse",
     "definition": "Scie électrique à main dont la lame étroite va et vient verticalement, pour les découpes courbes.",
@@ -1133,6 +1144,16 @@
     "definition": "Paire de coquilles reliées par un arceau, qui couvrent les oreilles contre le bruit des machines.",
     "categorie": "Chantier et outillage",
     "priorite": 3
+  },
+  {
+    "id": "harnais-de-securite",
+    "terme": "le harnais de sécurité",
+    "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.",
+    "categorie": "Chantier et outillage",
+    "priorite": 2,
+    "incompatibles": [
+      "ligne-de-vie"
+    ]
   },
   {
     "id": "station-totale",
@@ -1457,6 +1478,17 @@
     "priorite": 2
   },
   {
+    "id": "mur-de-soutenement",
+    "terme": "le mur de soutènement",
+    "definition": "Mur, maçonné ou en béton armé, qui retient les terres d'un talus ou d'un terrain en pente, le sol étant plus haut d'un côté que de l'autre.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "barbacane",
+      "talus"
+    ]
+  },
+  {
     "id": "barbacane",
     "terme": "la barbacane",
     "definition": "Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.",
@@ -1472,6 +1504,18 @@
     "incompatibles": [
       "mur-de-soutenement",
       "talus"
+    ]
+  },
+  {
+    "id": "enrochement",
+    "terme": "l'enrochement",
+    "definition": "Amas de gros blocs de roche disposés pour protéger un talus, une berge ou un littoral.",
+    "categorie": "Extérieurs et voirie",
+    "priorite": 2,
+    "incompatibles": [
+      "talus",
+      "gabion",
+      "mur-de-soutenement"
     ]
   },
   {
@@ -1686,6 +1730,19 @@
     ]
   },
   {
+    "id": "brise-soleil-orientable",
+    "terme": "le brise-soleil orientable",
+    "definition": "Store extérieur à lames métalliques orientables qui se relèvent et se baissent devant une baie.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "brise-soleil",
+      "persienne",
+      "brise-soleil-horizontal",
+      "brise-soleil-vertical"
+    ]
+  },
+  {
     "id": "store-banne",
     "terme": "le store banne",
     "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
@@ -1723,6 +1780,18 @@
     "priorite": 3,
     "incompatibles": [
       "facade"
+    ]
+  },
+  {
+    "id": "arcade",
+    "terme": "l'arcade",
+    "definition": "Suite d'arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 2,
+    "incompatibles": [
+      "arc",
+      "colonne",
+      "baie-cintree"
     ]
   },
   {

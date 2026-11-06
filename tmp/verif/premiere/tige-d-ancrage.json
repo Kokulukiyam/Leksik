@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Italie",
       "note": "C'est une ancre de façade, pas une tige d'ancrage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier qui tape près d'une tige dépassant du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène confuse, tige secondaire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux vis banjo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce automobile."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tige filetée avec écrou dépassant d'une dalle de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tige trop petite dans l'image, même cadrée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pont sur la Thur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans tige d'ancrage visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Schéma de calcul d'ancrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Schéma."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Boulons dans une boîte en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vrac de boulons."
     }
   ]
 }

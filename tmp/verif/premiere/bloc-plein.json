@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plein non démontrable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Palette de parpaings creux devant une cabane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs creux, pas des blocs pleins."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sculpture en équilibre de pierres et de parpaings creux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur double de blocs avec isolant laine minérale en coupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs non identifiables comme pleins."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fragment d'étiquette sur un sol de graviers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros bloc de béton de lestage avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, bloc de lestage, pas un bloc de maçonnerie."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Murs en blocs de béton avec isolant, chantier de maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pleins ou creux indiscernables : doute."
     }
   ]
 }

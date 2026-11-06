@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur enduit avec crête irrégulière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de clôture, pas un voile démontré."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de brique avec aciers apparents sur un bandeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un voile."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de béton à reliefs le long d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de soutènement préfabriqué, ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fouille avec armatures et banches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop confus."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Murs de pierre en terrasses envahis de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maçonnerie, pas un voile."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Banches jaunes stockées sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Banches seules, pas de voile."
     }
   ]
 }

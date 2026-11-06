@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Crochets illisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Machine à cintrer exposée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un crochet scellé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Offrande sur un sommet avec drapeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Enseigne lumineuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan de barres crénelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de crochet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle d'exposition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Barres d'acier crénelées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de crochet."
     }
   ]
 }

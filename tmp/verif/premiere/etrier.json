@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Barres isolées, pas d'étrier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Étourneaux perchés sur des barres d'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panorama d'un pont au bord d'un fleuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étriers invisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soldats attachant des armatures sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étrier non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Barre d'acier coudée dans du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barre isolée, pas un étrier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bouts de barres d'acier dans du béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un étrier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de béton avec réservations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

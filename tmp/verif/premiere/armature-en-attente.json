@@ -1,0 +1,53 @@
+{
+  "termId": "armature-en-attente",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Cintreuse de fer à béton sur un salon professionnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas des attentes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Chantier de dalle avec maisons au fond, attentes non visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frankenfels, Autriche",
+      "note": "Aucune attente lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Petit sanctuaire sur un sommet de montagne, tiges de fer au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chandrashila, Inde",
+      "note": "Pas d armature en attente claire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de dalle avec maisons au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frankenfels, Autriche",
+      "note": "Aucune attente lisible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Fers à béton stockés sur un chantier, image fortement retouchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inde",
+      "note": "Barres stockées, image retouchée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Poutre béton d un bâtiment en brique avec aciers corrodés affleurant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amboise, France",
+      "note": "Aciers apparents par éclatement, pas des attentes."
+    }
+  ]
+}

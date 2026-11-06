@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ferraillage, pas de béton frais."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol gris brillant dans un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton non démontré frais."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Interférogramme holographique rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une photo du béton frais."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trottoir ancien en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton durci."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Moules cubiques d'éprouvettes vides.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moules vides."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ventilateur dans un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de béton structuré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton durci."
     }
   ]
 }

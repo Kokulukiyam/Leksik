@@ -53,6 +53,59 @@
       },
       "lieu": "",
       "note": "Cale en béton nette, rectangle sur la cale."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Banche et armatures sur un chantier routier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cales invisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Barres cintrées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans cale."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de dalle avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cales invisibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cale en béton avec clip plastique coincée entre des barres d'armature.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.22,
+        "largeur": 0.32,
+        "hauteur": 0.55
+      },
+      "lieu": "",
+      "note": "Cale d'enrobage nette, rectangle sur la cale."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Caisse de barres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans cale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fouilles de fondations avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cales invisibles."
     }
   ]
 }

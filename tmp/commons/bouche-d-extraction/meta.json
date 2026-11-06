@@ -11,7 +11,8 @@
       "ventilation extract valve"
     ],
     "incompatibles": [
-      "grille-de-ventilation"
+      "grille-de-ventilation",
+      "extracteur-d-air"
     ]
   },
   "candidats": []

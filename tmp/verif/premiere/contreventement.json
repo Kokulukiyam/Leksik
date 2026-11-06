@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de contreventement lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ossature métallique d'un bâtiment en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Diagonales peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvrier dans une ossature de profilés légers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de contreventement net."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue après une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ossature métallique d'un hangar avec poteaux et traverses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de barres de contreventement visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment détruit par une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue après une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

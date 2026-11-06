@@ -48,6 +48,38 @@
       "rectangle": null,
       "lieu": "Linz, Autriche",
       "note": "Pas un édicule de toiture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble de verre en angle de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'édicule de toiture-terrasse lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble de verre vu de la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'édicule lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ancien palais en brique avec lanterneau à la toiture à pignons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lanterneau sur toiture à pentes, pas un édicule de toiture-terrasse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pignon de brique d'une maison ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun édicule."
     }
   ]
 }

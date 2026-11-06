@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop large."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poutre d'acier au-dessus d'une baie, estampille visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilé en I, texte visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fermes métalliques d'un toit de gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés non identifiables."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poteau avec escalator et profilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de U net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutres en I galvanisées avec une corde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés en I, pas en U."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur à ossature métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de U net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de brique avec houblon et poutre rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profil non lisible."
     }
   ]
 }

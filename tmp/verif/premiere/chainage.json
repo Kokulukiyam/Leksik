@@ -1,0 +1,53 @@
+{
+  "termId": "chainage",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Chantier de dalle avec maisons au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frankenfels, Autriche",
+      "note": "Chaînage non identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan de briques jaunes et mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chaînage."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Barre d acier rouillée sortant d un béton ruiné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferraille, pas un chaînage."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Galerie d arcs en brique sous toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Beringen, Belgique",
+      "note": "Pas de chaînage identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Aciers rouillés apparents au pied d un poteau éclaté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corrosion d armatures, pas un chaînage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte en arc d un bâtiment en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaînage non identifiable."
+    }
+  ]
+}

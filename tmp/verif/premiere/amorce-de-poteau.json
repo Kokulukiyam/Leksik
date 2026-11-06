@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Objet de musée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panorama d'un pont au bord d'un fleuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans amorce lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier avec nombreuses attentes en semelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et confus."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Faisceaux de barres sur gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres stockées, pas une amorce."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cage d'armature sortant d'une poutre préfabriquée au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ce n'est pas un départ de poteau clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Caisse de barres cintrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cale plastique sur une armature dans du béton cassé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustre une cale d'armature."
     }
   ]
 }

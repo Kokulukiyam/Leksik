@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Appareil non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur couvert de feuillages rouges d'automne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil invisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de clôture en blocs de ciment irréguliers avec pilier et soubassement en pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil irrégulier, pas un appareil en panneresses net."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plante grasse devant un mur de briques en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plante dominante."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'une maison ancienne en briques aux Philippines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible, composition générale."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de clôture en briques sur soubassement de galets, couvert de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques irrégulières, joints peu lisibles, soubassement en moellons : doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte à arc couverte de feuillage rouge sur mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non dominant."
     }
   ]
 }

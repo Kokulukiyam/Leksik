@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peinture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sculpture en forme de X sur un cube sur une place.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un contreventement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sculpture en forme de X sur une place.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coussin brodé de drapeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Peinture du martyre de saint André.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bas-relief de saint André avec légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Statue de saint André avec une croix en X.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Iconographie religieuse."
     }
   ]
 }

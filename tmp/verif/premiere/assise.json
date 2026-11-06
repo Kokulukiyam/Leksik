@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop large, assise non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cimetière entouré de murs en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'assise lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Voiture de sport devant un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade enduite à gravillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de clôture en briques sur soubassement de galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assises non lisibles, doute."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Soubassement en pierre à peinture écaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur ancien moussu sous une corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assises illisibles."
     }
   ]
 }
