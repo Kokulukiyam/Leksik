@@ -1,0 +1,297 @@
+[
+ {
+  "cle": "moucharabieh/08",
+  "accord": true,
+  "raison": "Panneau de moucharabieh en bois tourné (musée), treillis net et dominant ; terme juste."
+ },
+ {
+  "cle": "arc-boutant/07",
+  "accord": true,
+  "raison": "Rectangle bien placé sur un arc-boutant gothique franchissant le vide vers la culée ; terme juste."
+ },
+ {
+  "cle": "contrefort/08",
+  "accord": true,
+  "raison": "Rectangle sur un massif de maçonnerie en saillie à glacis contre le mur d'une église ; contrefort clair."
+ },
+ {
+  "cle": "contrefort/09",
+  "accord": true,
+  "raison": "Rectangle cadrant un contrefort à ressauts et glacis contre le chevet ; terme juste."
+ },
+ {
+  "cle": "pilotis/10",
+  "accord": true,
+  "raison": "Maison sur l'eau portée par des pieux de bois, rectangle sur les pieux ; pilotis sans ambiguïté."
+ },
+ {
+  "cle": "gousset/07",
+  "accord": true,
+  "raison": "Plaque d'acier rouge réunissant plusieurs cornières en un nœud de pylône, exactement cadrée ; gousset clair."
+ },
+ {
+  "cle": "gousset/12",
+  "accord": true,
+  "raison": "Plaque rivetée au nœud d'une poutre treillis de pont, rectangle sur la plaque ; gousset juste."
+ },
+ {
+  "cle": "joint-de-dilatation/07",
+  "accord": true,
+  "raison": "Joint de dilatation métallique traversant le tablier d'un pont, bien cadré ; reconnaissable."
+ },
+ {
+  "cle": "joint-de-dilatation/09",
+  "accord": true,
+  "raison": "Gros plan d'un joint de dilatation à peigne entre deux dalles ; terme juste, différent de l'autre image."
+ },
+ {
+  "cle": "arc-brise/09",
+  "accord": true,
+  "raison": "Photo ancienne d'arcades du cloître avec arcs en tiers-point nettement pointus au centre ; arc brisé juste."
+ },
+ {
+  "cle": "arc-surbaisse/10",
+  "accord": true,
+  "raison": "Grand arc segmentaire très aplati sous la façade, bien cadré ; arc surbaissé sans ambiguïté."
+ },
+ {
+  "cle": "voute-en-berceau/09",
+  "accord": true,
+  "raison": "Nef couverte d'une voûte en berceau à caissons peints, rectangle sur la voûte ; courbure claire, terme juste."
+ },
+ {
+  "cle": "pinacle/08",
+  "accord": false,
+  "raison": "Rectangle sur un couronnement de culée assez massif à gâbles, englobant une gargouille (terme de la liste) ; ambigu."
+ },
+ {
+  "cle": "pinacle/11",
+  "accord": true,
+  "raison": "Rectangle sur un pinacle gothique élancé à crochets surmontant un contrefort ; terme juste."
+ },
+ {
+  "cle": "denticule/09",
+  "accord": true,
+  "raison": "Rang de petits blocs réguliers sous la corniche du pignon, bien visibles dans le rectangle ; denticules clairs."
+ },
+ {
+  "cle": "grecque/12",
+  "accord": true,
+  "raison": "Rectangle sur une frise en méandre à angles droits au plafond du portique ; grecque nette."
+ },
+ {
+  "cle": "cartouche/12",
+  "accord": true,
+  "raison": "Cartouche rocaille à bords enroulés entourant un blason au-dessus d'une baie ; terme juste malgré une guirlande."
+ },
+ {
+  "cle": "medaillon/10",
+  "accord": true,
+  "raison": "Ornement circulaire encadré portant un motif sculpté (flambeau ailé) sur façade de brique ; médaillon clair."
+ },
+ {
+  "cle": "bossage/09",
+  "accord": false,
+  "raison": "Même chaîne d'angle que bossage/10, vue de loin avec rectangle peu serré ; quasi-doublon moins lisible."
+ },
+ {
+  "cle": "bossage/10",
+  "accord": true,
+  "raison": "Pierres d'angle nettement saillantes, séparées par des joints creux, bien cadrées ; bossage clair."
+ },
+ {
+  "cle": "bas-relief/12",
+  "accord": true,
+  "raison": "Scène sculptée en marbre restant attachée au fond, encadrée ; bas-relief juste."
+ },
+ {
+  "cle": "epi-de-faitage/09",
+  "accord": true,
+  "raison": "Épi de faîtage en céramique vernissée surmonté d'une mouette, au sommet du toit, bien cadré ; terme juste."
+ },
+ {
+  "cle": "grenier-dogon/08",
+  "accord": true,
+  "raison": "Grenier rond en banco coiffé d'un chapeau conique de paille, sur socle de pierres ; grenier dogon typique."
+ },
+ {
+  "cle": "granite/12",
+  "accord": false,
+  "raison": "Chaos rocheux naturel en bord de mer vu de loin ; grain moucheté illisible, la roche pourrait être une autre pierre."
+ },
+ {
+  "cle": "marbre/09",
+  "accord": true,
+  "raison": "Revêtement mural en plaques de marbre rose veiné, rectangle sur les plaques ; terme juste."
+ },
+ {
+  "cle": "calcaire/09",
+  "accord": true,
+  "raison": "Mur en pierre de taille calcaire beige, appareil régulier en gros plan ; terme juste."
+ },
+ {
+  "cle": "brique-de-verre/07",
+  "accord": true,
+  "raison": "Gros plan de briques de verre moulé ondulé jointoyées au mortier ; sans ambiguïté."
+ },
+ {
+  "cle": "brique-de-verre/08",
+  "accord": false,
+  "raison": "Paroi en briques de verre petite et lointaine, le drapeau domine ; peu lisible sur téléphone."
+ },
+ {
+  "cle": "brique-de-verre/09",
+  "accord": true,
+  "raison": "Paroi de briques de verre rectangulaires maçonnées, vue rapprochée ; terme juste."
+ },
+ {
+  "cle": "brique-de-verre/10",
+  "accord": true,
+  "raison": "Photo N&B d'une paroi en briques de verre prismatiques jointoyées ; blocs bien lisibles."
+ },
+ {
+  "cle": "brique-de-verre/11",
+  "accord": true,
+  "raison": "Façade avec grands panneaux en briques de verre maçonnées ; terme clair."
+ },
+ {
+  "cle": "brique-de-verre/12",
+  "accord": false,
+  "raison": "Parois de carreaux de verre colorés en intérieur ; nature (briques de verre ou vitrage en résille) incertaine."
+ },
+ {
+  "cle": "plaquette-de-parement/08",
+  "accord": true,
+  "raison": "Plaquettes de parement en terre cuite, dont des pièces d'angle, posées sur le sable ; minces et reconnaissables."
+ },
+ {
+  "cle": "panneau-osb/07",
+  "accord": true,
+  "raison": "Gros plan de lamelles de bois orientées et collées ; panneau OSB typique."
+ },
+ {
+  "cle": "panneau-osb/08",
+  "accord": false,
+  "raison": "Paysage avec une usine au loin, aucun panneau OSB visible."
+ },
+ {
+  "cle": "panneau-osb/09",
+  "accord": false,
+  "raison": "Restaurant aux baies condamnées par de l'OSB, panneaux petits et lointains ; matériau peu lisible, non dominant."
+ },
+ {
+  "cle": "panneau-osb/10",
+  "accord": true,
+  "raison": "Palissade de grands panneaux OSB devant un bâtiment, aspect de copeaux visible ; terme juste."
+ },
+ {
+  "cle": "panneau-osb/11",
+  "accord": true,
+  "raison": "Gros plan de grandes lamelles orientées et collées d'un autre panneau ; OSB sans ambiguïté."
+ },
+ {
+  "cle": "panneau-osb/12",
+  "accord": false,
+  "raison": "Graphique statistique de production, pas une photo."
+ },
+ {
+  "cle": "lamelle-colle/09",
+  "accord": true,
+  "raison": "Tranche d'une pièce de bois montrant cinq lamelles collées ; lamellé-collé clair."
+ },
+ {
+  "cle": "bambou/10",
+  "accord": true,
+  "raison": "Bosquet de grandes tiges de bambou nouées en gros plan ; matériau reconnaissable."
+ },
+ {
+  "cle": "fer-forge/08",
+  "accord": true,
+  "raison": "Portail en fer forgé à volutes, barreaux torsadés et pointes ; terme juste."
+ },
+ {
+  "cle": "tole-perforee/07",
+  "accord": false,
+  "raison": "Chantier dominé par une nacelle ; les panneaux perforés sont petits en haut à gauche."
+ },
+ {
+  "cle": "tole-perforee/08",
+  "accord": false,
+  "raison": "Façade habillée d'écrans métalliques vue de loin ; perforations illisibles (métal déployé ou bardage possibles)."
+ },
+ {
+  "cle": "tole-perforee/09",
+  "accord": false,
+  "raison": "Tours au bord d'un fleuve vues de loin ; aucune tôle perforée lisible."
+ },
+ {
+  "cle": "tole-perforee/10",
+  "accord": false,
+  "raison": "Camion-nacelle devant une façade ; aucune tôle perforée visible."
+ },
+ {
+  "cle": "tole-perforee/11",
+  "accord": true,
+  "raison": "Façade habillée de tôle blanche nettement percée de trous, bien lisible ; terme juste."
+ },
+ {
+  "cle": "tole-perforee/12",
+  "accord": true,
+  "raison": "Angle de façade en panneaux de tôle à trous ronds réguliers, nets ; tôle perforée claire."
+ },
+ {
+  "cle": "verre-depoli/07",
+  "accord": true,
+  "raison": "Porte vitrée en verre mat, silhouette floue derrière, rectangle sur le vitrage ; dépoli sans ambiguïté."
+ },
+ {
+  "cle": "verre-depoli/11",
+  "accord": true,
+  "raison": "Porte et cloison en verre dépoli lumineux et mat, motif d'arbre gravé, bien cadrées ; terme juste."
+ },
+ {
+  "cle": "mosaique/10",
+  "accord": true,
+  "raison": "Sol en mosaïque de petites tesselles formant des motifs géométriques ; terme juste."
+ },
+ {
+  "cle": "mosaique/07",
+  "accord": true,
+  "raison": "Mosaïque romaine figurée en tesselles de pierre ; sans ambiguïté."
+ },
+ {
+  "cle": "mosaique/08",
+  "accord": true,
+  "raison": "Revêtement en fragments de faïence cassée assemblés ; mosaïque claire."
+ },
+ {
+  "cle": "mosaique/12",
+  "accord": true,
+  "raison": "Sol de terrasse de café en mosaïque de petites tesselles noires et blanches ; terme juste."
+ },
+ {
+  "cle": "fibrociment/12",
+  "accord": true,
+  "raison": "Piles de plaques ondulées grises, épaisses et mates, en fibrociment ; reconnaissable."
+ },
+ {
+  "cle": "laine-de-verre/07",
+  "accord": true,
+  "raison": "Rouleau de laine de verre fibreuse et souple, avec pare-vapeur kraft, pendant d'un plafond ouvert ; bien cadré."
+ },
+ {
+  "cle": "tadelakt/03",
+  "accord": true,
+  "raison": "Main polissant au galet un enduit à la chaux lisse et brillant ; geste typique du tadelakt."
+ },
+ {
+  "cle": "boiserie/01",
+  "accord": true,
+  "raison": "Habillage mural en panneaux de bois sculptés et moulurés d'un intérieur ancien ; boiserie claire."
+ },
+ {
+  "cle": "boiserie/05",
+  "accord": true,
+  "raison": "Rectangle sur le lambris de chœur en panneaux de chêne moulurés et sculptés ; terme juste."
+ }
+]

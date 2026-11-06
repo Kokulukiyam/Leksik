@@ -1,0 +1,58 @@
+{
+  "termId": "boiserie",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur habillé de panneaux de chêne sculptés et moulurés séparés de pilastres à figures féminines, sous une corniche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Château de Pibrac, France",
+      "note": "Habillage mural en panneaux de bois moulurés et sculptés, occupe toute l'image ; aucun terme voisin ne s'y applique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure en noir et blanc d'un pan de boiserie avec médaillons et guirlandes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Château de Tanlay, France",
+      "note": "Dessin gravé, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Chapelle néo-gothique avec grand retable de bois au centre, soubassement lambrissé autour, vitraux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Reutenbourg, France",
+      "note": "Le retable et l'autel dominent ; boiserie secondaire et petite."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bas-relief sculpté de la flagellation du Christ dans un panneau de bois cintré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Mans, France",
+      "note": "Sculpture figurative en gros plan, lue comme panneau sculpté plutôt que boiserie murale."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Hautes boiseries de chêne à panneaux moulurés et ornements rocaille au-dessus de stalles de chœur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.42
+      },
+      "lieu": "Marmoutier, France",
+      "note": "Rectangle sur le revêtement mural à panneaux, distinct des stalles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bas-relief de la Cène dans un panneau de bois cintré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Mans, France",
+      "note": "Sculpture figurative isolée, pas un habillage mural."
+    }
+  ]
+}

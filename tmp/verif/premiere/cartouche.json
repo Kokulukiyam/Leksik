@@ -58,6 +58,54 @@
       },
       "lieu": "Gaming, Autriche",
       "note": "Cartouche clair et dominant; rectangle sur le cartouche, hors putti."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gravure de cartouches rocaille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessin de cartouches ovales vides.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Peinture : portrait d homme dans un cadre ovale à enroulements.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tombe à deux tables de la loi en pierre avec texte hébreu, sous une stèle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Tables de la loi, texte visible, pas un cartouche."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure de cartouche baroque avec putti.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cartouche baroque en pierre à bords enroulés et volutes, au droit d une porte d église.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Nicey-sur-Aire, France",
+      "note": "Cartouche sculpté net, écu vierge à enroulements ; guirlande lumineuse gênante mais mineure."
     }
   ]
 }

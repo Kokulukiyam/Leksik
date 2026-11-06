@@ -1,0 +1,53 @@
+{
+  "termId": "couvre-joint",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Image satellite des Balkans avec fumées d'incendies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balkans",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure ancienne en noir et blanc d'une ferme et d'une grange avec clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustration de livre, hors sujet."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vue satellite d'un cône de déjection dans un désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taklamakan, Chine",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Panorama de la surface de Mars pris par un rover.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mars",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maquette de voiture-lits bleue, sur rail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Modèle réduit, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Dessin au trait d'une maison de bois ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montréal, Canada",
+      "note": "Dessin, pas une photo."
+    }
+  ]
+}

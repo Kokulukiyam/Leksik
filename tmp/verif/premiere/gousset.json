@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "Vienne, Autriche",
       "note": "Goussets petits et noyés dans la ferraille, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur une plaque rouge boulonnée au nœud de plusieurs cornières d'un pylône en treillis.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.22,
+        "largeur": 0.42,
+        "hauteur": 0.54
+      },
+      "lieu": "Dersum, Allemagne",
+      "note": "Gousset net, boulonné, nœud de barres évident."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Place publique avec lettrage et palmiers.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vue en contre-plongée de l'intérieur d'une tour en tubes triangulés.",
+      "verdict": "rejetée",
+      "note": "Aucun gousset lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pont métallique en treillis avec plaques de nœud, vue d'ensemble.",
+      "verdict": "rejetée",
+      "note": "Gousset trop petit, vue d'ensemble.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Nœud riveté d'un pont métallique avec une cathédrale au fond.",
+      "verdict": "rejetée",
+      "note": "Doublon de la 04 (même pont), plaque en partie rognée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Nœud riveté d'un pont métallique vert : plaque reliant membrure, montant et diagonale.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.34,
+        "largeur": 0.52,
+        "hauteur": 0.3
+      },
+      "lieu": "Haren / Meppen, Allemagne",
+      "note": "Plaque de nœud riveté lisible, rectangle sur le gousset."
     }
   ]
 }

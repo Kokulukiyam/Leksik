@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Échantillon minéralogique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rotonde à colonnes et stuc jaune avec piédestal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Stucs, plâtre non démontré, scène chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Échantillon rose de gypse sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Minéral, pas du plâtre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plafond avec flocage ignifuge vert, texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flocage, pas du plâtre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Affleurement de gypse lité avec une main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roche, pas du plâtre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuyaux et flocage ignifuge décollé, légende.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flocage, légende."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portrait de femme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

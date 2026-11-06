@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Élément minuscule, image dominée par la mosquée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Aquarelle de scène de lecture dans une salle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneau de moucharabieh en bois tourné, à fuseaux et perles, avec quatre cadres plus fins, sur fond rouge.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Musée du Louvre, Paris",
+      "note": "Treillis de bois tourné typique, net et dominant ; pièce de musée mais forme classique de fenêtre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couloir étroit avec une petite fenêtre ajourée sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inde",
+      "note": "Élément trop petit dans l image."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble ancien de Djeddah couvert de balcons et claustras en bois vert, en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djeddah, Arabie saoudite",
+      "note": "Ensemble chargé, balcons (rawashin) dominants, éléments pas clairs ; doute."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand oriel en bois sombre à toit en bulbe, exposé dans une salle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Birmingham, Royaume-Uni",
+      "note": "Oriel en saillie, confusion avec oriel."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grande paroi ajourée à entrelacs et vitraux dans un palais, contre-jour sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Téhéran, Iran",
+      "note": "Cloison à contre-jour, plutôt claustra ou vitrage ; doute."
     }
   ]
 }

@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Bienne, Suisse",
       "note": "Sujet confus, strates non lisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Section d'une pièce de bois montrant plusieurs lamelles superposées collées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche montrant clairement les strates de lamelles, conforme à la définition."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Extrémité d'une poutre claire avec sabot métallique perforé et tirant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail métallique dominant, strates peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison en rondins ou bois massif de style chalet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Madriers, pas du lamellé-collé évident."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chevrons et pièces de bois contre un vitrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Strates peu lisibles, scène confuse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvriers sur nacelle près d'une charpente en bois et croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, structure peu nette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stade couvert à arches courbes en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arches sans lamelles visibles, peu lisible."
     }
   ]
 }

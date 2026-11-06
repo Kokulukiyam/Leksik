@@ -53,6 +53,59 @@
       },
       "lieu": "",
       "note": "Veines typiques du marbre, matière dominante ; rectangle sur la cheminée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade moderne à pilastres de pierre brute et pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre en parement brut, ni poli ni veiné."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande dalle beige uniforme appuyée dans un dépôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle lisse sans veines, matériau indécis (calcaire ou marbre)."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Couloir dont le mur est revêtu de plaques de marbre rosé veiné.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.02,
+        "largeur": 0.18,
+        "hauteur": 0.95
+      },
+      "lieu": "Christopher Columbus High School, États-Unis",
+      "note": "Veines blanches bien visibles sur le revêtement ; rectangle sur les plaques du mur gauche pour écarter porte, sol et carrelage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Échantillon de roche verdâtre sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roche indéfinie, légende minéralogique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de pierres hétérogènes avec jardinières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maçonnerie de moellons, pas du marbre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d'une roche blanche cristalline contre une roche noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Affleurement géologique, ambigu."
     }
   ]
 }

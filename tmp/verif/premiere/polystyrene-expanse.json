@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Bohumín, Tchéquie",
       "note": "Isolant sous enduit, non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier de bassin béton avec grandes plaques blanches posées au fond sur bâche bleue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Suède",
+      "note": "Plaque blanche probable mais petite et non certaine (isolant, béton cellulaire ?), doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cabane à toit de chaume dans un paysage minéral.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport, chaume visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Étal de mandarines avec pancartes en chinois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyauteries industrielles calorifugées avec logo d entreprise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pérou",
+      "note": "Isolation métallique, logo visible, sans polystyrène identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Main tenant des billes grises de polystyrène expansé graphité dans un sac plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Billes grises en vrac, pas la plaque blanche du terme ; ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Immeuble d habitation viennois à façade enduite d angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Isolant non visible."
     }
   ]
 }

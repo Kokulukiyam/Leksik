@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit panneau acrylique abstrait.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coque transparente de voiture miniature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Support métallique d'archives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Stylo plume noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plaque transparente avec disque sur table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stylo plume noir fermé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun panneau alvéolaire de bâtiment visible."
     }
   ]
 }

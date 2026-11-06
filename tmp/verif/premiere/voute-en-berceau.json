@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Jándula, Espagne",
       "note": "Forme expressionniste, mal lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond peint à compartiments, vu de dessous, plan carré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte sur plan carré (arêtes ou plafond), pas un berceau lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ruines du Colisée, arcades de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs en ruine, pas de voûte lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Nef d'église à voûte en berceau à caissons peints, vue vers le chœur et la coupole.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.0,
+        "largeur": 0.8,
+        "hauteur": 0.26
+      },
+      "lieu": "Birmingham, Royaume-Uni",
+      "note": "Berceau en demi-cercle bien lisible en haut ; rectangle sur la voûte pour écarter coupole et arcs."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruines romaines en brique avec arcs, contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine confuse, voûte pas lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Voûte de pierre en berceau d'une cabane avec auge, ombre portée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte cadrée de près et sombre, demi-cercle non lisible ; mangeoire dominante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arcade de brique romaine encadrant un pan de mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc, pas voûte en berceau."
     }
   ]
 }

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de denticules."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bordure ornementale ancienne imprimée simulant une corniche sur médaillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Imprimé, pas une photo (doublon de 01)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Détail de corniche et console sur façade claire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Třebíč, Tchéquie",
+      "note": "Pas de denticules nets, consoles et moulures."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bâtiment ocre dont l égout et le pignon portent une rangée de petits blocs rectangulaires serrés.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.01,
+        "y": 0.46,
+        "largeur": 0.52,
+        "hauteur": 0.2
+      },
+      "lieu": "Solna, Suède",
+      "note": "Rangée de denticules très nette sous l égout ; cadre sur la rangée de l égout gauche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Corniche gothique à arcatures sous une toiture de tuiles, sur mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lantadilla, Espagne",
+      "note": "Corbeaux en arcatures, pas de denticules."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Angle d un édifice en pierre avec corniche à modillons à volutes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stroud, Royaume-Uni",
+      "note": "Modillons, pas denticules ; bossages sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portique néoclassique blanc avec colonnes et arc à caissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Yalta, Crimée",
+      "note": "Corniche lisse, denticules non visibles."
     }
   ]
 }

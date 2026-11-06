@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "Tainan, Taïwan",
       "note": "Pilier d'angle ambigu (pilier, contrefort ?) et arcades dominantes : élément non identifiable sans doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de brique rouge flanqué de grandes dalles inclinées contre la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Dalles plates peu lisibles comme contreforts."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de chapelle romane en moellons, rythmé par deux contreforts saillants à glacis, entre les fenêtres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.44,
+        "largeur": 0.17,
+        "hauteur": 0.56
+      },
+      "lieu": "Pons, France",
+      "note": "Contreforts nets et caractéristiques ; cadre sur celui de gauche."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chevet d église enduit de blanc, avec contreforts à glacis moussus entre les fenêtres hautes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.28,
+        "largeur": 0.17,
+        "hauteur": 0.72
+      },
+      "lieu": "Celle, Allemagne",
+      "note": "Contrefort net aux retraites ; cadre sur celui du centre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Flanc de chapelle en pierre avec un contrefort bas et un toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villers-sous-Chalamont, France",
+      "note": "Image sombre, élément isolé peu net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande halle en bois peinte en bleu avec poutres inclinées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taïwan",
+      "note": "Aucun contrefort lisible, appuis en bois."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Flanc de chapelle avec contrefort bas, rangs de planches et croix contre le mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villers-sous-Chalamont, France",
+      "note": "Encombré, objets parasites, contrefort peu net."
     }
   ]
 }

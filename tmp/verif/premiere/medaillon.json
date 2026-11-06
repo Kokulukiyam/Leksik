@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Maillezais",
       "note": "Érodé, illisible, objet de musée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Profil d homme en relief de plâtre dans un cadre ovale, plaque de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Glasgow, Royaume-Uni",
+      "note": "Gros plan d objet de musée en bas-relief portrait, risque de confusion avec bas-relief."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Monogramme IHS dans un cadre ovale festonné au-dessus d une plaque datée, sur façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eberndorf, Autriche",
+      "note": "Plus proche d un cartouche ; texte visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Planche d illustrations d insignes d aviation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustration."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand disque en terre cuite sur mur de briques, avec torche ailée en relief dans une couronne circulaire.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Akron, États-Unis",
+      "note": "Médaillon rond encadré portant un motif sculpté, net et dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade avec Vierge à l enfant en ovale dans un décor de stuc fleuri.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Feldkirchen, Autriche",
+      "note": "Décor chargé, doute avec cartouche et cadre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Profil d homme en relief sculpté dans un cadre ovale noir, photo sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Édimbourg, Royaume-Uni",
+      "note": "Objet de musée, sombre."
     }
   ]
 }

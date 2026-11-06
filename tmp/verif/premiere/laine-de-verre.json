@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Laine de roche ou minérale, peu lisible, plusieurs éléments."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Matelas d isolant fibreux jaune pâle pendant d une ouverture de plafond sous rampant, sur mur vert.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.29,
+        "largeur": 0.23,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Isolant fibreux souple jaune pâle de laine de verre, encadré, lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne d un équipement industriel calorifugé de blanc dans un local.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolant enveloppé, laine non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Face d une chaudière avec autocollants de contrôle en allemand.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Heidelberg, Allemagne",
+      "note": "Textes visibles, laine à peine visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sombre et flou d un angle métallique avec un peu de fibres grises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Flocons de fibres blanches dans un sac plastique avec étiquette chinoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Laine de quartz, texte visible, pas de laine de verre typique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plan très surexposé d une fibre jaune sous un fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surexposé, illisible."
     }
   ]
 }

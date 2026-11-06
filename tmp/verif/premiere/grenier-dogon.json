@@ -29,7 +29,12 @@
       "fichier": "04.jpg",
       "vu": "Grenier en banco à toit conique de paille, petites portes de bois en hauteur, posé sur un socle de pierres, falaise en arrière-plan.",
       "verdict": "validée",
-      "rectangle": { "x": 0.18, "y": 0.03, "largeur": 0.66, "hauteur": 0.67 },
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.03,
+        "largeur": 0.66,
+        "hauteur": 0.67
+      },
       "lieu": "Yugo, Mali",
       "note": "Grenier (femelle) caractéristique : socle surélevé, petites portes, toit conique ; rectangle pour écarter paniers, jarres et la case voisine à gauche."
     },
@@ -48,6 +53,59 @@
       "rectangle": null,
       "lieu": "Belgrade, Serbie",
       "note": "Objet de musée (décor de grenier), pas le bâtiment."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneau de porte de bois rouge sculpté de rangées de figures, exposé au musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belgrade, Serbie",
+      "note": "C'est une porte dogon, pas un grenier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux greniers de terre ocre sur assise de pierres, coiffés de grands chapeaux coniques de paille, mur de pierre derrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.01,
+        "largeur": 0.46,
+        "hauteur": 0.82
+      },
+      "lieu": "Yougo-Na, Mali",
+      "note": "Grenier en banco à chapeau de paille très net ; cadre sur celui de droite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Herbe verte avec quelques pierres au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kagoro, Nigeria",
+      "note": "Aucun bâtiment visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grosses jarres-greniers de terre bombées, chapeau de paille au fond, diapositive jaunie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mali (Songhaï)",
+      "note": "Greniers songhaï en forme de jarres, sans toit conique net ; image jaunie."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grange européenne en bois et pierre avec toit de tuiles, voiture devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Żylicze, Pologne",
+      "note": "Sans rapport avec un grenier dogon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue sur un village de toits-terrasses en terre avec petits greniers à chapeau de paille et fagot au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mali",
+      "note": "Greniers petits et lointains, fagot de paille au premier plan, scan terne."
     }
   ]
 }

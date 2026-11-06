@@ -2392,6 +2392,13 @@
     "priorite": 3
   },
   {
+    "id": "joint-de-dilatation",
+    "terme": "le joint de dilatation",
+    "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
+    "categorie": "Structure",
+    "priorite": 2
+  },
+  {
     "id": "porte-a-faux",
     "terme": "le porte-à-faux",
     "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
@@ -2455,6 +2462,17 @@
     ]
   },
   {
+    "id": "voute-en-berceau",
+    "terme": "la voûte en berceau",
+    "definition": "Voûte de section en demi-cercle, prolongée en ligne droite comme un demi-cylindre.",
+    "categorie": "Structure",
+    "priorite": 2,
+    "incompatibles": [
+      "voute",
+      "voute-nubienne"
+    ]
+  },
+  {
     "id": "pendentif",
     "terme": "le pendentif",
     "definition": "Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.",
@@ -2468,6 +2486,16 @@
     "id": "granite",
     "terme": "le granite",
     "definition": "Roche magmatique dure et grenue, mouchetée de grains clairs et sombres, employée en dalles, bordures ou parements.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "marbre",
+    "terme": "le marbre",
+    "definition": "Roche métamorphique issue du calcaire, cristalline et souvent veinée, qui prend un poli brillant ; employée en dallage, en revêtement et en sculpture.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -2605,6 +2633,18 @@
     "definition": "Bloc creux de verre moulé, translucide, maçonné pour former une paroi qui laisse passer la lumière.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2
+  },
+  {
+    "id": "plaquette-de-parement",
+    "terme": "la plaquette de parement",
+    "definition": "Mince plaquette de terre cuite ou de pierre collée sur un mur pour imiter une maçonnerie apparente.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "brique",
+      "parement-en-pierre",
+      "brique-pleine"
+    ]
   },
   {
     "id": "bois",
@@ -2863,6 +2903,16 @@
     ]
   },
   {
+    "id": "fibrociment",
+    "terme": "le fibrociment",
+    "definition": "Matériau de ciment et de fibres, gris clair, moulé en plaques ondulées ou planes.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "tole-ondulee"
+    ]
+  },
+  {
     "id": "torchis",
     "terme": "le torchis",
     "definition": "Mélange de terre et de paille appliqué sur un clayonnage de bois pour remplir les murs.",
@@ -3016,6 +3066,17 @@
     ]
   },
   {
+    "id": "grecque",
+    "terme": "la grecque",
+    "definition": "Frise de lignes brisées à angles droits, formant un méandre continu.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "frise",
+      "metope"
+    ]
+  },
+  {
     "id": "cartouche",
     "terme": "le cartouche",
     "definition": "Encadrement sculpté, souvent à bords enroulés, qui entoure une inscription, un blason ou une date sur une façade.",
@@ -3085,6 +3146,18 @@
     "incompatibles": [
       "bas-relief",
       "frise"
+    ]
+  },
+  {
+    "id": "epi-de-faitage",
+    "terme": "l'épi de faîtage",
+    "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "faitage",
+      "pinacle",
+      "fleuron"
     ]
   },
   {
@@ -4592,6 +4665,27 @@
     "definition": "Revêtement mural en rouleaux de papier ou de vinyle imprimé, collé au mur.",
     "categorie": "Second œuvre et finitions",
     "priorite": 2
+  },
+  {
+    "id": "tadelakt",
+    "terme": "le tadelakt",
+    "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "beton-cire",
+      "stuc-venitien"
+    ]
+  },
+  {
+    "id": "boiserie",
+    "terme": "la boiserie",
+    "definition": "Habillage mural en panneaux de bois moulurés, typique des intérieurs anciens.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 3,
+    "incompatibles": [
+      "lambris-pvc"
+    ]
   },
   {
     "id": "plan-de-travail",

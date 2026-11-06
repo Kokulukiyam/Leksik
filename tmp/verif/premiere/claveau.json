@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Bruxelles",
       "note": "Moulage, pas une photo d'élément en place."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'immeuble néo-Renaissance.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun claveau isolable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arcades blanches d'un stade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton lisse, pas de claveaux."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Passage voûté en pierre entre des bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Claveaux peu lisibles, scène encombrée, arc dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Moulage en plâtre d'un voussoir sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moulage, pas une photo de pierre en place."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Autel dans un temple indien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Passage voûté en pierre avec voiture et panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Claveaux peu lisibles, panneaux et voitures."
     }
   ]
 }

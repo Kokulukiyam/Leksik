@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Rome, Italie",
       "note": "Reflet évident occupant toute la façade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bibliothèque à toit courbe et grande façade vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Architecture dominante, vitrage non nettement miroir."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Entrée de cinéma vitrée avec grandes lettres rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, vitrage sombre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade vitrée verte d'un immeuble de bureaux en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Verre teinté plus que miroir, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tours de bureaux au verre bleu-vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Teinte dominante, reflet faible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade de faculté avec bandes de verre bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade vitrée sombre avec horloge circulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Horloge dominante, texte présent."
     }
   ]
 }

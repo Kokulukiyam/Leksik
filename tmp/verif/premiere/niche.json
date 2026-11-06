@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Wells, Angleterre",
       "note": "Photo ancienne composite."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur sombre percé de nombreuses petites cavités éclairées par des lampes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo très sombre, doute sur la nature (alvéoles de lampes), rejetée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fresque peinte dans un renfoncement cintré sous un porche, avec lanterne suspendue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest, Roumanie",
+      "note": "Fresque dominante, lanterne ; niche peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Volets sculptés rouges exposés derrière une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bakou, Azerbaïdjan",
+      "note": "Sans rapport, panneau de texte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle creusée dans la roche avec petites cavités sombres, un objet au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, cavités peu claires."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pignon enduit avec croix et ouverture ovale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Výžerky, Tchéquie",
+      "note": "Ouvertures plutôt que niche, doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arcades gothiques à colonnes à bossages ; petits renfoncements arqués en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto, Canada",
+      "note": "Renfoncements trop petits et peu distincts de l ensemble."
     }
   ]
 }

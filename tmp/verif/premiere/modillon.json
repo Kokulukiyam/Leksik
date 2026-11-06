@@ -1,11 +1,111 @@
 {
   "termId": "modillon",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Rangée de petits corbeaux sculptés (têtes humaines, oiseau) sous la tablette d'une corniche romane, au-dessus d'un portail à voussures.", "verdict": "validée", "rectangle": {"x": 0.10, "y": 0.425, "largeur": 0.75, "hauteur": 0.10}, "lieu": "Église Saint-Étienne, Ars-en-Ré, France", "note": "Modillons répétés sous la corniche, encadrés de près ; le rectangle écarte la corniche elle-même et l'archivolte. Têtes sculptées, mais la série sous corniche désigne clairement le modillon."},
-    {"fichier": "02.jpg", "vu": "Angle d'un entablement blanc vu en contre-plongée, avec panneaux à pastilles et triglyphes sous la corniche.", "verdict": "rejetée", "rectangle": null, "lieu": "Madison County Courthouse, Richmond, Kentucky, États-Unis", "note": "Lecture confuse en contre-plongée ; les blocs à gouttes évoquent des mutules plutôt que des modillons."},
-    {"fichier": "03.jpg", "vu": "Façade néoclassique toulousaine entière, en brique, avec corniche à petits modillons au sommet et frise de palmettes.", "verdict": "rejetée", "rectangle": null, "lieu": "21 grande-rue Nazareth, Toulouse, France", "note": "Modillons minuscules à l'échelle de la façade ; frise et consoles concurrentes."},
-    {"fichier": "04.jpg", "vu": "Immeuble d'angle Belle Époque avec balcons sur consoles, corniches et lucarnes.", "verdict": "rejetée", "rectangle": null, "lieu": "Immeuble Labit, Toulouse, France", "note": "Nombreuses consoles de balcon prêtant à confusion, modillons trop petits."},
-    {"fichier": "05.jpg", "vu": "Maison londonienne en brique à cinq travées avec corniche à modillons blancs, fenêtres à volets et boîte aux lettres rouge.", "verdict": "rejetée", "rectangle": null, "lieu": "1 Buckingham Place, Westminster, Londres, Royaume-Uni", "note": "Modillons minuscules, consoles de la porte concurrentes, panneau de rue visible."},
-    {"fichier": "06.jpg", "vu": "Abside courbe peinte en bleu avec un médaillon à croix et, à droite, une corniche portée par une série de modillons à volutes alternant avec des rosettes.", "verdict": "validée", "rectangle": {"x": 0.70, "y": 0.0, "largeur": 0.215, "hauteur": 0.76}, "lieu": "Cathédrale de l'Intercession, Izmaïl, Ukraine", "note": "Série régulière de modillons à volutes sous la saillie de la corniche ; rectangle indispensable pour écarter le médaillon central."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Rangée de petits corbeaux sculptés (têtes humaines, oiseau) sous la tablette d'une corniche romane, au-dessus d'un portail à voussures.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.425,
+        "largeur": 0.75,
+        "hauteur": 0.1
+      },
+      "lieu": "Église Saint-Étienne, Ars-en-Ré, France",
+      "note": "Modillons répétés sous la corniche, encadrés de près ; le rectangle écarte la corniche elle-même et l'archivolte. Têtes sculptées, mais la série sous corniche désigne clairement le modillon."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Angle d'un entablement blanc vu en contre-plongée, avec panneaux à pastilles et triglyphes sous la corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Madison County Courthouse, Richmond, Kentucky, États-Unis",
+      "note": "Lecture confuse en contre-plongée ; les blocs à gouttes évoquent des mutules plutôt que des modillons."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade néoclassique toulousaine entière, en brique, avec corniche à petits modillons au sommet et frise de palmettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "21 grande-rue Nazareth, Toulouse, France",
+      "note": "Modillons minuscules à l'échelle de la façade ; frise et consoles concurrentes."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Immeuble d'angle Belle Époque avec balcons sur consoles, corniches et lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Immeuble Labit, Toulouse, France",
+      "note": "Nombreuses consoles de balcon prêtant à confusion, modillons trop petits."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison londonienne en brique à cinq travées avec corniche à modillons blancs, fenêtres à volets et boîte aux lettres rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "1 Buckingham Place, Westminster, Londres, Royaume-Uni",
+      "note": "Modillons minuscules, consoles de la porte concurrentes, panneau de rue visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Abside courbe peinte en bleu avec un médaillon à croix et, à droite, une corniche portée par une série de modillons à volutes alternant avec des rosettes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.7,
+        "y": 0.0,
+        "largeur": 0.215,
+        "hauteur": 0.76
+      },
+      "lieu": "Cathédrale de l'Intercession, Izmaïl, Ukraine",
+      "note": "Série régulière de modillons à volutes sous la saillie de la corniche ; rectangle indispensable pour écarter le médaillon central."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vitrine de quincaillerie en noir et blanc ancien, avec petits corbeaux sous la vitrine saillante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Nouvelle-Orléans, États-Unis",
+      "note": "Supports de vitrine (corbeaux), texte visible, photo ancienne."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photographie ancienne sépia d'une façade de brique à arcs ; petits éléments sous la corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Modillons minuscules et illisibles, photo ancienne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fragment sculpté isolé représentant un buste humain, photographié en studio.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée hors contexte, pas sous une corniche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tour d'horloge en pierre vue en contre-plongée, avec balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïfa, Israël",
+      "note": "Modillons non distinguables."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sculptures de griffons en saillie sous des balcons d'un immeuble, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Caire, Égypte",
+      "note": "Supports de balcon sculptés : lisibles comme consoles ou corbeaux, pas comme modillons de corniche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Place d'une ville avec bâtiment à balcon et terrasses, cycliste au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shkodër, Albanie",
+      "note": "Détail trop petit, scène de rue."
+    }
   ]
 }

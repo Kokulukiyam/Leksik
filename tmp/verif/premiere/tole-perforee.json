@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Segeltorp, Suède",
       "note": "Perforations nettes, couvrant toute l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier avec nacelle ciseaux devant un bâtiment.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble à peau métallique perforée de nuit.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Immeubles au bord d'un fleuve à Moscou.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade blanche aux fenêtres bleues avec grue.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade blanche à perforations ornementales, magasin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Angle d'un bâtiment à écrans métalliques.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
     }
   ]
 }

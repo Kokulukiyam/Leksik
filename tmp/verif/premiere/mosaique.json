@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Terrassa, Espagne",
       "note": "Mosaïque évidente remplissant l'image."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sol de grandes dalles à motifs grecs et étoile, composé de petites tesselles blanches et noires.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petites tesselles lisibles formant un pavement décoratif ; mosaïque claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mosaïque romaine à figures sous des rinceaux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais plafond de 3 atteint. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sol en éclats de céramique bleue et blanche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trencadís, valable mais plafond atteint. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sol de marbres colorés en cercles, foule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Opus sectile, pas de petits fragments."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sol de marbres colorés en cercles, foule de visiteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Opus sectile, personnes présentes."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sol à motif de laurier devant une terrasse de café.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mobilier présent ; plafond atteint. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
     }
   ]
 }

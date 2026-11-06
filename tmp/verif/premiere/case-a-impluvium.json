@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Enampore, Sénégal",
       "note": "De l'extérieur, l'entonnoir et l'impluvium ne se voient pas : identification seulement par hypothèse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Branches de pamplemoussier chargées de fruits jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Végétation, pas d'architecture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessous d'un toit : charpente de bois, lattis et chaume vus de l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Charpente seule, ne montre ni forme circulaire ni entonnoir ni bassin."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de banco intérieur avec portes de chambres aux jambages arrondis et rangée de louches suspendues.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Intérieur de cour, impluvium et toit en entonnoir non visibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rangée de louches de calebasse à manche peint suspendues à un mur de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Objets, pas d'architecture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pamplemoussier isolé dans une cour sèche, bâtiment au fond à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Arbre dominant, pas de case visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau d'accueil du campement villageois d'Enampor sous les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Enampor, Sénégal",
+      "note": "Panneau avec texte, aucune case."
     }
   ]
 }

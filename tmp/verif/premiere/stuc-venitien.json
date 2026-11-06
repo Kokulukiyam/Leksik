@@ -1,0 +1,53 @@
+{
+  "termId": "stuc-venitien",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison à galeries blanches derrière une grille, façade jaune écaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Galveston, États-Unis",
+      "note": "Façade extérieure, enduit dégradé : pas un stuc vénitien."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Pièce vide d'appartement avec mur de brique noir et murs crépis, parquet sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles, États-Unis",
+      "note": "Murs au crépi grumeleux, ni lisses ni brillants."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bandeau étroit montrant le haut de l'intérieur d'une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gainsborough, Royaume-Uni",
+      "note": "Image tronquée, hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Église en pierre avec tour, vue extérieure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gainsborough, Royaume-Uni",
+      "note": "Pierre extérieure, hors sujet."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Nef d'église à colonnes roses, stalles de bois, sol damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gainsborough, Royaume-Uni",
+      "note": "Colonnes roses évoquant du faux marbre mais rien ne permet d'affirmer un stuc vénitien."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Château fort crénelé au bord d'un lac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sirmione, Italie",
+      "note": "Hors sujet."
+    }
+  ]
+}

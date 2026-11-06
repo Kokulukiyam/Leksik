@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Fidenza, Italie",
       "note": "Grecque trop petite, bas-relief dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fragment de fresque ancienne très dégradé aux motifs géométriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frauenchiemsee, Allemagne",
+      "note": "Motif illisible, dégradé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bas-relief roman avec un bandeau à grecque minuscule en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fidenza, Italie",
+      "note": "Grecque trop petite, bas-relief dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bordure imprimée à motif de grecque colorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier imprimé, pas une photo d architecture."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Détail d un bol de verre doré antique avec frise de grecques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Reggio de Calabre, Italie",
+      "note": "Objet de musée, pas d architecture, grecque petite."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bordure imprimée à motif de grecque colorée sur fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Papier imprimé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sous-face de portique vue d en bas, avec colonnes cannelées et bandes de grecque entre les caissons.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.24,
+        "largeur": 0.51,
+        "hauteur": 0.12
+      },
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Frise de grecque nette en relief ; rectangle sur la bande supérieure pour la distinguer des caissons."
     }
   ]
 }

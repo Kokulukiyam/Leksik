@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "Ille-sur-Têt, Pyrénées-Orientales, France",
       "note": "Formation géologique, hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle d'un mur de brique couronné d'un petit élément de pierre, ciel clair, fil électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Élément peu gothique et ambigu (acrotère/cheminée), pas un pinacle net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Culée gothique surmontée d'un grand pinacle ajouré à gâbles, gargouilles saillantes, autres pinacles au fond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.41,
+        "y": 0.07,
+        "largeur": 0.35,
+        "hauteur": 0.33
+      },
+      "lieu": "Bordeaux, France",
+      "note": "Pinacle sur contrefort bien lisible sur ciel bleu ; le cadre cible celui du centre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Clocher breton à lanternon et petit pinacle à droite sur une chapelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Le Tréhou, France",
+      "note": "Clocher dominant, pinacle petit : confusion avec flèche/clocheton."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros pinacle de pierre couronné d'une pomme sculptée à crochets, sur fond de ciel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bourg-en-Bresse, France",
+      "note": "Couronnement renaissance en forme de vase, lu comme fleuron ou épi plutôt que pinacle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Faisceau de pinacles gothiques ornés de crochets et de fleurons sur ciel bleu, devant une haute fenêtre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.1,
+        "largeur": 0.2,
+        "hauteur": 0.4
+      },
+      "lieu": "Budapest, Hongrie",
+      "note": "Pinacles élancés à crochets, typiques ; cadre sur le plus haut."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Lion héraldique en pierre posé sur un fût décoré, vu de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bourg-en-Bresse, France",
+      "note": "Statue animalière sur socle : se lit comme sculpture, pas comme pinacle."
     }
   ]
 }

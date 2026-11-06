@@ -44,7 +44,7 @@ Ouvre les fichiers produits avec l'outil Read pour les regarder.
   Un rectangle est nécessaire dès que l'image montre d'autres éléments qui pourraient être la réponse.
 - Rejeter : élément trop petit, flou, caché, mal éclairé ; image où le terme n'est qu'une hypothèse ;
   texte ou panneau visible qui donne la réponse ; photo trop peu lisible sur un téléphone.
-- Vise 2 images validées par terme, au maximum 3 (choisis les meilleures). Si aucune candidate n'est fiable,
+- Vise 2 images validées par terme, au maximum 6 (choisis les meilleures, sans quasi-doublon). Si aucune candidate n'est fiable,
   n'en valide aucune : c'est un résultat normal et acceptable. Mieux vaut rejeter que valider un doute.
 - Sois exigeant et précis sur le sens technique en français (un architecte jouera).
 

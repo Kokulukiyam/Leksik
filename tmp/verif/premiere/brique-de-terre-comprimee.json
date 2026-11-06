@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Port-au-Prince, Haïti",
       "note": "Aucun bloc visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangées de blocs clairs posés au sol devant des ouvriers sous un abri.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs fraîchement moulés sans arêtes lisibles, doute avec autre terre crue."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de murs en blocs de terre avec ouvriers et ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs rugueux, nature incertaine, scène chargée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Presse manuelle rouillée à blocs de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas le matériau."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Réunion de famille devant une maison en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène sociale, matériau secondaire."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison en briques de terre rouges au toit de tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques de terre non comprimées probables (adobe), doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo de groupe de militaires dans le désert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

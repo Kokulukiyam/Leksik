@@ -1,0 +1,53 @@
+{
+  "termId": "cimaise",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Tailloir wisigoth sculpté posé sur un chapiteau de marbre, exposé en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séville, Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Corniche à damier et chapiteaux romans sous une toiture de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villaute, Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tailloir de pierre mouluré au sommet d'un pilier de portail roman.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Villaherreros, Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Gros bloc de marbre sculpté de fleurons, élément wisigoth.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tailloir de pierre entre des assises de brique sur un pilier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Almonaster la Real, Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chapiteau roman à feuillages sous un tailloir, dans l'angle d'un portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santibáñez de la Peña, Espagne",
+      "note": "Ce sont des cimacios (tailloirs/abaques, faux ami espagnol), pas une cimaise murale."
+    }
+  ]
+}

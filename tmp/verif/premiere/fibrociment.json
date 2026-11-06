@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Malte",
       "note": "Panneaux lisses beiges pouvant passer pour composite, enduit ou béton ; pas identifiable au premier regard."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison bleue avec bardage en fibres-ciment à clins et toiture en bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bardage : le matériau n est pas identifiable comme fibrociment."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers posant des plaques ondulées claires sur une toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Howrah, Inde",
+      "note": "Plaques peu lisibles, ouvriers et textes, ambigu avec tôle ondulée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piles de plaques ondulées en noir et blanc très contrasté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée en noir et blanc, matériau peu identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque plane rosâtre appuyée contre une cloison en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sverdlovsk, Russie",
+      "note": "Plaque plane indistincte, couleur altérée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toit en plaques ondulées couvert de mousse et de lichens.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ystad, Suède",
+      "note": "Matériau masqué par la mousse, doute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pile de plaques ondulées gris clair sur palette, en plein air.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques ondulées en fibrociment, grises et mates, bien lisibles."
     }
   ]
 }

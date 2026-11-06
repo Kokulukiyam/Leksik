@@ -1,0 +1,53 @@
+{
+  "termId": "fond-de-joint",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Joint de tête de mur avec laine de roche, mastic coupe-feu et cadre de porte, annoté de textes en anglais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Légendes visibles, mastic non posé : pas un fond de joint net."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Vitrine de musée avec outils de calfatage anciens (maillet, étoupe, poix).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portsmouth, Royaume-Uni",
+      "note": "Calfatage naval, pas de fond de joint de bâtiment."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Main tenant une bombe de produit anti-crevaison pour pneus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pili, Philippines",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Maillet et fer de calfat anciens avec un fragment de poix, fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outils navals, pas un cordon de mousse dans un joint."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pot à poix ancien et maillet de calfat, fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outils navals, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ouvrier casqué appliquant du mastic au pistolet dans un joint de dalle devant une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, États-Unis",
+      "note": "Pose de mastic (joint silicone), le fond de joint n'est pas visible."
+    }
+  ]
+}

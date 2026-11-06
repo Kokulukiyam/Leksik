@@ -33,14 +33,18 @@ Le téléphone doit être sur le même wifi que l'ordinateur.
 
 Si la page ne s'ouvre pas, vérifier que le pare-feu de l'ordinateur autorise Node.js sur le réseau privé.
 
-## Les trois pages
+## Les pages
 
 - **Jouer** (`/`) : choisir une catégorie (ou « Toutes ») ; partie de 10 images. Après chaque réponse,
   le bon mot s'affiche en vert, une mauvaise réponse en rouge, avec la définition. En fin de partie :
   score, mots ratés et bouton « Revoir mes erreurs ».
 - **Ajouter** (`/ajouter`) : ajouter une de mes photos.
 - **Gérer** (`/gerer`) : toutes les images avec filtres (source, catégorie, statut) ; modifier le terme
-  ou le rectangle, refuser, supprimer.
+  ou le rectangle, refuser, supprimer. Recherche par terme ; les images s'affichent par paquets de 60.
+- **Paramètres** (`/parametres`) : nombre d'images par partie (10 par défaut), nombre de mots proposés
+  (4 par défaut), termes joués selon leur fréquence sur un chantier (les plus courants, courants et fréquents,
+  tous), images jouées (Commons, mes photos ou toutes), mauvaises réponses de la même catégorie ou de toutes,
+  passage automatique à l'image suivante après une bonne réponse. Les réglages restent dans le navigateur.
 
 ## Ajouter une image
 
@@ -65,10 +69,18 @@ Pour rechercher de nouvelles candidates (les fichiers vont dans `tmp/commons/`, 
 node scripts/commons.mjs              # tous les termes de scripts/termes-candidats.json
 node scripts/commons.mjs linteau      # un seul terme
 node scripts/commons.mjs --suite banco  # seconde recherche (champ requetes2), ajoute 07.jpg, 08.jpg…
+node scripts/commons.mjs --suite --categories banco  # seconde recherche dans les catégories Commons
 ```
 
 Derrière un proxy HTTP, préfixer la commande par `NODE_USE_ENV_PROXY=1`. Après vérification,
 `node scripts/integrer.mjs` copie les images retenues et régénère les fichiers JSON et `VERIFICATION.md`.
+
+### Les termes
+
+Environ 1000 termes, classés en 13 catégories et par fréquence sur un chantier (priorité 1 à 3), sont dans
+`scripts/termes-candidats.json` ; seuls ceux qui ont au moins une image doublement vérifiée entrent dans le jeu.
+Deux termes qu'une même photo pourrait illustrer (ex. « la fenêtre » et « la fenêtre à soufflet ») sont déclarés
+`incompatibles` et ne sont jamais proposés ensemble. Suivi de la chaîne : `python3 scripts/avancement.py`.
 
 ## Test de bout en bout
 

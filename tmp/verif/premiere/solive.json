@@ -53,6 +53,54 @@
       },
       "lieu": "Terre-Neuve, Canada",
       "note": "Série de solives parallèles bien visibles, cadrées en haut de l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond peint à poutres et solives décorées (château de Blois).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutres et solives peintes, ambigu, décor dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grosse pièce de bois posée au sol contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce isolée hors de sa position, non identifiable comme solive."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pièce en travaux avec montants et plafond à solives apparentes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Solives petites en haut de cadre, scène encombrée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bénévoles montant un plancher ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Solives cachées par les personnes et l'OSB."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Baguettes de bois en tas sur la sciure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport (moulures)."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soldats sur un chantier de charpente bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier encombrée, solives peu claires."
     }
   ]
 }

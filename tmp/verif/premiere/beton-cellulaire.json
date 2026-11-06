@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Les blocs clairs sont ambigus et mêlés à des parpaings gris ; doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier d'immeubles, photo ancienne noir et blanc, tas de blocs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo d'archive, matériau non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bloc de béton d'ancrage avec inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton ordinaire, texte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Reliefs sculptés blancs à visages sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculptures, matériau douteux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chantier avec parpaings gris contre un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings de béton ordinaires."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Camion plateau chargé de panneaux blancs emballés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux emballés, matériau peu visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Palette de parpaings gris devant un bâtiment de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings de béton, pas cellulaire."
     }
   ]
 }

@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "New York, États-Unis",
       "note": "Briques de verre secondaires, portes dominantes."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de briques de verre ondulées en gros plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Drapeau et fenêtre en briques de verre sur un bâtiment.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Briques de verre en plafond vu en contre-plongée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade en briques de verre, noir et blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Longue paroi de briques de verre sur une façade.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Parois de briques de verre colorées dans un café.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
     }
   ]
 }

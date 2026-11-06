@@ -45,9 +45,67 @@
       "fichier": "06.jpg",
       "vu": "Angle d'un grand immeuble en béton brut posé sur de massifs pilotis en V, passage libre dessous, arène Spodek au fond.",
       "verdict": "validée",
-      "rectangle": { "x": 0.39, "y": 0.31, "largeur": 0.53, "hauteur": 0.59 },
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.31,
+        "largeur": 0.53,
+        "hauteur": 0.59
+      },
       "lieu": "Superjednostka, Katowice, Pologne",
       "note": "Pilotis massifs sous le bâtiment ; rectangle pour écarter le dôme du Spodek à l'arrière-plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite cabane d'enfant en bois sur pilotis dans un jardin, avec toboggan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cher, France",
+      "note": "Élément petit, lointain, scène de jardin."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cabane de planches sur pieux dans l'eau, village lacustre, vue de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nzulezo, Ghana",
+      "note": "Pieux sombres, partiellement masqués ; la vue 10 est meilleure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue de maisons de vacances sur poteaux de béton, fils électriques et voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gruissan-Plage, France",
+      "note": "Scène encombrée, poteaux carrés pouvant se lire comme poteaux/galerie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cabane de tôle ondulée dressée sur des pieux de bois plantés dans l'eau d'un lac.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.24,
+        "y": 0.66,
+        "largeur": 0.58,
+        "hauteur": 0.27
+      },
+      "lieu": "Nzulezo, Ghana",
+      "note": "Pieux de bois bien visibles portant la maison au-dessus de l'eau : pilotis typiques."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même cabane lacustre que la 10, vue de face, pieux dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nzulezo, Ghana",
+      "note": "Doublon de la 10, pieux plus sombres."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grands fûts cylindriques de pierre sous un bâtiment moderniste, grand panneau d'azulejos au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rio de Janeiro, Brésil",
+      "note": "Fûts ronds lisibles comme colonnes ; azulejos distraient."
     }
   ]
 }

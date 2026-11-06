@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rendu de produit blanc, matériau non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plaquettes d'angle en terre cuite, minces, au dos strié, posées sur du sable avant collage.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bonn, Allemagne",
+      "note": "Plaquettes de parement d'angle, minces et striées pour le collage ; légende Commons concordante."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur d'enduit noir et moellons irréguliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maçonnerie, pas des plaquettes."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de parement en pierre de tons rosés à joints fins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour du moellon ou du parement en pierre, pas des plaquettes identifiables."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Peinture murale allégorique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Page de livre ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte imprimé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Montage de plaques souples d'imitation pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photomontage commercial, peu clair."
     }
   ]
 }

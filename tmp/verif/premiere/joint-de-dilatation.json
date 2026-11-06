@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Tuyauterie industrielle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Joint de dilatation métallique à lamelles traversant la chaussée d'un pont.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.24,
+        "largeur": 0.28,
+        "hauteur": 0.75
+      },
+      "lieu": "Bendorf, Allemagne",
+      "note": "Joint de pont net, cadré; la coupure traverse l'ouvrage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sous-face d'un plancher à poutres et voûtains de béton.",
+      "verdict": "rejetée",
+      "note": "Aucun joint visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan d'un joint à peigne en dents de scie boulonné dans du béton.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joint de dilatation à peigne, net et dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Allée de copeaux entre deux bordures sur un toit-jardin.",
+      "verdict": "rejetée",
+      "note": "Joint pas identifiable, hypothèse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coupure dans une main courante en béton au-dessus d'un garde-corps.",
+      "verdict": "rejetée",
+      "note": "Peu lisible, ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Conduite calorifugée en coude (lyre de dilatation).",
+      "verdict": "rejetée",
+      "note": "Compensateur de tuyauterie, pas un joint de bâtiment.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

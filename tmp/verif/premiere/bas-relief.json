@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Peinture à l huile en pastel avec texture en relief.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre abstraite, pas un bas-relief architectural."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gravure d un bas-relief en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure de livre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand bas-relief de marbre dans une niche de crypte, personnages debout et assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Même ensemble que la 12, plus sombre avec inscription visible ; maximum de validées atteint."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque de plâtre avec portrait en bas-relief très léger, éclairage plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Faible relief, peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plaque de bronze sombre avec sculpture, reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Sombre, peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau de marbre encadré montrant des personnages en uniforme en faible relief.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Bas-relief de marbre net et dominant, cadre moulure autour."
     }
   ]
 }

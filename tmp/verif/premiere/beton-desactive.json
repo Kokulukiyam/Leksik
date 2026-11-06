@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de l'opéra, parement clair granuleux, grande vue de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau illisible à cette échelle, doute sur le granulat."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Conteneurs rouges devant un mur de parpaings blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers levant des éléments de voussoirs préfabriqués.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton préfabriqué, pas désactivé."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Détail de béton brut avec un élément circulaire à gravillons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aspect ambigu, matériau peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Allée de béton fissurée dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton ordinaire dégradé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo en noir et blanc d'un escalier en béton sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton lisse, noir et blanc."
     }
   ]
 }

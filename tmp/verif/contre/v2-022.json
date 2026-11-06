@@ -1,0 +1,10 @@
+[
+  { "cle": "tuile-mecanique/12", "accord": true, "raison": "Rangée de tuiles romanes à emboîtement posées au sol, rebords d'emboîtement latéraux visibles : tuile mécanique, distincte d'une tuile canal." },
+  { "cle": "tuile-faitiere/10", "accord": true, "raison": "Rectangle sur la ligne de tuiles arrondies qui coiffent le faîtage au-dessus des tuiles de versant : tuile faîtière sans ambiguïté." },
+  { "cle": "verriere/08", "accord": true, "raison": "Grande toiture vitrée sur ossature métallique couvrant une cour intérieure, bien désignée par le rectangle." },
+  { "cle": "cage-d-armature/10", "accord": true, "raison": "Cages d'armature cylindriques préfabriquées (barres longitudinales et cerces) posées sur le chantier, bien cadrées." },
+  { "cle": "cale-d-armature/10", "accord": true, "raison": "Cales en béton à clips placées sous les barres d'une cage pour garantir l'enrobage, rectangle précis." },
+  { "cle": "corrosion-des-armatures/06", "accord": true, "raison": "Poutre en béton éclatée laissant apparaître des barres rouillées : corrosion des armatures évidente." },
+  { "cle": "poutre-treillis/11", "accord": false, "raison": "Le rectangle englobe un portique complet en treillis (montants et traverses inclinées) : « le portique » serait aussi une bonne réponse." },
+  { "cle": "assemblage-boulonne/11", "accord": true, "raison": "Gros plan sur deux brides métalliques serrées par des boulons et écrous : assemblage boulonné clair." }
+]

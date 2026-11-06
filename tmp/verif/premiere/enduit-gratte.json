@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Wädenswil, Suisse",
       "note": "Dessin gravé, pas un grain régulier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur rose orné de motifs peints ou en sgraffite, avec bustes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor peint, enduit non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fresque murale publicitaire avec jeune femme et chope de bière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sgraffite en gris figurant un griffon et un lion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor figuratif en sgraffite, pas un enduit gratté à grain régulier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle sombre aux murs lisses avec petit motif gravé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade d'immeuble avec panneaux sculptés et enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte et bruit visuel, enduit non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade à sgraffites noir et blanc très ornés autour de fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sgraffite décoratif, pas l'enduit gratté défini."
     }
   ]
 }

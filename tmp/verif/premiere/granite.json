@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Poio, Espagne",
       "note": "Structure, la pierre n'est pas lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Galet rosé dans du sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petit galet, texture illisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de fort mêlant galets et blocs de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maçonnerie mixte, matériau ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gare en pierre de taille grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment entier, texte REGEN, matériau peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bloc erratique de granite dans l'herbe avec panneau Naturdenkmal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bloc terne, panneau parasite ; autre choix meilleur."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble moderne en verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rochers côtiers de granite aux formes arrondies, lichens oranges, mer.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Galice, Espagne",
+      "note": "Chaos granitique typique, dominant et net."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "États-Unis",
       "note": "Briques pleines apparentes bien lisibles sur toute l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol de forêt moussu avec quelques briques éparses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques à peine visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur ancien en brique cintré, très déformé par un grand-angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brique dégradée, image déformée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de briques peint en blanc sous une fenêtre, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques peintes, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Colombage bois avec remplissage de briques en chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dominante colombage, briques secondaires."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de briques sombres couvert de graffitis et peinture turquoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques recouvertes de peinture, lecture peu nette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de brique en noir et blanc, surface irrégulière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image en noir et blanc, peu lisible."
     }
   ]
 }

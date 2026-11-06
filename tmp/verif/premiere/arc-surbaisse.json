@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Bois-d'Arcy, France",
       "note": "Arc masqué par une toile, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Passage voûté en pierre dans un rempart.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc en plein cintre ou voûte, sombre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Esplanade de mosquée avec iwan pointu au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs petits, pointus."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte grillagée dans un mur de brique ruiné, arc presque en plein cintre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc outrepassé ou plein cintre, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade en pierre avec grand arc très aplati sous un étage à fenêtres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.58,
+        "largeur": 0.64,
+        "hauteur": 0.17
+      },
+      "lieu": "Pyrénées, Espagne",
+      "note": "Arc nettement surbaissé, flèche très faible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arc pointu entre deux bâtiments dans une ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc brisé, pas surbaissé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Retombée d'arcs de brique sur un pilier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs brisés, pas surbaissés."
     }
   ]
 }

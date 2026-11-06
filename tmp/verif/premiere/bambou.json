@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chaumes nouées bien visibles, deuxième cadrage du même lieu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Touffe de bambous jaunes dorés, chaumes verticaux avec nœuds et banderoles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaumes de bambou nets et reconnaissables."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Base d'un chaume de bambou avec nœud, au sol de feuilles sèches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Valable mais 3 meilleures déjà retenues ; même scène que 04 et 06."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Homme en moto transportant un chargement de perches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Perches pas clairement du bambou."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Racines et rhizome sombres en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Racine, pas le matériau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chaume de bambou et tige fendue en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même scène que 04 et 06, redondante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Composition d'ikebana avec tiges en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arrangement floral, pas de la construction."
     }
   ]
 }

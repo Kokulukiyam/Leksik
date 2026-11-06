@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Látrabjarg, Islande",
       "note": "Oiseau au premier plan, roche non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Échantillon de roche altérée blanc-verdâtre grenue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Basalte altéré par acide, non reconnaissable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Planche gravée d'échantillons de roches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Galet sombre à amygdales blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon, pas un usage architectural, ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Éboulis de blocs sombres dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs anonymes, matière peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Dalle grise de coulée sur gravier rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roche grise craquelée, ambiguë."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Colline au loin sous des câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrière lointaine, illisible."
     }
   ]
 }

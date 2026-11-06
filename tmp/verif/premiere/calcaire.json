@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Leixlip, Irlande",
       "note": "Panneaux et textes visibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dalle polie de roche sombre avec fossiles, éclairée sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon de laboratoire sombre, illisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de pub irlandais avec enseigne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseigne dominante, pierre peu visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur en pierre de taille beige à assises litées, avec une plaque de fonte.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Calcaire beige en appareil, strates visibles ; la plaque 'défense d'afficher' ne donne pas la réponse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Château au sommet d'un rocher calcaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage, matière peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plaque commémorative ronde en lettres blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte dominant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade de bureaux en plaques grises, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau illisible, image désaturée."
     }
   ]
 }

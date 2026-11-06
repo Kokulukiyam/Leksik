@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "Palais du Luxembourg, Paris",
       "note": "Refends en bandes, confusion bossage/refend."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade colorée d immeuble à balcons et décor géométrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sydney, Australie",
+      "note": "Pas de bossage net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble à colombage et brique avec soubassement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Falkenstein, Allemagne",
+      "note": "Bossage peu lisible, élément trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chaînage d angle en gros blocs saillants à surface piquetée, sur façade à sgraffites.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.55,
+        "y": 0.61,
+        "largeur": 0.31,
+        "hauteur": 0.39
+      },
+      "lieu": "Prague, Tchéquie",
+      "note": "Bossage d angle net ; cadre sur les blocs du bas, à l écart des moulures et sgraffites."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Angle d immeuble en blocs à bossage saillants et surface vermiculée, avec une console à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.46,
+        "y": 0.0,
+        "largeur": 0.44,
+        "hauteur": 1.0
+      },
+      "lieu": "Prague, Tchéquie",
+      "note": "Bossage très net et dominant ; cadre sur les blocs, console exclue."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble d angle en brique rouge à rez-de-chaussée en pierre claire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Falkenstein, Allemagne",
+      "note": "Bossage trop petit et peu net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Palais crème aux étages en refends, inondé par une crue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague, Tchéquie",
+      "note": "Refends en bandes, confusion avec refend ; élément peu distinct."
     }
   ]
 }

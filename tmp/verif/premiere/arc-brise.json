@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Voûte, pas un arc brisé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Voûte d'arêtes à lunettes pointues dans une salle blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voûte, pas un arc."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Passage voûté de plusieurs arcs successifs, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcs en plein cintre ou outrepassés, pas brisés."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arcades pointues d'un cloître, tirage ancien sépia, décor sculpté.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mont-Saint-Michel, France",
+      "note": "Arcs brisés nets et dominants ; tirage ancien mais photo réelle, tous les arcs visibles sont brisés."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite lucarne ogivale d'une cabane de jeu en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un arc maçonné, petit."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Allée de jardin sous une arche de verdure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc en plein cintre végétal."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arcades pointues d'un cloître, tirage ancien sépia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Doublon de 09, moins net."
     }
   ]
 }

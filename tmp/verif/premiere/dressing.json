@@ -1,0 +1,53 @@
+{
+  "termId": "dressing",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Armoire ancienne marquetée à deux portes, reproduction en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble, photo ancienne reproduite ; pas un dressing."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Maison dévastée par une tornade, une penderie visible derrière une porte ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Americus, États-Unis",
+      "note": "Ruine, penderie minuscule."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Vestiaire d'usine en noir et blanc : casiers métalliques sous un escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pétfürdő, Hongrie",
+      "note": "Vestiaire collectif, pas un dressing."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Grand placard mural en bois à portes vitrées de couleur, dans un appartement Art nouveau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Krefeld, Allemagne",
+      "note": "Placard fermé, aucune penderie visible : lu comme placard."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Banc-coffre ajouré peint en blanc, gros plan sur un panneau ajouré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grand placard blanc à portes pleines, une porte ouverte sur quelques vêtements suspendus, store à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afrique du Sud",
+      "note": "Placard cadré en partie, penderie à peine visible : confusion placard/dressing."
+    }
+  ]
+}

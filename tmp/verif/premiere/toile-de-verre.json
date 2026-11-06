@@ -1,0 +1,53 @@
+{
+  "termId": "toile-de-verre",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Couloir en chantier aux murs peints beige-jaune, portes orange, radiateur, lisse de protection.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Seul le titre évoque la toile de verre ; le relief du revêtement n'est pas visible, mur lu comme simple peinture."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Autochrome d'une grange à toit de chaume et de tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lieurey, France",
+      "note": "Hors sujet (toile ondulée)."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Seconde vue de la même grange en autochrome.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lieurey, France",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Marchand sur une charrette bâchée devant une façade, photo ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Reims, France",
+      "note": "Hors sujet (toile de tente)."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Portrait peint à l'huile d'un homme tenant un verre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Détail d'un tableau : main tenant des cartes et un verre de vin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, hors sujet."
+    }
+  ]
+}

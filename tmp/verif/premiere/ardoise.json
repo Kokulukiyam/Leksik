@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Tegna, Suisse",
       "note": "Toiture en dalles de gneiss épaisses (lauze), petite dans l'image ; pas une ardoise caractéristique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison de brique à toit à motifs de losanges, voiture et camionnette au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Coogee, Australie",
+      "note": "Toiture petite, matériau peu net, scène encombrée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Éboulis de fragments de schiste gris au sol avec une petite plante à fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Col d'Atsunta, Géorgie",
+      "note": "Roche brute au sol, pas une couverture ; la plante domine."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Paysage de montagne enneigée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Col d'Atsunta, Géorgie",
+      "note": "Paysage, aucun usage en construction."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit couvert de grosses dalles de pierre irrégulières, village en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shiroka Laka, Bulgarie",
+      "note": "Dalles épaisses et irrégulières : lauzes de schiste, pas des ardoises fines et régulières."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Versant de montagne couvert d'éboulis gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Col d'Atsunta, Géorgie",
+      "note": "Paysage, sans rapport avec l'ardoise de couverture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Clocher et toits d'une église couverts de pierres grises, ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Golino, Suisse",
+      "note": "Couverture en lauzes de pierre épaisses (piodes), pas en ardoise classique ; clocher dominant."
     }
   ]
 }

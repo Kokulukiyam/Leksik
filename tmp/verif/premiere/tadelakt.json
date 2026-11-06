@@ -1,0 +1,53 @@
+{
+  "termId": "tadelakt",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Douche à l'italienne aux parois et au sol courbes, enduit rouge-brun lissé, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo sombre et floue de matière, texture peu lisible ; pourrait passer pour un stuc."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ouvriers mélangeant de la chaux jaune sur une bâche, en terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ouarzazate, Maroc",
+      "note": "Préparation du matériau, pas l'enduit fini."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Main polissant au galet un mur turquoise à la chaux, surface satinée nuancée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Geste caractéristique du polissage au galet sur enduit à la chaux ; image nette, remplit le cadre."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Double vasque et plan de toilette monolithes en enduit gris-beige lisse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maroc",
+      "note": "Surface mate, pourrait être du béton ciré ; peu probant."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Chambre de riad aux murs ocre clair, lit, fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maroc",
+      "note": "Pièce entière, enduit peu lisible, pourrait être un stuc ou une simple peinture."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Vasque turquoise posée sur un trépied dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé, pourrait passer pour une vasque en céramique."
+    }
+  ]
+}

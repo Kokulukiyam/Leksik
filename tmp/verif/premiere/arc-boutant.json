@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Tours, France",
       "note": "Vue rapprochée où l'ouvrage se lit d'abord comme un grand arc entre deux masses : doute arc / arc-boutant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chevet gothique en contre-plongée : un arc-boutant à arc brisé relie le mur haut à une culée à pinacles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.33,
+        "largeur": 0.26,
+        "hauteur": 0.27
+      },
+      "lieu": "France",
+      "note": "Arc-boutant gothique net, rectangle sur l arc ; ne se confond pas avec un contrefort plein."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de brique rouge avec descente d eau, angle de bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taïwan",
+      "note": "Aucun arc-boutant visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coupe d une cathédrale avec arcs-boutants, dessin au trait.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de brique rouge flanqué de grandes dalles inclinées contre la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Étais plats en béton, plutôt contreforts, pas d arc."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure d arcs-boutants avec un avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment en béton avec grandes poutres inclinées servant d appuis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Béton moderne, appuis inclinés, pas un arc-boutant clair."
     }
   ]
 }

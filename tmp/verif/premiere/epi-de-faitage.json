@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Contre-jour, détails invisibles; confusion possible avec pinacle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade monumentale de mosquée en grès rouge avec petits kiosques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lahore, Pakistan",
+      "note": "Ensemble, pas d épi isolé identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Objet doré émaillé en vitrine de musée (finial médiéval).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, pas sur un toit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Épi de faîtage en céramique vernissée verte, orné de feuillages et surmonté d une mouette, au sommet d un toit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.37,
+        "y": 0.32,
+        "largeur": 0.2,
+        "hauteur": 0.62
+      },
+      "lieu": "Deauville, France",
+      "note": "Épi de faîtage net sur ciel bleu ; cadre sur l ornement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sceptre en bois sculpté exposé en musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tour d horloge ancienne dans un paysage urbain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haïfa, Israël",
+      "note": "Sommet minuscule, tour dominante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tourelle à toit conique vert terminée par une fine pointe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Braga, Portugal",
+      "note": "Flèche conique, pas un épi ; pointe minuscule."
     }
   ]
 }

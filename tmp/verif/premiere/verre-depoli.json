@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet, texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte et vitrage latéral en verre dépoli blanc laissant deviner une silhouette avec une valise.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.26,
+        "largeur": 0.63,
+        "hauteur": 0.64
+      },
+      "lieu": "",
+      "note": "Verre translucide mat, la vue est floue : illustration parfaite."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Double porte vitrée en verre dépoli avec arbre gravé au centre, sous un arc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.17,
+        "largeur": 0.72,
+        "hauteur": 0.55
+      },
+      "lieu": "",
+      "note": "Verre dépoli dominant ; motif gravé discret."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vitrine de bijoux ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage transparent."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cloisons vitrées avec bandes dépolies et texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bandes partielles et texte visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Microscopie d'une surface de verre lisse et dépolie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image scientifique, pas de bâtiment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Machine de découpe de verre en atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

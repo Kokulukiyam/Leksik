@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gros plan net sur les lamelles orientées, parfaitement typique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneau en copeaux orientés de près.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chemin et prairie avec une usine au loin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ancien restaurant aux fenêtres condamnées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment aux ouvertures bouchées de panneaux clairs.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan de la surface d'un panneau en copeaux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Graphique de production d'OSB.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de 3 validées déjà atteint : non retenue. — Repêchée : écartée seulement à cause du plafond de 3 images par terme, relevé ensuite à 6."
     }
   ]
 }
