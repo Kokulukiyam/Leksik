@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Garde-corps en fonte noire ornementée posé sur un appui de fenêtre en saillie, mur de brique.",
+      "verdict": "rejetée",
+      "note": "Grille décorative en fonte, pas une simple barre d appui ; confusion avec garde-corps en fer forgé.",
+      "lieu": "Londres, Royaume-Uni",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tour d observation avec garde-corps à barreaux.",
+      "verdict": "rejetée",
+      "note": "Garde-corps d une plateforme, pas une barre d appui de fenêtre.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Intérieur vitré avec garde-corps à lisses horizontales.",
+      "verdict": "rejetée",
+      "note": "Garde-corps d escalier, panneau avec texte ; pas une barre d appui.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble moderne avec balcons et garde-corps à barreaudage fin, petites fenêtres avec garde-corps.",
+      "verdict": "rejetée",
+      "note": "Garde-corps de balcon à barreaudage, pas de barre d appui nette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan flou sur une main courante en bois enroulée au bout d une rampe en fer.",
+      "verdict": "rejetée",
+      "note": "Main courante d escalier, flou.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre ancienne à grille en fer rouillé et petite barre devant, sous un chambranle à corniche.",
+      "verdict": "rejetée",
+      "note": "Grille rouillée, barre peu lisible, doute avec garde-corps en fer.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cloison de conteneur galvanisé dans un bloc sanitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le béton cyclopéen."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grutiers manipulant des éléments de béton préfabriqués empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments préfabriqués, pas du béton cyclopéen."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Image de microscope électronique de cristaux dans du béton cellulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image scientifique, pas une photo d'ouvrage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Trois moules cubiques pour essais de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moules d'essai, pas du béton cyclopéen."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coulage de mortier gris dans un moule cubique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Essai de laboratoire, sans blocs de pierre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Image rouge d'interférométrie holographique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image scientifique."
     }
   ]
 }

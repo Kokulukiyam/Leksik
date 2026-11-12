@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Auberge à toit en tuiles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bardeaux de bois vieillis sur un mur, avec un panneau jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bardeaux de bois, pas de bitume ; panneau parasite."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Toit en bardeaux de bois sombre, à Madagascar.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ambohimanga, Madagascar",
+      "note": "Bardeaux de bois (tavaillons), pas des bardeaux bitumés."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Détail de noue et de tôle de cuivre sur toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuivre, pas des bardeaux bitumés."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Kiosque à musique avec musiciens, toit à bardeaux sombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet principal : concert ; toiture non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toiture de plaques ondulées peintes en rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaques ondulées, pas des bardeaux bitumés."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur des bardeaux hexagonaux gris à granulés minéraux, posés en écailles, avec bord de toit sombre en haut.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bardeaux bitumés à granulés, motif hexagonal typique, image lisible et dominante."
     }
   ]
 }

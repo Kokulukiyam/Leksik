@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Charpente peinte sans poinçon central visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond à fermes de bois d'une église romane vu de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermes vues de loin, poinçon non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fermes triangulées industrielles sur une maison en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermettes à treillis, pas un poinçon."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poutres sombres d'une ermitage avec poteau central et arbalétriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, poinçon ambigu avec le poteau en dessous."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande halle à fermes métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermes d'acier, sans poinçon lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Noir et blanc de charpente ancienne avec chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poinçon non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Passerelle couverte en bois sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente illisible."
     }
   ]
 }

@@ -1,0 +1,117 @@
+[
+ {
+  "cle": "pas-japonais/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "terre-plein-central/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "concertina/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "concertina/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "grille-d-arbre/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "aire-de-jeux/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "guerite/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "facade-ventilee/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ebrasement/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chaine-d-angle/08",
+  "accord": false,
+  "raison": "Angle marqué par une bande lisse continue, sans pierres alternées : ressemble plutôt à un pilastre d'angle."
+ },
+ {
+  "cle": "chaine-d-angle/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "plate-bande/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "baie-geminee/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "baie-geminee/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "meurtriere/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "resille-metallique/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "jardiniere/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "pignon-a-redents/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "toit-mansarde/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "demi-croupe/07",
+  "accord": false,
+  "raison": "Petit versant coupé par le bord haut de l'image, minuscule : illisible sur téléphone."
+ },
+ {
+  "cle": "toiture-cintree/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "bardeau-bitume/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "vide-sanitaire/12",
+  "accord": false,
+  "raison": "L'ouvrier et le rouleau d'isolant dominent : on pense à la pose d'isolant (laine minérale) plus qu'au vide sanitaire."
+ }
+]

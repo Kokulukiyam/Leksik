@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Descente en pointe de bâtiment moderne, pas un dauphin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coude de descente brun sous un feuillage rougeoyant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Partie haute de descente, pas un dauphin en pied."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gargouille en forme de dragon sur façade de château.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Château de Blois, France",
+      "note": "Gargouille sculptée, pas un dauphin de fonte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue d'un centre-ville avec façades et gouttières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Xalapa, Mexique",
+      "note": "Dauphin non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pilier de contrefort sur une façade jaune de l'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Contrefort, pas un dauphin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Longue rampe de béton d'un gymnase en forme de contrefort.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saga, Japon",
+      "note": "Contrefort béton, pas un dauphin."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Détail de descente orange avec lanterne noire au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sighnaghi, Géorgie",
+      "note": "Descente décorative sans coude de pied visible."
     }
   ]
 }

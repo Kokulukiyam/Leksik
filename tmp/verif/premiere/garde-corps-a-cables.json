@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Lisses, pas câbles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour d observation avec garde-corps à barreaux et lisses horizontales, main courante en bois.",
+      "verdict": "rejetée",
+      "note": "Barreaudage et lisses, pas de câbles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grille de fer à barreaux verticaux au-dessus d un cimetière.",
+      "verdict": "rejetée",
+      "note": "Barreaudage en fer, pas de câbles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Intérieur vitré avec garde-corps à lisses horizontales fines et main courante en bois.",
+      "verdict": "rejetée",
+      "note": "Lisses ou tubes horizontaux, câbles non démontrés ; panneau avec texte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Orateur dans un kiosque à musique à balustrade de fonte ornée.",
+      "verdict": "rejetée",
+      "note": "Balustrade en fonte, personnes au premier plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passerelle rouillée avec garde-corps à montants et lisses déformées.",
+      "verdict": "rejetée",
+      "note": "Câbles non identifiables, garde-corps abîmé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Quai pavé au bord d un canal avec rambardes à barreaux au fond.",
+      "verdict": "rejetée",
+      "note": "Aucun garde-corps à câbles lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

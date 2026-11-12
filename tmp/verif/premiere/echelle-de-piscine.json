@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Échelle de piscine nette au premier plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Piscine avec dalles et enfant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Enfants et adultes dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Enfant à côté d'une piscine gonflable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme nageant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Garçon avec lunettes au bord de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison avec piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune échelle de piscine visible."
     }
   ]
 }

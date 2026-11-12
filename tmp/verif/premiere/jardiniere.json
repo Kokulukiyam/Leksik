@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Tallinn, Estonie",
       "note": "Objet posé au sol, pas une jardinière de façade."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bac fleuri accroché à un garde-corps de balcon avec une colombe nichée dedans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bac peu lisible sous le feuillage et l'oiseau ; la 10 est meilleure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Support en fer forgé fixé à un mur de brique devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte-drapeau, pas une jardinière."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plantes dans de vieilles bottes et récipients au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets posés au sol, pas une jardinière de façade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand bac en terre cuite fleuri posé sur la lisse d'un garde-corps de balcon.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Jardinière de balcon dominante et sans ambiguïté."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Massif fleuri dans un bac devant un immeuble de bureaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bac au sol, pas une jardinière de façade."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cuve baptismale en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

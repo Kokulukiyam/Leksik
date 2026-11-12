@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Alsterweiler, Allemagne",
       "note": "Sommet du toit mal visible, végétation envahissante."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Estampe japonaise de combat sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Estampe."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lanterne vitrée à toit pyramidal sur un toit en croupes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Deux étages de toit et lanterne, pyramide non dominante."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Estampe japonaise de combat sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Estampe."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit bâtiment jaune à toit pyramidal galbé coiffé d'une lanterne ajourée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit galbé à lanterne, trop éloigné d'un pavillon franc, confusion possible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panorama peint de Paris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Lanterne à fenêtres cintrées et petit toit sur un toit métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de lanterne, pas un toit en pavillon net."
     }
   ]
 }

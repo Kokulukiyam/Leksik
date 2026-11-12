@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Cahir, Irlande",
       "note": "Ouverture cruciforme, moins typique ; gardée en réserve."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Intérieur d un mur épais : fente verticale très étroite au fond d une niche voûtée avec banquettes de pierre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.46,
+        "y": 0.36,
+        "largeur": 0.1,
+        "hauteur": 0.52
+      },
+      "note": "Meurtrière/archère typique, fente étroite dans mur épais ; rectangle sur la fente.",
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de porte fortifiée avec petite fente en trou de serrure à gauche d une arche.",
+      "verdict": "rejetée",
+      "note": "Fente petite dans une scène chargée, doublon des images déjà retenues.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Embrasure en pierre et brique avec fente centrale et deux petits orifices ronds.",
+      "verdict": "rejetée",
+      "note": "Type arquebusière, confusion possible avec archère.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fente lumineuse en contre-jour avec étoile de soleil dans un mur épais.",
+      "verdict": "rejetée",
+      "note": "Éblouissement, fente peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Embrasure large dans un mur de pierre, linteau de lauze, fente peu visible au fond.",
+      "verdict": "rejetée",
+      "note": "Ouverture large, ressemble plus à une fenêtre ou une bouche à feu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mannequins d archers dans une salle de château.",
+      "verdict": "rejetée",
+      "note": "Mise en scène avec mannequins, pas une photo claire de l élément.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

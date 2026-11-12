@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Chalet, avant-toit seulement."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chevrons et planches vus de dessous dans un comble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de panne faîtière identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ferme à colombages et toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente invisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pannes métalliques d'un plafond de hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pannes d'acier, panne faîtière non isolée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ferme à colombages et pigeonnier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente invisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Clocher vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de maisons à colombages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente invisible."
     }
   ]
 }

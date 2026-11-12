@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Trappe triangulaire sur un toit enherbé, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade blanche en rue, avec lucarnes en toiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Vilbel, Allemagne",
+      "note": "Fenêtres de toit à peine visibles, élément trop petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouverture zénithale d'une yourte vue de l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tündük de yourte, pas une fenêtre de toit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Feuillage d'automne avec maison à colombages au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun élément identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ciel nocturne sombre avec branches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun élément identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tour et pavillons de l'Hôtel de Ville de Paris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Fenêtres de toit absentes ou illisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Lanterneau semi-circulaire dans une voûte décorée de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Verrière intérieure, pas une fenêtre de toit dans un versant."
     }
   ]
 }

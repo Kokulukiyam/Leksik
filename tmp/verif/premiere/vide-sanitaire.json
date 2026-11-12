@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Vide ventilé en construction, mais contexte ambigu (dalle sur coffrage perdu) : doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Espace bas en béton sous un plancher en bac acier, avec cône et câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plausible mais ambigu avec un sous-sol bas ou un local technique ; non fiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'une ruine en béton avec ouvertures sur l'extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "St. Thomas, Nevada",
+      "note": "Ruine de fondation, pas un vide sanitaire lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vide sous un plancher avec tuyaux PVC et film plastique sur la terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vide sanitaire réel mais sombre, surexposé et peu lisible sur téléphone."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portes de bois d'accès dans un mur de façade enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Finley, Australie",
+      "note": "Porte d'accès seule, le vide n'est pas visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Soubassement de béton recouvert d'une bâche blanche sur chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fondation en cours, ambiguë avec soubassement."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier masqué posant de l'isolant dans un vide sous plancher en bois, avec film noir au sol.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vide sous le plancher bas bien identifiable ; personne présente mais espace dominant. Variante nord-américaine (crawl space)."
     }
   ]
 }

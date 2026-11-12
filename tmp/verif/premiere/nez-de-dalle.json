@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de mur en pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Butée de parking en béton cassé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bâtiment public avec fresque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond en béton à caissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bac à compost.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tour en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranche de dalle non identifiable."
     }
   ]
 }

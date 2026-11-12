@@ -53,6 +53,59 @@
       },
       "lieu": "Londres, Royaume-Uni",
       "note": "Guérites évidentes ; rectangle sur celle de droite."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit abri en pierre à fronton, avec porte, à côté d'une grille de clôture.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.1,
+        "largeur": 0.68,
+        "hauteur": 0.69
+      },
+      "lieu": "Budapest, Hongrie",
+      "note": "Guérite de gardien à l'entrée d'un site, encadrée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gravure coloriée de soldats devant des guérites rayées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin imprimé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Corps de garde bas en pierre vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fort Médoc, France",
+      "note": "Fortification, pas une guérite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Soldat en tenue rouge dans une guérite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gibraltar",
+      "note": "Personnage dominant, guérite cachée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne noir et blanc d'une vallée avec un fort lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune guérite visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite cabine en pierre contre un mur devant un portail de caserne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bologne, Italie",
+      "note": "Guérite plausible mais très petite et à côté de textes ; non retenue."
     }
   ]
 }

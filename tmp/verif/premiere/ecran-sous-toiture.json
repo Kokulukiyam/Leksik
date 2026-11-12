@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Maison en chantier, trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneaux isolants posés sur une toiture plate.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolation de toit plat, pas un écran sous-toiture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers soudant une membrane bitumineuse sur une toiture plate.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étanchéité de toit plat."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Relevé de membrane noire contre une porte-fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étanchéité de terrasse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit plat à bacs métalliques et coupoles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un écran sous-toiture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toit en pente avec feutre bitumineux rouge et liteaux au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane bitumineuse de couverture, pas d'écran sous-toiture net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toiture plate grise brumeuse avec relevé d'acrotère.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit plat, hors sujet."
     }
   ]
 }

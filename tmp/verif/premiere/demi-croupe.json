@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Keutschach, Autriche",
       "note": "Trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pignon en brique d'une maison dont le sommet est coupé par un petit versant d'ardoise.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.01,
+        "largeur": 0.25,
+        "hauteur": 0.09
+      },
+      "lieu": "",
+      "note": "Petit versant coupant le haut du pignon, lisible ; rectangle sur ce versant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessin à l'encre d'une ferme à toit de bardeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison crépie à toit de tuiles et lucarne, angle de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Croupe ou demi-croupe indécidable, vue de biais."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande grange à colombages dont le toit en tôle descend en croupe sous un petit triangle de pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Croupe presque complète, risque de confusion avec la croupe ; proportions éloignées de la demi-croupe typique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mairie à pignon central et toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Champoulet, France",
+      "note": "Pignon et pas de demi-croupe lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Hameau vu de loin sur une colline.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toits minuscules."
     }
   ]
 }

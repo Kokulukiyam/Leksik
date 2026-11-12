@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Mitron en terre cuite posé sur fond blanc, terme voisin (mitron) et pas en situation."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux cheminées de pierre à conduits multiples, notes de musique ajoutées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sofia, Bulgarie",
+      "note": "Image retouchée, mitres non lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Silhouette sombre d'un chapeau de cheminée sur ciel d'orage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, trop sombre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue avec maison basse crème et petite cheminée au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shipley, Angleterre",
+      "note": "Cheminée trop petite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cheminées d'usine fumantes devant un ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Newark, États-Unis",
+      "note": "Cheminées industrielles, pas de mitre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Villa blanche surmontée de cheminées à conduits multiples.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Broadstairs, Angleterre",
+      "note": "Mitres trop petites et peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cheminée de brique isolée sur fond noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cheminée de fabrique, pas de mitre."
     }
   ]
 }

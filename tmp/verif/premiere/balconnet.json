@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de balconnet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo floue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade de paquebot à balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne d'un homme jouant du cor sur un balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Balcon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Balcon à parasols.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps de porte-fenêtre non clair."
     }
   ]
 }

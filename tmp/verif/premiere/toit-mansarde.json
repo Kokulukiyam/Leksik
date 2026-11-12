@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Paris, France",
       "note": "Toit vu de côté, forme d'ensemble moins claire que les autres."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toits parisiens vus de haut en zinc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue lointaine, profils brisés illisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pavillon d'angle de l'Hôtel de Ville à comble brisé très raide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Comble de pavillon à brisis haut, risque de confusion avec le toit en pavillon."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade de l'Hôtel de Ville avec lucarnes et toit bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Toit peu visible, profil brisé illisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Peinture pointilliste d'une chambre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toit parisien en zinc : terrasson peu incliné au-dessus d'un brisis d'ardoise à lucarnes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.13,
+        "largeur": 0.92,
+        "hauteur": 0.68
+      },
+      "lieu": "Paris, France",
+      "note": "Profil brisé net, terrasson et brisis lisibles ; rectangle sur l'ensemble du toit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toit d'ardoise à lucarnes et vases en pierre vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profil brisé mal lisible, vue partielle."
     }
   ]
 }

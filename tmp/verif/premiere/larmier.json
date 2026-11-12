@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Larmier non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Entrée d'un musée avec corniche et pilastres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corniche et console, pas de larmier lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Corniche à modillons sous un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtres et corniches d'un bâtiment bolivien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sous-face d'une corniche en marbre à couronne de laurier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte coréenne sous un toit à avant-toits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Terrasse extérieure envahie de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Larmier non identifiable."
     }
   ]
 }

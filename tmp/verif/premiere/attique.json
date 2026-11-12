@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Kalocsa, Hongrie",
       "note": "Mur d'acrotère décoratif, pas un étage en retrait."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Corniche à balustrade et toit à lucarnes rondes, avec décor sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hódmezővásárhely, Hongrie",
+      "note": "Toit de comble avec lucarnes, pas un étage d'attique net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Temple blanc vu de loin avec parterre fleuri.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun attique lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne en noir et blanc de l'intérieur d'un grenier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cour d'honneur des Invalides, frontons et lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Pas d'étage d'attique net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade moderne à pilastres avec grand bac au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'attique identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte fortifiée à deux tours rondes en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gardelegen, Allemagne",
+      "note": "Hors sujet."
     }
   ]
 }

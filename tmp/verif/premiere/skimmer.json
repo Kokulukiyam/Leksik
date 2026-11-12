@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Skimmer invisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Piscine gonflable avec un tuyau bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Homme nageant seul.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand bassin de loisirs entouré de dalles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Piscine de compétition de 50 m.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Éclaboussures dans une piscine, rampe d'escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Enfant éclaboussant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun skimmer visible."
     }
   ]
 }

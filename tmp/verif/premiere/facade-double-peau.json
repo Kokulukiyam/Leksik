@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Élément non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble de lofts gris à écran de tôle perforée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Écran perforé devant la façade, mais lame d'air et seconde paroi vitrée non lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur des panneaux de verre dépoli et un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Double peau non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Halle d'exposition à grande façade vitrée et horloge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Double peau non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de panneaux lumineux vert-bleu à l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Double peau non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeubles de rue à Santiago.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Double peau non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand bâtiment de verre sur une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Double peau non lisible."
     }
   ]
 }

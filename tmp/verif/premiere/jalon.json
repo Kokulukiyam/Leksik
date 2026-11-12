@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Station totale, pas un jalon."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dessin aquarellé humoristique de relevé hydrographique.",
+      "verdict": "rejetée",
+      "note": "Dessin.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Même dessin aquarellé de relevé hydrographique.",
+      "verdict": "rejetée",
+      "note": "Dessin.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boussole ancienne d'arpenteur dans son coffret en bois.",
+      "verdict": "rejetée",
+      "note": "Boussole, pas un jalon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux agents devant une station totale sur trépied jaune.",
+      "verdict": "rejetée",
+      "note": "Station totale, pas de jalon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier casqué à une station totale sur trépied.",
+      "verdict": "rejetée",
+      "note": "Station totale, pas de jalon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Machine à diviser ancienne dans un musée.",
+      "verdict": "rejetée",
+      "note": "Aucun jalon.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

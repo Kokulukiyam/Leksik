@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peut passer pour des plateaux de semis ; doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand parking de dalles alvéolées en béton envahies d'herbe, au premier plan.",
+      "verdict": "rejetée",
+      "note": "Lisible mais quasi-doublon du site de la photo 04 déjà en jeu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hommes debout sur un sol de pavés alvéolés, devant des conteneurs.",
+      "verdict": "rejetée",
+      "note": "Personnes dominantes, dalle peu visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Voiture ancienne rouge garée près d'une zone de dalles engazonnées.",
+      "verdict": "rejetée",
+      "note": "Dalle peu visible, voiture dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Parking sous les arbres, sol herbeux, voitures au fond.",
+      "verdict": "rejetée",
+      "note": "Dalle alvéolée non distinguable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Parking de dalles alvéolées herbeuses devant un bâtiment, vu de loin.",
+      "verdict": "rejetée",
+      "note": "Quasi-doublon de 04, élément éloigné.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pelouse en pente avec voiture rouge et allée, dalles invisibles.",
+      "verdict": "rejetée",
+      "note": "Dalles non visibles, risque de confusion avec une simple pelouse.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

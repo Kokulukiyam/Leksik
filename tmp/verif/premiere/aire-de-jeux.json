@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Makoko",
       "note": "Pas une aire de jeux aménagée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grande structure de jeux en bois avec toboggan jaune, échelles et sol amortissant noir, au pied d'immeubles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aire de jeux claire et typique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo ancienne en noir et blanc d'enfants dans un bac à sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minnesota, États-Unis",
+      "note": "Noir et blanc ancienne, pas lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pelle jouet dans un bac à sable envahi de pommes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé, pas une aire de jeux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Manège gyroscope sous un auvent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Attraction de fête foraine, pas une aire de jeux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Structure de jeux en forme de bateau dans un parc, très contrastée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valladolid, Espagne",
+      "note": "Image très retouchée (HDR) et sombre, rejetée par prudence."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Filet à grimper pyramidal et jeux sur sol coloré entre immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Valable mais moins typique, doublon avec la meilleure ; non retenue."
     }
   ]
 }

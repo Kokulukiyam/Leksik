@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Maison coloniale à lucarnes à fronton, pas de chien-assis."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangée de lucarnes vitrées à pan unique sur un versant de tuiles rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lübeck, Allemagne",
+      "note": "Lucarnes modernes vitrées à toit presque plat ; pente inversée non évidente, confusion avec lucarne rampante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Corniche à consoles et petit pignon d'une façade blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Pas de chien-assis visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux lucarnes vitrées à pans de verre sur toit d'ardoises sombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brandebourg, Allemagne",
+      "note": "Lucarnes vitrées modernes, forme de toit non lisible comme chien-assis."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit de tuiles plates avec lucarnes à croupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ribeauvillé, France",
+      "note": "Lucarnes à croupe, pas des chiens-assis."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Lucarne à pignon sur un toit de tuiles, façade en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lucarne à deux pans, pas un chien-assis."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Charpente et voûte en bois vues de l'intérieur, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Handel, Pays-Bas",
+      "note": "Photo intérieure ancienne, élément illisible."
     }
   ]
 }

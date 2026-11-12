@@ -58,6 +58,54 @@
       },
       "lieu": "",
       "note": "Tuyau de drainage évacuant l'eau du mur ; rectangle sur le tuyau (les blocs sombres peuvent distraire)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de soutènement orné d'une fresque, en haut d'un talus boisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune barbacane visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petit porche à étage d'un monastère, murs en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Markova Sušica, Macédoine",
+      "note": "Pas de barbacane."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pêcheurs au bord d'un canal bordé d'un mur en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de barbacane lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rue pavée en pente dans un village, caniveau maçonné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lislique, Salvador",
+      "note": "Pas de barbacane."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Murs de pierre sèche en terrasses de culture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre sèche, pas de barbacane identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de moellons portant une plaque d'école.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Plaque visible, pas de barbacane."
     }
   ]
 }

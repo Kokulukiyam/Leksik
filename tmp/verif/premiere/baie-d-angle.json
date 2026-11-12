@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Fenêtre plane."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble de bureaux d angle à façade métallique plissée, avec nombreuses fenêtres en bandes.",
+      "verdict": "rejetée",
+      "note": "Fenêtres d angle noyées parmi beaucoup de fenêtres, doute avec fenêtre en bandeau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Trois chats sur un rebord de fenêtre intérieur ouverte.",
+      "verdict": "rejetée",
+      "note": "Pas une photo d architecture, aucune baie d angle.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre d angle ornée en saillie sur l angle d un palais, image fortement contrastée en noir et blanc.",
+      "verdict": "rejetée",
+      "note": "Image très retouchée ; ressemble à un oriel d angle ; rejetée.",
+      "lieu": "Valladolid, Espagne",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à petits carreaux en noir et blanc vue de l intérieur.",
+      "verdict": "rejetée",
+      "note": "Pas de baie d angle identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble Art déco blanc à angle arrondi avec petite fenêtre en pavés de verre.",
+      "verdict": "rejetée",
+      "note": "Fenêtre d angle petite et ambiguë.",
+      "lieu": "San Francisco, États-Unis",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade d immeuble sombre derrière un arbre, fenêtres ordinaires.",
+      "verdict": "rejetée",
+      "note": "Aucune baie d angle visible, image sombre.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

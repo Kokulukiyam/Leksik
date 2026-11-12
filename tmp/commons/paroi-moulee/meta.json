@@ -11,7 +11,9 @@
       "slurry wall basement construction"
     ],
     "incompatibles": [
-      "fouille"
+      "fouille",
+      "palplanche",
+      "paroi-berlinoise"
     ],
     "categoriesCommons": [
       "Category:Retaining walls"
@@ -149,6 +151,139 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg/1280px-Anglers_on_the_old_Grand_Canal%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4104,
       "hauteur": 3156
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Overzicht achtergevel en rechter zijgevel - Elmina - 20375100 - RCE.jpg",
+      "description": "Saint Joseph Mission: Overzicht achtergevel en rechter zijgevel (opmerking: Ghana reis Loek Tangel)",
+      "categories": [
+        "Walls in Ghana",
+        "Images from the Rijksdienst voor het Cultureel Erfgoed",
+        "Retaining walls",
+        "Saint Josephs Mission, Elmina (Ghana)",
+        "Buildings with addresses",
+        "Buildings with addresses - country not yet supported",
+        "European colonial architecture in Ghana",
+        "Photographs by Loek Tangel in Elmina (2000)",
+        "Stairs in Ghana",
+        "Loggias in Ghana",
+        "Streets in Elmina",
+        "Wooden fences in Ghana"
+      ],
+      "auteur": "Loek Tangel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Overzicht_achtergevel_en_rechter_zijgevel_-_Elmina_-_20375100_-_RCE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Overzicht_achtergevel_en_rechter_zijgevel_-_Elmina_-_20375100_-_RCE.jpg/1280px-Overzicht_achtergevel_en_rechter_zijgevel_-_Elmina_-_20375100_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3375,
+      "hauteur": 2204
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Cross Priory Protective Wall 2013 09 09.jpg",
+      "description": "Close view of the wall that proctects Cross Priory and the surrounding graveyard against coastal erosion.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 30D",
+        "Seawalls",
+        "Retaining walls",
+        "License migration redundant",
+        "Cross Priory",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs by Andreas F. Borchert"
+      ],
+      "auteur": "Andreas F. Borchert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cross_Priory_Protective_Wall_2013_09_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cross_Priory_Protective_Wall_2013_09_09.jpg/1280px-Cross_Priory_Protective_Wall_2013_09_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3476,
+      "hauteur": 2162
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Arase.jpg",
+      "description": "Une arase",
+      "categories": [
+        "Retaining walls",
+        "Self-published work"
+      ],
+      "auteur": "Lepticed7",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arase.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Arase.jpg/1280px-Arase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2040,
+      "hauteur": 1148
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20140620 Veliko Tarnovo 363.jpg",
+      "description": "2014-06-20 in Veliko Tarnovo.",
+      "categories": [
+        "Taken with Olympus XZ-2",
+        "Potted plants",
+        "Retaining walls",
+        "Self-published work",
+        "Photographs by Mark Ahsmann",
+        "Walls in Veliko Tarnovo"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140620_Veliko_Tarnovo_363.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20140620_Veliko_Tarnovo_363.jpg/1280px-20140620_Veliko_Tarnovo_363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3968,
+      "hauteur": 2976
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Centro de lislique - panoramio.jpg",
+      "description": "Centro de Lislique, El Salvador",
+      "categories": [
+        "Streets in El Salvador",
+        "Retaining walls",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Lislique",
+        "Toyota HiLux (N80/N90/N100/N110)",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Tiled roofs in El Salvador",
+        "Files with coordinates missing SDC location of creation",
+        "Two-story buildings in El Salvador",
+        "El Salvador photographs taken on 2007-08-30",
+        "Buildings in La Unión Department"
+      ],
+      "auteur": "bennymartinez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centro_de_lislique_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Centro_de_lislique_-_panoramio.jpg/1280px-Centro_de_lislique_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Mardin P1030379 20080423111143.JPG",
+      "description": "Stone staircase and gate — in Mardin (Mardin Kiz Meslek Lisesi), Turkey. Photographs from Mardin, Turkey",
+      "categories": [
+        "Walls in Turkey",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-TZ3",
+        "Gates in Turkey",
+        "Retaining walls",
+        "License migration completed",
+        "Outdoor stone stairs in Turkey",
+        "Self-published work",
+        "Nevit Dilmen",
+        "Files with coordinates missing SDC location of creation",
+        "Outdoor stone stairs",
+        "Mardin Kiz Meslek Lisesi"
+      ],
+      "auteur": "Nevit Dilmen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mardin_P1030379_20080423111143.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mardin_P1030379_20080423111143.JPG/1280px-Mardin_P1030379_20080423111143.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

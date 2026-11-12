@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Pörtschach, Autriche",
       "note": "Volets, pas des abat-son."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de silex avec une petite grille à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mundesley, Royaume-Uni",
+      "note": "Grille de ventilation, pas un clocher."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtres d'une villa avec persiennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Persiennes, pas des abat-son."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite lanterne à lames bleues surmontée d'une girouette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lanterne de ferme, pas un clocher."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grille de ventilation à lames dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilation, pas un clocher."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coupole vitrée avec petite lanterne à lames.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Greenwich, Royaume-Uni",
+      "note": "Lames minuscules, pas un clocher."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur jaune avec graffiti et grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

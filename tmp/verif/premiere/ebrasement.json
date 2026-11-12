@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt meurtrière."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur d'église avec fenêtre étroite en meurtrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cortrat, France",
+      "note": "Évasement peu visible, trop petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rue de Londres avec immeubles en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bannière orange sur une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'une cathédrale romane avec portail à colonnettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ancône, Italie",
+      "note": "Portail sans ébrasement isolable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Caserne de pompiers de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre à petits carreaux dans une grande niche évasée en plâtre blanc, avec appui en cuivre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.08,
+        "largeur": 0.66,
+        "hauteur": 0.7
+      },
+      "lieu": "Täby, Suède",
+      "note": "Côtés et voûte de la niche en biais : ébrasement net."
     }
   ]
 }

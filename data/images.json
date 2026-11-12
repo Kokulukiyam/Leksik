@@ -4734,6 +4734,24 @@
     "note": "Vérification : Dalles isolées posées dans le gazon, bien lisibles ; rectangle sur le cheminement. Contre-vérification : Rectangle bien placé sur une file de dalles rondes espacées posées dans la pelouse : pas japonais typiques."
   },
   {
+    "id": "pas-japonais-09",
+    "termId": "pas-japonais",
+    "fichier": "commons/pas-japonais-09.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.33,
+      "largeur": 0.65,
+      "hauteur": 0.67
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "MOs810",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Palmhouse,_Poznan.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dalles espacées dans la pelouse, nettes ; rectangle pour écarter la jarre. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "allee-01",
     "termId": "allee",
     "fichier": "commons/allee-01.webp",
@@ -5050,6 +5068,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Downtown_Canandaigua,_NY.jpg",
     "statut": "validée",
     "note": "Vérification : Terre-plein central très clair. Contre-vérification : Bande engazonnée surélevée séparant les deux sens de circulation d'une avenue, dans l'axe de la photo : sans ambiguïté."
+  },
+  {
+    "id": "terre-plein-central-11",
+    "termId": "terre-plein-central",
+    "fichier": "commons/terre-plein-central-11.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.72,
+      "largeur": 0.29,
+      "hauteur": 0.28
+    },
+    "lieu": "Berlin, Allemagne",
+    "source": "commons",
+    "auteur": "LBM1948",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn,_Tiergarten_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Terre-plein central pavé entre les deux sens, net ; rectangle sur la bande. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "potelet-03",
@@ -5417,6 +5453,32 @@
     "note": "Vérification : Spires de fil à lames nettes et dominantes. Contre-vérification : Spirales de ruban à lames déployées en haut d'une clôture, nettes sur le ciel : concertina clairement identifiable."
   },
   {
+    "id": "concertina-09",
+    "termId": "concertina",
+    "fichier": "commons/concertina-09.webp",
+    "rectangle": null,
+    "lieu": "Kornwerderzand, Pays-Bas",
+    "source": "commons",
+    "auteur": "Archangel12",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Casemate_museum_Kornwerderzand,_Afsluitdijk_(9788319005).jpg",
+    "statut": "validée",
+    "note": "Vérification : Rouleaux de fil barbelé en spirales, nets et dominants. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "concertina-10",
+    "termId": "concertina",
+    "fichier": "commons/concertina-10.webp",
+    "rectangle": null,
+    "lieu": "Jérusalem",
+    "source": "commons",
+    "auteur": "askii",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Barbed_wire_on_the_wall_of_the_Old_City_of_Jerusalem_(12394210823)_(2).jpg",
+    "statut": "validée",
+    "note": "Vérification : Spirales de fil en haut de clôture, conforme à la définition. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "cloture-grillagee-05",
     "termId": "cloture-grillagee",
     "fichier": "commons/cloture-grillagee-05.webp",
@@ -5749,6 +5811,24 @@
     "note": "Vérification : Grille d'arbre typique et claire. Contre-vérification : Rectangle sur la grille métallique ajourée posée au pied d'un arbre de trottoir pavé : sans ambiguïté."
   },
   {
+    "id": "grille-d-arbre-07",
+    "termId": "grille-d-arbre",
+    "fichier": "commons/grille-d-arbre-07.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.3,
+      "largeur": 0.78,
+      "hauteur": 0.51
+    },
+    "lieu": "Bruck an der Leitha, Autriche",
+    "source": "commons",
+    "auteur": "Herzi Pinki",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Baumscheibe_Hauptplatz_Bruck_an_der_Leitha.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grille d'arbre typique, nette et dominante. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "pelouse-05",
     "termId": "pelouse",
     "fichier": "commons/pelouse-05.webp",
@@ -5811,6 +5891,19 @@
     "note": "Vérification : Aire de jeux de quartier évidente. Contre-vérification : Balançoires, jeux à ressort et barrière colorée sur sol amortissant dans un square : aire de jeux évidente."
   },
   {
+    "id": "aire-de-jeux-09",
+    "termId": "aire-de-jeux",
+    "fichier": "commons/aire-de-jeux-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Tiraspolsky",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Children%27s_playground_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Aire de jeux claire et typique. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "guerite-06",
     "termId": "guerite",
     "fichier": "commons/guerite-06.webp",
@@ -5827,6 +5920,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:500px_photo_(119283685).jpeg",
     "statut": "validée",
     "note": "Vérification : Guérites évidentes ; rectangle sur celle de droite. Contre-vérification : Rectangle sur une guérite de sentinelle occupée par un garde, à l'entrée d'un palais : terme juste et bien cadré."
+  },
+  {
+    "id": "guerite-07",
+    "termId": "guerite",
+    "fichier": "commons/guerite-07.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.1,
+      "largeur": 0.68,
+      "hauteur": 0.69
+    },
+    "lieu": "Budapest, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Guardhouse,_National_Museum_garden,_2016_Palotanegyed.jpg",
+    "statut": "validée",
+    "note": "Vérification : Guérite de gardien à l'entrée d'un site, encadrée. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "piscine-01",
@@ -6002,6 +6113,37 @@
     "note": "Vérification : Pose de parement en pierre sur ossature ; encombré par l'échafaudage. Contre-vérification : Rectangle sur des plaques de pierre fixées par agrafes à distance de l'isolant, chantier en cours : principe de façade ventilée lisible."
   },
   {
+    "id": "facade-ventilee-07",
+    "termId": "facade-ventilee",
+    "fichier": "commons/facade-ventilee-07.webp",
+    "rectangle": null,
+    "lieu": "Russie",
+    "source": "commons",
+    "auteur": "Mmanokhin",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6_%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BB%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85_%D1%84%D0%B0%D1%81%D0%B0%D0%B4%D0%BD%D1%8B%D1%85_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D1%81_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC_%D1%83%D1%82%D0%B5%D0%BF%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%B8_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2.JPG",
+    "statut": "validée",
+    "note": "Vérification : Montre l'ossature à distance du mur et la lame d'air ; échafaudage gênant mais lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "ebrasement-12",
+    "termId": "ebrasement",
+    "fichier": "commons/ebrasement-12.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.08,
+      "largeur": 0.66,
+      "hauteur": 0.7
+    },
+    "lieu": "Täby, Suède",
+    "source": "commons",
+    "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Xauxa (étant donné la revendication de droit d’auteur).",
+    "licence": "CC BY 2.5",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Taby_kyrka_window.jpg",
+    "statut": "validée",
+    "note": "Vérification : Côtés et voûte de la niche en biais : ébrasement net. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "porche-03",
     "termId": "porche",
     "fichier": "commons/porche-03.webp",
@@ -6074,6 +6216,42 @@
     "note": "Vérification : Chaîne d'angle en pierre claire. Contre-vérification : Rectangle sur une chaîne d'angle en pierres alternées sur mur enduit, bien cadrée ; le petit filigrane de l'appareil photo ne gêne pas."
   },
   {
+    "id": "chaine-d-angle-12",
+    "termId": "chaine-d-angle",
+    "fichier": "commons/chaine-d-angle-12.webp",
+    "rectangle": {
+      "x": 0.435,
+      "y": 0.17,
+      "largeur": 0.06,
+      "hauteur": 0.62
+    },
+    "lieu": "Neuf-Brisach, France",
+    "source": "commons",
+    "auteur": "Psu973",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:NeufBrisach-4731.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chaîne d angle nette ; rectangle sur la chaîne centrale. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "plate-bande-07",
+    "termId": "plate-bande",
+    "fichier": "commons/plate-bande-07.webp",
+    "rectangle": {
+      "x": 0.07,
+      "y": 0.44,
+      "largeur": 0.83,
+      "hauteur": 0.27
+    },
+    "lieu": "Ravenne, Italie",
+    "source": "commons",
+    "auteur": "Sailko",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Mausoleo_di_teodorico,_interno,_camera_superiore,_piattabanda.jpg",
+    "statut": "validée",
+    "note": "Vérification : Claveaux appareillés en linteau droit nettement visibles ; rectangle sur la plate-bande. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "baie-geminee-01",
     "termId": "baie-geminee",
     "fichier": "commons/baie-geminee-01.webp",
@@ -6108,6 +6286,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Beynac_Burg_-_Bifora.jpg",
     "statut": "validée",
     "note": "Vérification : Paire de baies sur colonnette, encadrée. Contre-vérification : Rectangle sur une paire de baies trilobées séparées par une colonnette, la seconde paire restant hors cadre : sans ambiguïté."
+  },
+  {
+    "id": "baie-geminee-09",
+    "termId": "baie-geminee",
+    "fichier": "commons/baie-geminee-09.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.09,
+      "largeur": 0.7,
+      "hauteur": 0.76
+    },
+    "lieu": "Modica, Italie",
+    "source": "commons",
+    "auteur": "Fanianic",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:BIFORA.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bifora typique, deux baies accolées et colonnette centrale. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "baie-geminee-10",
+    "termId": "baie-geminee",
+    "fichier": "commons/baie-geminee-10.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.12,
+      "largeur": 0.62,
+      "hauteur": 0.68
+    },
+    "lieu": "Budapest, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bifora,_Holy_Family_Church,_2018_Vir%C3%A1nyos.jpg",
+    "statut": "validée",
+    "note": "Vérification : Paire de baies accolées avec colonne médiane, bien lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "baie-d-angle-05",
@@ -6188,6 +6402,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Le_ch%C3%A2teau_de_Montauban-de-Bretagne_(48631473736).jpg",
     "statut": "validée",
     "note": "Vérification : Meurtrière à ouverture ronde, nette. Contre-vérification : Gros plan d'une fente de tir verticale à orifice circulaire dans un appareil de pierre : meurtrière sans ambiguïté."
+  },
+  {
+    "id": "meurtriere-07",
+    "termId": "meurtriere",
+    "fichier": "commons/meurtriere-07.webp",
+    "rectangle": {
+      "x": 0.46,
+      "y": 0.36,
+      "largeur": 0.1,
+      "hauteur": 0.52
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Carlos Gracia",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Transit_place_(6835490650).jpg",
+    "statut": "validée",
+    "note": "Vérification : Meurtrière/archère typique, fente étroite dans mur épais ; rectangle sur la fente. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "soupirail-05",
@@ -6437,6 +6669,19 @@
     "note": "Vérification : Voiles d'ombrage tendues nettes, rectangle sur les toiles. Contre-vérification : Voiles tendues au-dessus d'une cour."
   },
   {
+    "id": "resille-metallique-07",
+    "termId": "resille-metallique",
+    "fichier": "commons/resille-metallique-07.webp",
+    "rectangle": null,
+    "lieu": "Chicago, États-Unis",
+    "source": "commons",
+    "auteur": "Warren LeMay from Chicago, IL, United States",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Urban_Lab_Building_(Morgan_Live_%2B_Work),_Morgan_Street_and_32nd_Street,_Bridgeport,_Chicago,_IL_(54835393219).jpg",
+    "statut": "validée",
+    "note": "Vérification : Enveloppe en tôle perforée, exemple typique de résille métallique, dominant dans l image. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "mur-vegetal-01",
     "termId": "mur-vegetal",
     "fichier": "commons/mur-vegetal-01.webp",
@@ -6664,6 +6909,19 @@
     "note": "Vérification : Jardinière en saillie sous la baie, rectangle vérifié. Contre-vérification : Bac à fleurs en bois sur consoles sous la fenêtre, désigné de près par le rectangle : jardinière sans ambiguïté."
   },
   {
+    "id": "jardiniere-10",
+    "termId": "jardiniere",
+    "fichier": "commons/jardiniere-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "litchick_1",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2009_windowbox_2463967211.jpg",
+    "statut": "validée",
+    "note": "Vérification : Jardinière de balcon dominante et sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "pignon-a-redents-01",
     "termId": "pignon-a-redents",
     "fichier": "commons/pignon-a-redents-01.webp",
@@ -6698,6 +6956,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Tollington_market_-_panoramio_(1).jpg",
     "statut": "validée",
     "note": "Vérification : Pignon à redents bien lisible, rectangle vérifié. Contre-vérification : Pignon enduit aux rampants en gradins successifs, bien dégagé sur le ciel et cadré : pignon à redents."
+  },
+  {
+    "id": "pignon-a-redents-12",
+    "termId": "pignon-a-redents",
+    "fichier": "commons/pignon-a-redents-12.webp",
+    "rectangle": {
+      "x": 0.61,
+      "y": 0.27,
+      "largeur": 0.27,
+      "hauteur": 0.34
+    },
+    "lieu": "Sireköpinge, Suède",
+    "source": "commons",
+    "auteur": "Kallerdis",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sirek%C3%B6pinge_kyrka_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Pignon à redents net sur la tour et les pignons de la nef ; rectangle sur le grand pignon. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "toiture-11",
@@ -6932,6 +7208,24 @@
     "note": "Vérification : Un seul versant incliné, net et dominant. Contre-vérification : Abri en rondins couvert d'un unique versant incliné : toit monopente évident."
   },
   {
+    "id": "toit-mansarde-11",
+    "termId": "toit-mansarde",
+    "fichier": "commons/toit-mansarde-11.webp",
+    "rectangle": {
+      "x": 0.05,
+      "y": 0.13,
+      "largeur": 0.92,
+      "hauteur": 0.68
+    },
+    "lieu": "Paris, France",
+    "source": "commons",
+    "auteur": "Jorge Andrade",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dormer_windows_in_Paris,_September_26,_2011.jpg",
+    "statut": "validée",
+    "note": "Vérification : Profil brisé net, terrasson et brisis lisibles ; rectangle sur l'ensemble du toit. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "demi-croupe-04",
     "termId": "demi-croupe",
     "fichier": "commons/demi-croupe-04.webp",
@@ -7038,6 +7332,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Darmstadt_Bahngalerie_Juni_2012.JPG",
     "statut": "validée",
     "note": "Vérification : Toiture cintrée nette, rectangle vérifié. Contre-vérification : Toiture en arc métallique sur structure courbe, nettement désignée : toiture cintrée."
+  },
+  {
+    "id": "toiture-cintree-07",
+    "termId": "toiture-cintree",
+    "fichier": "commons/toiture-cintree-07.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.26,
+      "largeur": 0.38,
+      "hauteur": 0.34
+    },
+    "lieu": "Tartu, Estonie",
+    "source": "commons",
+    "auteur": "Liisi Anvelt",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Buildings_at_Tehase_tn,_Tartu_(9996075444).jpg",
+    "statut": "validée",
+    "note": "Vérification : Toiture en arc nette, en tôle ; rectangle sur le hangar. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "toit-papillon-03",
@@ -7221,6 +7533,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:T%C3%BCrkentaube.jpg",
     "statut": "validée",
     "note": "Vérification : Faîtières bien encadrées, oiseau en arrière-plan. Contre-vérification : Rectangle sur la ligne de tuiles arrondies qui coiffent le faîtage au-dessus des tuiles de versant : tuile faîtière sans ambiguïté."
+  },
+  {
+    "id": "bardeau-bitume-12",
+    "termId": "bardeau-bitume",
+    "fichier": "commons/bardeau-bitume-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "S. John, Elsterwerda",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bitumenschindeln_sj_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bardeaux bitumés à granulés, motif hexagonal typique, image lisible et dominante. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "verriere-04",

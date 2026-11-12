@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Amsterdam",
       "note": "Palplanches au premier plan, pas de tête de pieu claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit bonhomme en pots de terre cuite assis sur un muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier avec grande foreuse entre des immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Machine, pas de tête de pieu visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Décharge en colline herbeuse près d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Novare, Italie",
+      "note": "Sujet sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grues sur le chantier d'Oosterdokseiland, vue panoramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Chantier lointain, pieux non visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Balles d'ensilage blanches empilées dans un champ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Holma, Suède",
+      "note": "Sujet sans rapport avec un pieu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Homme barbu touchant un long élément de béton à crochets, au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément préfabriqué, pas montré en place comme pieu ; personne dominante."
     }
   ]
 }

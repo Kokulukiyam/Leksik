@@ -48,6 +48,30 @@
       "rectangle": null,
       "lieu": "Chicago",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan en perspective sur une grande paroi de tôle d acier corten perforée de trous ronds, ciel et arbre à gauche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Chicago, États-Unis",
+      "note": "Enveloppe en tôle perforée, exemple typique de résille métallique, dominant dans l image."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade commerciale de rue avec arbres au premier plan, immeuble mixte brique, verre et métal.",
+      "verdict": "rejetée",
+      "note": "Résille non identifiable, arbres masquent la façade.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de clôture en acier corten devant un bâtiment, arbre et réverbère au premier plan.",
+      "verdict": "rejetée",
+      "note": "Résille petite et masquée par l arbre ; panneaux pleins dominants.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

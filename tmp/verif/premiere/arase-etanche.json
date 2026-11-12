@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Pereslavl",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'un bâtiment universitaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oxford, Ohio",
+      "note": "Carte postale avec texte, arase non visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de briques jaunes avec un oculus décoré de briques rayonnantes et une croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mission San Juan Capistrano, États-Unis",
+      "note": "Décor de brique, pas une arase étanche."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur en pierre à bossage autour d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil à bossage, pas une arase étanche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade de briques avec haute fenêtre cintrée sur un soubassement de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Louis, États-Unis",
+      "note": "Arase non identifiable, soubassement non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Baie cintrée en brique avec soubassement de pierre et barrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Louis, États-Unis",
+      "note": "Arase non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Murs de briques de forme anguleuse sous un ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pakistan",
+      "note": "Aucune arase visible."
     }
   ]
 }

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Escalier, pas des pas japonais."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chemin de gravier sinueux entre rochers et fougères au bord d'un étang.",
+      "verdict": "rejetée",
+      "note": "Chemin continu, pas de dalles espacées.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Allée bétonnée continue sous des arbres jaunes.",
+      "verdict": "rejetée",
+      "note": "Allée continue, pas des pas japonais.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rangée de dalles rectangulaires espacées dans l'herbe d'un jardin, grande jarre brune à droite.",
+      "verdict": "validée",
+      "note": "Dalles espacées dans la pelouse, nettes ; rectangle pour écarter la jarre.",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.33,
+        "largeur": 0.65,
+        "hauteur": 0.67
+      },
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Banc de jardin devant des ifs, pelouse au premier plan.",
+      "verdict": "rejetée",
+      "note": "Aucun pas japonais.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pergola de roses sur un chemin dallé continu.",
+      "verdict": "rejetée",
+      "note": "Dallage jointif, pas des pas japonais.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois blocs de pierre à surface de galets émergeant d'un bassin à nénuphars.",
+      "verdict": "rejetée",
+      "note": "Blocs massifs dans l'eau, moins typiques ; doute.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

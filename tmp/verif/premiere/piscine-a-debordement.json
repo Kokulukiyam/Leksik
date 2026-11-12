@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gros plan sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Enfant plongeant dans une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Enfant éclaboussant dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Enfant nageant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme nageant seul.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Piscine moyenne vue de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pot de peinture au bord d'une piscine vide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bord débordant visible."
     }
   ]
 }

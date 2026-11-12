@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Halle à fermes métalliques treillis, pas des fermettes à connecteurs."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Foule dans un hall aux poutres courbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de fermettes visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Charpente de nef d'une cathédrale, vue d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente ancienne, pas une fermette industrielle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo noir et blanc d'un pont métallique à treillis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pont métallique, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chevrons et pannes en bois d'un abri.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente traditionnelle, pas une fermette."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente en bois ancienne d'un comble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente traditionnelle, pas une fermette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poutre en treillis d'aluminium de scène.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure de scène, hors sujet."
     }
   ]
 }

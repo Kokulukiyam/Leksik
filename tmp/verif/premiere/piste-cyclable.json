@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Véhicule masque l'élément, texte et pictogramme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bâtiment à arcades devant un carrefour, panneau de voie cyclable minuscule.",
+      "verdict": "rejetée",
+      "note": "Piste non visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chaussée avec bande de voie partagée marquée d'un chevron.",
+      "verdict": "rejetée",
+      "note": "Voie partagée peu lisible, bande non colorée ni séparée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Usine rouge à cheminée derrière une piste cyclable rouge où roulent deux cyclistes.",
+      "verdict": "rejetée",
+      "note": "Usine dominante, piste mince au bas de l'image.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Panneau triangulaire vélo « prioridad » sur un trottoir, route à gauche.",
+      "verdict": "rejetée",
+      "note": "Panneau seul, piste invisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cyclistes dans une bande marquée, mototaxi bleu en premier plan.",
+      "verdict": "rejetée",
+      "note": "Véhicule dominant, piste peu claire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Large avenue avec marquages jaunes, trottoir et arbres.",
+      "verdict": "rejetée",
+      "note": "Piste non identifiable.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

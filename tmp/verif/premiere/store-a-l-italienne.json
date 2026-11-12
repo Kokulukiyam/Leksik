@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun store visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d immeuble à alvéoles blanches en saillie avec stores sombres à lames dans chaque baie.",
+      "verdict": "rejetée",
+      "note": "Stores à lames/persiennes, pas un store à l italienne ; plutôt brise-soleil.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auvent fixe en toile blanche sur consoles en fer forgé, au-dessus d une fenêtre grillagée.",
+      "verdict": "rejetée",
+      "note": "Auvent fixe sur consoles, pas un store à l italienne à bras.",
+      "lieu": "Kawit, Philippines",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Main tenant le bord d un cadre textile tendu, fond blanc.",
+      "verdict": "rejetée",
+      "note": "Cadre textile publicitaire, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruelle de marché animée sous des stores banne rayés orange et rouge.",
+      "verdict": "rejetée",
+      "note": "Stores banne, foule, aucun store à l italienne lisible.",
+      "lieu": "Jiufen, Taïwan",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hublot d avion avec store à lames baissé en partie.",
+      "verdict": "rejetée",
+      "note": "Intérieur d avion, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Entrée de supermarché sous un auvent rouge avec enseigne.",
+      "verdict": "rejetée",
+      "note": "Auvent fixe, enseigne visible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

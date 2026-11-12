@@ -1661,6 +1661,17 @@
     ]
   },
   {
+    "id": "ebrasement",
+    "terme": "l'ébrasement",
+    "definition": "Côtés d'une baie taillés en biais pour que l'ouverture s'évase vers l'intérieur ou l'extérieur du mur.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "baie",
+      "piedroit"
+    ]
+  },
+  {
     "id": "porche",
     "terme": "le porche",
     "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
@@ -1675,6 +1686,17 @@
     "priorite": 3,
     "incompatibles": [
       "pierre-de-taille"
+    ]
+  },
+  {
+    "id": "plate-bande",
+    "terme": "la plate-bande",
+    "definition": "Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d'une baie.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "linteau",
+      "arc"
     ]
   },
   {
@@ -1805,6 +1827,21 @@
     "priorite": 2,
     "incompatibles": [
       "store-banne"
+    ]
+  },
+  {
+    "id": "resille-metallique",
+    "terme": "la résille métallique",
+    "definition": "Enveloppe en métal ajouré (tôle perforée, maille, lames) posée devant une façade comme filtre visuel et solaire.",
+    "categorie": "Façade et ouvertures",
+    "priorite": 3,
+    "incompatibles": [
+      "facade-double-peau",
+      "claustra",
+      "moucharabieh",
+      "tole-perforee",
+      "metal-deploye",
+      "brise-soleil"
     ]
   },
   {
@@ -1961,6 +1998,18 @@
     ]
   },
   {
+    "id": "toit-mansarde",
+    "terme": "le toit mansardé",
+    "definition": "Toit à la Mansart, dont chaque versant est brisé en un brisis très raide en bas et un terrasson peu incliné en haut.",
+    "categorie": "Toitures",
+    "priorite": 3,
+    "incompatibles": [
+      "toiture",
+      "lucarne",
+      "chien-assis"
+    ]
+  },
+  {
     "id": "demi-croupe",
     "terme": "la demi-croupe",
     "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
@@ -2086,6 +2135,16 @@
       "tuile-canal",
       "tuile-mecanique",
       "tuile-plate"
+    ]
+  },
+  {
+    "id": "bardeau-bitume",
+    "terme": "le bardeau bitumé",
+    "definition": "Petite plaque souple de bitume armé recouverte de granulés minéraux, posée en écailles sur un voligeage.",
+    "categorie": "Toitures",
+    "priorite": 3,
+    "incompatibles": [
+      "bardeau"
     ]
   },
   {

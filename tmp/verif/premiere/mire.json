@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de mire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un géomètre accroupi près d'un trépied jaune à antenne dans un pré.",
+      "verdict": "rejetée",
+      "note": "Antenne GPS, pas de mire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gravure d'une tente avec instruments de topographie.",
+      "verdict": "rejetée",
+      "note": "Gravure.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne d'un homme debout à côté d'une Trabant, tenant un instrument.",
+      "verdict": "rejetée",
+      "note": "Mire non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un ouvrier casqué utilise une station totale sur trépied jaune.",
+      "verdict": "rejetée",
+      "note": "Station totale, pas de mire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Instrument ancien de topographie (clisimètre) sur fond blanc.",
+      "verdict": "rejetée",
+      "note": "Clisimètre, pas une mire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin aquarellé humoristique de relevé hydrographique.",
+      "verdict": "rejetée",
+      "note": "Dessin.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

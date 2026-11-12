@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Coffrage de poteaux, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier en chantier avec fondations en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier béton, hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier d'une salle de sport avec coffrages en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poutrelles de coffrage empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage, hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pannes d'acier au plafond d'un hall.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de volige."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente en bois d'un comble avec planches blanchies.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sous-face de comble ambiguë, volige non démontrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pavillon chinois à pannes décorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de volige."
     }
   ]
 }

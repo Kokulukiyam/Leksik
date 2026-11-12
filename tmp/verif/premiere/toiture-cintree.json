@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Rio de Janeiro, Brésil",
       "note": "Structure en arc évoquant une voûte, pas une toiture en tôle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hangar en tôle dont le toit forme une voûte en demi-cercle, pignon avec portes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.26,
+        "largeur": 0.38,
+        "hauteur": 0.34
+      },
+      "lieu": "Tartu, Estonie",
+      "note": "Toiture en arc nette, en tôle ; rectangle sur le hangar."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terminal d'aéroport de nuit sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit plat, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite chapelle sur un ponton, toit à deux pans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rapperswil, Suisse",
+      "note": "Pas de toit cintré."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toit végétalisé courbe d'une maison à bardage de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brügg, Suisse",
+      "note": "Végétalisé, vue partielle ; confusion avec la toiture végétalisée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande maison en brique à toit mansardé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Redlands, États-Unis",
+      "note": "Toit mansardé, pas cintré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Abri en bois lamellé et toile courbe sur des ruines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Structure tendue sur ruines, pas une toiture en tôle."
     }
   ]
 }

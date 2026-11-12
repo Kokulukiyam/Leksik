@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt un bardage ; lecture moins claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade en chantier : ossature métallique, isolant en laine minérale, membrane orange et premiers panneaux de parement.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Montre l'ossature à distance du mur et la lame d'air ; échafaudage gênant mais lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Nacelle élévatrice devant une façade à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parement visible, mais pas la structure ventilée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Revêtement en acier inoxydable gauchi d'une salle de concert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles",
+      "note": "Parement courbe, pas lisible comme façade ventilée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyaux en terre cuite dans un mur en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande tour avec façade en verre et pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Abraj al Bait",
+      "note": "Pas de détail ventilé visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Briquettes de parement posées sur rails métalliques devant de la laine de roche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou",
+      "note": "Système de plaquettes de brique, ambigu avec un autre type de parement ; non retenue."
     }
   ]
 }

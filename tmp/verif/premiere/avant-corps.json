@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet, carte postale ancienne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Croquis au trait de trois types de risalits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Planche gravée de détails d'architecture d'une mosquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade de la Halle aux draps avec pignon central et arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cracovie, Pologne",
+      "note": "Saillie du corps central peu lisible de face, confusion avec pignon, attique et arcade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Planche gravée de coupe et détails de la mosquée Hasan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Théâtre moderne vu de face, corps central bas encadré de tours vitrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Białystok, Pologne",
+      "note": "Saillies indistinctes, photo lointaine."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Structure en bois dans un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

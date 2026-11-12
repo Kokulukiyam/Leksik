@@ -58,6 +58,64 @@
       "rectangle": null,
       "lieu": "Dayton, États-Unis",
       "note": "Élément trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite fenêtre double lumineuse dans un mur sombre.",
+      "verdict": "rejetée",
+      "note": "Image trop sombre et élément trop petit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Château néogothique en brique et pierre avec petites baies doubles en hauteur.",
+      "verdict": "rejetée",
+      "note": "Baies trop petites dans une vue d ensemble.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre intérieure à deux arcs brisés séparés par une colonnette de marbre, ciel visible.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.09,
+        "largeur": 0.7,
+        "hauteur": 0.76
+      },
+      "lieu": "Modica, Italie",
+      "note": "Bifora typique, deux baies accolées et colonnette centrale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade en pierre avec deux fenêtres en plein cintre grillagées séparées par une colonne, sous un arc commun.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.12,
+        "largeur": 0.62,
+        "hauteur": 0.68
+      },
+      "lieu": "Budapest, Hongrie",
+      "note": "Paire de baies accolées avec colonne médiane, bien lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de brique d église en contre-plongée avec deux fenêtres étroites accolées.",
+      "verdict": "rejetée",
+      "note": "Fenêtres petites, cadrage de travers, pas de colonnette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tour blanche avec deux niveaux de baies doubles séparées par une colonnette.",
+      "verdict": "rejetée",
+      "note": "Ouvertures de clocher, confusion avec abat-son ou baie de beffroi.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

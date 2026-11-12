@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Immeuble avec toits sombres, zinc non démontrable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cabine de grande roue rouge à toit métallique, vue de ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Toit métallique minuscule et peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pointe de flèche ou épi en zinc avec nervures et feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Épi de zinc, pas une couverture en zinc à joints debout."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Église en bois avec toit en tôle rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zvoriștea, Roumanie",
+      "note": "Tôle rouillée, pas clairement du zinc à joints debout."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boule décorative en tôle de zinc sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornement en zinc, pas une couverture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Toiture métallique rouge-brun d'un bâtiment industriel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle laquée, pas du zinc ; joints peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pointe de flèche en zinc avec nervures, sous les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornement en zinc, pas une couverture."
     }
   ]
 }

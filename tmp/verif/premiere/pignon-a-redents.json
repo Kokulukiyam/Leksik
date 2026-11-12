@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Brisbane, Australie",
       "note": "Gradins petits, vue confuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Peinture d'une rue avec une église à pignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison à pignon aux rampants courbes sur une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon à volutes, pas à redents."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pignon baroque à volutes richement sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rampants courbes, pas de gradins."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maisons jaune et blanche à toit plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de pignon à redents."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment en brique rouge, petits ressauts au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Gradins trop discrets."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Église blanche dont le clocher-porche et les pignons ont des rampants en gradins.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.61,
+        "y": 0.27,
+        "largeur": 0.27,
+        "hauteur": 0.34
+      },
+      "lieu": "Sireköpinge, Suède",
+      "note": "Pignon à redents net sur la tour et les pignons de la nef ; rectangle sur le grand pignon."
     }
   ]
 }

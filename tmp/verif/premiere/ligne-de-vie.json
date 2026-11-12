@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion blanc de transport de voussoirs sur un chantier de métro.",
+      "verdict": "rejetée",
+      "note": "Aucune ligne de vie.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Centrale de mortier et silos derrière un grillage.",
+      "verdict": "rejetée",
+      "note": "Aucune ligne de vie.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Voie ferrée en gare avec un train au fond.",
+      "verdict": "rejetée",
+      "note": "Ligne ferroviaire, homonymie sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Voie ferrée et passage à niveau.",
+      "verdict": "rejetée",
+      "note": "Ligne ferroviaire, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrepôt de chantier ouvert, palettes devant.",
+      "verdict": "rejetée",
+      "note": "Aucune ligne de vie.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Atelier de mécanique de chantier, bâtiment blanc.",
+      "verdict": "rejetée",
+      "note": "Aucune ligne de vie.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

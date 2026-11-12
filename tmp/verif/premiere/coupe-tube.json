@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Outil non identifiable comme coupe-tube."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux ouvriers filètent un tube sur une machine à fileter dans une station de métro.",
+      "verdict": "rejetée",
+      "note": "Machine à fileter, pas un coupe-tube.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Un ouvrier travaille sur une machine à fileter dans un chantier.",
+      "verdict": "rejetée",
+      "note": "Machine à fileter, outil non identifiable comme coupe-tube.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un tube noir posé sur chevalets, un ouvrier le meule au fond.",
+      "verdict": "rejetée",
+      "note": "Pas de coupe-tube visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Outil noir à long bras, un expanseur de tubes plastique.",
+      "verdict": "rejetée",
+      "note": "Expanseur, pas un coupe-tube.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Machine à fileter les tubes sur sol de béton.",
+      "verdict": "rejetée",
+      "note": "Machine électrique, pas un coupe-tube à molette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Assortiment de raccords, vannes et manomètres en laiton sur des plans.",
+      "verdict": "rejetée",
+      "note": "Aucun coupe-tube.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

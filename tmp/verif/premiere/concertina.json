@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Flou, ancien, peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Soldats traversant un rouleau de fil de fer coupant lors d'un exercice.",
+      "verdict": "rejetée",
+      "note": "Soldats dominants, élément morcelé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Clôture verte à fils en haut, homme montrant le bâtiment d'une centrale.",
+      "verdict": "rejetée",
+      "note": "Clôture et personne dominantes, fil peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Spirales de fil barbelé enroulé posées devant un blockhaus, ciel au fond.",
+      "verdict": "validée",
+      "note": "Rouleaux de fil barbelé en spirales, nets et dominants.",
+      "rectangle": null,
+      "lieu": "Kornwerderzand, Pays-Bas"
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fil à lames et barbelé enroulé en vrilles sur le haut d'une clôture métallique.",
+      "verdict": "validée",
+      "note": "Spirales de fil en haut de clôture, conforme à la définition.",
+      "rectangle": null,
+      "lieu": "Jérusalem"
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux militaires manipulant du fil en spirale sur le sol.",
+      "verdict": "rejetée",
+      "note": "Personnes dominantes, fil mêlé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soldat accroupi derrière des spirales de fil lames brillantes.",
+      "verdict": "rejetée",
+      "note": "Soldat dominant, fil en arrière-plan flou.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

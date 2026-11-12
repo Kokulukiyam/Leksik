@@ -40,6 +40,14 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte donnant la réponse, objet de musée."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Bordure de jardin victorienne en céramique vernissée brune, photographiée sur fond clair.",
+      "verdict": "rejetée",
+      "note": "Pièce de musée, texte « Victorian garden edging » visible, pas une bordurette en béton.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

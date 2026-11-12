@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Trottoir de béton très éclairé avec ombres de photographes, bord arrondi.",
+      "verdict": "rejetée",
+      "note": "Bordure peu lisible, ombres dominantes ; doute.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Planche bleue peinte posée comme rampe sur la bordure, pavés à gauche.",
+      "verdict": "rejetée",
+      "note": "Rampe amovible, pas un bateau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rampe carrelée jaune et rouge avec dalles podotactiles, vue de près.",
+      "verdict": "rejetée",
+      "note": "Plan incliné d'angle ambigu, abaissement de bordure non net ; doute.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Passagers montant à bord d'un avion par un escalier mobile.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passerelle intérieure éclairée avec garde-corps.",
+      "verdict": "rejetée",
+      "note": "Hors sujet, rampe intérieure.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Angle de trottoir en béton avec bouche d'égout et bordure arrondie.",
+      "verdict": "rejetée",
+      "note": "Abaissement non démontré, doute.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

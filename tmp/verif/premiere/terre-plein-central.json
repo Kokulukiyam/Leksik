@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peu lisible, contre-jour."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Large bande herbeuse avec arbres au-delà d'une chaussée.",
+      "verdict": "rejetée",
+      "note": "Seul un côté de chaussée visible, séparation non évidente.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vaste espace herbeux sec entre voies, chaussée au premier plan.",
+      "verdict": "rejetée",
+      "note": "Zone trop large et sèche, pourrait être un terrain.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vue en hauteur d'un grand terre-plein avec jeunes arbres et voies courbes.",
+      "verdict": "rejetée",
+      "note": "Trop éloigné et diffus.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Talus herbeux et trafic dense en bas d'un pont piéton.",
+      "verdict": "rejetée",
+      "note": "Îlot/talus ambigu, circulation dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Avenue de Berlin à deux chaussées séparées par une bande centrale pavée, porte de Brandebourg au fond.",
+      "verdict": "validée",
+      "note": "Terre-plein central pavé entre les deux sens, net ; rectangle sur la bande.",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.72,
+        "largeur": 0.29,
+        "hauteur": 0.28
+      },
+      "lieu": "Berlin, Allemagne"
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bus sur une chaussée, petit ilot herbeux au milieu, panneau publicitaire en fond.",
+      "verdict": "rejetée",
+      "note": "Îlot minuscule, bus et texte dominants.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

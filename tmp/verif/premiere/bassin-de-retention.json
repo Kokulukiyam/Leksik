@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Noue ou bassin sec ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Terrain gravillonné et clôture grillagée, zone herbeuse en creux au fond.",
+      "verdict": "rejetée",
+      "note": "Bassin sec peu lisible, creux à peine visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rivière, pont routier et ouvrage de régulation dans une gorge boisée.",
+      "verdict": "rejetée",
+      "note": "Ouvrage de crue sur rivière, pas un bassin à berges.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plan d'eau brunâtre bordé de pelouse dans un parc.",
+      "verdict": "rejetée",
+      "note": "Ressemble à un étang de parc, rôle de rétention non évident.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande pelouse plate avec jeunes arbres, entrepôt au loin.",
+      "verdict": "rejetée",
+      "note": "Creux à peine perceptible, doute.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plan d'eau brunâtre au pied d'une pelouse dans un parc, arbres au premier plan.",
+      "verdict": "rejetée",
+      "note": "Étang de parc, rétention non évidente.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Noue plantée de graminées et gravier le long d'une chaussée avec caniveau.",
+      "verdict": "rejetée",
+      "note": "Noue de voirie, petit ouvrage, pas un grand bassin.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

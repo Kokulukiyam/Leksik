@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Photo en noir et blanc d'une tuile ancienne à emboîtement."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fragment de tuile ancienne dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burg Reichenstein, Autriche",
+      "note": "Objet de musée cassé, pas une couverture ; forme non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pile de tuiles canal en terre cuite empilées contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuiles canal (rondes), pas des tuiles plates ; empilées hors toiture."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneau de tôle profilée imitant des tuiles, rouge, sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle d'imitation, pas une tuile plate."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuiles canal en terre cuite empilées, vues de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuiles canal empilées, pas des tuiles plates posées à recouvrement."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuile en plomb médiévale sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruges, Belgique",
+      "note": "Objet de collection en plomb, pas une tuile plate en terre cuite en toiture."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Piles de tuiles thaïes vernissées colorées, empilées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bangkok, Thaïlande",
+      "note": "Tuiles empilées, formes ambiguës, vernissées ; pas de toiture lisible."
     }
   ]
 }

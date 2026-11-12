@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Route bordée d'une haie dense, marquage axial pointillé.",
+      "verdict": "rejetée",
+      "note": "Bas-côté étroit et herbeux, ni gravier ni fossé visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Route de campagne avec talus herbeux et haie à gauche.",
+      "verdict": "rejetée",
+      "note": "Bas-côté herbeux, élément non net, doute avec talus.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur bordure de gravier, herbe et feuilles mortes.",
+      "verdict": "rejetée",
+      "note": "Gros plan non contextualisé, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tas de grumes devant un hangar, route bétonnée au premier plan.",
+      "verdict": "rejetée",
+      "note": "Élément absent, bois dominant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bord de circuit avec vibreurs rouges et blancs et bordure jaune.",
+      "verdict": "rejetée",
+      "note": "Vibreurs de circuit, pas un accotement.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Talus de lisière sous des arbres derrière un grillage en lumière du soir.",
+      "verdict": "rejetée",
+      "note": "Végétation, pas d'accotement lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

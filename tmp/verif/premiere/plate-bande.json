@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Linteau monolithique, pas de claveaux."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Intérieur du mausolée de Théodoric : plate-bande en claveaux à coupes en crochet au-dessus de la porte, sous deux fentes cintrées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.44,
+        "largeur": 0.83,
+        "hauteur": 0.27
+      },
+      "lieu": "Ravenne, Italie",
+      "note": "Claveaux appareillés en linteau droit nettement visibles ; rectangle sur la plate-bande."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur des claveaux en tuf avec inscription gravée, en haut d une baie.",
+      "verdict": "rejetée",
+      "note": "Cadrage trop serré, forme de l ouvrage illisible, texte gravé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte de grange en bois sous un linteau de granite en trois blocs dans un mur en moellons.",
+      "verdict": "rejetée",
+      "note": "Linteau à trois blocs, confusion possible avec le linteau monolithique ; claveaux peu évidents.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Linteau sculpté d anges et de rosace posé sur deux piédroits, synagogue antique.",
+      "verdict": "rejetée",
+      "note": "Linteau monolithique sculpté, pas une plate-bande.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de pierre avec fenêtre grillagée sous un linteau de granite en plusieurs blocs, herbes au premier plan.",
+      "verdict": "rejetée",
+      "note": "Élément peu lisible, doute avec simple linteau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grande hotte de cuisine rouge au-dessus d un foyer, arc segmentaire en pierre en bas.",
+      "verdict": "rejetée",
+      "note": "Arc segmentaire de cheminée, pas une plate-bande.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

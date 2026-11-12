@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Toits de Paris, rien de lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Terrasse sur toit à Belgrade avec garde-corps et toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belgrade, Serbie",
+      "note": "Revêtement non visible comme dalles sur plots."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrasse de repos sur toit de garages avec bancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Géorgie",
+      "note": "Membrane bitumeuse, pas de dalles sur plots."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Terrasse de toit d'auberge avec tables et vue sur la ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brisbane, Australie",
+      "note": "Sol carrelé peu lisible, dalles sur plots non démontrées."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Panorama d'une ville côtière avec toits-terrasses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kallikratia, Grèce",
+      "note": "Élément illisible à cette échelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue de Tbilissi depuis une terrasse blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Dalles non visibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cour intérieure avec toit-terrasse végétalisé et tour de bureaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Aucun dallage sur plots visible."
     }
   ]
 }

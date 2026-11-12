@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Antennes sur gratte-ciel."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quatre grands capots de ventilation métalliques demi-cylindriques sur un toit sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pittsburgh, États-Unis",
+      "note": "Lanterneaux ou capots de ventilation, pas une chatière (tuile à grille) ; risque de confusion."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fragment de tuile ancienne dans une vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Autriche",
+      "note": "Objet de musée, pas une chatière."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit-terrasse d'immeuble avec groupes de ventilation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Équipements de CVC, pas une chatière."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pile de tuiles canal empilées contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chatière visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Page de livre ancien sur la ventilation des écuries, avec schéma.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure et texte, pas une photo réelle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur une brique rouge portant le mot PROCK.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bajouca, Portugal",
+      "note": "Texte visible, aucune chatière."
     }
   ]
 }

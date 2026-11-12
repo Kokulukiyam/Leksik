@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Cheektowaga, États-Unis",
       "note": "Forme en V ambiguë, branches devant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison basse jaune et turquoise de Las Vegas, toit peu visible derrière les murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Las Vegas, États-Unis",
+      "note": "Forme en V non lisible de face."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison basse à garage, toit en V peu net, voiture au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Forme en V peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit de tuiles avec noue et créneaux de tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crest, France",
+      "note": "Noue, pas un toit papillon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison de plain-pied à toit en V masquée par un grand arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Californie, États-Unis",
+      "note": "Arbre qui cache le toit."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Abri de gare à toit métallique incliné et vélos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Auvent à un versant, pas un toit papillon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Auvent de station-service abandonnée à un seul versant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul versant, pas en V."
     }
   ]
 }

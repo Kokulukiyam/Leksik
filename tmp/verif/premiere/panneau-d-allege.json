@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas un mur-rideau lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de bureaux à bandes opaques gris sombre alternées avec des bandes de fenêtres.",
+      "verdict": "rejetée",
+      "note": "Bandes pleines pouvant se lire comme allèges de maçonnerie ou panneaux de façade ventilée ; mur-rideau pas évident ; rectangle ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur des cordons de soudure sur un tube d acier.",
+      "verdict": "rejetée",
+      "note": "Sans rapport (soudure).",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bibliothèque : façade vitrée à lames horizontales autour d un portail gothique ancien.",
+      "verdict": "rejetée",
+      "note": "Portail dominant, texte visible, panneaux d allège non évidents.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade de tour résidentielle beige avec fenêtres et bandes vertes.",
+      "verdict": "rejetée",
+      "note": "Façade à fenêtres percées, panneaux d allège non lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Quai le long d un canal vu en perspective, mur-rideau sombre à gauche.",
+      "verdict": "rejetée",
+      "note": "Cadrage de travers, panneaux non identifiables.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plaque de cuivre rouillée percée de trous dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "note": "Objet de musée, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

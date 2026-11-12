@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Treillage peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Clématite en fleurs grimpant sur un mur de brique.",
+      "verdict": "rejetée",
+      "note": "Support presque invisible, c est la plante qui domine ; pas un treillage lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Végétation touffue au bord d un canal, petit treillis blanc tout au fond contre une maison.",
+      "verdict": "rejetée",
+      "note": "Treillage minuscule et noyé dans la végétation.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Allée de pommiers formant un tunnel d arbres palissés sur arceaux.",
+      "verdict": "rejetée",
+      "note": "Tunnel d arbres, pas un treillage fixé contre un mur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Abri de jardin en lattes recouvert de clématite violette.",
+      "verdict": "rejetée",
+      "note": "Cabane lattée plutôt qu un treillage contre un mur, plante dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même scène de végétation au bord d un canal, treillis blanc au fond.",
+      "verdict": "rejetée",
+      "note": "Treillage minuscule et noyé dans la végétation.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tunnel d arbres fruitiers palissés en fleur au-dessus d une allée.",
+      "verdict": "rejetée",
+      "note": "Tunnel de pommiers, pas un treillage.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

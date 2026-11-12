@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plage non dominante."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Enfant plongeant dans une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de plage lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petit bassin au milieu d'une terrasse avec enfants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plage non distincte, personnes dominantes."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piscine bordée d'une large dalle blanche, transats et pelouse, baigneurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle large mais confondue avec la margelle, baigneurs envahissants ; doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Garçon avec lunettes de plongée au bord d'une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnage dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison de campagne avec piscine au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plage à peine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison moderne et pelouse devant une piscine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plage minuscule, piscine petite."
     }
   ]
 }

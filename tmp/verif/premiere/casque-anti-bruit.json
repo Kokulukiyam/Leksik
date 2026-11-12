@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cache-oreilles de mode, pas un casque anti-bruit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Un tireur en tenue militaire tire au fusil, casque antibruit noir porté, vu de profil.",
+      "verdict": "rejetée",
+      "note": "Casque petit et contexte de tir, arme dominante.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Boîte ancienne de bouchons d'oreilles Mallock-Armstrong.",
+      "verdict": "rejetée",
+      "note": "Bouchons anciens, pas un casque à coquilles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un enfant épaulant un fusil avec casque jaune, un homme en costume ancien à casque rose.",
+      "verdict": "rejetée",
+      "note": "Contexte de tir, casques de profil partiels.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux militaires de dos au stand de tir, casques noirs sur les oreilles.",
+      "verdict": "rejetée",
+      "note": "De dos, casque peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Un tireur au pistolet de profil avec casque antibruit électronique noir.",
+      "verdict": "rejetée",
+      "note": "Contexte de tir, casque petit ; pas assez clair.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un militaire à casquette portant un casque bleu à micro, mains jointes.",
+      "verdict": "rejetée",
+      "note": "Casque de communication, petit et ambigu.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Aucun pédiluve."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Piscine d'un parc aquatique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Portrait d'un homme devant une piscine couverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piscine d'un lotissement avec flamant gonflable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Enfants et adultes dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Personne de dos dans l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Enfant nageant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun pédiluve visible."
     }
   ]
 }

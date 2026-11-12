@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Fukuoka, Japon",
       "note": "Grille invisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grille en fonte rouillée à fentes rayonnantes autour du tronc d'un arbre, bordée de pavés de granit, sur chaussée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.3,
+        "largeur": 0.78,
+        "hauteur": 0.51
+      },
+      "lieu": "Bruck an der Leitha, Autriche",
+      "note": "Grille d'arbre typique, nette et dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Verger avec fagots de branches en tipis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Karamoja, Ouganda",
+      "note": "Pas de grille d'arbre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue d'Helsinki ; grille de pied d'arbre minuscule au premier plan, arbre tuteuré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki, Finlande",
+      "note": "Grille trop petite et partiellement cachée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tronc entouré d'une cage métallique avec porte-vélos, grille au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bleiburg, Autriche",
+      "note": "Protège-arbre dominant, confusion possible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arbre entouré d'une clôture en fer à barreaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lazkao, Espagne",
+      "note": "Entourage de protection, pas une grille au sol."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plaque métallique gravée d'un poème autour d'un jeune tronc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bayonne, France",
+      "note": "Texte visible et plaque pleine, pas une grille."
     }
   ]
 }

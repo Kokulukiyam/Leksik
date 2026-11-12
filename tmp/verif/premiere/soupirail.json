@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Münster, Allemagne",
       "note": "Lecture incertaine."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Volet de bois rouge à fortes ferrures fermant une petite ouverture au ras du sol dans un mur crépi.",
+      "verdict": "rejetée",
+      "note": "Ouverture fermée par un panneau plein : on ne voit ni grille ni jour, doute avec trappe ou volet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux petites ouvertures de cave en brique au pied d un mur, avec graffitis.",
+      "verdict": "rejetée",
+      "note": "Texte et graffitis visibles, éléments peu lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade en brique avec fenêtre à deux volets noirs fermés et appui bleu.",
+      "verdict": "rejetée",
+      "note": "Fenêtre de plain-pied avec volets, pas un soupirail.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vélo de laitier devant un mur orange avec petite fenêtre à barreaux rouge.",
+      "verdict": "rejetée",
+      "note": "Fenêtre barreaudée ordinaire, vélo dominant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur en ruine en brique et moellons avec passage incliné.",
+      "verdict": "rejetée",
+      "note": "Ne montre pas de soupirail identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite fenêtre vitrée de cave en pied de mur jaune et noir, à côté d un volet vert ouvert.",
+      "verdict": "rejetée",
+      "note": "Volet dominant, fenêtre vitrée peu typique de soupirail ; doute.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

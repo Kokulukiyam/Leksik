@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mer vue depuis un belvédère à rambarde grillagée.",
+      "verdict": "rejetée",
+      "note": "Paysage, aucun pare-vue entre balcons.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Clôture grillagée dans un paysage désertique.",
+      "verdict": "rejetée",
+      "note": "Clôture rurale, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piscine entourée d une clôture à panneaux rigides devant un fronton basque.",
+      "verdict": "rejetée",
+      "note": "Clôture de piscine, pas un pare-vue de balcon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sombre sur un grillage à mailles.",
+      "verdict": "rejetée",
+      "note": "Grillage, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison derrière un mur de parpaings avec portail.",
+      "verdict": "rejetée",
+      "note": "Mur de clôture, pas un pare-vue entre balcons.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arbre sans feuilles derrière un mur de clôture en béton.",
+      "verdict": "rejetée",
+      "note": "Sans rapport.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

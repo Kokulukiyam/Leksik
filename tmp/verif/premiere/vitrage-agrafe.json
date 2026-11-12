@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Liège",
       "note": "Trop petit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour de bureaux à façade vitrée sombre en bandes verticales, enseigne de banque en haut.",
+      "verdict": "rejetée",
+      "note": "Mur-rideau à montants ; texte visible ; fixations ponctuelles non visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment à large façade vitrée quadrillée, reflets, église en brique à côté.",
+      "verdict": "rejetée",
+      "note": "Quadrillage de montants : mur-rideau classique, fixations non lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Siège de banque avec façade vitrée en retrait et grandes lettres de l enseigne.",
+      "verdict": "rejetée",
+      "note": "Texte donnant le nom de l établissement ; vitrage non agrafé identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Même bâtiment vitré avec vignette d archive en noir et blanc incrustée.",
+      "verdict": "rejetée",
+      "note": "Image composite avec vignette ; vitrage non lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment universitaire blanc et bleu à volumes cylindriques et pans vitrés.",
+      "verdict": "rejetée",
+      "note": "Vitrage à montants, fixations non visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Entrée de cinéma sous une grande façade vitrée avec enseigne rouge.",
+      "verdict": "rejetée",
+      "note": "Texte de l enseigne visible, fixations du vitrage illisibles.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

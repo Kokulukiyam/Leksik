@@ -58,6 +58,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ressemble à un contrefort ou pilastre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Angle d une façade en pierre blanche à bossages, gros blocs en saillie sur mur de brique rouge, Indiana.",
+      "verdict": "rejetée",
+      "note": "Bloc d angle massif ressemblant à un pilier ou soubassement monumental, moins lisible comme chaîne d angle.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment en moellons avec chaîne d angle en pierre claire à assises régulières, fenêtres à encadrement clair.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.27,
+        "y": 0.15,
+        "largeur": 0.07,
+        "hauteur": 0.76
+      },
+      "lieu": "Darwin, Australie",
+      "note": "Chaîne d angle très nette contrastant avec le moellon ; rectangle sur la chaîne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Immeuble d angle rose avec chaîne d angle blanche en harpe, vue de loin avec vitrine.",
+      "verdict": "rejetée",
+      "note": "Chaîne petite et peu lisible sur téléphone, même défaut que 01.",
+      "lieu": "Villach, Autriche",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Angle d un palais vu en contre-plongée avec corbeaux et assises à bossages sous une corniche.",
+      "verdict": "rejetée",
+      "note": "Dominé par les consoles/encorbellement ; ambigu avec encorbellement ou corbeau.",
+      "lieu": "Malte",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison à pignon bois avec bandes claires aux angles du rez-de-chaussée, au milieu d une scène de rue.",
+      "verdict": "rejetée",
+      "note": "Chaînage faible, élément petit et masqué.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Caserne enduite blanche avec chaîne d angle en grès rouge à assises alternées et encadrements de baies en grès.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.435,
+        "y": 0.17,
+        "largeur": 0.06,
+        "hauteur": 0.62
+      },
+      "lieu": "Neuf-Brisach, France",
+      "note": "Chaîne d angle nette ; rectangle sur la chaîne centrale."
     }
   ]
 }

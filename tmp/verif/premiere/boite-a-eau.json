@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rejetée : Gargouille de forme animale sous un chéneau, pas une boîte à eau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chéneau et noue en plomb au pied d'un versant d'ardoises.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chéneau, pas une boîte à eau en entonnoir."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de brique avec descentes d'eau et toit gris en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Nouvelle-Orléans, États-Unis",
+      "note": "Boîte à eau absente ou illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Homme qui nettoie une gouttière à l'aspirateur, façades jaunes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruges, Belgique",
+      "note": "Gouttière ; pas de boîte à eau identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gargouille en forme de dragon en bronze au bout d'un tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Château de Cormatin, France",
+      "note": "Gargouille, pas une boîte à eau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gouttière blanche sous la pluie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gouttière seule, pas de boîte à eau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cuvette ronde grise au sommet d'une descente sur façade blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kőszeg, Hongrie",
+      "note": "Forme évoquant une boîte à eau mais petite et ambiguë, avec plante ; non fiable."
     }
   ]
 }

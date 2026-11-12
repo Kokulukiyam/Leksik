@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Clôture en branches tressées (tressage) le long d'un chemin en forêt.",
+      "verdict": "rejetée",
+      "note": "Clôture tressée de branches, pas planches/lattes sur poteaux.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan flou d'un grillage métallique.",
+      "verdict": "rejetée",
+      "note": "Grillage, pas du bois.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mer au crépuscule et petit balcon métallique ouvragé.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Piquets de bois ronds flous dans la végétation.",
+      "verdict": "rejetée",
+      "note": "Piquets isolés, flou.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison blanche avec palissade brune à lattes devant elle.",
+      "verdict": "rejetée",
+      "note": "Clôture petite et secondaire.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de deux planches grises et fleurs blanches.",
+      "verdict": "rejetée",
+      "note": "Trop rapproché, clôture non lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

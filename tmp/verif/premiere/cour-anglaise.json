@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "La Nouvelle-Orléans, États-Unis",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couloir intérieur de palais aux boiseries jaunes et parquet ciré.",
+      "verdict": "rejetée",
+      "note": "Intérieur, aucun rapport avec une cour anglaise.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fosse profonde entre deux murs, enjambée par plusieurs passerelles voûtées en pierre, vue plongeante.",
+      "verdict": "rejetée",
+      "note": "Vue plongeante confuse, ponts voûtés dominants ; pas assez clair pour une cour anglaise.",
+      "lieu": "Londres, Royaume-Uni",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier intérieur en bois verni avec balustres.",
+      "verdict": "rejetée",
+      "note": "Intérieur, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fosse à ciel ouvert devant la façade d un palais, bordée de balustrades, avec ponts voûtés dans le vide.",
+      "verdict": "rejetée",
+      "note": "Plausible mais ponts voûtés et balustrade créent des confusions (balustrade, arc) ; élément pas dominant.",
+      "lieu": "Londres, Royaume-Uni",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle de bureau meublée avec lustre et carrelage.",
+      "verdict": "rejetée",
+      "note": "Intérieur, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fresque murale colorée sous une rangée de fenêtres, avec plaque explicative.",
+      "verdict": "rejetée",
+      "note": "Intérieur, texte visible, sans rapport.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }
