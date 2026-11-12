@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Micrographie."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Échantillon de roche gris rayé sur fond bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spécimen géologique, pas un sol en marbre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan de roche calcaire blanche et noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roche brute."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bloc de pierre posé sur l'herbe dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roche brute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque de pierre veinée dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon, pas un sol."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Microphotographie jaune d'un marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Microscopie, pas un sol."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Échantillon de marbre à diopside sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spécimen géologique, pas un sol."
     }
   ]
 }

@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Camionnette, pas un tombereau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros tombereau articulé Caterpillar, benne relevée, sur une plage lors d'un rechargement en sable.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.3,
+        "largeur": 0.6,
+        "hauteur": 0.4
+      },
+      "lieu": "Sunny Isles Beach, Floride",
+      "note": "Engin articulé de terrassement bien lisible ; rectangle pour exclure l'ouvrier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancien tombereau articulé jaune Nord-Verk garé devant un hangar, benne basculante visible.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.26,
+        "largeur": 0.78,
+        "hauteur": 0.52
+      },
+      "lieu": "Vallstena, Gotland, Suède",
+      "note": "Dumper articulé net ; rectangle pour exclure godets et conteneur au premier plan."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Camion à ordures avec bras avant sur une plage.",
+      "verdict": "rejetée",
+      "lieu": "Jones Beach, États-Unis",
+      "note": "Véhicule de collecte, pas un tombereau.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rangée de bennes relevées au loin sur un terrain de terre rouge.",
+      "verdict": "rejetée",
+      "note": "Engins trop lointains et illisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit dumper à benne frontale décoré pour un défilé de Noël.",
+      "verdict": "rejetée",
+      "lieu": "Valdosta, Géorgie",
+      "note": "Minidumper décoré, pas un gros tombereau articulé.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Véhicule articulé communal Holder, un modèle à fraise à neige orange devant un bâtiment.",
+      "verdict": "rejetée",
+      "note": "Porte-outil de voirie, pas un tombereau de terrassement.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

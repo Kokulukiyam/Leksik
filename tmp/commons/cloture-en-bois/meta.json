@@ -13,6 +13,12 @@
     "categoriesCommons": [
       "Category:Wooden fences",
       "Category:Fences"
+    ],
+    "incompatibles": [
+      "cloture-grillagee",
+      "mur-de-cloture",
+      "muret",
+      "haie"
     ]
   },
   "candidats": [
@@ -141,6 +147,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/A_beautiful_street.jpg/1280px-A_beautiful_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1676,
       "hauteur": 2235
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:360 Melrand.jpg",
+      "description": "Village de l'an Mil (Melrand) ː clôture traditionnelle dite en tressage ː ce type de clôture, solide, peut contenir des animaux assez gros comme des vaches, des chèvres, des moutons, etc..",
+      "categories": [
+        "Village de l'an Mil",
+        "Wooden fences",
+        "Self-published work"
+      ],
+      "auteur": "Moreau.henri",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:360_Melrand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/360_Melrand.jpg/1280px-360_Melrand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2012-366-199 Just Hanging Around (7595078924).jpg",
+      "description": "Not exactly sitting on the fence…. 2nd photo with the new 7D….",
+      "categories": [
+        "Fences",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012-366-199_Just_Hanging_Around_(7595078924).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2012-366-199_Just_Hanging_Around_%287595078924%29.jpg/1280px-2012-366-199_Just_Hanging_Around_%287595078924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:20091125 05 Kreidefelsen Ruegen VictoriaSicht 012 slideScan PtrQs.jpg",
+      "description": "Victoria's View 110 metres above Baltic Sea in Nationalpark Jasmund, Germany",
+      "categories": [
+        "Taken with Minolta Dynax 9",
+        "Fences",
+        "Self-published work",
+        "Victoria-Sicht (Jasmund)",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:PtrQs",
+        "Scanned with Reflecta DigitDia 5000",
+        "No QIC by usr:PtrQs",
+        "Photographs taken with Minolta AF lenses",
+        "Scanned by PtrQs"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg/1280px-20091125_05_Kreidefelsen_Ruegen_VictoriaSicht_012_slideScan_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4883,
+      "hauteur": 3218
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A Row (37663358).jpeg",
+      "description": "500px provided description: a row [#row ,#poles]",
+      "categories": [
+        "Wooden fences",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Wim Vandenbussche",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Row_(37663358).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/A_Row_%2837663358%29.jpeg/1280px-A_Row_%2837663358%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Absberg Kellergasse 73.jpg",
+      "description": "Objekt in der Kellergasse in der KG Absberg in Absdorf",
+      "categories": [
+        "Wooden fences",
+        "Self-published work",
+        "Supported by Wikimedia Österreich in 2019",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:kellergasse-at",
+        "Absberg Kellergasse"
+      ],
+      "auteur": "Manfred Kuzel",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Absberg_Kellergasse_73.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Absberg_Kellergasse_73.jpg/1280px-Absberg_Kellergasse_73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:20240527 Upper Silesian Ethnographic Park płot.jpg",
+      "description": "Flowers at the school from Wapienica. Upper Silesian Ethnographic Park, Chorzów, Poland.",
+      "categories": [
+        "CC-Zero",
+        "Wooden fences",
+        "Self-published work",
+        "Unidentified Campanula",
+        "Files with coordinates missing SDC location of creation",
+        "Poland photographs taken on 2024-05-27",
+        "Taken with Huawei P30 Lite",
+        "May 2024 in Chorzów",
+        "Plants in the Upper Silesian Ethnographic Park"
+      ],
+      "auteur": "Abraham",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20240527_Upper_Silesian_Ethnographic_Park_p%C5%82ot.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/20240527_Upper_Silesian_Ethnographic_Park_p%C5%82ot.jpg/1280px-20240527_Upper_Silesian_Ethnographic_Park_p%C5%82ot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

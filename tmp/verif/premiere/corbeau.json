@@ -101,6 +101,54 @@
       "rectangle": null,
       "lieu": "Eastnor Castle, Herefordshire, Angleterre",
       "note": "Corbeaux petits, à contre-jour et dans l'ombre."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Console gothique sculptée d'une tête grimaçante, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé hors contexte, proche de la console."
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Place d'une ville avec bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corbeaux non visibles."
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Modillon sculpté d'un monstre au palais des Papes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce sculptée, confusion avec modillon et console."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Console sculptée gothique d'un personnage, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet isolé hors contexte, confusion avec console."
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Maison détruite par une tornade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Console sculptée d'un personnage sur une façade à Brescia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec console."
     }
   ]
 }

@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "facade",
-      "mur-rideau"
+      "mur-rideau",
+      "vitrage-agrafe"
     ],
     "categoriesCommons": [
       "Category:Double-skin facades",
@@ -152,6 +153,135 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/20100719_liege30.JPG/1280px-20100719_liege30.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3872,
       "hauteur": 2592
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:LawrenceScarpa Cherokee 8268.jpg",
+      "description": "Cherokee Mixed-Use Lofts is an urban infill, mixed-use, market-rate housing project. The building is inspired by the series of paintings by the British artist Patrick Hughes titled, “Prospectivity”, whose paintings appear to be ever changing and physically moving while being viewed. At Cherokee the main architectural feature of this project is the building’s owner-controlled operable double façade system. By allowing the occupant to adjust, at will, the operable screens of the building façade, the facade is virtually redesigned “live” from within the space, reflecting the occupants of the buil",
+      "categories": [
+        "Lawrence Scarpa",
+        "Apartment buildings in Los Angeles",
+        "Self-published work",
+        "Buildings by Angela Brooks",
+        "Double-skin facades"
+      ],
+      "auteur": "Calderoliver",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LawrenceScarpa_Cherokee_8268.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/LawrenceScarpa_Cherokee_8268.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 786
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:BregenzKUB4.JPG",
+      "description": "Kunsthaus Bregenz, KUB",
+      "categories": [
+        "Taken with Konica Minolta Dynax 7D",
+        "Glass facades",
+        "Kunsthaus Bregenz",
+        "Self-published work",
+        "Photos by Böhringer",
+        "Glass facades in Switzerland"
+      ],
+      "auteur": "böhringer friedrich",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:BregenzKUB4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/BregenzKUB4.JPG/1280px-BregenzKUB4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:BaselMessehalle2 6749.jpg",
+      "description": "Front view of hall 2 of Messezentrum Basel, in Basel , Switzerland.",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Glass facades",
+        "Rundhofgebäude der Schweizerischen Mustermesse",
+        "Exhibition halls",
+        "Self-published work",
+        "Images uploaded by Túrelio",
+        "Information field template with formatting",
+        "Glass facades in Switzerland",
+        "Reflections on structures in Switzerland",
+        "Time 04:00",
+        "Facade clocks in Switzerland",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Túrelio with creditline",
+        "Plain clock faces"
+      ],
+      "auteur": "Túrelio",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:BaselMessehalle2_6749.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/BaselMessehalle2_6749.jpg/1280px-BaselMessehalle2_6749.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1462,
+      "hauteur": 1020
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:500px photo (26586207).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Glass facades",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Alijava",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(26586207).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/500px_photo_%2826586207%29.jpeg/1280px-500px_photo_%2826586207%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2017 Santiago de Chile - Edificios en la calle Merced 168 - Parque Forestal.jpg",
+      "description": "2017 in Santiago de Chile",
+      "categories": [
+        "Glass facades",
+        "2017 in Santiago de Chile",
+        "Calle Merced",
+        "Residential buildings in Santiago de Chile",
+        "Self-published work",
+        "July 2017 in Chile",
+        "Buildings in Santiago (commune)"
+      ],
+      "auteur": "Felipe Restrepo Acosta",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_Santiago_de_Chile_-_Edificios_en_la_calle_Merced_168_-_Parque_Forestal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2017_Santiago_de_Chile_-_Edificios_en_la_calle_Merced_168_-_Parque_Forestal.jpg/1280px-2017_Santiago_de_Chile_-_Edificios_en_la_calle_Merced_168_-_Parque_Forestal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4953,
+      "hauteur": 3716
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:20100716 liege18.JPG",
+      "description": "La rue Sainte-Marie à Liège.",
+      "categories": [
+        "Glass facades",
+        "ING Belgium",
+        "Self-published work",
+        "2010 in Liège",
+        "Automobiles with license plates of Belgium",
+        "Belgium photographs taken on 2010-07-16",
+        "Rue Sainte-Marie (Liège)",
+        "Automobiles in Liège",
+        "Car parks in Liège",
+        "Tunnel Sainte-Marie (Liège)",
+        "Photos of Belgium by user Jean Housen",
+        "2010 photos by user Jean Housen",
+        "Glass walls in Liège",
+        "Bank buildings in Liège"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100716_liege18.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/20100716_liege18.JPG/1280px-20100716_liege18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

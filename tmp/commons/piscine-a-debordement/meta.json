@@ -11,7 +11,10 @@
       "infinity edge pool"
     ],
     "incompatibles": [
-      "piscine"
+      "piscine",
+      "margelle",
+      "plage-de-piscine",
+      "skimmer"
     ],
     "categoriesCommons": [
       "Category:Swimming pools"
@@ -120,6 +123,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/A_young_child_stands_in_shallow_water%2C_enjoying_the_coolness_of_the_pool_while_wearing_a_colorful_swimsuit._The_sunlight_reflects_off_the_water%2C_creating_a_joyful_atmosphere.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6016,
       "hauteur": 4016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Child jumps into a pool while another child swims nearby.jpg",
+      "description": "A child in red shorts dives into a clear pool while another child swims in the background. The activity takes place on a bright, sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg/1280px-Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bronte Splash - Flickr - Link1.jpg",
+      "description": "Bronte Splash",
+      "categories": [
+        "Swimming pools",
+        "Photographs taken on 2003-05-04",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Link1",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bronte_Splash_-_Flickr_-_Link1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bronte_Splash_-_Flickr_-_Link1.jpg/1280px-Bronte_Splash_-_Flickr_-_Link1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Child swims in a swimming pool on a sunny day with water splashing around.jpg",
+      "description": "A child swims in a clear swimming pool during the afternoon. Water splashes around as the child enjoys the activity. The sun shines brightly above.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg/1280px-Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Blad man swimming in the swimming pool.jpg",
+      "description": "A man is swimming alone in a swimming pool. The water is clear and reflects sunlight. The scene shows a casual atmosphere. The swimmer moves through the water with ease.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Photographs of men"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blad_man_swimming_in_the_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Blad_man_swimming_in_the_swimming_pool.jpg/1280px-Blad_man_swimming_in_the_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:An swimming pool.jpg",
+      "description": "Medium swimming-pool",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Knites",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/An_swimming_pool.jpg/1280px-An_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A paint can and brush rest on the concrete.jpg",
+      "description": "A paint can and brush rest on the concrete near an empty swimming pool under a clear blue sky. It looks like preparations are underway for pool maintenance or renovation.",
+      "categories": [
+        "Swimming pools",
+        "Paint cans",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_paint_can_and_brush_rest_on_the_concrete.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_paint_can_and_brush_rest_on_the_concrete.jpg/1280px-A_paint_can_and_brush_rest_on_the_concrete.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

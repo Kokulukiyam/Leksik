@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Graders"
+    ],
+    "incompatibles": [
+      "bulldozer"
     ]
   },
   "candidats": [
@@ -137,6 +140,165 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Caterpillar_Model_12%2C_Grader.JPG/1280px-Caterpillar_Model_12%2C_Grader.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3220,
       "hauteur": 2416
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cliff Springs Camp F-48, Fremont National Forest - NARA - 299301.jpg",
+      "description": "Scope and content: CCC operating grader over Walker Mt. grade.",
+      "categories": [
+        "1933 in Oregon",
+        "PD US Government",
+        "Images from the National Archives and Records Administration",
+        "Graders",
+        "Media contributed by the National Archives and Records Administration",
+        "Fremont-Winema National Forest",
+        "Artworks without Wikidata item",
+        "Civilian Conservation Corps in Oregon",
+        "Men at work in Oregon",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "Roadworks in Oregon",
+        "US National Archives series: Lantern slides, compiled ca. 1920 - ca. 1935",
+        "People of the United States in 1933",
+        "Rear views of men",
+        "1933 photographs of the United States",
+        "US National Archives location: other",
+        "Men at work in the 1930s"
+      ],
+      "auteur": "Auteur inconnu Unknown author ou non renseigné",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cliff_Springs_Camp_F-48,_Fremont_National_Forest_-_NARA_-_299301.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cliff_Springs_Camp_F-48%2C_Fremont_National_Forest_-_NARA_-_299301.jpg/1280px-Cliff_Springs_Camp_F-48%2C_Fremont_National_Forest_-_NARA_-_299301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 1781
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:106th CES Supports Operation Unified Response From Guantanamo DVIDS245766.jpg",
+      "description": "Air Force Master Sgt. James Vella directs Air Force Tech Sgt. John Gentile while leveling a piece of land during a road improvement project near the U.S. Naval Station Guantanamo Bay airfield, Jan. 26. Vella and Gentile are with the 106th Civil Engineering Squadron of the New York Air National Guard. The 106th is conducting a two-week deployment for training at Guantanamo Bay to assist in ongoing relief efforts for Operation Unified Response.",
+      "categories": [
+        "PD US Army",
+        "Naval Station Guantanamo Bay",
+        "Graders",
+        "Operation Unified Response",
+        "106th Rescue Wing (New York Air National Guard)",
+        "Files created by the United States Army with known IDs",
+        "Construction at the Guantanamo Bay Naval Base",
+        "Images from DoD uploaded by Fæ",
+        "106th Civil Engineer Squadron",
+        "Military engineering vehicles of the United States",
+        "2010 at the Guantanamo Bay Naval Base"
+      ],
+      "auteur": "Staff Sgt. Blair Heusdens",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:106th_CES_Supports_Operation_Unified_Response_From_Guantanamo_DVIDS245766.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/106th_CES_Supports_Operation_Unified_Response_From_Guantanamo_DVIDS245766.jpg/1280px-106th_CES_Supports_Operation_Unified_Response_From_Guantanamo_DVIDS245766.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1406
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:C.G.S. JOHNSON Richmond, North Yorks - Flickr - secret coach park.jpg",
+      "description": "P796 DHN , DAF 95 seen at Strensham Services M5",
+      "categories": [
+        "Graders",
+        "DAF 95",
+        "Strensham services",
+        "March 2014 in Worcestershire",
+        "DAF trucks in the United Kingdom",
+        "Road vehicles in the United Kingdom photographed in 2014",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Secret Coach Park",
+        "Truckspotting",
+        "Construction vehicle transport trucks",
+        "Military loaders",
+        "DAF semi-trailer tractors",
+        "Flatbed low loader semi-trailer trucks",
+        "Unidentified loaders",
+        "DAF heavy haulage tractors",
+        "Twelve-wheeled truck rigs",
+        "Trucks in Worcestershire"
+      ],
+      "auteur": "Secret Coach Park",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C.G.S._JOHNSON_Richmond,_North_Yorks_-_Flickr_-_secret_coach_park.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/C.G.S._JOHNSON_Richmond%2C_North_Yorks_-_Flickr_-_secret_coach_park.jpg/1280px-C.G.S._JOHNSON_Richmond%2C_North_Yorks_-_Flickr_-_secret_coach_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1701,
+      "hauteur": 1158
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Budowa Velostrady nr 6 - odcinek Katowice Brynów - Katowice Brynów, wyrównywarka oraz walec podczas pracy.jpg",
+      "description": "Niveleuse et rouleau compresseur au travail sur le chantier de la Velostrada no 6, section Katowice Brynów - Katowice Brynów, Katowice , Pologne. La photographie montre la construction d’un tronçon de véloroute rapide longeant une ligne ferroviaire en service : au premier plan travaille une niveleuse jaune avec une grande lame, derrière laquelle un rouleau routier compacte la couche de base en granulats. À gauche se trouvent les voies ferrées, la caténaire, les poteaŭ de traction et un train de marchandises avec wagons; le chantier est bordé de balises rouges et blanches, de poteaŭ et de marqu",
+      "categories": [
+        "Taken with Sony ILCE-7M4",
+        "Graders",
+        "Road rollers",
+        "Images with annotations",
+        "Construction machines in Poland",
+        "Grading",
+        "Rail trails in Poland",
+        "Katowicki Park Leśny",
+        "Velostrady GZM",
+        "Self-published work",
+        "Railway line 171 (Poland)",
+        "Overhead lines in Poland",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation",
+        "Cycle highways in Poland",
+        "April 2024 in Katowice",
+        "Photographs taken on 2024-04-25",
+        "Velostrada no 6 Katowice Mysłowice",
+        "Cycling infrastructure in Katowice",
+        "2024 photos by Krzysztof Popławski"
+      ],
+      "auteur": "Krzysztof Popławski",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Budowa_Velostrady_nr_6_-_odcinek_Katowice_Bryn%C3%B3w_-_Katowice_Bryn%C3%B3w,_wyr%C3%B3wnywarka_oraz_walec_podczas_pracy.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Budowa_Velostrady_nr_6_-_odcinek_Katowice_Bryn%C3%B3w_-_Katowice_Bryn%C3%B3w%2C_wyr%C3%B3wnywarka_oraz_walec_podczas_pracy.jpg/1280px-Budowa_Velostrady_nr_6_-_odcinek_Katowice_Bryn%C3%B3w_-_Katowice_Bryn%C3%B3w%2C_wyr%C3%B3wnywarka_oraz_walec_podczas_pracy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7008,
+      "hauteur": 4672
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Caboolture Historical Village Road Grader-1 (34797820223).jpg",
+      "description": "Caboolture Historical Village Road Grader",
+      "categories": [
+        "Graders",
+        "Caboolture, Queensland",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Photographs by Sheba Also",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Sheba_Also 43,000 photos",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Caboolture_Historical_Village_Road_Grader-1_(34797820223).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Caboolture_Historical_Village_Road_Grader-1_%2834797820223%29.jpg/1280px-Caboolture_Historical_Village_Road_Grader-1_%2834797820223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2550,
+      "hauteur": 1699
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:BG160TA-3 Wohngebiet2.jpg",
+      "description": "HBM BG 160 TA-3",
+      "categories": [
+        "Taken with Olympus C-750UZ",
+        "Graders",
+        "Files with no machine-readable source",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Photographs taken on 2004-10-27",
+        "HBM vehicles"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : N2ff5ts~commonswiki (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:BG160TA-3_Wohngebiet2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/BG160TA-3_Wohngebiet2.jpg/1280px-BG160TA-3_Wohngebiet2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

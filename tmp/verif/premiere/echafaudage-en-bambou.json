@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Partiel, flou sur la matière, mal lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion bleu chargé de perches de bambou dans une rue commerçante, un homme à côté.",
+      "verdict": "rejetée",
+      "lieu": "Central, Hong Kong",
+      "note": "Perches transportées, pas d'échafaudage monté.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tombe en marbre protégée par une structure de bambou et une bâche plastique.",
+      "verdict": "rejetée",
+      "lieu": "Père-Lachaise, Paris",
+      "note": "Abri de protection, pas un échafaudage lisible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mosquée à dôme avec un échafaudage en tubes sur la façade basse.",
+      "verdict": "rejetée",
+      "lieu": "Surabaya, Indonésie",
+      "note": "Échafaudage de type tubulaire métallique, peu lisible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chantier d'immeuble en béton avec ouvriers ; échafaudage de perches de bambou au centre et tas de bambous au sol.",
+      "verdict": "rejetée",
+      "lieu": "Népal",
+      "note": "Bambous petits et confus dans une scène chargée.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble ancien entièrement bâché et couvert d'un échafaudage métallique.",
+      "verdict": "rejetée",
+      "lieu": "Dresde, Allemagne",
+      "note": "Échafaudage métallique, pas de bambou.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux ouvriers sur un échafaudage de tiges de bambou ligaturées contre la façade blanche d'un temple.",
+      "verdict": "validée",
+      "lieu": "Chiang Mai, Thaïlande",
+      "note": "Bambous et ligatures très lisibles, élément dominant.",
+      "rectangle": null
     }
   ]
 }

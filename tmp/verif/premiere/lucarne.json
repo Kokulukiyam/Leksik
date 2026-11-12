@@ -1,11 +1,121 @@
 {
   "termId": "lucarne",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Façade frontale en brique d'un bâtiment de bains avec inscription « Warme Seebäder » ; deux petites lucarnes blanches sur le toit de tuiles.", "verdict": "rejetée", "rectangle": null, "lieu": "Juist, Allemagne", "note": "Lucarnes trop petites (environ 10 % de la hauteur) face à la façade, portes et fenêtres dominantes ; peu lisible sur téléphone."},
-    {"fichier": "02.jpg", "vu": "Flèche torsadée aux dragons de la Børsen de Copenhague, avec en bas des lucarnes-pignons ornées sur un toit de cuivre.", "verdict": "rejetée", "rectangle": null, "lieu": "Copenhague, Danemark", "note": "La flèche domine ; les lucarnes passantes à pignon ornementé sont petites, en bas d'image et confondables avec des pignons."},
-    {"fichier": "03.jpg", "vu": "Deux grandes lucarnes Renaissance en pierre à gâble triangulaire et fenêtres à meneaux, en saillie sur un toit d'ardoise.", "verdict": "validée", "rectangle": {"x": 0.10, "y": 0.07, "largeur": 0.43, "hauteur": 0.74}, "lieu": "Rodez, France", "note": "Lucarnes monumentales très nettes ; rectangle sur celle de gauche pour exclure la gouttière et la cheminée."},
-    {"fichier": "04.jpg", "vu": "Chapelle de Hertford College avec tour à dôme ; à gauche, une rangée de petites lucarnes à pignon sur un toit en pente.", "verdict": "rejetée", "rectangle": null, "lieu": "Oxford, Royaume-Uni", "note": "Lucarnes petites, à contre-jour et en marge ; la chapelle et la tour dominent."},
-    {"fichier": "05.jpg", "vu": "Tour d'habitation moderne sur l'avenue Paulista avec cyclistes, et en bas un petit bâtiment ancien à toit mansardé.", "verdict": "rejetée", "rectangle": null, "lieu": "São Paulo, Brésil", "note": "Aucune lucarne lisible ; hors sujet."},
-    {"fichier": "06.jpg", "vu": "Grande lucarne à fronton triangulaire, pilastres cannelés et ailerons à volutes, en saillie sur un toit de tuiles rouges.", "verdict": "validée", "rectangle": {"x": 0.11, "y": 0.08, "largeur": 0.78, "hauteur": 0.63}, "lieu": "Lewin Kłodzki, Pologne", "note": "Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Façade frontale en brique d'un bâtiment de bains avec inscription « Warme Seebäder » ; deux petites lucarnes blanches sur le toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Juist, Allemagne",
+      "note": "Lucarnes trop petites (environ 10 % de la hauteur) face à la façade, portes et fenêtres dominantes ; peu lisible sur téléphone."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Flèche torsadée aux dragons de la Børsen de Copenhague, avec en bas des lucarnes-pignons ornées sur un toit de cuivre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Copenhague, Danemark",
+      "note": "La flèche domine ; les lucarnes passantes à pignon ornementé sont petites, en bas d'image et confondables avec des pignons."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux grandes lucarnes Renaissance en pierre à gâble triangulaire et fenêtres à meneaux, en saillie sur un toit d'ardoise.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.07,
+        "largeur": 0.43,
+        "hauteur": 0.74
+      },
+      "lieu": "Rodez, France",
+      "note": "Lucarnes monumentales très nettes ; rectangle sur celle de gauche pour exclure la gouttière et la cheminée."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chapelle de Hertford College avec tour à dôme ; à gauche, une rangée de petites lucarnes à pignon sur un toit en pente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oxford, Royaume-Uni",
+      "note": "Lucarnes petites, à contre-jour et en marge ; la chapelle et la tour dominent."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tour d'habitation moderne sur l'avenue Paulista avec cyclistes, et en bas un petit bâtiment ancien à toit mansardé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Aucune lucarne lisible ; hors sujet."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Grande lucarne à fronton triangulaire, pilastres cannelés et ailerons à volutes, en saillie sur un toit de tuiles rouges.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.08,
+        "largeur": 0.78,
+        "hauteur": 0.63
+      },
+      "lieu": "Lewin Kłodzki, Pologne",
+      "note": "Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade couverte de lierre avec une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de lucarne visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rangée de maisons avec nombreuses lucarnes sur le toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nombreuses lucarnes petites et en contre-jour ; rejetée par prudence."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit vitré intérieur d'un autobus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Lucarnes modernes entièrement vitrées dans un toit de tuiles gris foncé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.18,
+        "largeur": 0.36,
+        "hauteur": 0.57
+      },
+      "lieu": "Brandenburg an der Havel, Allemagne",
+      "note": "Ouvrages en saillie à fenêtre verticale, nets ; rectangle sur une lucarne."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue sur les toits d'une ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lucarnes trop petites."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand toit de tuiles rouges avec lucarne à trois fenêtres et autres lucarnes.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.27,
+        "largeur": 0.27,
+        "hauteur": 0.21
+      },
+      "lieu": "Göttingen-Weende, Allemagne",
+      "note": "Lucarne à trois fenêtres claire ; rectangle dessus pour la distinguer des fenêtres de toit."
+    }
   ]
 }

@@ -13,6 +13,14 @@
       "rammed earth wall layers",
       "mur en pisé couches",
       "rammed earth building"
+    ],
+    "incompatibles": [
+      "banco"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Rammed earth",
+      "Category:Rammed earth buildings"
     ]
   },
   "candidats": [
@@ -260,7 +268,136 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Factory_and_industrial_management_%281891%29_%2814784105613%29.jpg/1280px-Factory_and_industrial_management_%281891%29_%2814784105613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3328,
       "hauteur": 2546
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Aa rammed earth alhambra walls 2016 utsnitt.jpg",
+      "description": "rammed earth alhambra walls",
+      "categories": [
+        "Rammed earth",
+        "Self-published work",
+        "Walls in the Alhambra"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aa_rammed_earth_alhambra_walls_2016_utsnitt.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Aa_rammed_earth_alhambra_walls_2016_utsnitt.jpg/1280px-Aa_rammed_earth_alhambra_walls_2016_utsnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:2017-08-24 South wall and stone plinth, Paderne Castle (3).JPG",
+      "description": "The stone plinth and Taipa constructed south wall of Paderne castle south of the village of Paderne , Albufeira, Algarve, Portugal.",
+      "categories": [
+        "Taken with Canon PowerShot SX400 IS",
+        "Castelo de Paderne",
+        "Attribution only license",
+        "Self-published work",
+        "Rammed earth buildings",
+        "Images by Kolforn",
+        "Files with coordinates missing SDC location of creation",
+        "Portugal photographs taken on 2017-08-24"
+      ],
+      "auteur": "Kolforn",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-08-24_South_wall_and_stone_plinth,_Paderne_Castle_(3).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle_%283%29.JPG/1280px-2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:2017-08-24 South wall and stone plinth, Paderne Castle.JPG",
+      "description": "The stone plinth and Taipa constructed south wall of Paderne castle south of the village of Paderne , Albufeira, Algarve, Portugal.",
+      "categories": [
+        "Taken with Canon PowerShot SX400 IS",
+        "Rammed earth",
+        "Castelo de Paderne",
+        "Attribution only license",
+        "Self-published work",
+        "Images by Kolforn",
+        "Files with coordinates missing SDC location of creation",
+        "August 2017 in Algarve",
+        "Castles in Portugal photographed in 2017",
+        "Portugal photographs taken on 2017-08-24"
+      ],
+      "auteur": "Kolforn",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-08-24_South_wall_and_stone_plinth,_Paderne_Castle.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle.JPG/1280px-2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Arquitectura de tapial.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "License migration completed",
+        "Media missing infobox template",
+        "Rammed earth buildings",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Bellpuig"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arquitectura_de_tapial.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Arquitectura_de_tapial.JPG/1280px-Arquitectura_de_tapial.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1930,
+      "hauteur": 1151
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Casa Museo - Cucina dei primi del 900.jpg",
+      "description": "Ecomuseo delle Case di Terra Villa Ficana",
+      "categories": [
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Rammed earth buildings",
+        "Images from Wiki Loves Monuments 2018 in Italy",
+        "Kitchens in Italy",
+        "Cultural heritage monuments in Italy with known IDs",
+        "Uploaded via Campaign:wlm-it",
+        "Italy photographs taken on 2018-09-21",
+        "September 2018 in Marche",
+        "Ecomuseo delle Case di Terra Villa Ficana",
+        "Images from Wiki Loves Monuments 2018 in Italy - Marche"
+      ],
+      "auteur": "Natimar8",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_Museo_-_Cucina_dei_primi_del_900.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Casa_Museo_-_Cucina_dei_primi_del_900.jpg/1280px-Casa_Museo_-_Cucina_dei_primi_del_900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:2017-08-24 South wall and stone plinth, Paderne Castle (1).JPG",
+      "description": "The Taipa constructed south wall of Paderne castle south of the village of Paderne , Albufeira, Algarve, Portugal.",
+      "categories": [
+        "Taken with Canon PowerShot SX400 IS",
+        "Rammed earth",
+        "Castelo de Paderne",
+        "Attribution only license",
+        "Self-published work",
+        "Images by Kolforn",
+        "Files with coordinates missing SDC location of creation",
+        "August 2017 in Algarve",
+        "Castles in Portugal photographed in 2017",
+        "Portugal photographs taken on 2017-08-24"
+      ],
+      "auteur": "Kolforn",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017-08-24_South_wall_and_stone_plinth,_Paderne_Castle_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle_%281%29.JPG/1280px-2017-08-24_South_wall_and_stone_plinth%2C_Paderne_Castle_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

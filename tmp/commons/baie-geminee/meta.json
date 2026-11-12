@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "meneau",
-      "baie"
+      "baie",
+      "baie-cintree"
     ]
   },
   "candidats": [
@@ -161,6 +162,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Dayton_Women%27s_Club.jpg/1280px-Dayton_Women%27s_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2816,
       "hauteur": 2112
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Fig 4b- Vista interna do ajimez. Fachada principal da Igreja..jpg",
+      "description": "Fig 4b: Vista interna do ajimez. Fachada principal da Igreja. Foto: Rui Silva.",
+      "categories": [
+        "Bifora",
+        "Interior of Igreja de Lourosa",
+        "Self-published work",
+        "Pre-Romanesque windows in Portugal"
+      ],
+      "auteur": "MJBorges",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fig_4b-_Vista_interna_do_ajimez._Fachada_principal_da_Igreja..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Fig_4b-_Vista_interna_do_ajimez._Fachada_principal_da_Igreja..jpg/1280px-Fig_4b-_Vista_interna_do_ajimez._Fachada_principal_da_Igreja..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1485,
+      "hauteur": 2020
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:655070 Kórnik zamek tył.jpg",
+      "description": "655070 Kórnik zamek_tył.jpg",
+      "categories": [
+        "Taken with Sony SLT-A57",
+        "CC-Zero",
+        "Bifora",
+        "Files with no machine-readable source",
+        "Kórnik Castle",
+        "Self-published work",
+        "Assumed own work",
+        "Bay windows in Poland"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Andrzej5006 (étant donné la revendication de droit d’auteur).",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:655070_K%C3%B3rnik_zamek_ty%C5%82.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/655070_K%C3%B3rnik_zamek_ty%C5%82.jpg/1280px-655070_K%C3%B3rnik_zamek_ty%C5%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4912,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:BIFORA.jpg",
+      "description": "Castello dei conti di Modica",
+      "categories": [
+        "Castle of Alcamo",
+        "Bifora",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2020 in Italy",
+        "Cultural heritage monuments in Italy with known IDs",
+        "Uploaded via Campaign:wlm-it",
+        "Images from Wiki Loves Monuments 2020",
+        "Images from Wiki Loves Monuments 2020 in Italy - without local award",
+        "Images from Wiki Loves Monuments 2020 in Italy - Sicily"
+      ],
+      "auteur": "Fanianic",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BIFORA.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/BIFORA.jpg/1280px-BIFORA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2856,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bifora, Holy Family Church, 2018 Virányos.jpg",
+      "description": "Holy Family Church,-planned by Dezső Hültl, built in between 1913-1917-detail. - Szarvas Gábor street, Virányos neighborhood, 12nd district of Budapest .",
+      "categories": [
+        "Bifora",
+        "Holy Family Church in Zugliget",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "June 2018 in Budapest",
+        "Barred windows in Budapest",
+        "Arch windows of churches in Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bifora,_Holy_Family_Church,_2018_Vir%C3%A1nyos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bifora%2C_Holy_Family_Church%2C_2018_Vir%C3%A1nyos.jpg/1280px-Bifora%2C_Holy_Family_Church%2C_2018_Vir%C3%A1nyos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2325,
+      "hauteur": 1744
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Church on 110st 98ave (43238476872).jpg",
+      "description": "Church on 110st 98ave",
+      "categories": [
+        "Bifora",
+        "St. Joachim's Roman Catholic Church (Edmonton)",
+        "Flickr images reviewed by FlickreviewR 2",
+        "July 2018 in Edmonton",
+        "Photographs by Jason Woodhead",
+        "Windows in Edmonton"
+      ],
+      "auteur": "jasonwoodhead23",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_on_110st_98ave_(43238476872).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Church_on_110st_98ave_%2843238476872%29.jpg/1280px-Church_on_110st_98ave_%2843238476872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Csempeszkopács, Szent Mihály-templom 2020 04.jpg",
+      "description": "The St. Michael's Church in Csempeszkopács, Hungary",
+      "categories": [
+        "Bifora",
+        "Saint Michael church in Csempeszkopács",
+        "Self-published work",
+        "Photos from Hungary by Pasztilla",
+        "Arch windows of churches in Hungary"
+      ],
+      "auteur": "Pasztilla aka Attila Terbócs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Csempeszkop%C3%A1cs,_Szent_Mih%C3%A1ly-templom_2020_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Csempeszkop%C3%A1cs%2C_Szent_Mih%C3%A1ly-templom_2020_04.jpg/1280px-Csempeszkop%C3%A1cs%2C_Szent_Mih%C3%A1ly-templom_2020_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 2400
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

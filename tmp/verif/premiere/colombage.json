@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Königswinter, Allemagne",
       "note": "Colombage net, frontal, très lisible sur téléphone."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux grandes maisons à pans de bois d'angle de rue, bois peints en vert sombre et en rouge, remplissage blanc.",
+      "verdict": "validée",
+      "lieu": "Korbach, Allemagne",
+      "note": "Colombage net, dominant et typique.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Longère à colombage et briques avec toit de chaume, derrière une pelouse jonchée de pommes et un arbre.",
+      "verdict": "rejetée",
+      "lieu": "Reinshagen, Allemagne",
+      "note": "Façade lointaine, masquée par la végétation, premier plan envahissant.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Quai de Gdańsk avec navire et bâtiments de brique ; un seul entrepôt a un décor à pans de bois blancs.",
+      "verdict": "rejetée",
+      "lieu": "Gdańsk, Pologne",
+      "note": "Colombage minuscule et ambigu.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Même rue de Korbach que la 07 sous un autre angle, maisons à colombage.",
+      "verdict": "rejetée",
+      "lieu": "Korbach, Allemagne",
+      "note": "Quasi-doublon de la 07, enseigne lisible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment ancien à colombage rempli de briques, pans de bois sombres avec écharpes.",
+      "verdict": "rejetée",
+      "lieu": "Reinshagen, Allemagne",
+      "note": "Correct mais moins clair que les autres ; bâtiment délabré, contre-jour en partie.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grange à pans de bois : pignon à remplissage de torchis/pierraille et mur latéral à remplissage de briques.",
+      "verdict": "validée",
+      "lieu": "Stöckheim, Allemagne",
+      "note": "Ossature de bois apparente très lisible, clôture au premier plan sans gêne.",
+      "rectangle": null
     }
   ]
 }

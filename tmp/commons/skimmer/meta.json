@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "piscine",
-      "margelle"
+      "margelle",
+      "plage-de-piscine"
     ],
     "categoriesCommons": [
       "Category:Swimming pools"
@@ -112,6 +113,109 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/AcF17uik98X.jpg/1280px-AcF17uik98X.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 8000,
       "hauteur": 6000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:An inflatable swimming pool invites relaxation in a backyard setting, with a blue hose artistically draped over the edge.jpg",
+      "description": "An inflatable swimming pool invites relaxation in a backyard setting, with a blue hose artistically draped over the edge. The sun shines brightly, creating a cheerful atmosphere.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting,_with_a_blue_hose_artistically_draped_over_the_edge.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting%2C_with_a_blue_hose_artistically_draped_over_the_edge.jpg/1280px-An_inflatable_swimming_pool_invites_relaxation_in_a_backyard_setting%2C_with_a_blue_hose_artistically_draped_over_the_edge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Blad man swimming in the swimming pool.jpg",
+      "description": "A man is swimming alone in a swimming pool. The water is clear and reflects sunlight. The scene shows a casual atmosphere. The swimmer moves through the water with ease.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Photographs of men"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blad_man_swimming_in_the_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Blad_man_swimming_in_the_swimming_pool.jpg/1280px-Blad_man_swimming_in_the_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4016,
+      "hauteur": 6016
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Casa de Viseu Campestre parque aquático.jpg",
+      "description": "Casa de Viseu Campestre parque aquático",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work",
+        "Casa do Distrito de Viseu do RJ"
+      ],
+      "auteur": "Mauriciograce",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_Viseu_Campestre_parque_aqu%C3%A1tico.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Casa_de_Viseu_Campestre_parque_aqu%C3%A1tico.jpg/1280px-Casa_de_Viseu_Campestre_parque_aqu%C3%A1tico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:C90U7529.jpg",
+      "description": "Concordian50meterpool",
+      "categories": [
+        "GFDL",
+        "Swimming pools",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work"
+      ],
+      "auteur": "aom",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:C90U7529.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/C90U7529.jpg/1280px-C90U7529.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5052,
+      "hauteur": 3368
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bronte Splash - Flickr - Link1.jpg",
+      "description": "Bronte Splash",
+      "categories": [
+        "Swimming pools",
+        "Photographs taken on 2003-05-04",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Link1",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bronte_Splash_-_Flickr_-_Link1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bronte_Splash_-_Flickr_-_Link1.jpg/1280px-Bronte_Splash_-_Flickr_-_Link1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Child swims in a swimming pool on a sunny day with water splashing around.jpg",
+      "description": "A child swims in a clear swimming pool during the afternoon. Water splashes around as the child enjoys the activity. The sun shines brightly above.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg/1280px-Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

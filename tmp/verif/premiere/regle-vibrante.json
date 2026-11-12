@@ -48,6 +48,59 @@
       "note": "Noir et blanc, règle petite.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Règle jaune de bétonnage floue au premier plan, ouvriers de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil flou et mal éclairé, vibreur invisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Finisseur de dalle de pont jaune la nuit, ouvriers sur treillis d'armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Caroline du Nord",
+      "note": "Machine de pont, pas une règle vibrante manuelle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Finisseur à asphalte Dynapac vu de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Finisseur routier, pas une règle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers sur armatures avec un vibreur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aiguille vibrante, pas règle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Soldat tenant un vibreur jaune devant un camion-toupie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de règle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Une dizaine de militaires tirent une poutre treillis vibrante vert sur une dalle fraîche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.37,
+        "largeur": 0.54,
+        "hauteur": 0.45
+      },
+      "lieu": "Allemagne",
+      "note": "Règle vibrante à treillis et moteur sur le béton frais, rectangle sur la règle."
     }
   ]
 }

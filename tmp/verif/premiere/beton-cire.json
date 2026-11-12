@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Béton poli industriel, confondable avec béton poli."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cérémonie dans un grand hall au sol de béton lisse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli de hall, personnes dominantes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Trottoir de béton ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Béton poli avec gros granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli, pas béton ciré."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Architecte descendant un escalier en béton, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gymnase au sol de béton poli brillant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli, confusion avec le béton poli."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Auditorium au sol de béton poli avec tournage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton poli, confusion avec le béton poli."
     }
   ]
 }

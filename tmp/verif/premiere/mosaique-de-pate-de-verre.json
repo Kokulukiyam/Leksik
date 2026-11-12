@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Atelier de vitrail avec verres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de mosaïque de pâte de verre posée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Installation artistique en galerie, panneaux et sol en mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Oeuvre d'art, matière non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mosaïque murale d'un phoque à l'entrée d'un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque figurative ; verre non établi."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mosaïque et reliefs en façade d'école de musique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Oeuvre décorative mêlant céramique et verre, doute."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carreaux carrés brillants à l'entrée d'un salon de coiffure japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carreaux de revêtement, pas clairement de la pâte de verre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mosaïque romaine figurée au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque antique en tesselles, pas de la pâte de verre."
     }
   ]
 }

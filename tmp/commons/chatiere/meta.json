@@ -11,7 +11,10 @@
       "ventilation tile roof"
     ],
     "incompatibles": [
-      "tuile"
+      "tuile",
+      "tuile-canal",
+      "tuile-mecanique",
+      "tuile-plate"
     ],
     "categoriesCommons": [
       "Category:Roof ventilation",
@@ -131,6 +134,124 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Building_Communications_and_Ventilation_Array%2C_New_York_City_5614.jpg/1280px-Building_Communications_and_Ventilation_Array%2C_New_York_City_5614.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2495,
       "hauteur": 3856
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Tabernacle of the Union Baptist Church, South Side Pittsburgh, roof vents, 2021-07-12.jpg",
+      "description": "Vents on the roof of the Tabernacle of the Union Baptist Church, South Side, Pittsburgh",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Tabernacle of the Union Baptist Church, South Side, Pittsburgh",
+        "Roof ventilation"
+      ],
+      "auteur": "Cbaile19",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tabernacle_of_the_Union_Baptist_Church,_South_Side_Pittsburgh,_roof_vents,_2021-07-12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Tabernacle_of_the_Union_Baptist_Church%2C_South_Side_Pittsburgh%2C_roof_vents%2C_2021-07-12.jpg/1280px-Tabernacle_of_the_Union_Baptist_Church%2C_South_Side_Pittsburgh%2C_roof_vents%2C_2021-07-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3336,
+      "hauteur": 2502
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Burg Reichenstein - Burgmusum Dachziegel.jpg",
+      "description": "Upper Austrian Castle Museum in Reichenstein castle. Roof tile ( 13/14th century ) with animal trace, from Reichenstein castle.",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ150",
+        "Roof tiles",
+        "Self-published work",
+        "Cultural heritage monuments in Austria check done",
+        "Burg Reichenstein - OÖ Burgenmuseum"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Burg_Reichenstein_-_Burgmusum_Dachziegel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Reichenstein_-_Burgmusum_Dachziegel.jpg/1280px-Burg_Reichenstein_-_Burgmusum_Dachziegel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:屋上 (42114028730).jpg",
+      "description": "DSC03475",
+      "categories": [
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Flickr images reviewed by FlickreviewR 2",
+        "July 2018 in Hokkaido",
+        "Japan photographs taken on 2018-07-15",
+        "Roof floors in Japan",
+        "Roof ventilation",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "ume-y",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E5%B1%8B%E4%B8%8A_(42114028730).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%E5%B1%8B%E4%B8%8A_%2842114028730%29.jpg/1280px-%E5%B1%8B%E4%B8%8A_%2842114028730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2010-04-14 Kakopetria 06.JPG",
+      "description": "Kakopetria, 2010-04-14",
+      "categories": [
+        "Roof tiles",
+        "Kakopetria",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded with digiKam uploader",
+        "Photographs by Gareth Wyn Jones"
+      ],
+      "auteur": "Gareth Wyn Jones",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2010-04-14_Kakopetria_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2010-04-14_Kakopetria_06.JPG/1280px-2010-04-14_Kakopetria_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:The training and management of horses (Page 317) BHL21445213.jpg",
+      "description": "The training and management of horses / J.P.F. Bell, F.Z.S..",
+      "categories": [
+        "PD-old-70-expired",
+        "Images uploaded by Fæ",
+        "PD-scan (PD-old-70-expired)",
+        "Files from the Biodiversity Heritage Library",
+        "CC-PD-Mark",
+        "PD-old missing SDC copyright status",
+        "Biodiversity Heritage Library maintenance missing date",
+        "Biodiversity Heritage Library maintenance missing collection",
+        "The training and management of horses",
+        "Roof ventilation"
+      ],
+      "auteur": "Bell, J. P. F.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_training_and_management_of_horses_(Page_317)_BHL21445213.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_training_and_management_of_horses_%28Page_317%29_BHL21445213.jpg/1280px-The_training_and_management_of_horses_%28Page_317%29_BHL21445213.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2101,
+      "hauteur": 3387
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bajouca, Portugal (105504374).jpg",
+      "description": "Bajouca, Portugal [2006]",
+      "categories": [
+        "Taken with Nikon D50",
+        "Roof tiles",
+        "Bajouca",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by Rosino"
+      ],
+      "auteur": "Rosino",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bajouca,_Portugal_(105504374).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bajouca%2C_Portugal_%28105504374%29.jpg/1280px-Bajouca%2C_Portugal_%28105504374%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3008,
+      "hauteur": 2000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

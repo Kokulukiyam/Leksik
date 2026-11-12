@@ -9,6 +9,10 @@
       "vibrating screed",
       "règle vibrante",
       "concrete screed vibrator"
+    ],
+    "incompatibles": [
+      "regle-de-macon",
+      "aiguille-vibrante"
     ]
   },
   "candidats": [
@@ -122,6 +126,124 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Nimbus_Dam_%2851719037634%29.jpg/1280px-Nimbus_Dam_%2851719037634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1976,
       "hauteur": 1304
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Building Foundations- 378th ECES lays the groundwork for longevity in the AOR (9166793).jpg",
+      "description": "U.S. Air Force Airmen assigned to the 378th Expeditionary Civil Engineer Squadron Pavements and Equipment Flight maneuver a roller screed over a concrete pad within the U.S. Central Command area of responsibility, May 31, 2025. The 378th ECES modernizes infrastructure and defense capabilities in the CENTCOM AOR, strengthening the U.S. Air Force’s long-term presence and warfighting dominance. (U.S. Air Force photo by Senior Airman Erin Dunkleberger)",
+      "categories": [
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "378th Expeditionary Civil Engineering Squadron",
+        "Photographs taken on 2025-05-30",
+        "Power screeds"
+      ],
+      "auteur": "U.S. Air Force photo by Senior Airman Erin Dunkleberger",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_Foundations-_378th_ECES_lays_the_groundwork_for_longevity_in_the_AOR_(9166793).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Building_Foundations-_378th_ECES_lays_the_groundwork_for_longevity_in_the_AOR_%289166793%29.jpg/1280px-Building_Foundations-_378th_ECES_lays_the_groundwork_for_longevity_in_the_AOR_%289166793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2579
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Biz40NC 2018-07 01.jpg",
+      "description": "The pour in action. Concrete being placed on the deck from the pump truck hose and workers vibrating the concrete and the bridge screed finishing the surface. New Peters Creek Parkway bridge, over Salem Parkway.",
+      "categories": [
+        "Taken with iPad Air",
+        "Bridge construction in the United States",
+        "Files from North Carolina Department of Transportation Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "July 2018 in North Carolina",
+        "Photographs taken on 2018-07-11",
+        "Salem Parkway"
+      ],
+      "auteur": "NCDOTcommunications",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biz40NC_2018-07_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Biz40NC_2018-07_01.jpg/1280px-Biz40NC_2018-07_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1296,
+      "hauteur": 968
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dynapac Pavers Screed.jpg",
+      "description": "Dynapac pavers screed",
+      "categories": [
+        "Self-published work",
+        "Dynapac pavers",
+        "Power screeds"
+      ],
+      "auteur": "Aevaii",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dynapac_Pavers_Screed.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dynapac_Pavers_Screed.jpg/1280px-Dynapac_Pavers_Screed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:USACE maintains navigation on the Ohio River.jpg",
+      "description": "Archie Ball (left) uses his \"come-along\" to pull concrete into place for the screed to smooth while Josh Tyler vibrates concrete to consolidate it after it has been placed on Sill Shell 6 in the casting yard. SS6 is the last of the flat shells for the tainter gate section of the dam being built across the Ohio River as part of the Olmsted Locks and Dam 17 miles upstream from the confluence of the Mississippi. (U.S. Army Corps of Engineers photo by Jon Fleshman)",
+      "categories": [
+        "United States Army Corps of Engineers",
+        "PD US Army USACE",
+        "Flickr images reviewed by FlickreviewR",
+        "Pouring concrete",
+        "Ohio River in Illinois",
+        "Files from U.S. Army Corps of Engineers Louisville District Flickr stream"
+      ],
+      "auteur": "LouisvilleUSACE",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:USACE_maintains_navigation_on_the_Ohio_River.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/USACE_maintains_navigation_on_the_Ohio_River.jpg/1280px-USACE_maintains_navigation_on_the_Ohio_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1627
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:379th ECES \"Dirt Boyz\" revitalize the installation with an enduring mindset (8772275).jpg",
+      "description": "A U.S. Air Force pavements and construction equipment technician assigned to the 379th Expeditionary Civil Engineering Squadron pulls a roller screed to spread concrete within the U.S. Central Command area of responsibility, Nov. 20, 2024. The 379th ECES is working to transform the installation from an expeditionary to an enduring location, aligning with the 379th Air Expeditionary Wing commanders’ vision for future operations at the wing. (U.S. Air Force photo)",
+      "categories": [
+        "PD US Air Force",
+        "Files created by the United States Air Force with known IDs",
+        "Ninth Air Force",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Photographs taken on 2024-11-20",
+        "379th Expeditionary Civil Engineer Squadron",
+        "Screeding",
+        "Power screeds"
+      ],
+      "auteur": "U.S. Air Force AFCENT by Airman 1st Class Zeeshan Naeem",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:379th_ECES_%22Dirt_Boyz%22_revitalize_the_installation_with_an_enduring_mindset_(8772275).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/379th_ECES_%22Dirt_Boyz%22_revitalize_the_installation_with_an_enduring_mindset_%288772275%29.jpg/1280px-379th_ECES_%22Dirt_Boyz%22_revitalize_the_installation_with_an_enduring_mindset_%288772275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5308,
+      "hauteur": 3771
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Trans-Atlantic Castle (5686114).jpg",
+      "description": "1413th Soldiers work the power screed across the wet concrete to create a Short Takeoff Landing lane during the Trans-Atlantic Castle exercise in Hohenfels, Germany Aug. 20, 2019.",
+      "categories": [
+        "Germany photographs taken on 2019-08-20",
+        "PD US National Guard",
+        "Files created by the United States National Guard with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, Germany (review needed)",
+        "Screeding",
+        "Power screeds"
+      ],
+      "auteur": "U.S. Army 120PAD by Capt. Caitlin Sweet",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trans-Atlantic_Castle_(5686114).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Trans-Atlantic_Castle_%285686114%29.jpg/1280px-Trans-Atlantic_Castle_%285686114%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7240,
+      "hauteur": 4363
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

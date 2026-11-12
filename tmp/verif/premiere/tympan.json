@@ -58,6 +58,64 @@
       "rectangle": null,
       "lieu": "Amiens, France",
       "note": "Cadrage trop serré (ni linteau ni porte), image sombre et très chargée, peu lisible sur téléphone."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Membrane tympanique d'oreille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sens anatomique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Portail royal de Chartres : tympan central sculpté (Christ en gloire) sous les voussures.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.39,
+        "largeur": 0.4,
+        "hauteur": 0.31
+      },
+      "lieu": "Chartres, France",
+      "note": "Tympan romain canonique ; rectangle sur le champ entre linteau et arc."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tympans de baleines au musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sens anatomique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portail gothique de Notre-Dame du Sablon, tympan petit et en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tympan trop petit et peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portail roman à voussures ornées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de tympan sculpté distinct visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tympan sculpté de la Vierge entourée de saints sous un arc en plein cintre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.27,
+        "largeur": 0.86,
+        "hauteur": 0.62
+      },
+      "lieu": "Sligo, Irlande",
+      "note": "Champ sculpté clair entre linteau et arc ; rectangle sur le tympan."
     }
   ]
 }

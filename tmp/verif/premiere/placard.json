@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Meuble de rangement, pas un placard."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Page de catalogue ancien avec gravures de meubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Armoire ancienne en bois sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble isolé, pas un rangement intégré."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Placard d'angle encastré dans une boiserie bleue, portes oranges ouvertes sur des étagères de vaisselle.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.08,
+        "largeur": 0.48,
+        "hauteur": 0.73
+      },
+      "lieu": "Van Cortlandt House Museum, New York",
+      "note": "Rangement intégré dans le mur fermé par des portes ; rectangle sur le placard."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Meuble en bois contreplaqué servant de vestiaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meuble, non intégré."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand dressing blanc avec penderies et étagères.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un dressing, terme voisin."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Magasin de meubles pour bébé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Meubles."
     }
   ]
 }

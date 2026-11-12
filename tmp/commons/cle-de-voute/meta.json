@@ -7,6 +7,16 @@
     "requetes": [
       "incategory:\"Keystones\"",
       "keystone arch"
+    ],
+    "incompatibles": [
+      "arc",
+      "voute",
+      "claveau"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Keystones",
+      "Category:Arches"
     ]
   },
   "candidats": [
@@ -138,6 +148,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Musket%C3%B6ren_10%2C_port%2C_jan_2021.jpg/1280px-Musket%C3%B6ren_10%2C_port%2C_jan_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3066,
       "hauteur": 3762
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Stykgodspakhuset (detalje 02).jpg",
+      "description": "Detalje fra Stykgodspakhuset.",
+      "categories": [
+        "Keystones",
+        "Stykgodspakhuset",
+        "Self-published work",
+        "Windows in Denmark",
+        "Wooden doors in Denmark",
+        "Volutes (architecture) in Denmark",
+        "Denmark photographs taken on 2018-04-08",
+        "Doors and windows in Denmark"
+      ],
+      "auteur": "RhinoMind",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stykgodspakhuset_(detalje_02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Stykgodspakhuset_%28detalje_02%29.jpg/1280px-Stykgodspakhuset_%28detalje_02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Arcos sur de Ávila.jpg",
+      "description": "Avila",
+      "categories": [
+        "Arches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "2026 in the province of Ávila",
+        "Photographs taken on 2026-10-30"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arcos_sur_de_%C3%81vila.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Arcos_sur_de_%C3%81vila.jpg/1280px-Arcos_sur_de_%C3%81vila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:29.12.16 Dubrovnik Old City Walls 006 (31150522143).jpg",
+      "description": "29.12.16 Dubrovnik. Inside Pile Gate. See here .",
+      "categories": [
+        "Keystones",
+        "Pile Gate, Dubrovnik",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Croatia photographs taken on 2016-12-29",
+        "Photographs by Donald Judge",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "donald judge",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:29.12.16_Dubrovnik_Old_City_Walls_006_(31150522143).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/29.12.16_Dubrovnik_Old_City_Walls_006_%2831150522143%29.jpg/1280px-29.12.16_Dubrovnik_Old_City_Walls_006_%2831150522143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Arches (18798676660).jpg",
+      "description": "arches",
+      "categories": [
+        "Arches",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Syahmir",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arches_(18798676660).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Arches_%2818798676660%29.jpg/1280px-Arches_%2818798676660%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Center City East, Philadelphia, PA, USA - panoramio (8).jpg",
+      "description": "Center City East, Philadelphia, PA, USA",
+      "categories": [
+        "Keystones",
+        "Chestnut Street (Philadelphia)",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2014-04-03",
+        "Independence Hall, Philadelphia in the 2010s",
+        "East Wing of Independence Hall",
+        "Photos from Panoramio ID 558771"
+      ],
+      "auteur": "Андрей Бобровский",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Center_City_East,_Philadelphia,_PA,_USA_-_panoramio_(8).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Center_City_East%2C_Philadelphia%2C_PA%2C_USA_-_panoramio_%288%29.jpg/1280px-Center_City_East%2C_Philadelphia%2C_PA%2C_USA_-_panoramio_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:500px photo (66486993).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Corentin Monmasson",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(66486993).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/500px_photo_%2866486993%29.jpeg/1280px-500px_photo_%2866486993%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1366,
+      "hauteur": 2048
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

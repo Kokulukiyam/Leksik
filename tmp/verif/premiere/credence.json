@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas une crédence."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Échantillons de carreaux sur un mur de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une crédence de cuisine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieux carreaux d'azulejos bleus et blancs au sol ou au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de plan de travail, pas une crédence."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toilettes à murs rouges et sol sale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune crédence."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Carreaux jaune-vert allongés brillants, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan de faïence sans plan de travail : pas identifiable comme crédence."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petits carreaux ronds bleus en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mosaïque, pas de crédence."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Hall avec panneaux décoratifs carrelés de part et d'autre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une crédence."
     }
   ]
 }

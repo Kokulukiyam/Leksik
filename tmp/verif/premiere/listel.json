@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans listel."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur enduit dont une partie est revêtue de fausses briques en cours de travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun listel visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Toilettes handicapés carrelées de beige avec lambris blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune bande décorative de carreaux."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Angle de douche carrelé de grands carreaux beiges, rideau bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrelage uni, pas de listel."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Panneau de carreaux peints d'oiseaux encadré, sous une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau décoratif figuratif, pas une bande de listel dans une faïence."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de station de métro à petits carreaux crème, partiellement arraché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de listel identifiable ; texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carreaux verts avec lettres tracées à la craie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de listel."
     }
   ]
 }

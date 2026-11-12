@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Parquet bois."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand atelier au sol lisse jaune brillant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol résine/époxy, pas du PVC identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Natte de jonc tressé en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sol noir brillant dans une galerie d'art.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Échantillons de lames de terrasse imitation teck.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau de terrasse, pas un sol PVC intérieur."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Élève écrivant penchée sur un sol gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Détail d'une toile cirée ancienne marbrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ancien revêtement, matériau incertain."
     }
   ]
 }

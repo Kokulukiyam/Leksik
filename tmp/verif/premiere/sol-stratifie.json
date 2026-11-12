@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Personnes dominantes ; stratifié pourrait passer pour parquet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Salle à manger sombre avec sol brun foncé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, matériau non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sol de terre battue dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux hommes posant des lames flottantes sur sous-couche blanche dans une pièce turquoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes dominantes, lames confondables avec du parquet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sol poussiéreux d'un local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Échantillon de stratifié imitant un parquet à motifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon, confondable avec le parquet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couloir de pagode au sol clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

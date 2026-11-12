@@ -48,6 +48,22 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'un capitole néoclassique en pierre blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune cornière de rive visible, sujet sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Aile latérale du même capitole, parking au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune cornière de rive visible, sujet sans rapport."
     }
   ]
 }

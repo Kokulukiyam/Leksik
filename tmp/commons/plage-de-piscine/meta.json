@@ -115,6 +115,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/C90U7529.jpg/1280px-C90U7529.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5052,
       "hauteur": 3368
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Child jumps into a pool while another child swims nearby.jpg",
+      "description": "A child in red shorts dives into a clear pool while another child swims in the background. The activity takes place on a bright, sunny day.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg/1280px-Child_jumps_into_a_pool_while_another_child_swims_nearby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:An swimming pool.jpg",
+      "description": "Medium swimming-pool",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Knites",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:An_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/An_swimming_pool.jpg/1280px-An_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Catania 1.jpg",
+      "description": "Creamos comunidades sustentables con plusvalía.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Vivienda",
+        "Sustentabilidad Innovación"
+      ],
+      "auteur": "Comunidad Vinte",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catania_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Catania_1.jpg/1280px-Catania_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3181,
+      "hauteur": 2122
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Boy jumps into the pool wearing goggles at a summer gathering with friends.jpg",
+      "description": "A young boy is leaping into a pool, wearing goggles. Other children are swimming and enjoying the afternoon. Sunlight reflects off the water.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg/1280px-Boy_jumps_into_the_pool_wearing_goggles_at_a_summer_gathering_with_friends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5690,
+      "hauteur": 3786
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:AirBnB Casa de Chen 20231108 180954.jpg",
+      "description": "AirBnB Casa de Chen",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work",
+        "Residential buildings in São Paulo (state)",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Josefito123",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AirBnB_Casa_de_Chen_20231108_180954.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/AirBnB_Casa_de_Chen_20231108_180954.jpg/1280px-AirBnB_Casa_de_Chen_20231108_180954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1458
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2000 - Casa Osterc.jpg",
+      "description": "Front facade of the Casa Osterc by Sergio Forster",
+      "categories": [
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "IanGroMar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000_-_Casa_Osterc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2000_-_Casa_Osterc.jpg/1280px-2000_-_Casa_Osterc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -7,6 +7,19 @@
     "requetes": [
       "deepcat:\"Mascarons\"",
       "mascaron façade"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "bas-relief",
+      "haut-relief",
+      "cartouche",
+      "medaillon",
+      "frise",
+      "feston"
+    ],
+    "categoriesCommons": [
+      "Category:Mascarons",
+      "Category:Mascarons in France"
     ]
   },
   "candidats": [
@@ -136,6 +149,149 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Fontaine_de_L%C3%A9da%2C_Paris_002.JPG/1280px-Fontaine_de_L%C3%A9da%2C_Paris_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2848,
       "hauteur": 4288
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:ARCHITETTURA 73.jpg",
+      "description": "Architettura",
+      "categories": [
+        "Mascarons",
+        "Self-published work",
+        "Sculptures in Merano",
+        "Architectural elements in Merano"
+      ],
+      "auteur": "MeranoCity",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ARCHITETTURA_73.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/ARCHITETTURA_73.jpg/1280px-ARCHITETTURA_73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5896,
+      "hauteur": 3931
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Orange - théatre municipal 8.JPG",
+      "description": "Théâtre municipal d'Orange élévation, toiture (Inscrit)",
+      "categories": [
+        "Base Mérimée",
+        "Taken with Nikon D3100",
+        "Théâtre municipal d'Orange",
+        "Self-published work",
+        "Mascarons in France",
+        "Reliefs in Vaucluse",
+        "Round windows in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in France with known IDs",
+        "Images from Wiki Loves Monuments 2013 in France",
+        "Mérimée without type parameter",
+        "Volutes (architecture) in France",
+        "Uploaded via Campaign:wlm-fr",
+        "France photographs taken on 2013-08-01"
+      ],
+      "auteur": "Marianne Casamance",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Orange_-_th%C3%A9atre_municipal_8.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Orange_-_th%C3%A9atre_municipal_8.JPG/1280px-Orange_-_th%C3%A9atre_municipal_8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Montpellier (34) Hôtel de Belleval 06.JPG",
+      "description": "Hôtel de Belleval, Montpellier (34).",
+      "categories": [
+        "Base Mérimée",
+        "Monuments historiques inscrits",
+        "Hôtel de Belleval",
+        "Self-published work",
+        "Out of competition images from Wiki Loves Monuments 2015 in France",
+        "Images from Wiki Loves Monuments 2015",
+        "Mascarons in France",
+        "Mérimée with PA parameter",
+        "Images from Wiki Loves Monuments 2015 in France",
+        "Cultural heritage monuments in France with known IDs",
+        "Uploaded via Campaign:wlm-fr",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2014-04-29",
+        "April 2014 in Montpellier",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC location of creation"
+      ],
+      "auteur": "GO69",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Montpellier_(34)_H%C3%B4tel_de_Belleval_06.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Montpellier_%2834%29_H%C3%B4tel_de_Belleval_06.JPG/1280px-Montpellier_%2834%29_H%C3%B4tel_de_Belleval_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1786,
+      "hauteur": 2381
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Church of St Nicholas, Hinxworth (5628305868).jpg",
+      "description": "Church of St Nicholas, Hinxworth, Hertfordshire, 11 April 2011. Grade II* Listed Building.",
+      "categories": [
+        "Mascarons",
+        "St Nicholas Church, Hinxworth",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Sculptures of human heads",
+        "Files with coordinates missing SDC location of creation (52° N, 1° W)",
+        "Photos of buildings by User:AnemoneProjectors"
+      ],
+      "auteur": "AnemoneProjectors ( talk ) ( Flickr )",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_St_Nicholas,_Hinxworth_(5628305868).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Church_of_St_Nicholas%2C_Hinxworth_%285628305868%29.jpg/1280px-Church_of_St_Nicholas%2C_Hinxworth_%285628305868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2561,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Immeuble 39 Avenue Danielle Casanova - Ivry-sur-Seine (FR94) - 2021-01-19 - 3.jpg",
+      "description": "Immeuble, 39 avenue Danielle Casanova, Ivry-sur-Seine.",
+      "categories": [
+        "Self-published work",
+        "Mascarons in France",
+        "House numbers in Val-de-Marne",
+        "Overdoors in France",
+        "39 (house number) in France",
+        "Images by Chabe01 taken with iPhone XS",
+        "Île-de-France photographs taken on 2021-01-19",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "January 2021 in Ivry-sur-Seine",
+        "Doors in Ivry-sur-Seine",
+        "Images of Ivry-sur-Seine by Chabe01",
+        "Immeuble, 39 avenue Danielle-Casanova (Ivry-sur-Seine)"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Immeuble_39_Avenue_Danielle_Casanova_-_Ivry-sur-Seine_(FR94)_-_2021-01-19_-_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Immeuble_39_Avenue_Danielle_Casanova_-_Ivry-sur-Seine_%28FR94%29_-_2021-01-19_-_3.jpg/1280px-Immeuble_39_Avenue_Danielle_Casanova_-_Ivry-sur-Seine_%28FR94%29_-_2021-01-19_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Federico Zuccaro - Divine Comedy - Inferno - Inferno, Canto III.jpg",
+      "description": "Through me the way is to the city dolent; Through me the way is to eternal dole; Through me the way among the people lost Justice incited my sublime Creator; Created me divine Omnipotence, The highest Wisdom and the primal Love. Before me there were no created things, Only eterne, and I eternal last. All hope abandon, ye who enter in! These miscreants, who never were alive; who live withouten infamy or praise.",
+      "categories": [
+        "Mascarons",
+        "Author died more than 100 years ago public domain images",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Skeletons in art",
+        "Inferno Canto 03",
+        "CC-PD-Mark",
+        "Plaques in art",
+        "Lasciate ogne speranza, voi ch'intrate (Dante)",
+        "Federico Zuccaro's illustrations to the Divine Comedy"
+      ],
+      "auteur": "Federico Zuccari",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Federico_Zuccaro_-_Divine_Comedy_-_Inferno_-_Inferno,_Canto_III.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Federico_Zuccaro_-_Divine_Comedy_-_Inferno_-_Inferno%2C_Canto_III.jpg/1280px-Federico_Zuccaro_-_Divine_Comedy_-_Inferno_-_Inferno%2C_Canto_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2792,
+      "hauteur": 2062
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

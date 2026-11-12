@@ -119,6 +119,28 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tile%2C_edging_%28AM_1998.81.102-4%29.jpg/1280px-Tile%2C_edging_%28AM_1998.81.102-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1616,
       "hauteur": 1420
+    },
+    {
+      "fichier": "06.jpg",
+      "titre": "File:Tile, edging (AM 1998.81.65-4).jpg",
+      "description": "Decorative garden edging glazed ceramic, Victorian garden edging, tapers to base, low relief leaf motif on front upper edge, semi-circular cut-out on lower edge, red brown Jackson Muzeum label, painted in white, reads VICTORIAN - GARDEN - EDGING",
+      "categories": [
+        "Files with broken file links",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number",
+        "Garden edging"
+      ],
+      "auteur": "not researched",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tile,_edging_(AM_1998.81.65-4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Tile%2C_edging_%28AM_1998.81.65-4%29.jpg/1280px-Tile%2C_edging_%28AM_1998.81.65-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1548,
+      "hauteur": 1676
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,0 +1,172 @@
+[
+ {
+  "cle": "tympan/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "tympan/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "lucarne/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "lucarne/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "shed/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "fleche/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "colombage/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "colombage/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "rosace/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "mascaron/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "mascaron/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cariatide/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cariatide/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "pise/13",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "bungalow-de-chantier/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "echafaudage-en-bambou/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "niveleuse/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "niveleuse/10",
+  "accord": false,
+  "raison": "Vue de face où domine une lame frontale : sans la lame centrale visible, on pourrait y voir un bulldozer."
+ },
+ {
+  "cle": "tombereau/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "tombereau/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chariot-telescopique/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chariot-telescopique/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "palan/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "benne-a-beton/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "benne-a-beton/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cordeau-traceur/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "regle-vibrante/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "tronconneuse/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "carotteuse/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "granito/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "moquette/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "papier-peint/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "papier-peint/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "placard/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ }
+]

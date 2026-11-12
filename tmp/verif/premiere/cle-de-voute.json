@@ -21,7 +21,12 @@
       "fichier": "03.jpg",
       "vu": "Encadrement de porte victorien blanc : arc plein cintre sur colonnettes, dont la pierre sommitale est sculptée d'une tête barbue.",
       "verdict": "validée",
-      "rectangle": { "x": 0.41, "y": 0.34, "largeur": 0.18, "hauteur": 0.20 },
+      "rectangle": {
+        "x": 0.41,
+        "y": 0.34,
+        "largeur": 0.18,
+        "hauteur": 0.2
+      },
       "lieu": "Leytonstone, Londres, Royaume-Uni",
       "note": "Clé d'arc sculptée bien visible au sommet de l'arc ; rectangle pour écarter arc et chapiteaux. Photo de nuit mais lisible."
     },
@@ -45,9 +50,62 @@
       "fichier": "06.jpg",
       "vu": "Porte en bois cintrée dans une façade à refends, l'arc de granit appareillé étant fermé par une clé trapézoïdale surmontée d'une corbeille sculptée.",
       "verdict": "validée",
-      "rectangle": { "x": 0.43, "y": 0.19, "largeur": 0.14, "hauteur": 0.09 },
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.19,
+        "largeur": 0.14,
+        "hauteur": 0.09
+      },
       "lieu": "Stockholm, Suède",
       "note": "Clé nettement lisible entre les claveaux de l'arc ; rectangle pour la distinguer de l'arc et du décor sculpté au-dessus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte en bois avec ornement au-dessus du linteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau, pas une voûte."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Muraille avec arcs en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clé non distincte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Niche avec pierre en saillie au sommet de son arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc de niche ; confusion arc/voûte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arcades ornementées à lambrequins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de clé visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Briques avec arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clé non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arc en briques envahi de lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Clé non identifiable."
     }
   ]
 }

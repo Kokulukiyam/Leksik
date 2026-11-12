@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Chain hoists",
       "Category:Hoists"
+    ],
+    "incompatibles": [
+      "poulie"
     ]
   },
   "candidats": [
@@ -136,6 +139,142 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Check_station_on_Purify_Bay_Road.jpg/1280px-Check_station_on_Purify_Bay_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 2448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:47th Street passenger wellway escalator installation September 2018 (22) (44760931911).jpg",
+      "description": "47th Street passenger wellway escalator installation_ September 2018 (22)",
+      "categories": [
+        "Chain hoists",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Construction of Grand Central Madison",
+        "Flickr files uploaded by Epicgenius",
+        "East Side Access construction/2018/09"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:47th_Street_passenger_wellway_escalator_installation_September_2018_(22)_(44760931911).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/47th_Street_passenger_wellway_escalator_installation_September_2018_%2822%29_%2844760931911%29.jpg/1280px-47th_Street_passenger_wellway_escalator_installation_September_2018_%2822%29_%2844760931911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1331
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Barned's Buildings 1.jpg",
+      "description": "One of the hoists used to take goods from the cellar to awaiting transport. Looking east towards the corner of Sweeting Street.",
+      "categories": [
+        "Rodhullandemu images",
+        "Barned's Buildings",
+        "Hoists",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barned%27s_Buildings_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Barned%27s_Buildings_1.jpg/1280px-Barned%27s_Buildings_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4714,
+      "hauteur": 3612
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Haltern am See, Sythen, Werkzeughalle der Quarzwerke -- 2015 -- 4998-5002.jpg",
+      "description": "Hoists, tool shed of the Quarzwerke in Sythen, Haltern am See , North Rhine-Westphalia , Germany The history of the quartz works in Haltern am See began in 1883 with a steam-powered brickworks, which switched to quartz sand mining in 1886 due to depleted clay reserves. The site was officially founded in 1924 by Rheinische Bau- and Kristallsandwerke, which became part of the Quarzwerke Group in 1956. Sand mining has shaped the landscape through the creation of the Silberseen lakes.",
+      "categories": [
+        "Taken with Canon EOS 70D",
+        "Photographs with aspect ratio of 3:2",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "ISO speed rating 100",
+        "Uploaded with VicuñaUploader",
+        "Quarzwerke (Haltern am See)",
+        "Self-published work",
+        "Photographs by Dietmar Rabich/Tone-mapped HDR images",
+        "F-number f/5.6",
+        "Photographs by Dietmar Rabich/Haltern am See",
+        "Chain hoists",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Sheds in Kreis Recklinghausen",
+        "Building interiors in Kreis Recklinghausen",
+        "Buildings with addresses",
+        "Photographs by Dietmar Rabich/Quality images of economy",
+        "Exposure time 3/5 sec",
+        "Images by XRay (flat list)",
+        "Photographs by Dietmar Rabich/Medium exposure",
+        "Haltern am See photographs taken on 2015-03-06",
+        "Items with ticket accreditation",
+        "Photographs by Dietmar Rabich/Quality images of building interiors",
+        "Lens focal length 15 mm",
+        "Photographs by Dietmar Rabich/Industrial photography",
+        "Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia",
+        "Tone-mapped HDR images of functional objects",
+        "Photographs by Dietmar Rabich/Year/2015",
+        "Photographs by Dietmar Rabich/Quality images of tools"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4998-5002.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Haltern_am_See%2C_Sythen%2C_Werkzeughalle_der_Quarzwerke_--_2015_--_4998-5002.jpg/1280px-Haltern_am_See%2C_Sythen%2C_Werkzeughalle_der_Quarzwerke_--_2015_--_4998-5002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5353,
+      "hauteur": 3574
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:678 Pors Tarz.jpg",
+      "description": "Primelin : le treuil installé à Pors Tarz à la fin du XIXème siècle pour faciliter le relevage des embarcations.",
+      "categories": [
+        "Primelin",
+        "Hoists",
+        "Self-published work",
+        "19th-century works in Finistère"
+      ],
+      "auteur": "Moreau.henri",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:678_Pors_Tarz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/678_Pors_Tarz.jpg/1280px-678_Pors_Tarz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4100,
+      "hauteur": 2924
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:SBB - Derailment while track maintenance (26582964825).jpg",
+      "description": "The machine ran on a bit too high track ballast and one axle of the bogie derailed. With the red iron girder it is lifted, and with the chain hoist the bogie will be aligned. Because of the slant in the curve, a crane was used and not the hydraulic jacks. Switzerland, April 20, 2016. (3/14)",
+      "categories": [
+        "Chain hoists",
+        "Rail track construction and maintenance in Switzerland",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Kecko - rail transport"
+      ],
+      "auteur": "Kecko from Eastern Switzerland",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:SBB_-_Derailment_while_track_maintenance_(26582964825).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/SBB_-_Derailment_while_track_maintenance_%2826582964825%29.jpg/1280px-SBB_-_Derailment_while_track_maintenance_%2826582964825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5200,
+      "hauteur": 3467
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Antwerpen Felixpakhuis 01.JPG",
+      "description": "The Felixpakhuis (Felix Warehouse) in Antwerp. In the 19th century it was a warehouse for coffee, grain, cheese and tobacco. Now it houses the Minicipal Archives of Antwerp .",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ50",
+        "Felixpakhuis",
+        "License migration redundant",
+        "Hoists",
+        "Attribution only license",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (51° N, 4° E)"
+      ],
+      "auteur": "Ad Meskens",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antwerpen_Felixpakhuis_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Antwerpen_Felixpakhuis_01.JPG/1280px-Antwerpen_Felixpakhuis_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

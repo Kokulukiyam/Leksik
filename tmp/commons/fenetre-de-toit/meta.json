@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "lucarne",
-      "lanterneau"
+      "lanterneau",
+      "chien-assis"
     ],
     "categoriesCommons": [
       "Category:Roof windows",
@@ -142,6 +143,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Dome_skylight_%2850328804811%29.jpg/1280px-Dome_skylight_%2850328804811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4284,
       "hauteur": 1834
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bad Vilbel, Frankfurter Straße 12.jpg",
+      "description": "Bad Vilbel, Frankfurter Straße 12",
+      "categories": [
+        "CC-Zero",
+        "Frankfurter Straße 12 (Bad Vilbel)",
+        "Self-published work"
+      ],
+      "auteur": "Karsten Ratzke",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Vilbel,_Frankfurter_Stra%C3%9Fe_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Vilbel%2C_Frankfurter_Stra%C3%9Fe_12.jpg/1280px-Bad_Vilbel%2C_Frankfurter_Stra%C3%9Fe_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3245,
+      "hauteur": 4895
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Tündük (çadır bacası).jpg",
+      "description": "Tündük (çadır bacası)",
+      "categories": [
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "Buzancar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:T%C3%BCnd%C3%BCk_(%C3%A7ad%C4%B1r_bacas%C4%B1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg/1280px-T%C3%BCnd%C3%BCk_%28%C3%A7ad%C4%B1r_bacas%C4%B1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Former schoolhouse in foliage, Ehrenbach.jpg",
+      "description": "Former schoolhouse in foliage, Ehrenbach",
+      "categories": [
+        "Former schoolhouses in Germany",
+        "CC-Zero",
+        "Leaves in autumn",
+        "Ehrenbach",
+        "Self-published work",
+        "Timber framing in Idstein"
+      ],
+      "auteur": "Gerda Arendt",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Former_schoolhouse_in_foliage,_Ehrenbach.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Former_schoolhouse_in_foliage%2C_Ehrenbach.jpg/1280px-Former_schoolhouse_in_foliage%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2961,
+      "hauteur": 2220
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:PROXY.jpg",
+      "description": "PROXY seen from the Moon",
+      "categories": [
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "SADTrance",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PROXY.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/PROXY.jpg/1280px-PROXY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1381,
+      "hauteur": 1841
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Hôtel de Ville de Paris - Central campanile tower and roof pavilions.jpg",
+      "description": "The 26.8-meter-tall French Renaissance Revival corner pavilion features a rusticated stone surface decorated with multi-level rows of historical statues set in individual niches, arched windows flanked by pilasters, and a crowning high-pitched slate mansard roof equipped with decorative stone dormers.",
+      "categories": [
+        "Exterior of Hôtel de Ville de Paris",
+        "Base Mérimée",
+        "Self-published work",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in France",
+        "Images of France by I.Mahesh",
+        "Images by User:I.Mahesh"
+      ],
+      "auteur": "iMahesh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_de_Paris_-_Central_campanile_tower_and_roof_pavilions.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/H%C3%B4tel_de_Ville_de_Paris_-_Central_campanile_tower_and_roof_pavilions.jpg/1280px-H%C3%B4tel_de_Ville_de_Paris_-_Central_campanile_tower_and_roof_pavilions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3903,
+      "hauteur": 5740
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Skylight of the Cuvilliés Theater in Münchner Residenz.jpg",
+      "description": "Skylight of the Cuvilliés Theater in Münchner Residenz",
+      "categories": [
+        "Cuvilliés-Theater",
+        "Skylights",
+        "Self-published work"
+      ],
+      "auteur": "AuHaidhausen",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg/1280px-Skylight_of_the_Cuvilli%C3%A9s_Theater_in_M%C3%BCnchner_Residenz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7685,
+      "hauteur": 5872
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

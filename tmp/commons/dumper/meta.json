@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Dump trucks"
+    ],
+    "incompatibles": [
+      "tombereau"
     ]
   },
   "candidats": [
@@ -155,6 +158,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg/1280px-Delivering_ballast_for_Track_A_in_Harold_Interlocking._%28CH057D%2C_10-19-2018%29_%2844844532394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1512,
       "hauteur": 2016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:2025-01-06 10 50 00 A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in Ewing Township, Mercer County, New Jersey.jpg",
+      "description": "A Mercer County Department of Transportation truck spreading salt and sand during a light snowfall along Mercer County Route 579 (Bear Tavern Road) in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+      "categories": [
+        "Salt spreaders",
+        "Dump trucks",
+        "Snowplows",
+        "Self-published work",
+        "Vehicles in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "Famartin's 2025 photos",
+        "Bear Tavern Road (Ewing Township, New Jersey)",
+        "Mercer County Department of Transportation",
+        "Famartin's January 2025 photos",
+        "Snow in Ewing Township, New Jersey on January 6, 2025"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-01-06_10_50_00_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_(Bear_Tavern_Road)_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2025-01-06_10_50_00_A_Mercer_County_Department_of_Transportation_truck_spreading_salt_and_sand_during_a_light_snowfall_along_Mercer_County_Route_579_%28Bear_Tavern_Road%29_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Évacuation neige abondante à La Rosière (février 2026).JPG",
+      "description": "Vue, en hiver après plusieurs jours de neige, de l'évacuation de l'excès de neige par camion dans la station de ski de La Rosière , en Savoie .",
+      "categories": [
+        "Dump trucks",
+        "La Rosière (Montvalezan)",
+        "Self-published work",
+        "Snow removal in France",
+        "Trucks in Savoie",
+        "Snow in Savoie in February 2026",
+        "Front end loaders",
+        "Case loaders in France"
+      ],
+      "auteur": "Florian Pépellin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_(f%C3%A9vrier_2026).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_%28f%C3%A9vrier_2026%29.JPG/1280px-%C3%89vacuation_neige_abondante_%C3%A0_La_Rosi%C3%A8re_%28f%C3%A9vrier_2026%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3176,
+      "hauteur": 2392
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Nord-Verk Dumper 140.jpg",
+      "description": "Nord-Verk Dumper 140 en Vallstena.",
+      "categories": [
+        "Dump trucks",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "November 2024 in Gotland",
+        "2024 in Vallstena",
+        "November 2024 by Bene Riobó",
+        "Trucks in Gotland",
+        "Construction vehicles by Bene Riobó"
+      ],
+      "auteur": "Bene Riobó",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nord-Verk_Dumper_140.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Nord-Verk_Dumper_140.jpg/1280px-Nord-Verk_Dumper_140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Peterbilt 330 dump with dirt tub dump body.JPG",
+      "description": "A Peterbilt 330 dump truck, this one equipped with a \"dirt tub\" dump body.",
+      "categories": [
+        "Taken with Nikon D3000",
+        "Dump trucks",
+        "Self-published work",
+        "Peterbilt 330",
+        "Four-wheeled dump trucks"
+      ],
+      "auteur": "Burningsaviour",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Peterbilt_330_dump_with_dirt_tub_dump_body.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Peterbilt_330_dump_with_dirt_tub_dump_body.JPG/1280px-Peterbilt_330_dump_with_dirt_tub_dump_body.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2026-08-15 09 31 02 A dump truck loading a Weiler P385B tracked commercial asphalt paver in a parking lot at Capital Health Medical Center - Hopewell in Hopewell Township, Mercer County, New Jersey.jpg",
+      "description": "A dump truck loading a Weiler P385B tracked commercial asphalt paver in a parking lot at Capital Health Medical Center - Hopewell in Hopewell Township, Mercer County, New Jersey",
+      "categories": [
+        "Dump trucks",
+        "Pavers (vehicles)",
+        "Self-published work",
+        "Roadworks in New Jersey",
+        "Parking lots in New Jersey",
+        "Files with coordinates missing SDC location of creation",
+        "Road resurfacing",
+        "Capital Health Medical Center - Hopewell",
+        "August 2026 in New Jersey",
+        "United States photographs taken on 2026-08-15",
+        "Famartin's 2026 photos",
+        "Famartin's August 2026 photos"
+      ],
+      "auteur": "Famartin",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2026-08-15_09_31_02_A_dump_truck_loading_a_Weiler_P385B_tracked_commercial_asphalt_paver_in_a_parking_lot_at_Capital_Health_Medical_Center_-_Hopewell_in_Hopewell_Township,_Mercer_County,_New_Jersey.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2026-08-15_09_31_02_A_dump_truck_loading_a_Weiler_P385B_tracked_commercial_asphalt_paver_in_a_parking_lot_at_Capital_Health_Medical_Center_-_Hopewell_in_Hopewell_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Zirgu Sala rekonstrukcija 2015 - 6 - panoramio.jpg",
+      "description": "Zirgu Sala rekonstrukcija 2015 - 6",
+      "categories": [
+        "Dump trucks",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2015-11-15",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 760796",
+        "Zirgu sala"
+      ],
+      "auteur": "---=XEON=---",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Zirgu_Sala_rekonstrukcija_2015_-_6_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Zirgu_Sala_rekonstrukcija_2015_-_6_-_panoramio.jpg/1280px-Zirgu_Sala_rekonstrukcija_2015_-_6_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

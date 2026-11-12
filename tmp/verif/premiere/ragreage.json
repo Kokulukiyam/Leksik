@@ -32,6 +32,22 @@
       "rectangle": null,
       "lieu": "",
       "note": "Paysage géologique."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Collines de craie et d'argile colorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage géologique, sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Collines de craie et d'argile colorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage géologique, sans rapport."
     }
   ]
 }

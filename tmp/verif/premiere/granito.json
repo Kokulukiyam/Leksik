@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Texte et autocollants visibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Portique de Bologne, sol de terrazzo en perspective sous des arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol peu lisible, sombre et trop petit dans l'image."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Seuil de temple taïwanais peint, avec sol en granito sur le bord.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol marginal, décor dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sol de terrazzo poli et brillant, éclats de marbre blancs et noirs dans une matrice brune, bordé d'un muret.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Venise, Italie",
+      "note": "Terrazzo typique occupant toute l'image, bien lisible. Le panneau « slippery » ne donne pas la réponse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Colonne décorée de mosaïque colorée et de terrazzo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor de colonne, pas un sol."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portique de Bologne avec inscriptions incrustées dans le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, sol peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Emblème « Canadian Legion » incrusté dans un sol en terrazzo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, emblème dominant."
     }
   ]
 }

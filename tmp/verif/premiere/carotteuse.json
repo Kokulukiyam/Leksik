@@ -48,6 +48,54 @@
       "note": "Tubes de forage, pas une carotteuse.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Carotteuse à main à couronne diamantée perçant un mur de parpaings, flexible d'eau.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine entière, couronne en action, nette."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrain de roche avec flaque et chantier lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Homme perçant un mur avec une carotteuse sur support.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tirupur, Inde",
+      "note": "Machine petite et partiellement masquée, quasi-doublon des images déjà retenues."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande tour de forage pétrolier dans la campagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Albanie",
+      "note": "Foreuse pétrolière."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur blanc avec trou après carottage, fenêtre et porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tirupur, Inde",
+      "note": "Trou seul, machine absente."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Longue fosse de glace avec passerelle jaune dans un camp de forage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Antarctique",
+      "note": "Sans rapport."
     }
   ]
 }

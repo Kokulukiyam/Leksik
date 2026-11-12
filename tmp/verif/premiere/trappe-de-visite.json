@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mécanique automobile."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cuve métallique avec un couvercle d'inspection ouvert et un orifice de remplissage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trappe de cuve, pas une trappe de visite de faux plafond ou de cloison ; contexte ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Blason sculpté en relief sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux militaires déposant un panneau d'accès sous un avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trappe d'avion, pas de bâtiment."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade carrelée avec blason et inscriptions latines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Compartiment moteur d'une voiture vu par une ouverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trappe de véhicule, pas de bâtiment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trappe d'accès verte sous le nez d'un avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trappe d'avion, pas de bâtiment."
     }
   ]
 }

@@ -101,6 +101,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Reproduction imprimée avec texte, sans rapport avec le pisé."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Gros plan d'un mur de terre ocre rosé en bandes horizontales successives, avec galets et trous de boulins.",
+      "verdict": "validée",
+      "lieu": "Alhambra, Grenade, Espagne",
+      "note": "Lits de terre compactée et trous de banche lisibles ; mur de terre damée (tapial).",
+      "rectangle": null
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Soubassement de pierres sèches surmonté de murs bruns lisses d'une ruine de château.",
+      "verdict": "rejetée",
+      "lieu": "Paderne, Portugal",
+      "note": "Partie en terre en contre-jour et peu lisible, rectangle ne lève pas le doute.",
+      "rectangle": null
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Chemin longeant un mur à soubassement de pierre et partie haute en terre lisse.",
+      "verdict": "rejetée",
+      "lieu": "Paderne, Portugal",
+      "note": "Matière de la partie haute peu distincte, mur en perspective.",
+      "rectangle": null
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Façade de grange avec grande porte verte, mur de terre irrégulier et briques en haut.",
+      "verdict": "rejetée",
+      "lieu": "Espagne",
+      "note": "Mur dégradé et crépi, peut passer pour du torchis, de l'adobe ou du banco.",
+      "rectangle": null
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Cuisine ancienne d'un écomusée : cheminée, table dressée, murs jaunes.",
+      "verdict": "rejetée",
+      "lieu": "Villa Ficana, Italie",
+      "note": "Intérieur, le matériau n'est pas montré.",
+      "rectangle": null
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Sentier au pied d'un mur à soubassement de pierres surmonté d'une partie en terre.",
+      "verdict": "rejetée",
+      "lieu": "Paderne, Portugal",
+      "note": "Partie en terre confuse, végétation.",
+      "rectangle": null
     }
   ]
 }

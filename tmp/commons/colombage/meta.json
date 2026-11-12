@@ -8,6 +8,12 @@
       "incategory:\"Half-timbered buildings\"",
       "half-timbered house",
       "colombage"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Half-timbered buildings",
+      "Category:Half-timbered houses",
+      "Category:Timber framing"
     ]
   },
   "candidats": [
@@ -149,6 +155,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg/1280px-Half-Timbered_House_on_Heisterbacher_Stra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6171,
       "hauteur": 5786
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Gasthaus zur Krone Ansicht von der Bücherei.jpg",
+      "description": "Gasthaus zur Krone",
+      "categories": [
+        "CC-Zero",
+        "Korbach",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Half-timbered buildings",
+        "Photographs taken on 2026-02-10"
+      ],
+      "auteur": "Silversurfer83",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gasthaus_zur_Krone_Ansicht_von_der_B%C3%BCcherei.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Gasthaus_zur_Krone_Ansicht_von_der_B%C3%BCcherei.jpg/1280px-Gasthaus_zur_Krone_Ansicht_von_der_B%C3%BCcherei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ausspanne Reinshagen 2025.jpg",
+      "description": "Half-timbered house with thatched roof in autumn",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Half-timbered houses"
+      ],
+      "auteur": "Ralph Oesker",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ausspanne_Reinshagen_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ausspanne_Reinshagen_2025.jpg/1280px-Ausspanne_Reinshagen_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Centralne Muzeum Morskie and SS Sołdek in Gdańsk.jpg",
+      "description": "Picture taken in w:Gdańsk after Wikimania 2010 conference . Centralne Muzeum Morskie and w:SS Sołdek .",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D90",
+        "Timber framing",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Files by DerHexer",
+        "Motława in Gdańsk",
+        "Billboards in Gdańsk",
+        "General views of Sołdek (ship, 1949)",
+        "Photographs of flags of Poland in Gdańsk",
+        "Granaries in Ołowianka 9-11",
+        "Files by DerHexer/Wikimania 2010 in Gdańsk and surrounding/Vacations"
+      ],
+      "auteur": "DerHexer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg/1280px-Centralne_Muzeum_Morskie_and_SS_So%C5%82dek_in_Gda%C5%84sk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3963,
+      "hauteur": 2680
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gasthaus zur Krone.jpg",
+      "description": "Gasthaus zur Krone",
+      "categories": [
+        "CC-Zero",
+        "Korbach",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (51° N, 8° E)",
+        "Half-timbered buildings",
+        "Photographs taken on 2026-02-10"
+      ],
+      "auteur": "Silversurfer83",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gasthaus_zur_Krone.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gasthaus_zur_Krone.jpg/1280px-Gasthaus_zur_Krone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Forsthaus Reinshagen.jpg",
+      "description": "Half-timbered house in winter",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Half-timbered houses"
+      ],
+      "auteur": "Ralph Oesker",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Forsthaus_Reinshagen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Forsthaus_Reinshagen.jpg/1280px-Forsthaus_Reinshagen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ackerhof Stöckheim 1 von 2.jpg",
+      "description": "Am Kirchenbring 6",
+      "categories": [
+        "Timber framing",
+        "Stöckheim-Leiferde",
+        "Self-published work"
+      ],
+      "auteur": "JuliusCeaser13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ackerhof_St%C3%B6ckheim_1_von_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ackerhof_St%C3%B6ckheim_1_von_2.jpg/1280px-Ackerhof_St%C3%B6ckheim_1_von_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

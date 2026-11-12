@@ -7,6 +7,12 @@
     "requetes": [
       "deepcat:\"Dormers\"",
       "lucarne toit"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Dormer windows",
+      "Category:Dormers",
+      "Category:Roof windows"
     ]
   },
   "candidats": [
@@ -243,6 +249,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lewin%2C_Chopina_4%2C_06.JPG/1280px-Lewin%2C_Chopina_4%2C_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3503,
       "hauteur": 2563
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Auderghem - Region Bruxelloise - Rouge-Cloître - Haus des Müllers - P1010744.jpg",
+      "description": "Vigne sur la facade de láncienne maison du meunier.",
+      "categories": [
+        "Dormer windows",
+        "Abbey of the Red Cloister",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "Windows in Brussels",
+        "Nature of Auderghem",
+        "Photographs by Horst J. Meuter/Belgium"
+      ],
+      "auteur": "Horst J. Meuter",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auderghem_-_Region_Bruxelloise_-_Rouge-Clo%C3%AEtre_-_Haus_des_M%C3%BCllers_-_P1010744.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Auderghem_-_Region_Bruxelloise_-_Rouge-Clo%C3%AEtre_-_Haus_des_M%C3%BCllers_-_P1010744.jpg/1280px-Auderghem_-_Region_Bruxelloise_-_Rouge-Clo%C3%AEtre_-_Haus_des_M%C3%BCllers_-_P1010744.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 2672
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Häuser an der Halde, Dachgauben, Aarau-1.jpg",
+      "description": "Häuser an der Halde, Dachgauben, Aarau",
+      "categories": [
+        "Dormers",
+        "Halden (Aarau)",
+        "GLAM-on-Tour Bibliothek und Archiv Aargau 2025",
+        "Photographs by Elena Ternovaja-Aarau, Schweiz"
+      ],
+      "auteur": "Elena Ternovaja",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:H%C3%A4user_an_der_Halde,_Dachgauben,_Aarau-1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/H%C3%A4user_an_der_Halde%2C_Dachgauben%2C_Aarau-1.jpg/1280px-H%C3%A4user_an_der_Halde%2C_Dachgauben%2C_Aarau-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3558
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Renault Master Citybus E-Tech, Busworld Europe 2025, Brussels (20251003-P1051920).jpg",
+      "description": "Busworld Europe 2025",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Roof windows",
+        "Self-published work",
+        "Bus interiors in Belgium",
+        "CC-BY-SA-2.0+",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Battery-powered buses in Belgium",
+        "Pictures by MB-one to review",
+        "Taken with Panasonic Lumix DC-G91 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Busworld Europe 2025 (supported by WMDE)",
+        "Buses at Busworld Europe 2025",
+        "Renault Pro+ at Busworld Europe 2025",
+        "Renault Master IV buses"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Renault_Master_Citybus_E-Tech,_Busworld_Europe_2025,_Brussels_(20251003-P1051920).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg/1280px-Renault_Master_Citybus_E-Tech%2C_Busworld_Europe_2025%2C_Brussels_%2820251003-P1051920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gaube modern, Brandenburg a.d.H., 2015.jpg",
+      "description": "Gaube modern, Brandenburg a.d.H., 2015",
+      "categories": [
+        "Dormer windows",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gaube_modern,_Brandenburg_a.d.H.,_2015.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Gaube_modern%2C_Brandenburg_a.d.H.%2C_2015.jpg/1280px-Gaube_modern%2C_Brandenburg_a.d.H.%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Roofes.JPG",
+      "description": "",
+      "categories": [
+        "Biberschwanz roofs in Germany",
+        "GFDL",
+        "Taken with AIPTEK DV 3300",
+        "Dormers",
+        "Roofscapes",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "License migration completed",
+        "Media missing infobox template",
+        "2005 in Meißen",
+        "Views from Schloßbrücke (Meißen)"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roofes.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Roofes.JPG/1280px-Roofes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dachgaube (Göttingen-Weende, Klostergut Weende, 2024).jpg",
+      "description": "Dachgaube (Göttingen-Weende, Klostergut Weende, 2024)",
+      "categories": [
+        "Dormer windows",
+        "Weende (Göttingen)",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dachgaube_(G%C3%B6ttingen-Weende,_Klostergut_Weende,_2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Dachgaube_%28G%C3%B6ttingen-Weende%2C_Klostergut_Weende%2C_2024%29.jpg/1280px-Dachgaube_%28G%C3%B6ttingen-Weende%2C_Klostergut_Weende%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2400,
+      "hauteur": 1800
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

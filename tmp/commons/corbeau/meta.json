@@ -12,6 +12,16 @@
       "corbel stone wall castle",
       "corbels supporting beam",
       "corbeaux pierre"
+    ],
+    "incompatibles": [
+      "modillon",
+      "console"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Corbels",
+      "Category:Corbel tables",
+      "Category:Stone corbels"
     ]
   },
   "candidats": [
@@ -249,7 +259,166 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Eastnor_Castle_%2833923357391%29.jpg/1280px-Eastnor_Castle_%2833923357391%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4608,
       "hauteur": 3456
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Carved cobles. Wellcome M0005720.jpg",
+      "description": "Carved cobles. Various designs and shades. Wellcome Images Keywords: Architecture; Architecture as Topic",
+      "categories": [
+        "Corbels",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carved_cobles._Wellcome_M0005720.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Carved_cobles._Wellcome_M0005720.jpg/1280px-Carved_cobles._Wellcome_M0005720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3069,
+      "hauteur": 4072
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:BANESA QYTETARE SHKODRANE.jpg",
+      "description": "Ceci est une image d'un monument en Albanie, numéro :",
+      "categories": [
+        "Images from Wiki Loves Monuments 2018",
+        "Self-published work",
+        "Balconies in Albania",
+        "Bicycles in Albania",
+        "Men wearing yellow shorts",
+        "Mercedes-Benz automobiles in Albania",
+        "Nominated pictures for Wiki Loves Monuments International",
+        "Sidewalk cafés in Albania",
+        "Potted plants in Albania",
+        "June 2018 Albania photographs",
+        "Cultural heritage monuments in Albania with unknown IDs",
+        "Uploaded via Campaign:wlm-al",
+        "Corner buildings in Albania",
+        "Flower boxes in Albania",
+        "Files with coordinates missing SDC location of creation",
+        "Street photography in Albania",
+        "Images from Wiki Loves Monuments 2018 in Albania",
+        "Clouds and blue sky in Albania",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Women cycling",
+        "Streets in Shkodër",
+        "Striped awnings",
+        "Women calling with mobile phones",
+        "Corbel tables",
+        "Cultural heritage monuments in Shkodër County",
+        "Images from Wiki Loves Monuments 2018 European Special Award",
+        "Gjuhadol",
+        "Cycling in Shkodër"
+      ],
+      "auteur": "Sali Jonuzi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BANESA_QYTETARE_SHKODRANE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/BANESA_QYTETARE_SHKODRANE.jpg/1280px-BANESA_QYTETARE_SHKODRANE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5670,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Corbel @ Palais des Papes d'Avignon.jpg",
+      "description": "Modillon au palais des Papes, Avignon, Vaucluse, France",
+      "categories": [
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Files by User:Rémih from fr.wikipedia",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Self-published work missing SDC copyright license",
+        "Corbels in Vaucluse",
+        "Gothic corbels in France",
+        "Stone corbels",
+        "July 2026 in Avignon",
+        "Interiors of Palais des Papes d'Avignon"
+      ],
+      "auteur": "Rémih",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_@_Palais_des_Papes_d%27Avignon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Corbel_%40_Palais_des_Papes_d%27Avignon.jpg/1280px-Corbel_%40_Palais_des_Papes_d%27Avignon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Carved cobles. Wellcome M0005718.jpg",
+      "description": "Carved cobles. Various designs and shades. Wellcome Images Keywords: Architecture; Architecture as Topic",
+      "categories": [
+        "Corbels",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carved_cobles._Wellcome_M0005718.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Carved_cobles._Wellcome_M0005718.jpg/1280px-Carved_cobles._Wellcome_M0005718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3425,
+      "hauteur": 3064
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Low-end EF3 damage to a home in Virginia Beach, Virginia.jpg",
+      "description": "A house destroyed, in Virginia Beach, Virginia, by an intense EF3 tornado on April 30, 2023. The National Weather Service rated the damage to this house EF3 on the Enhanced Fujita scale , with winds estimated to have been at 145 miles per hour (233 km/h).",
+      "categories": [
+        "Featured pictures of Virginia",
+        "PD US NOAA",
+        "May 2023 in Virginia",
+        "Brick houses in Virginia Beach, Virginia",
+        "Files with coordinates missing SDC location of creation",
+        "2023 tornado damage",
+        "Tornado damage in Virginia",
+        "Featured pictures taken with mobile phones",
+        "Clouds and blue sky in Virginia",
+        "United States photographs taken on 2023-05-01",
+        "Three-quarter views of buildings",
+        "Tornadoes in the United States in April 2023",
+        "Featured photographs in the public domain",
+        "Houses damaged by tornadoes",
+        "Corbel tables",
+        "EF3 tornadoes in 2023",
+        "Featured pictures of buildings in the United States"
+      ],
+      "auteur": "National Weather Service",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Low-end_EF3_damage_to_a_home_in_Virginia_Beach,_Virginia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Low-end_EF3_damage_to_a_home_in_Virginia_Beach%2C_Virginia.jpg/1280px-Low-end_EF3_damage_to_a_home_in_Virginia_Beach%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Broletto facciata scultura mensola 7 Brescia.jpg",
+      "description": "Romanic corbel figure of the West facade of the Broletto building in Brescia",
+      "categories": [
+        "GFDL",
+        "Taken with Hasselblad X1D",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Moroder/Brescia",
+        "Photos by Moroder",
+        "Corbels in Italy",
+        "Corbel figures",
+        "Romanesque corbels in Lombardy",
+        "Files with coordinates missing SDC location of creation",
+        "Stone corbels",
+        "Loggia delle Grida (Brescia)"
+      ],
+      "auteur": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broletto_facciata_scultura_mensola_7_Brescia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Broletto_facciata_scultura_mensola_7_Brescia.jpg/1280px-Broletto_facciata_scultura_mensola_7_Brescia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4500,
+      "hauteur": 6004
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

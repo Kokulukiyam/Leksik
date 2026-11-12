@@ -1,11 +1,111 @@
 {
   "termId": "mascaron",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Tête grimaçante entourée de rinceaux dorés au-dessus d'un cartouche d'inscription « Im 60. Regierungsjahr Franz Josef I errichtet ».", "verdict": "rejetée", "rectangle": null, "lieu": "Stadttheater, Klagenfurt, Autriche", "note": "Le cartouche et son inscription dominent l'image, le mascaron n'est qu'en couronnement ; candidates 04 et 05 plus nettes."},
-    {"fichier": "02.jpg", "vu": "Visages monumentaux sculptés dans les blocs de grès des tours du Bayon.", "verdict": "rejetée", "rectangle": null, "lieu": "Bayon, Angkor, Cambodge", "note": "Tours à visages khmères, pas des masques ornant une clé, une console ou une fontaine."},
-    {"fichier": "03.jpg", "vu": "Masque de pierre stylisé à bouche béante creuse, scellé dans un mur enduit.", "verdict": "rejetée", "rectangle": null, "lieu": "Brückenstraße 9, Trèves, Allemagne", "note": "« Schrotmaul » : bouche creuse fonctionnelle qui peut évoquer un déversoir (confusion avec la gargouille)."},
-    {"fichier": "04.jpg", "vu": "Tête barbue couronnée de feuillage sculptée sur la clé d'un arc de baie, sous un bandeau mouluré, au-dessus d'un store.", "verdict": "validée", "rectangle": {"x": 0.40, "y": 0.15, "largeur": 0.185, "hauteur": 0.37}, "lieu": "16 place Vendôme, Paris, France", "note": "Mascaron de clé d'arc typique, net ; rectangle pour écarter bandeau et corniche. Catégorie Commons « Retouched pictures » (retouche photographique légère), photo réelle."},
-    {"fichier": "05.jpg", "vu": "Gros plan d'un masque de théâtre sculpté à cheveux bouclés et drapé, sur la clé d'un arc en pierre blanche.", "verdict": "validée", "rectangle": null, "lieu": "Teatro La Fenice, Venise, Italie", "note": "Mascaron de clé d'arc dominant, parfaitement lisible ; aucun élément concurrent."},
-    {"fichier": "06.jpg", "vu": "Fontaine adossée avec fronton, bas-relief de Léda au cygne, jet d'eau et trois petits mascarons de bronze en partie basse.", "verdict": "rejetée", "rectangle": null, "lieu": "Fontaine de Léda, Jardin du Luxembourg, Paris, France", "note": "Mascarons trop petits ; fronton et bas-relief dominent l'image."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Tête grimaçante entourée de rinceaux dorés au-dessus d'un cartouche d'inscription « Im 60. Regierungsjahr Franz Josef I errichtet ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stadttheater, Klagenfurt, Autriche",
+      "note": "Le cartouche et son inscription dominent l'image, le mascaron n'est qu'en couronnement ; candidates 04 et 05 plus nettes."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Visages monumentaux sculptés dans les blocs de grès des tours du Bayon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bayon, Angkor, Cambodge",
+      "note": "Tours à visages khmères, pas des masques ornant une clé, une console ou une fontaine."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Masque de pierre stylisé à bouche béante creuse, scellé dans un mur enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brückenstraße 9, Trèves, Allemagne",
+      "note": "« Schrotmaul » : bouche creuse fonctionnelle qui peut évoquer un déversoir (confusion avec la gargouille)."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Tête barbue couronnée de feuillage sculptée sur la clé d'un arc de baie, sous un bandeau mouluré, au-dessus d'un store.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.15,
+        "largeur": 0.185,
+        "hauteur": 0.37
+      },
+      "lieu": "16 place Vendôme, Paris, France",
+      "note": "Mascaron de clé d'arc typique, net ; rectangle pour écarter bandeau et corniche. Catégorie Commons « Retouched pictures » (retouche photographique légère), photo réelle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'un masque de théâtre sculpté à cheveux bouclés et drapé, sur la clé d'un arc en pierre blanche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Teatro La Fenice, Venise, Italie",
+      "note": "Mascaron de clé d'arc dominant, parfaitement lisible ; aucun élément concurrent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fontaine adossée avec fronton, bas-relief de Léda au cygne, jet d'eau et trois petits mascarons de bronze en partie basse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fontaine de Léda, Jardin du Luxembourg, Paris, France",
+      "note": "Mascarons trop petits ; fronton et bas-relief dominent l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tête féminine sculptée en gros plan, couronnée de grappes de raisin, posée en clé sur un arc.",
+      "verdict": "validée",
+      "lieu": "Merano, Italie",
+      "note": "Masque sculpté en clé d'arc, net et dominant.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade en pierre avec balcon et baie ronde ; petit masque au milieu d'un décor de feuillages au-dessus de la baie.",
+      "verdict": "rejetée",
+      "lieu": "Orange, France",
+      "note": "Mascaron petit et noyé dans le décor, oculus plus visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Visage barbu sculpté en relief sur un support en pierre en forme de console, au-dessus d'un petit pendentif.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.26,
+        "y": 0.13,
+        "largeur": 0.5,
+        "hauteur": 0.52
+      },
+      "lieu": "Montpellier, France",
+      "note": "Rectangle sur le visage pour lever la confusion avec la console."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tête humaine fruste sculptée en cul-de-lampe contre un arc d'église en pierre et brique.",
+      "verdict": "rejetée",
+      "lieu": "Hinxworth, Royaume-Uni",
+      "note": "Pierre usée, pourrait être pris pour un corbeau ou une tête de corbel médiéval.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte double en bois dans une façade blanche, petit masque de femme au-dessus entre des feuillages.",
+      "verdict": "rejetée",
+      "lieu": "Ivry-sur-Seine, France",
+      "note": "Mascaron trop petit sur la photo.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin ancien à la sanguine de l'Enfer de Dante avec portique.",
+      "verdict": "rejetée",
+      "note": "Dessin, pas une photo.",
+      "rectangle": null,
+      "lieu": ""
+    }
   ]
 }

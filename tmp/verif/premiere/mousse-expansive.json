@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mousse projetée, scène large, mousse non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poteau en bois calé par un amas de mousse polyuréthane au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse coulée en calage, pas l'usage autour des menuiseries ; confusion avec la mousse projetée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Surface verte striée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvrier projetant de l'isolant sous un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mousse projetée (isolant), terme voisin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bonhomme de neige en mousse isolante jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas un usage de chantier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plafond isolé par projection.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Isolant projeté, terme voisin."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rouleau violet debout.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

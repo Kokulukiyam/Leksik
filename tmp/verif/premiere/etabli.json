@@ -48,6 +48,54 @@
       "note": "Aucun établi.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Calculatrice ancienne posée sur un établi d'atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "L'établi n'est pas l'objet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Table de fabrication de bouchons de liège dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vilafranca del Penedès",
+      "note": "Table de musée, pas un établi clair."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soudeur à l'œuvre sur une table à trous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Table de soudage, poste à souder en vedette."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plan de travail en bois massif avec balance et bidons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint Louis",
+      "note": "Plan de cuisine, pas un établi."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit établi de bois dans un local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rotterdam",
+      "note": "Établi peu lisible, scène encombrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Présentoirs d'outils de vélo sur stand.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort",
+      "note": "Sans rapport."
     }
   ]
 }

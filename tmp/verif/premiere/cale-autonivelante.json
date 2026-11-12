@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cales trop petites et incertaines pour être lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pose de grands carreaux au sol dans une pièce en travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les cales ne sont pas visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Foret de carrelage perçant un carreau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vestibule d'immeuble ancien avec sol en damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Surface de carreaux ajourés ornementaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Terrasse en travaux avec dalle brute.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau d'azulejos avec l'inscription CAFÉ.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport, texte visible."
     }
   ]
 }

@@ -7,6 +7,14 @@
     "requetes": [
       "incategory:\"Rose windows\"",
       "rose window"
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "oeil-de-boeuf"
+    ],
+    "categoriesCommons": [
+      "Category:Rose windows",
+      "Category:Rose windows in France"
     ]
   },
   "candidats": [
@@ -131,6 +139,136 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Rozeta_sa_crkve_iz_smederevske_tvr%C4%91ave.jpg/1280px-Rozeta_sa_crkve_iz_smederevske_tvr%C4%91ave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3618,
       "hauteur": 2585
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Rosewindow.jpeg",
+      "description": "",
+      "categories": [
+        "Taken with BRCM 2157",
+        "Rose windows",
+        "Media lacking a description",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2013-03-17"
+      ],
+      "auteur": "User:JASpencer",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rosewindow.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Rosewindow.jpeg/1280px-Rosewindow.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:-Notre Dame Cathedral, Rose Window, North Transept- MET DP-1757-030.jpg",
+      "description": "Photograph; Photographs",
+      "categories": [
+        "CC-Zero",
+        "Department of Photographs, Metropolitan Museum of Art",
+        "Joseph-Philibert Girault de Prangey",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "Rose windows in France",
+        "1841 photographs",
+        "GWToolset Batch Upload",
+        "Notre-Dame de Paris in the 1840s",
+        "Daguerreotypes in the Metropolitan Museum of Art",
+        "Joseph Pulitzer Bequest",
+        "Benefit Fund",
+        "Gift of Dr. Mortimer D. Sackler",
+        "Joyce F. Menschel Gift",
+        "Mr. and Mrs. John A. Moran Gift"
+      ],
+      "auteur": "Joseph-Philibert Girault de Prangey",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-Notre_Dame_Cathedral,_Rose_Window,_North_Transept-_MET_DP-1757-030.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/-Notre_Dame_Cathedral%2C_Rose_Window%2C_North_Transept-_MET_DP-1757-030.jpg/1280px--Notre_Dame_Cathedral%2C_Rose_Window%2C_North_Transept-_MET_DP-1757-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3392,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Keila kiriku roosaken.JPG",
+      "description": "Keila kiriku roosaken",
+      "categories": [
+        "Rose windows",
+        "Keila Church",
+        "Items with VRTS permission confirmed",
+        "Estonia photographs taken on 2008-05-01",
+        "Stained-glass windows of churches in Estonia"
+      ],
+      "auteur": "Keila linnavalitsus",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Keila_kiriku_roosaken.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Keila_kiriku_roosaken.JPG/1280px-Keila_kiriku_roosaken.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Mission San Jose, Texas, USA - panoramio (3).jpg",
+      "description": "Mission San Jose, Texas, USA",
+      "categories": [
+        "Rose windows",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Windows in San Antonio, Texas",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2015-01-12",
+        "Spanish inscriptions in Texas",
+        "Bilingual English-Spanish signs in the United States",
+        "Interpretive signs of the U.S. National Park Service",
+        "January 2015 in San Antonio, Texas",
+        "Bilingual signs of the U.S. National Park Service",
+        "Photos from Panoramio ID 2353739",
+        "Signs in Mission San José y San Miguel de Aguayo"
+      ],
+      "auteur": "MARELBU",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mission_San_Jose,_Texas,_USA_-_panoramio_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mission_San_Jose%2C_Texas%2C_USA_-_panoramio_%283%29.jpg/1280px-Mission_San_Jose%2C_Texas%2C_USA_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3701,
+      "hauteur": 2837
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Sanctuaire Notre-Dame-du-Cap (48430311951).jpg",
+      "description": "Canada, Window by Jan Tilleman",
+      "categories": [
+        "Images with watermarks",
+        "Interior of Basilique Notre-Dame-du-Cap",
+        "Rose windows in France",
+        "Canada photographs taken on 2019-07-03",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photos by David Zhang",
+        "Jan Tillemans"
+      ],
+      "auteur": "David Zhang from Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sanctuaire_Notre-Dame-du-Cap_(48430311951).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Sanctuaire_Notre-Dame-du-Cap_%2848430311951%29.jpg/1280px-Sanctuaire_Notre-Dame-du-Cap_%2848430311951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7952,
+      "hauteur": 5304
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Розета Жича.jpg",
+      "description": "Rose window, Žiča monastery",
+      "categories": [
+        "Rose windows",
+        "Žiča Monastery"
+      ],
+      "auteur": "Gmihail sur Wikipédia serbe",
+      "licence": "CC BY-SA 3.0 rs",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%BE%D0%B7%D0%B5%D1%82%D0%B0_%D0%96%D0%B8%D1%87%D0%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%A0%D0%BE%D0%B7%D0%B5%D1%82%D0%B0_%D0%96%D0%B8%D1%87%D0%B0.jpg/1280px-%D0%A0%D0%BE%D0%B7%D0%B5%D1%82%D0%B0_%D0%96%D0%B8%D1%87%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 2304
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

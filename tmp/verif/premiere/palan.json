@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand hall de station avec palans jaunes minuscules en hauteur et escalator suspendu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Palans trop petits, scène chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Potence rouge fixée contre une façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liverpool",
+      "note": "Pas de palan."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur d'atelier rempli de palans à chaîne et à levier jaunes suspendus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Haltern am See, Allemagne",
+      "note": "Nombreux palans à chaîne nets, chaînes et crochets ; aucune confusion avec la poulie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vieux treuil à engrenages rouillé dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Primelin, France",
+      "note": "Treuil, pas un palan."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bogie d'un engin ferroviaire jaune avec chaîne rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palan non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cour intérieure d'un entrepôt ancien à plusieurs étages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Anvers",
+      "note": "Palan non visible."
     }
   ]
 }

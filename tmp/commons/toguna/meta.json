@@ -3,10 +3,17 @@
     "id": "toguna",
     "terme": "le toguna",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Abri de palabres du pays dogon, au toit très épais de tiges de mil posé sur des piliers bas.",
+    "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
     "requetes": [
       "toguna",
       "togu na Dogon"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Dogon architecture"
+    ],
+    "incompatibles": [
+      "paillote"
     ]
   },
   "candidats": [
@@ -131,6 +138,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_5.jpg/1280px-Park_rze%C5%BAby_na_br%C3%B3dnie_toguna_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3160,
       "hauteur": 4472
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bandiagara escarpment 1.jpg",
+      "description": "Cliff dwellings in the Bandiagara escarpment — in the Sahel region of Mali.",
+      "categories": [
+        "Taken with Canon EOS 20D",
+        "Bandiagara Escarpment",
+        "2006 in Mali",
+        "Flickr images reviewed by FlickreviewR",
+        "Dogon architecture",
+        "March 2006 in Africa",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, the Netherlands",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bandiagara_escarpment_1.jpg/1280px-Bandiagara_escarpment_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2336,
+      "hauteur": 3504
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bandiagara escarpment1.jpg",
+      "description": "Cliff of Bandiagara, Dogon, Mali",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Dogon architecture",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, Holland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bandiagara_escarpment1.jpg/1280px-Bandiagara_escarpment1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bandiagara escarpment 2.jpg",
+      "description": "Cliff dwellings in the Bandiagara escarpment — in the Sahel region of Mali.",
+      "categories": [
+        "Bandiagara Escarpment",
+        "Teli (Mali)",
+        "Flickr images reviewed by FlickreviewR",
+        "Dogon architecture",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, Holland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bandiagara_escarpment_2.jpg/1280px-Bandiagara_escarpment_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bandiagara escarpment2.jpg",
+      "description": "The Bandiagara Escarpment is an escarpment in the Dogon country — in the Sahel region of Mali. The sandstone cliff rises about 500 meters above the lower sandy flats to the south. It has a length of approximately 150 kilometers. The area of the escarpment is inhabited today by the Dogon people. Before the Dogon the escarpment was inhabited by the Tellem and Toloy. Many structures remain from the Tellem. The Bandiagara Escarpment was listed in the UNESCO World Heritage List in 1989.",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Dogon architecture",
+        "Photographs by Ferdinand Reus",
+        "Tellem dwellings"
+      ],
+      "auteur": "Ferdinand Reus from Arnhem, Holland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandiagara_escarpment2.jpg/1280px-Bandiagara_escarpment2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Les montagnes du Macina-Habitations des Habbès (AOF).jpg",
+      "description": "*François-Edmond Fortier, Les montagnes du Macina. Habitations des Habbès dans les excavations des falaises . Afrique Occidentale - Soudan.",
+      "categories": [
+        "Bandiagara Escarpment",
+        "PD-old-70-expired",
+        "Dogon architecture",
+        "CC-PD-Mark",
+        "Macina, Mali",
+        "PD-old missing SDC copyright status",
+        "Postcards published by François-Edmond Fortier",
+        "Postcards of Mopti Region"
+      ],
+      "auteur": "François-Edmond Fortier (1862-1928)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_(AOF).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_%28AOF%29.jpg/1280px-Les_montagnes_du_Macina-Habitations_des_Habb%C3%A8s_%28AOF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1618,
+      "hauteur": 1031
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Casas dogon.jpg",
+      "description": "Dogon houses from the XIV century. UNESCO",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS 970 IS",
+        "License migration redundant",
+        "Self-published work",
+        "Dogon architecture",
+        "Tellem dwellings"
+      ],
+      "auteur": "Andres.barragan",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casas_dogon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Casas_dogon.jpg/1280px-Casas_dogon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

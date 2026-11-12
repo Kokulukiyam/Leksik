@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plaques vibrantes."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plaque vibrante jaune posée sur du gravier.",
+      "verdict": "rejetée",
+      "lieu": "",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plaque vibrante orange et grise sur le sol d'un salon professionnel.",
+      "verdict": "rejetée",
+      "lieu": "Brno, Tchéquie",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plaque vibrante réversible jaune sur un dallage.",
+      "verdict": "rejetée",
+      "lieu": "",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier avec une plaque vibrante sur un enrobé frais, rouleau compacteur derrière.",
+      "verdict": "rejetée",
+      "lieu": "Grand Canyon, États-Unis",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trois militaires autour d'une plaque vibrante orange sur un chantier.",
+      "verdict": "rejetée",
+      "lieu": "Thaïlande",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier guidant une plaque vibrante sur remblai le long d'une voie ferrée.",
+      "verdict": "rejetée",
+      "lieu": "New York, États-Unis",
+      "note": "Plaque vibrante, pas une pilonneuse (machine haute et étroite qui frappe le sol par sauts).",
+      "rectangle": null
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Parquet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol coloré en extérieur, ambiance photographique artistique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Papillon en mosaïque au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Élève écrivant penchée sur un sol gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dallage d'ardoise cornouaillaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sol de salle de bain en carreaux brunâtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrelage, pas de la résine."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Danseur sur un plancher de salle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau non identifiable."
     }
   ]
 }

@@ -15,5 +15,7 @@
       "spatule-crantee"
     ]
   },
-  "candidats": []
+  "candidats": [],
+  "suite": true,
+  "suiteCategories": true
 }

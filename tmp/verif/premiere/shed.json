@@ -58,6 +58,54 @@
       },
       "lieu": "Wainstalls, Angleterre",
       "note": "Succession de sheds caractéristique ; cadre sur la toiture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toits en dents de scie au-dessus de terrains de sport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage non visible, versants pâles : doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ruelle avec entrepôts en bois à toits en tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dents de scie peu lisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maisons en bois à toits monopentes décalés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toits monopente d'habitation, pas un shed industriel vitré."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruelle japonaise bordée d'ateliers à toits en dents de scie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profil peu lisible, poteau devant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Halls à toitures courbes en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toitures voûtées, pas un shed."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pignons en tôle rouillée d'une usine à toiture en dents de scie, tournés vers le ciel.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ichinomiya, Japon",
+      "note": "Profil en dents de scie asymétrique clair d'un bâtiment industriel."
     }
   ]
 }

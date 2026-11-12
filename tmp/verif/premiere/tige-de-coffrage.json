@@ -48,6 +48,30 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dessin hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Page de texte d'un brevet américain de 1917.",
+      "verdict": "rejetée",
+      "note": "Document imprimé, pas une photo de l'objet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessin de brevet d'un coffrage à tirants.",
+      "verdict": "rejetée",
+      "note": "Dessin technique, pas une photo.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salle de conférence avec public devant un écran sur les réseaux sociaux.",
+      "verdict": "rejetée",
+      "note": "Sans rapport avec le terme.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

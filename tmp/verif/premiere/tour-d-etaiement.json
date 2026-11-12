@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Tours d'étaiement sous coffrage de pont, rectangle sur les tours."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade coloniale à arcades dont les arcs sont étayés par des cintres de bois.",
+      "verdict": "rejetée",
+      "lieu": "La Havane, Cuba",
+      "note": "Étaiement en bois, pas une tour de cadres métalliques.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de contournement : coffrage voûté et tables de coffrage empilées au sol.",
+      "verdict": "rejetée",
+      "lieu": "Plzeň, Tchéquie",
+      "note": "Tour d'étaiement non visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grands tubes d'acier blancs formant butons dans une fouille.",
+      "verdict": "rejetée",
+      "lieu": "Genève, Suisse",
+      "note": "Butons de fouille, pas de tours.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portiques métalliques en treillis sur pieux au-dessus de l'eau, pont en construction.",
+      "verdict": "rejetée",
+      "lieu": "Baie de San Francisco, États-Unis",
+      "note": "Cintre en treillis, pas une tour de cadres empilés.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fouille avec butons tubulaires blancs et immeubles en construction.",
+      "verdict": "rejetée",
+      "lieu": "Genève, Suisse",
+      "note": "Butons de fouille, pas de tours.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chantier de tunnel routier voûté, loin, avec grue.",
+      "verdict": "rejetée",
+      "lieu": "Plzeň, Tchéquie",
+      "note": "Tours d'étaiement trop petites et lointaines.",
+      "rectangle": null
     }
   ]
 }

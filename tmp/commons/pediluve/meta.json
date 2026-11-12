@@ -116,6 +116,105 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bronte_Splash_-_Flickr_-_Link1.jpg/1280px-Bronte_Splash_-_Flickr_-_Link1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1500,
       "hauteur": 1000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Casa de Viseu Campestre 16.jpg",
+      "description": "3453453",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work",
+        "Casa do Distrito de Viseu do RJ"
+      ],
+      "auteur": "Mauriciograce",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_Viseu_Campestre_16.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Casa_de_Viseu_Campestre_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 960,
+      "hauteur": 720
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:42064096Վլադիմիր.jpg",
+      "description": "Vladimir Harutyunyan",
+      "categories": [
+        "CC-Zero",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Արշո",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg/1280px-42064096%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Catania 1.jpg",
+      "description": "Creamos comunidades sustentables con plusvalía.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work",
+        "Vivienda",
+        "Sustentabilidad Innovación"
+      ],
+      "auteur": "Comunidad Vinte",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catania_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Catania_1.jpg/1280px-Catania_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3181,
+      "hauteur": 2122
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Children and adults are playing in a swimming pool.jpg",
+      "description": "In a swimming pool, children and adults enjoy the water on a sunny summer day. Some splash while others relax. The scene shows fun and laughter among friends and family.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Children_and_adults_are_playing_in_a_swimming_pool.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Children_and_adults_are_playing_in_a_swimming_pool.jpg/1280px-Children_and_adults_are_playing_in_a_swimming_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A person is in the water. Back view.jpg",
+      "description": "A person is in the water, facing away from the camera. Another person is swimming nearby. The scene shows a quiet indoor pool area with lights reflecting on the water.",
+      "categories": [
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_person_is_in_the_water._Back_view.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/A_person_is_in_the_water._Back_view.jpg/1280px-A_person_is_in_the_water._Back_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5085,
+      "hauteur": 3390
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Child swims in a swimming pool on a sunny day with water splashing around.jpg",
+      "description": "A child swims in a clear swimming pool during the afternoon. Water splashes around as the child enjoys the activity. The sun shines brightly above.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg/1280px-Child_swims_in_a_swimming_pool_on_a_sunny_day_with_water_splashing_around.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

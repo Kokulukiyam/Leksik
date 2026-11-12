@@ -1,11 +1,111 @@
 {
   "termId": "rosace",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Vue intérieure d'une grande baie circulaire à remplage rayonnant garnie de vitraux très colorés.", "verdict": "validée", "rectangle": null, "lieu": "Cathédrale du Sacré-Cœur, Tachkent, Ouzbékistan", "note": "Rosace à remplage et vitraux, occupant toute l'image ; aucun doute possible."},
-    {"fichier": "02.jpg", "vu": "Disque de pierre sculpté d'entrelacs et de petites roues, inscrit dans un enduit rouge, sans ouverture.", "verdict": "rejetée", "rectangle": null, "lieu": "Monastère de Žiča, Serbie", "note": "Rosace aveugle sans vitrage : ne correspond pas à la définition (baie garnie de vitraux) et pourrait passer pour un simple médaillon décoratif."},
-    {"fichier": "03.jpg", "vu": "Façade d'église en moellons avec une baie ronde à vitrail en étoile, et un panneau peint en kinyarwanda au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Kibuye, Rwanda", "note": "Vitrail en étoile sans remplage, cadrage encombré par le bâtiment annexe et le panneau texte."},
-    {"fichier": "04.jpg", "vu": "Nef d'une église gothique en enfilade, avec une petite rosace lumineuse au fond au-dessus de trois lancettes.", "verdict": "rejetée", "rectangle": null, "lieu": "Sant'Andrea, Verceil, Italie", "note": "Rosace trop petite (environ 8 % de la largeur), sombre, illisible sur téléphone ; colonnes et chapiteaux concurrents."},
-    {"fichier": "05.jpg", "vu": "Façade en brique avec une baie circulaire à remplage en pétales, entourée de voussures moulurées, au-dessus d'une corniche à modillons.", "verdict": "validée", "rectangle": {"x": 0.345, "y": 0.255, "largeur": 0.41, "hauteur": 0.445}, "lieu": "Chapelle San José, Quito, Équateur", "note": "Rosace nette ; rectangle nécessaire pour écarter la corniche à modillons visible en dessous."},
-    {"fichier": "06.jpg", "vu": "Fragment de remplage circulaire en pierre érodée, exposé sur un socle dans un musée.", "verdict": "rejetée", "rectangle": null, "lieu": "Musée de Smederevo, Serbie", "note": "Fragment muséal hors œuvre, sans vitraux, peu lisible."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Vue intérieure d'une grande baie circulaire à remplage rayonnant garnie de vitraux très colorés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Cathédrale du Sacré-Cœur, Tachkent, Ouzbékistan",
+      "note": "Rosace à remplage et vitraux, occupant toute l'image ; aucun doute possible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Disque de pierre sculpté d'entrelacs et de petites roues, inscrit dans un enduit rouge, sans ouverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monastère de Žiča, Serbie",
+      "note": "Rosace aveugle sans vitrage : ne correspond pas à la définition (baie garnie de vitraux) et pourrait passer pour un simple médaillon décoratif."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Façade d'église en moellons avec une baie ronde à vitrail en étoile, et un panneau peint en kinyarwanda au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kibuye, Rwanda",
+      "note": "Vitrail en étoile sans remplage, cadrage encombré par le bâtiment annexe et le panneau texte."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Nef d'une église gothique en enfilade, avec une petite rosace lumineuse au fond au-dessus de trois lancettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sant'Andrea, Verceil, Italie",
+      "note": "Rosace trop petite (environ 8 % de la largeur), sombre, illisible sur téléphone ; colonnes et chapiteaux concurrents."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade en brique avec une baie circulaire à remplage en pétales, entourée de voussures moulurées, au-dessus d'une corniche à modillons.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.345,
+        "y": 0.255,
+        "largeur": 0.41,
+        "hauteur": 0.445
+      },
+      "lieu": "Chapelle San José, Quito, Équateur",
+      "note": "Rosace nette ; rectangle nécessaire pour écarter la corniche à modillons visible en dessous."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Fragment de remplage circulaire en pierre érodée, exposé sur un socle dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Musée de Smederevo, Serbie",
+      "note": "Fragment muséal hors œuvre, sans vitraux, peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue très rapprochée et inclinée d'un remplage de rosace à lobes, vitraux rouges et bleus, image surexposée.",
+      "verdict": "rejetée",
+      "note": "Cadrage partiel et déformé, la baie circulaire n'est pas lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dos d'un cadre en bois d'une épreuve ancienne, avec étiquette manuscrite.",
+      "verdict": "rejetée",
+      "note": "Ne montre pas la rosace.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rosace circulaire à vitraux colorés, remplage rayonnant à pétales et trèfles, sur mur sombre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.17,
+        "largeur": 0.6,
+        "hauteur": 0.68
+      },
+      "lieu": "Keila, Estonie",
+      "note": "Baie circulaire à remplage et vitraux, claire et centrée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de pierre d'une mission avec panneau explicatif « Rose Window » au premier plan.",
+      "verdict": "rejetée",
+      "lieu": "San Antonio, Texas",
+      "note": "Panneau donnant la réponse, fenêtre minuscule.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande baie en étoile à vitraux figurés sur fond de bardage bois, intérieur.",
+      "verdict": "rejetée",
+      "lieu": "Cap-de-la-Madeleine, Canada",
+      "note": "Étoile à pans, pas de remplage gothique typique ; filigrane visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Oculus en pierre sculptée à ajours, dans un mur crépi orange.",
+      "verdict": "rejetée",
+      "lieu": "Monastère de Žiča, Serbie",
+      "note": "Baie circulaire sans vitraux, pourrait passer pour un oculus ; pas une rosace gothique.",
+      "rectangle": null
+    }
   ]
 }

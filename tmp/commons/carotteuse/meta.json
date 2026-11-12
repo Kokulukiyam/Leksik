@@ -123,6 +123,114 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2000-Kienzle-Dia_%28561%29.jpg/1280px-2000-Kienzle-Dia_%28561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1396,
       "hauteur": 917
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Carotatrice portatile.jpg",
+      "description": "hand held core drill",
+      "categories": [
+        "Core drills",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Costantino Figini",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carotatrice_portatile.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Carotatrice_portatile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1087,
+      "hauteur": 687
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:August 2007, Forest destruction near Helsinki airport 3.jpg",
+      "description": "August 2007, Forest destruction near Helsinki airport",
+      "categories": [
+        "CC-Zero",
+        "Drilling rigs",
+        "Self-published work",
+        "Deforestation in Finland",
+        "2007 in Vantaa",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2007-08-04"
+      ],
+      "auteur": "Syced",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:August_2007,_Forest_destruction_near_Helsinki_airport_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/August_2007%2C_Forest_destruction_near_Helsinki_airport_3.jpg/1280px-August_2007%2C_Forest_destruction_near_Helsinki_airport_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Core drill in action IMG 20201029 164819062.jpg",
+      "description": "Core drill in action in Tirupur, Tamil Nadu, India",
+      "categories": [
+        "Core drills",
+        "Self-published work",
+        "Photos by PJ",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PJeganathan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Core_drill_in_action_IMG_20201029_164819062.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Core_drill_in_action_IMG_20201029_164819062.jpg/1280px-Core_drill_in_action_IMG_20201029_164819062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2000-Kienzle-Dia (558).jpg",
+      "description": "Albania in 2000",
+      "categories": [
+        "Petroleum industry in Albania",
+        "Drilling rigs",
+        "2000 in Albania",
+        "Self-published work",
+        "Unidentified locations in Albania"
+      ],
+      "auteur": "Helmut Kienzle",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000-Kienzle-Dia_(558).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2000-Kienzle-Dia_%28558%29.jpg/1280px-2000-Kienzle-Dia_%28558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1392,
+      "hauteur": 924
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Core drill hole IMG 20201029 170423504.jpg",
+      "description": "Core drill in action in Tirupur, Tamil Nadu, India",
+      "categories": [
+        "Core drills",
+        "Self-published work",
+        "Photos by PJ",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PJeganathan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Core_drill_hole_IMG_20201029_170423504.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Core_drill_hole_IMG_20201029_170423504.jpg/1280px-Core_drill_hole_IMG_20201029_170423504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Antarctica WAIS Divide Field Camp 13.jpg",
+      "description": "The Drilling Facility",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Drilling rigs",
+        "WAIS Divide",
+        "Flickr images uploaded by Flickr upload bot",
+        "Photographs of Antarctica by Eli Duke"
+      ],
+      "auteur": "Eli Duke",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Antarctica_WAIS_Divide_Field_Camp_13.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Antarctica_WAIS_Divide_Field_Camp_13.jpg/1280px-Antarctica_WAIS_Divide_Field_Camp_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3168,
+      "hauteur": 4752
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

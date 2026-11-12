@@ -48,6 +48,22 @@
       "rectangle": null,
       "lieu": "",
       "note": "Photo ancienne, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gravure d'un chien enchaîné avec légende latine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Page de livre ancien avec gravure de chien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue ancienne colorisée de soldats poussant une machine dans un talus boisé.",
+      "verdict": "rejetée",
+      "lieu": "Fremont National Forest, Oregon",
+      "note": "Image ancienne retouchée, machine à peine visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Niveleuse militaire vue de face, lame sous le châssis, conducteur en cabine, un soldat qui fait signe.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.0,
+        "largeur": 0.57,
+        "hauteur": 0.85
+      },
+      "lieu": "Guantanamo, Cuba",
+      "note": "Engin bien reconnaissable (lame centrale, roues larges) ; rectangle pour exclure le soldat."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Camion porte-char DAF qui transporte une niveleuse militaire sur sa remorque.",
+      "verdict": "rejetée",
+      "lieu": "Strensham, Royaume-Uni",
+      "note": "Camion dominant, niveleuse masquée.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Niveleuse jaune au travail sur une plateforme de gravier à côté d'une voie ferrée, avec un rouleau derrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.12,
+        "largeur": 0.43,
+        "hauteur": 0.68
+      },
+      "lieu": "Katowice, Pologne",
+      "note": "Niveleuse nette au premier plan ; rectangle pour la distinguer du rouleau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ancienne niveleuse tractée en fer rouillé exposée dans un parc.",
+      "verdict": "rejetée",
+      "lieu": "Caboolture, Australie",
+      "note": "Engin hippomobile ancien, différent de la niveleuse automotrice.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Niveleuse jaune HBM sur un chantier de terrassement.",
+      "verdict": "rejetée",
+      "note": "Engin articulé à quatre roues, image un peu petite ; deux meilleures déjà retenues.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

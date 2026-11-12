@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Immeuble neuf entièrement entouré d'échafaudage, vu de loin entre des jardins.",
+      "verdict": "rejetée",
+      "lieu": "Wiesbaden, Allemagne",
+      "note": "Échafaudage d'ensemble, planchers non distinguables.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Camion de bambou avec enseigne rouge et numéros de téléphone, devant un trottoir animé.",
+      "verdict": "rejetée",
+      "lieu": "Mong Kok, Hong Kong",
+      "note": "Aucun plancher visible, texte envahissant.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade en construction vue en contre-plongée avec échafaudage tubulaire léger.",
+      "verdict": "rejetée",
+      "note": "Planchers à peine visibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Silhouettes à contre-jour d'aciers en attente et d'échafaudage au coucher du soleil.",
+      "verdict": "rejetée",
+      "lieu": "Nairobi, Kenya",
+      "note": "Silhouettes, plancher non identifiable.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mosquée à dôme avec échafaudage tubulaire au niveau bas.",
+      "verdict": "rejetée",
+      "lieu": "Surabaya, Indonésie",
+      "note": "Plancher non visible.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo en noir et blanc d'un échafaudage devant un mur de brique, avec deux personnes casquées derrière.",
+      "verdict": "rejetée",
+      "note": "Noir et blanc, planchers confus avec les garde-corps et les tubes.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

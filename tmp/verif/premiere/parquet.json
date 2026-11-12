@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Revêtement de lames de bois assemblées, net et plein cadre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol en bois de bout, rondins de pin assemblés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet de bout atypique, pas en lames."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Salle de pagode avec sol en lames de bois, loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol trop petit et lointain, décor dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plinthe en bois posée sur un parquet à chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet marginal, objet dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Parquet en chevrons avec un banc incurvé en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Risque de confusion avec point de Hongrie et bâtons rompus."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Réparation d'un parquet avec une règle en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plus un chantier qu'un parquet, peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Profilé en bois posé sur un parquet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parquet marginal, objet dominant."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Panneaux moulurés (boiserie), pas des lames emboîtées."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Palier de bibliothèque avec soubassement de carreaux et bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Soubassement de carreaux, pas de lames de bois emboîtées."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Couloir de bibliothèque voûté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lambris non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Antichambre avec soubassement en boiserie de bois et porte à panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux : relève de la boiserie, non du lambris à lames."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle ancienne avec boiseries et escalier en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boiserie à panneaux, image chargée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Boiserie à panneaux moulurés, brune et rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneaux moulurés = boiserie, confusion."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau sculpté gothique en chêne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boiserie sculptée, pas des lames emboîtées."
     }
   ]
 }

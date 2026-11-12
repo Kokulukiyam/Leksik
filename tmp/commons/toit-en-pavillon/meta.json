@@ -13,7 +13,8 @@
     "incompatibles": [
       "toiture",
       "toit-a-quatre-pans",
-      "croupe"
+      "croupe",
+      "aretier"
     ]
   },
   "candidats": [
@@ -237,6 +238,170 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsterweiler_-_westlich_des_Ortes.jpg/1280px-Alsterweiler_-_westlich_des_Ortes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3156,
       "hauteur": 4434
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Combat sur le toit du pavillon Hôryûkaku. - btv1b10050343b (4 of 4).jpg",
+      "description": "Sujet : Estampe en couleurs -- Japon -- 1600-1868 (Époque d'Edo) Appartient à l’ensemble documentaire : Rtmgus1 Langue : japonais Éditeur : Izutsuya (Japon)",
+      "categories": [
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD US expired",
+        "PD France",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Combat sur le toit du pavillon Hôryûkaku. - btv1b10050343b"
+      ],
+      "auteur": "Kyokutei, Bakin (1767-1848). Auteur du texte Kunichika, Utagawa. Graveur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_(4_of_4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_%284_of_4%29.jpg/1280px-Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_%284_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2682,
+      "hauteur": 4017
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ruppertsberg Obergasse 02 (zu) 065 2021 04 20.jpg",
+      "description": "Ceci est une photographie d'un monument architectural. Ce monument est inclus dans la liste de monuments culturels de Ruppertsberg Designation: Tea pavilion Construction time: 1844 Description: Tea pavilion of the winery Bürklin-Wolf Classicist cubic building, 2×3-axis plaster building Tent roof with glazed belvedere turret townscape formative Place: Local municipality Ruppertsberg , Collective municipality Deidesheim , Rural district Bad Dürkheim , Rhénanie-Palatinat , Allemagne Location: Obergasse House number: to no. 2",
+      "categories": [
+        "Pyramid roofs in Germany",
+        "Taken with Canon EOS 6D Mark II",
+        "Self-published work",
+        "Neoclassical windows",
+        "Information field template with formatting",
+        "Windows in Rhineland-Palatinate",
+        "FoP-Germany",
+        "Uploaded with LrMediaWiki",
+        "Images by F. Riedelio",
+        "Arch windows in Rhineland-Palatinate",
+        "Clouds and blue sky in Rhineland-Palatinate",
+        "Rhineland-Palatinate photographs taken on 2021-04-20",
+        "Belvederes (roof appendages) in Germany",
+        "Exterior of Teepavillon (Ruppertsberg)",
+        "Taken with Tamron SP AF 24-70mm F/2.8 Di VC USD",
+        "Drain pipes in Rhineland-Palatinate"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_065_2021_04_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ruppertsberg_Obergasse_02_%28zu%29_065_2021_04_20.jpg/1280px-Ruppertsberg_Obergasse_02_%28zu%29_065_2021_04_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2862,
+      "hauteur": 2096
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Combat sur le toit du pavillon Hôryûkaku. - btv1b10050343b (3 of 4).jpg",
+      "description": "Sujet : Estampe en couleurs -- Japon -- 1600-1868 (Époque d'Edo) Appartient à l’ensemble documentaire : Rtmgus1 Langue : japonais Éditeur : Izutsuya (Japon)",
+      "categories": [
+        "Artworks without Wikidata item",
+        "PD-old-100-expired",
+        "PD US expired",
+        "PD France",
+        "CC-PD-Mark",
+        "Files from Gallica",
+        "Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot",
+        "Combat sur le toit du pavillon Hôryûkaku. - btv1b10050343b"
+      ],
+      "auteur": "Kyokutei, Bakin (1767-1848). Auteur du texte Kunichika, Utagawa. Graveur",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_(3_of_4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_%283_of_4%29.jpg/1280px-Combat_sur_le_toit_du_pavillon_H%C3%B4ry%C3%BBkaku._-_btv1b10050343b_%283_of_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2724,
+      "hauteur": 4029
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:004 02 2015 09 22 Kulturdenkmaeler Ludwigshafen.jpg",
+      "description": "Ceci est une photographie d'un monument architectural. Ce monument est inclus dans la liste de monuments culturels de Ludwigshafen am Rhein-Friesenheim Designation: Monument zone Ebertpark Construction time: 1925 created on the occasion of the Süddeutsche Gartenbauausstellung Description: Two pavilion-like kiosk houses with pagoda roofs Place: Local district Friesenheim , Ludwigshafen am Rhein , Rhénanie-Palatinat , Allemagne Location: Erzbergerstraße House numbers: 71, 73",
+      "categories": [
+        "Yellow buildings in Germany",
+        "Pyramid roofs in Germany",
+        "Images from Wiki Loves Monuments 2015 in Germany",
+        "Taken with Canon EOS 7D",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2015",
+        "Information field template with formatting",
+        "FoP-Germany",
+        "Uploaded via Campaign:wlm-de-rp",
+        "Images by F. Riedelio",
+        "Rhineland-Palatinate photographs taken on 2015-09-22",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Files with coordinates missing SDC location of creation (49° N, 8° E)",
+        "Kioskhäuschen (Ebertpark)",
+        "Taken with Tamron SP AF 24-70mm F/2.8 Di VC USD",
+        "Images from Wiki Loves Monuments 2015, DE-RP"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:004_02_2015_09_22_Kulturdenkmaeler_Ludwigshafen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/004_02_2015_09_22_Kulturdenkmaeler_Ludwigshafen.jpg/1280px-004_02_2015_09_22_Kulturdenkmaeler_Ludwigshafen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2469,
+      "hauteur": 2024
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pierre Prévost - Panorama de Paris pris du toit du pavillon de Flore, aux Tuileries - P823 - Musée Carnavalet.jpg",
+      "description": "",
+      "categories": [
+        "1833 paintings from France",
+        "Pierre Prévost (1764-1823)",
+        "PD-old-100-expired",
+        "PD-Art (PD-old-auto-expired)",
+        "Artworks with Wikidata item",
+        "Artworks with known accession number",
+        "1833 in Paris",
+        "CC-PD-Mark",
+        "Artworks with accession number from Wikidata",
+        "Images from Paris Musées",
+        "Paintings in Musée Carnavalet",
+        "Artworks digital representation of 2D work",
+        "Pavillon de Flore before 1861",
+        "Pavillon de Flore from Tuileries"
+      ],
+      "auteur": "Pierre Prévost",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pierre_Pr%C3%A9vost_-_Panorama_de_Paris_pris_du_toit_du_pavillon_de_Flore,_aux_Tuileries_-_P823_-_Mus%C3%A9e_Carnavalet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pierre_Pr%C3%A9vost_-_Panorama_de_Paris_pris_du_toit_du_pavillon_de_Flore%2C_aux_Tuileries_-_P823_-_Mus%C3%A9e_Carnavalet.jpg/1280px-Pierre_Pr%C3%A9vost_-_Panorama_de_Paris_pris_du_toit_du_pavillon_de_Flore%2C_aux_Tuileries_-_P823_-_Mus%C3%A9e_Carnavalet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7123,
+      "hauteur": 2299
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ruppertsberg Obergasse 02 (zu) 067 2021 04 20.jpg",
+      "description": "Ceci est une photographie d'un monument architectural. Ce monument est inclus dans la liste de monuments culturels de Ruppertsberg Designation: Tea pavilion Construction time: 1844 Description: Tea pavilion of the winery Bürklin-Wolf Classicist cubic building, 2×3-axis plaster building Tent roof with glazed belvedere turret townscape formative Place: Local municipality Ruppertsberg , Collective municipality Deidesheim , Rural district Bad Dürkheim , Rhénanie-Palatinat , Allemagne , Europe Location: Obergasse House number: to no. 2",
+      "categories": [
+        "Pyramid roofs in Germany",
+        "Images from Wiki Loves Monuments 2021 in Germany",
+        "Taken with Canon EOS 6D Mark II",
+        "Taken with Canon EF 70-300mm F4-5.6 IS USM",
+        "Self-published work",
+        "Neoclassical windows",
+        "Information field template with formatting",
+        "Windows in Rhineland-Palatinate",
+        "FoP-Germany",
+        "Blue sky in Rhineland-Palatinate",
+        "Uploaded with LrMediaWiki",
+        "Images by F. Riedelio",
+        "3 windows",
+        "Arch windows in Rhineland-Palatinate",
+        "Images from Wiki Loves Monuments 2021",
+        "Rhineland-Palatinate photographs taken on 2021-04-20",
+        "Belvederes (roof appendages) in Germany",
+        "Exterior of Teepavillon (Ruppertsberg)",
+        "Images from Wiki Loves Monuments 2021, DE-RP",
+        "Drain pipes in Rhineland-Palatinate"
+      ],
+      "auteur": "Friedrich Haag",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ruppertsberg_Obergasse_02_(zu)_067_2021_04_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ruppertsberg_Obergasse_02_%28zu%29_067_2021_04_20.jpg/1280px-Ruppertsberg_Obergasse_02_%28zu%29_067_2021_04_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2009,
+      "hauteur": 2986
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

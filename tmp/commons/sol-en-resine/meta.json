@@ -127,6 +127,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Custom_Showroom.jpg/1280px-Custom_Showroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2576,
       "hauteur": 1932
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Color!!! (156686970).jpg",
+      "description": "A grey day color experiment. See where the photo was taken at maps.yuan.cc/ .",
+      "categories": [
+        "Yellow",
+        "Floors",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Blue and pink",
+        "Files from Till Krech Flickr stream"
+      ],
+      "auteur": "Till Krech from Berlin, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Color!!!_(156686970).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Color%21%21%21_%28156686970%29.jpg/1280px-Color%21%21%21_%28156686970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Butterfly picture on Floor.jpg",
+      "description": "Butterfly picture on Floor",
+      "categories": [
+        "Floors",
+        "Art of Hyderabad, India",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2021-06-10",
+        "Mosaics of butterflies"
+      ],
+      "auteur": "Adbh266",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Butterfly_picture_on_Floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Butterfly_picture_on_Floor.jpg/1280px-Butterfly_picture_on_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 1800
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Doing Homework (8118995558).jpg",
+      "description": "Doing Homework",
+      "categories": [
+        "Taken with Canon EOS 5D",
+        "Learning",
+        "Floors",
+        "Homework",
+        "Black Africans",
+        "Files from Flickr with changed licenses",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Concentration",
+        "Girls facing right",
+        "Photographs by Alex Proimos",
+        "Files with coordinates missing SDC location of creation",
+        "Women writing",
+        "Profile views of females (right)",
+        "Girls writing",
+        "Girls looking down"
+      ],
+      "auteur": "Alex Proimos from Sydney, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Doing_Homework_(8118995558).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Doing_Homework_%288118995558%29.jpg/1280px-Doing_Homework_%288118995558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4368,
+      "hauteur": 2912
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Cornish Slate Floor, Twill pattern.jpg",
+      "description": "Slate floor of a house in Boscastle, Cornwall, forming a natural Twill pattern",
+      "categories": [
+        "Floors",
+        "Patterns in nature",
+        "Self-published work",
+        "Tilings including quadrilaterals",
+        "Slate (construction material)"
+      ],
+      "auteur": "Ian Alexander",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cornish_Slate_Floor,_Twill_pattern.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cornish_Slate_Floor%2C_Twill_pattern.jpg/1280px-Cornish_Slate_Floor%2C_Twill_pattern.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1937,
+      "hauteur": 1428
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Brownish floor tiles.jpg",
+      "description": "Brownish floor tiles in a bathroom",
+      "categories": [
+        "CC-Zero",
+        "Tiles",
+        "Floors",
+        "Self-published work",
+        "Square floor tiles"
+      ],
+      "auteur": "Samiknoov",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brownish_floor_tiles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Brownish_floor_tiles.jpg/1280px-Brownish_floor_tiles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dance (14187109213).jpg",
+      "description": "Thank goodness for spring floors. Tuesdays 9PM - 11PM $5.00 Vega's Integrated Tumbling 1111 Felipe Avenue San Jose, CA 95122 bobbi vie 408.915.8155 info@bobbivie.com",
+      "categories": [
+        "Floors",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by bobbi vie",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "bobbi vie",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dance_(14187109213).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dance_%2814187109213%29.jpg/1280px-Dance_%2814187109213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

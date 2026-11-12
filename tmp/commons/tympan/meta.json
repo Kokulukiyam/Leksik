@@ -3,11 +3,15 @@
     "id": "tympan",
     "terme": "le tympan",
     "categorie": "Façade et ouvertures",
-    "definition": "Surface, souvent sculptée, comprise entre le linteau et l'arc qui surmontent une porte.",
+    "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
     "requetes": [
       "tympanum portal sculpture",
       "tympan portail",
       "deepcat:\"Tympanums\""
+    ],
+    "priorite": 3,
+    "incompatibles": [
+      "fronton"
     ]
   },
   "candidats": [
@@ -133,6 +137,155 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Amiens_Cathedral_West_Facade._Central_Portal_Tympanum_%283485985187%29.jpg/1280px-Amiens_Cathedral_West_Facade._Central_Portal_Tympanum_%283485985187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1536,
       "hauteur": 1230
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Tympanic Membrane Keratin Patches Stained with Osmium.jpg",
+      "description": "The shape, size and number of keratin patches can be clearly seen in this cadaveric specimen [left ear] in which the keratin patches have been emphasized by staining with osmium tetroxide.",
+      "categories": [
+        "Eardrum",
+        "Self-published work"
+      ],
+      "auteur": "Michael Hawke MD",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tympanic_Membrane_Keratin_Patches_Stained_with_Osmium.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Tympanic_Membrane_Keratin_Patches_Stained_with_Osmium.jpg/1280px-Tympanic_Membrane_Keratin_Patches_Stained_with_Osmium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2156,
+      "hauteur": 2161
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chartres - portail royal, tympan central.jpg",
+      "description": "Tympan central du portail royal de la Cathédrale Notre-Dame de Chartres .",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Retouched pictures",
+        "Images with annotations",
+        "Taken with Canon EF-S 18-55mm F3.5-5.6 IS",
+        "Self-published work",
+        "Commons featured desktop backgrounds",
+        "Featured pictures by Eusebius",
+        "Featured pictures of Eure-et-Loir",
+        "Files with coordinates missing SDC location of creation (48° N, 1° E)",
+        "Assessment tagged pages marked as POTY candidates",
+        "Central bay of Royal portal of Cathédrale Notre-Dame de Chartres",
+        "Tympanums of Chartres",
+        "24 Elders of the Apocalypse in sculpture",
+        "Photos by Eusebius - Chartres"
+      ],
+      "auteur": "Eusebius",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chartres_-_portail_royal,_tympan_central.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chartres_-_portail_royal%2C_tympan_central.jpg/1280px-Chartres_-_portail_royal%2C_tympan_central.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2906,
+      "hauteur": 2200
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Whale eardrums of finback, humpback, sperm, right whales - Picton Heritage & Whaling Museum - Picton, NZ - DSC00281.jpg",
+      "description": "Exhibit in the Picton Heritage & Whaling Museum - Picton, New Zealand.",
+      "categories": [
+        "Eardrum",
+        "CC-Zero",
+        "Self-published work",
+        "Cetacea anatomy",
+        "Picton Heritage & Whaling Museum"
+      ],
+      "auteur": "Daderot",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Whale_eardrums_of_finback,_humpback,_sperm,_right_whales_-_Picton_Heritage_%26_Whaling_Museum_-_Picton,_NZ_-_DSC00281.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Whale_eardrums_of_finback%2C_humpback%2C_sperm%2C_right_whales_-_Picton_Heritage_%26_Whaling_Museum_-_Picton%2C_NZ_-_DSC00281.jpg/1280px-Whale_eardrums_of_finback%2C_humpback%2C_sperm%2C_right_whales_-_Picton_Heritage_%26_Whaling_Museum_-_Picton%2C_NZ_-_DSC00281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5339,
+      "hauteur": 2471
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Church of Our Lady of Victories at the Sablon (Brussels) - Frontal view of the main Gothic entrance portal and tympanum sculptures.jpg",
+      "description": "Symmetrical view of the main pointed arch entrance portal showing the stone tympanum sculptures and two visitors standing on the steps",
+      "categories": [
+        "Church of Our Blessed Lady of the Sablon (Brussels)",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-be-bru",
+        "Images from Wiki Loves Monuments missing SDC participant in",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Files with coordinates missing SDC location of creation (50° N, 4° E)",
+        "I.Mahesh's Quality Images",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments 2026 in Belgium",
+        "Images of Brussels by I.Mahesh",
+        "Wiki Loves Monuments Belgium 2026 needing check",
+        "Images by User:I.Mahesh",
+        "Wiki Loves Heritage Belgium 2026 Jury List"
+      ],
+      "auteur": "iMahesh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_Our_Lady_of_Victories_at_the_Sablon_(Brussels)_-_Frontal_view_of_the_main_Gothic_entrance_portal_and_tympanum_sculptures.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Church_of_Our_Lady_of_Victories_at_the_Sablon_%28Brussels%29_-_Frontal_view_of_the_main_Gothic_entrance_portal_and_tympanum_sculptures.jpg/1280px-Church_of_Our_Lady_of_Victories_at_the_Sablon_%28Brussels%29_-_Frontal_view_of_the_main_Gothic_entrance_portal_and_tympanum_sculptures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5971,
+      "hauteur": 8462
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Châteauneuf 16 Portail &tympan 2012.jpg",
+      "description": "Portail, tympan et modillons de l'église Saint-Pierre (XIIe et XVe siècle) de Châteauneuf, Charente, France. Pentures et heurtoir par Pierre Boulanger .",
+      "categories": [
+        "Base Mérimée",
+        "Église Saint-Pierre (Châteauneuf-sur-Charente)",
+        "Taken with Pentax K-5",
+        "Monuments historiques classés",
+        "Images with annotations",
+        "Pierre Boulanger (ferronnier)",
+        "Self-published work",
+        "Unassessed QI candidates",
+        "Doors in Charente",
+        "Romanesque church portals in Charente",
+        "Romanesque archivolted portals in Charente",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Decorative hinges in Charente",
+        "Red doors in France",
+        "France photographs taken on 2012-10-05"
+      ],
+      "auteur": "JLPC",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teauneuf_16_Portail_%26tympan_2012.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Ch%C3%A2teauneuf_16_Portail_%26tympan_2012.jpg/1280px-Ch%C3%A2teauneuf_16_Portail_%26tympan_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 4240
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Sligo Cathedral of the Immaculate Conception South Portal Tympanum 2013 09 14.jpg",
+      "description": "Tympanum of the south portal.",
+      "categories": [
+        "Tympanums in Ireland",
+        "GFDL",
+        "Tree of life (Bible)",
+        "Cathedral of the Immaculate Conception, Sligo",
+        "Images with annotations",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Photographs by Andreas F. Borchert",
+        "Sculptures in County Sligo",
+        "Files with coordinates missing SDC location of creation",
+        "Statues of Immaculate Conception",
+        "Reliefs of Adam and Eve",
+        "Tree of knowledge in art",
+        "Reliefs of Pius IX"
+      ],
+      "auteur": "Andreas F. Borchert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sligo_Cathedral_of_the_Immaculate_Conception_South_Portal_Tympanum_2013_09_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sligo_Cathedral_of_the_Immaculate_Conception_South_Portal_Tympanum_2013_09_14.jpg/1280px-Sligo_Cathedral_of_the_Immaculate_Conception_South_Portal_Tympanum_2013_09_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3474,
+      "hauteur": 2284
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "note": "Rabot en bois à moulure, bien visible, fer et fût identifiables.",
       "lieu": "",
       "rectangle": null
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Abri de bus en bois en forme de rabot géant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zachenberg, Allemagne",
+      "note": "Architecture, pas l'outil."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rabot de bois ancien vu de côté, fer et coin visibles, photo floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image floue et de basse qualité ; deux rabots déjà retenus."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Étagère de vitrine avec plusieurs rabots anciens.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Asturies",
+      "note": "Plusieurs outils, rabots petits."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rabot à semelle métallique et poignées roses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil atypique, doute avec une râpe ou un autre rabot."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Semelle d'un rabot électrique Black&Decker.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue de dessous peu parlante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rabot ancien et marteau dans une cave de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sarleinsbach, Autriche",
+      "note": "Rabot petit, sombre et en désordre."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Filet de façade, texte visible, contexte flou."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Terrasse en bois d'un club de cricket, tables de pique-nique, léger filet au fond.",
+      "verdict": "rejetée",
+      "lieu": "Londres",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrasse en bois et pelouse d'un club de cricket, parasol vert.",
+      "verdict": "rejetée",
+      "lieu": "Londres",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Joueur de cricket sur la pelouse devant le pavillon, filet pare-ballon derrière lui.",
+      "verdict": "rejetée",
+      "lieu": "Londres",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tribunes d'un stade de baseball avec filet pare-balles très fin au premier plan.",
+      "verdict": "rejetée",
+      "lieu": "Winnipeg, Canada",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hall de gare à verrière avec sapin de Noël.",
+      "verdict": "rejetée",
+      "lieu": "Marseille, France",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de banlieue avec poteaux et fils électriques, petite clôture grillagée verte.",
+      "verdict": "rejetée",
+      "lieu": "Rio de Janeiro, Brésil",
+      "note": "Pas un filet de protection de chantier ; filet absent ou sans rapport avec le terme.",
+      "rectangle": null
     }
   ]
 }

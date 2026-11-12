@@ -48,6 +48,54 @@
       "note": "Instrument de musique.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bec d'instrument de musique et sa ligature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Instrument de musique (chalumeau)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lampe à souder ancienne en laiton posée sur un rocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lampe à pétrole à pression, pas un chalumeau à bouteille de gaz."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Croquis d'un instrument de musique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, instrument."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Lampe à souder ancienne en laiton de profil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lampe à pression, pas un chalumeau à gaz."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Page ancienne d'un traité de musique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Document."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier chauffant un marquage routier avec un chalumeau au propane, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo sombre, outil petit."
     }
   ]
 }

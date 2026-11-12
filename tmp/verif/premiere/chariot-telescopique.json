@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chariot militaire, scène encombrée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chariot télescopique JCB jaune avec godet et conducteur, cadré de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bras replié, godet monté et machine coupée par le cadre : peut passer pour une chargeuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chariot télescopique militaire à fourches, bras sorti, à contre-jour au crépuscule.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.2,
+        "largeur": 0.66,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Bras télescopique et fourches nets, rectangle sur l'engin ; éclairage sombre mais lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Benne à gravats rouillée devant un bras orange en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cimarron, Colorado",
+      "note": "Engin quasi invisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chariot télescopique orange démolissant un étage de maison.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pince de démolition, scène de démolition, engin éloigné."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chariot télescopique orange avec grappin sur une maison en démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon du 10, engin petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chariot télescopique Manitou rouge vu de face, fourches abaissées, sur une route.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin entier, fourches et bras clairs, sans ambiguïté."
     }
   ]
 }

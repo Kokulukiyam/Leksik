@@ -48,6 +48,54 @@
       "note": "Sans rapport.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poutre d'acier avec sangle jaune verticale dans un ouvrage en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sangle peu lisible, élingue ambiguë."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers déplaçant une poutre d'acier, sangle jaune pendant du plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élingue partielle et ambiguë."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers en combinaison blanche levant une caisse avec un palan et une chèvre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène centrée sur le palan et les personnes, élingue pas évidente."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Camion de pompiers incliné sur une plateforme de transport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier découpant un profilé dans un tunnel, étincelles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Moteur de pick-up levé par une grue d'atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hohenems, Autriche",
+      "note": "Grue d'atelier, pas d'élingue."
     }
   ]
 }

@@ -11,7 +11,8 @@
       "breathable roof membrane battens"
     ],
     "incompatibles": [
-      "liteau"
+      "liteau",
+      "volige"
     ],
     "categoriesCommons": [
       "Category:Roof insulation"
@@ -115,6 +116,102 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NIST_0768_%286105887527%29.jpg/1280px-NIST_0768_%286105887527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4320,
       "hauteur": 3240
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Kőzetgyapot hőszigetelés.jpg",
+      "description": "kőzetgyapot (rockwool)",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:K%C5%91zetgyapot_h%C5%91szigetel%C3%A9s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/K%C5%91zetgyapot_h%C5%91szigetel%C3%A9s.jpg/1280px-K%C5%91zetgyapot_h%C5%91szigetel%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:DachpappeVerschweißen1.JPG",
+      "description": "Dachpappe oder Bitumen-Dachbahn ist eine mit Bitumen getränkte Pappe, die als Feuchtigkeitsperre in Bauteilen dient. Hier Arbeiten im Zuge der Sanierung der Stadtstrasse sowie der Parkplatzbewirtschaftung in Dornbirns Innenstadt mit Überbauung des Mäserareals. 2008",
+      "categories": [
+        "Taken with Konica Minolta Dynax 7D",
+        "Roof insulation",
+        "Felt and tar paper",
+        "Self-published work",
+        "Photos by Böhringer",
+        "Construction sites in Vorarlberg"
+      ],
+      "auteur": "böhringer friedrich",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:DachpappeVerschwei%C3%9Fen1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/DachpappeVerschwei%C3%9Fen1.JPG/1280px-DachpappeVerschwei%C3%9Fen1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:6 mm gumi szigetelés (terasz erkély).jpg",
+      "description": "6 mm gumi szigetelés (terasz erkély)",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6_mm_gumi_szigetel%C3%A9s_(terasz_erk%C3%A9ly).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/6_mm_gumi_szigetel%C3%A9s_%28terasz_erk%C3%A9ly%29.jpg/1280px-6_mm_gumi_szigetel%C3%A9s_%28terasz_erk%C3%A9ly%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7296,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Párazáró szigetelés.jpg",
+      "description": "Párazáró szigetelés",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:P%C3%A1raz%C3%A1r%C3%B3_szigetel%C3%A9s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/P%C3%A1raz%C3%A1r%C3%B3_szigetel%C3%A9s.jpg/1280px-P%C3%A1raz%C3%A1r%C3%B3_szigetel%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Szigetelés barna.jpg",
+      "description": "Szigetelés barna",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Szigetel%C3%A9s_barna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Szigetel%C3%A9s_barna.jpg/1280px-Szigetel%C3%A9s_barna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:PVC szigetelés.jpg",
+      "description": "PVC szigetelés",
+      "categories": [
+        "Roof insulation",
+        "Self-published work"
+      ],
+      "auteur": "KissJR1",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PVC_szigetel%C3%A9s.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/PVC_szigetel%C3%A9s.jpg/1280px-PVC_szigetel%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

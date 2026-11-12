@@ -48,6 +48,46 @@
       "rectangle": null,
       "lieu": "",
       "note": "Produit en pot, pas l'application sur sol de douche."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Goéland.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalator de métro avec bâches et seaux contre une fuite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fuite d'eau, pas d'étanchéité liquide."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Carnets de notes jaunes résistants à la pluie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier appliquant un mastic au pistolet sur un toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mastic au pistolet, pas une résine au rouleau ; ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tunnel en construction avec membrane d'étanchéité en feuille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane en feuille, pas une résine liquide."
     }
   ]
 }

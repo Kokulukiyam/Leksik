@@ -126,6 +126,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Makoko_Children.jpg/1280px-Makoko_Children.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4032,
       "hauteur": 3024
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Children of Pattee Hall - 2-237-Edit (CMYK).jpg",
+      "description": "The Children of Pattee Hall - University of Minnesota Elementary School, Winter 1960 University of Minnesota Old Campus Historic District",
+      "categories": [
+        "Playgrounds",
+        "University of Minnesota",
+        "Children of the United States",
+        "University of Minnesota Old Campus Historic District",
+        "Self-published work",
+        "Children playing outside",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Digangloff",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Children_of_Pattee_Hall_-_2-237-Edit_(CMYK).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Children_of_Pattee_Hall_-_2-237-Edit_%28CMYK%29.jpg/1280px-Children_of_Pattee_Hall_-_2-237-Edit_%28CMYK%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5515,
+      "hauteur": 6894
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Grythengen foto-karantene I - 22.jpg",
+      "description": "toy excavator in a sandbox",
+      "categories": [
+        "Playground equipment",
+        "Self-published work",
+        "Grythengen",
+        "Toy excavators"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grythengen_foto-karantene_I_-_22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Grythengen_foto-karantene_I_-_22.jpg/1280px-Grythengen_foto-karantene_I_-_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Children's playground 02.jpg",
+      "description": "Children's playground",
+      "categories": [
+        "Playgrounds",
+        "Self-published work"
+      ],
+      "auteur": "Tiraspolsky",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Children%27s_playground_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Children%27s_playground_02.jpg/1280px-Children%27s_playground_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1922,
+      "hauteur": 1206
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gyroscope thrill chair.jpg",
+      "description": "At a park",
+      "categories": [
+        "Playground equipment",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2021-12-18"
+      ],
+      "auteur": "Vis M",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gyroscope_thrill_chair.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gyroscope_thrill_chair.jpg/1280px-Gyroscope_thrill_chair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 3472
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Battleship (21274951).jpeg",
+      "description": "500px provided description: El Barco del Campo Grande [#city ,#children ,#play ,#valladolid ,#juegos]",
+      "categories": [
+        "Playgrounds",
+        "Rear views of girls",
+        "Photos imported with import-500px",
+        "Battleships in art"
+      ],
+      "auteur": "José Esteban Mucientes Manso",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Battleship_(21274951).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Battleship_%2821274951%29.jpeg/1280px-Battleship_%2821274951%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Hiu Lai Court Letter Bingo and Climbing Rope Net.jpg",
+      "description": "Hiu Lai Court in Sau Mau Ping, Hong Kong.",
+      "categories": [
+        "Playground equipment",
+        "Hiu Lai Court",
+        "Self-published work",
+        "Children's playgrounds in Kwun Tong District"
+      ],
+      "auteur": "Prosperity Horizons",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hiu_Lai_Court_Letter_Bingo_and_Climbing_Rope_Net.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hiu_Lai_Court_Letter_Bingo_and_Climbing_Rope_Net.jpg/1280px-Hiu_Lai_Court_Letter_Bingo_and_Climbing_Rope_Net.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5959,
+      "hauteur": 3941
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

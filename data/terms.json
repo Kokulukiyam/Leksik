@@ -641,6 +641,13 @@
     ]
   },
   {
+    "id": "bungalow-de-chantier",
+    "terme": "le bungalow de chantier",
+    "definition": "Module préfabriqué de type conteneur, installé sur un chantier comme bureau, vestiaire ou réfectoire.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
+  },
+  {
     "id": "benne-a-gravats",
     "terme": "la benne à gravats",
     "definition": "Grand caisson métallique ouvert, déposé par camion, dans lequel on jette les déchets et gravats du chantier.",
@@ -688,6 +695,16 @@
       "echafaudage-roulant",
       "echafaudage-en-bois",
       "echafaudage-en-bambou"
+    ]
+  },
+  {
+    "id": "echafaudage-en-bambou",
+    "terme": "l'échafaudage en bambou",
+    "definition": "Échafaudage fait de tiges de bambou ligaturées entre elles.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "echafaudage"
     ]
   },
   {
@@ -870,6 +887,13 @@
     ]
   },
   {
+    "id": "chariot-telescopique",
+    "terme": "le chariot télescopique",
+    "definition": "Engin sur pneus à bras télescopique muni de fourches, qui lève et place les charges en hauteur.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3
+  },
+  {
     "id": "grue-a-tour",
     "terme": "la grue à tour",
     "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
@@ -976,6 +1000,16 @@
     "priorite": 1
   },
   {
+    "id": "cordeau-traceur",
+    "terme": "le cordeau traceur",
+    "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "cordeau"
+    ]
+  },
+  {
     "id": "talocheuse-mecanique",
     "terme": "la talocheuse mécanique",
     "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
@@ -983,6 +1017,17 @@
     "priorite": 3,
     "incompatibles": [
       "taloche"
+    ]
+  },
+  {
+    "id": "regle-vibrante",
+    "terme": "la règle vibrante",
+    "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.",
+    "categorie": "Chantier et outillage",
+    "priorite": 3,
+    "incompatibles": [
+      "regle-de-macon",
+      "aiguille-vibrante"
     ]
   },
   {
@@ -4831,6 +4876,17 @@
     "priorite": 3,
     "incompatibles": [
       "lambris-pvc"
+    ]
+  },
+  {
+    "id": "placard",
+    "terme": "le placard",
+    "definition": "Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.",
+    "categorie": "Second œuvre et finitions",
+    "priorite": 2,
+    "incompatibles": [
+      "dressing",
+      "porte-de-placard"
     ]
   },
   {

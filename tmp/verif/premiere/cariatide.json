@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "Musée de l'Acropole, Athènes, Grèce",
       "note": "Correcte mais redondante avec 02 et 04, moins bien cadrée (chapiteau coupé, figures tronquées aux bords)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Entrée d'hôtel particulier avec porte en bois, flanquée de deux figures sculptées en gaine, l'une masculine, l'autre féminine.",
+      "verdict": "rejetée",
+      "lieu": "Aix-en-Provence, France",
+      "note": "Une des deux figures est un atlante : mélange ambigu.",
+      "rectangle": null
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Statue en bois peint d'une femme debout, posée sur un socle de musée.",
+      "verdict": "rejetée",
+      "lieu": "Châteauroux, France",
+      "note": "Pièce de musée isolée, ne montre pas la fonction de support.",
+      "rectangle": null
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Console en acajou et bronze doré dont les montants sont des sphinx ailés.",
+      "verdict": "rejetée",
+      "lieu": "Maisons-Laffitte, France",
+      "note": "Sphinx, pas des statues de femme ; meuble.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Statue de femme en bois sculpté, bras levés, qui porte le buffet d'orgue et repose sur un chapiteau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.12,
+        "largeur": 0.65,
+        "hauteur": 0.78
+      },
+      "lieu": "Saint-Mihiel, France",
+      "note": "Statue féminine faisant office de support, claire malgré l'éclairage chaud."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Même statue en bois peint de musée, vue de trois quarts.",
+      "verdict": "rejetée",
+      "lieu": "Châteauroux, France",
+      "note": "Pièce isolée, même défaut que la 08.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Statue de femme en pierre, buste dégagé et bas en gaine d'acanthe, sous un entablement, à côté d'une porte.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.1,
+        "largeur": 0.45,
+        "hauteur": 0.82
+      },
+      "lieu": "Aix-en-Provence, France",
+      "note": "Cariatide en pierre portant l'entablement, très lisible."
     }
   ]
 }

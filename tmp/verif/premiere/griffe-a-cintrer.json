@@ -48,6 +48,54 @@
       "note": "Cintreuse, pas griffe à cintrer.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Soudeur au travail sur un chantier d'immeubles avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou",
+      "note": "Pas de griffe."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Armatures sur le chantier d'un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bamberg",
+      "note": "Aucun outil visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bleu à structure rayonnante abstraite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fers à béton rouillés coudés à angle droit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rixö, Suède",
+      "note": "Fers pliés, sans la griffe."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Armatures et tuyau d'évacuation sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit sanctuaire de montagne sans rapport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chandrashila",
+      "note": "Sans rapport."
     }
   ]
 }

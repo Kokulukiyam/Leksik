@@ -11,7 +11,10 @@
       "cycle track"
     ],
     "incompatibles": [
-      "marquage-au-sol"
+      "marquage-au-sol",
+      "chaussee",
+      "enrobe",
+      "passage-pieton"
     ],
     "categoriesCommons": [
       "Category:Cycle lanes"
@@ -132,6 +135,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Autorickshaw_parked_on_bicycle_lane%2C_on_Hitex_Road.jpg/1280px-Autorickshaw_parked_on_bicycle_lane%2C_on_Hitex_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bus Station. - Nagykőrös, Hungary.JPG",
+      "description": "Bus Station. - Nagykőrös, Pest County, Hungary",
+      "categories": [
+        "Cycle lanes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Vertical flags of Hungary",
+        "2015 in Nagykőrös",
+        "Photographs of flags of Hungary in Pest County",
+        "Buildings in Nagykőrös",
+        "Bus Station in Nagykőrös"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_Station._-_Nagyk%C5%91r%C3%B6s,_Hungary.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bus_Station._-_Nagyk%C5%91r%C3%B6s%2C_Hungary.JPG/1280px-Bus_Station._-_Nagyk%C5%91r%C3%B6s%2C_Hungary.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Carril compartido con ciclistas, en Avenida Tecnológico, Qro.jpg",
+      "description": "Carril compartido con ciclistas, en Avenida Tecnológico, Qro",
+      "categories": [
+        "Bikeways",
+        "Cycle lanes",
+        "Self-published work",
+        "Mexico photographs taken on 2022-10-22",
+        "Files with coordinates missing SDC location of creation",
+        "2022 in Querétaro",
+        "Streets in Santiago de Querétaro"
+      ],
+      "auteur": "JeSe-MX",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carril_compartido_con_ciclistas,_en_Avenida_Tecnol%C3%B3gico,_Qro.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Carril_compartido_con_ciclistas%2C_en_Avenida_Tecnol%C3%B3gico%2C_Qro.jpg/1280px-Carril_compartido_con_ciclistas%2C_en_Avenida_Tecnol%C3%B3gico%2C_Qro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2021 Maastricht, gezicht vanaf Noorderbrugtracé, Cokesfabriek.jpg",
+      "description": "Gezicht op de voormalige Cokesfabriek in Maastricht. De Cokesfabriek werd in 1912 gebouwd naar een ontwerp van Jan Gerko Wiebenga. Het gebouw was oorspronkelijk onderdeel van de Gemeentelijke Gasfabriek, daarna een fabriekshal van Radium Rubber. In 2015 werden diverse aanbouwen gesloopt, onder andere vanwege de Noorderbrugaanlanding, die er vlak langs loopt (rechts op de foto). Sinds 2019 is het gestripte en in zeer slechte staat verkerende gebouw eigendom van de kunstenaar-ontwerper Valentin Loellmann, die het eigenhandig restaureert en transformeert tot een kunstencentrum. Achter het gebouw ",
+      "categories": [
+        "Cycle lanes",
+        "Cokesfabriek (Maastricht)",
+        "Self-published work",
+        "Netherlands photographs taken on 2021-07-28",
+        "2021 in Maastricht",
+        "Files with coordinates missing SDC location of creation (50° N, 5° E)",
+        "Bicycles in Maastricht",
+        "Radium factory chimney (Maastricht)",
+        "Red cycle lanes in the Netherlands"
+      ],
+      "auteur": "Kleon3",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2021_Maastricht,_gezicht_vanaf_Noorderbrugtrac%C3%A9,_Cokesfabriek.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2021_Maastricht%2C_gezicht_vanaf_Noorderbrugtrac%C3%A9%2C_Cokesfabriek.jpg/1280px-2021_Maastricht%2C_gezicht_vanaf_Noorderbrugtrac%C3%A9%2C_Cokesfabriek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Carril compartido en Avenida Peñuelas.jpg",
+      "description": "Carril compartido en Avenida Peñuelas, antes de llegar a Bernardo Quintana.",
+      "categories": [
+        "Bikeways",
+        "Cycle lanes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2022 in Querétaro",
+        "Streets in Santiago de Querétaro"
+      ],
+      "auteur": "JeSe-MX",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carril_compartido_en_Avenida_Pe%C3%B1uelas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Carril_compartido_en_Avenida_Pe%C3%B1uelas.jpg/1280px-Carril_compartido_en_Avenida_Pe%C3%B1uelas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 2560
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A Quezon City DPOS bike patroller watches over a bike lane along Roosevelt Avenue, Quezon City on April 29, 2021.jpg",
+      "description": "BIKERS' SAFETY. A Quezon City Department of Public Order and Safety (DPOS) bike patroller points to the bike lane as she watches over the passing bikers along Roosevelt Avenue, Quezon City on Thursday (April 29, 2021). Bike patrollers will also apprehend motorists, who are violating the Safe Cycling and Active Transport Ordinance and imposes penalties for motorists obstructing the bike lanes. (PNA photo by Robert Oswald P. Alfiler)",
+      "categories": [
+        "Cycling in the Philippines",
+        "Cycle lanes",
+        "Fernando Poe Jr. Avenue",
+        "PD-PhilippinesGov"
+      ],
+      "auteur": "PNA photo by Robert Oswald P. Alfiler",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Quezon_City_DPOS_bike_patroller_watches_over_a_bike_lane_along_Roosevelt_Avenue,_Quezon_City_on_April_29,_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/A_Quezon_City_DPOS_bike_patroller_watches_over_a_bike_lane_along_Roosevelt_Avenue%2C_Quezon_City_on_April_29%2C_2021.jpg/1280px-A_Quezon_City_DPOS_bike_patroller_watches_over_a_bike_lane_along_Roosevelt_Avenue%2C_Quezon_City_on_April_29%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4017,
+      "hauteur": 2511
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Akaki Tsereteli avenue.jpg",
+      "description": "Akaki Tsereteli Avenue in Tbilisi",
+      "categories": [
+        "Boris Paichadze Stadium",
+        "Cycle lanes",
+        "Bus stop road markings",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2025 in Tbilisi",
+        "Road markings in Georgia (country)",
+        "Georgia (country) photographs taken on 2025-05-06",
+        "Bikeways in Tbilisi"
+      ],
+      "auteur": "David1010",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Akaki_Tsereteli_avenue.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Akaki_Tsereteli_avenue.jpg/1280px-Akaki_Tsereteli_avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 12240,
+      "hauteur": 16320
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

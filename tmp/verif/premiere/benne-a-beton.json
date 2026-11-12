@@ -48,6 +48,64 @@
       "note": "Benne suspendue au crochet avec trappe en bas, claire et dominante.",
       "lieu": "Harold Interlocking, New York",
       "rectangle": null
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Benne orange hissée avec un ouvrier dedans devant des murs préfabriqués.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Benne servant de nacelle, très petite, ambiguë."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grande benne à béton conique rouillée suspendue, deux ouvriers la guident, foreuse derrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.3,
+        "largeur": 0.45,
+        "hauteur": 0.62
+      },
+      "lieu": "New York",
+      "note": "Benne conique à trappe bien visible, rectangle dessus pour écarter la foreuse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Benne à béton à volant de trappe déversant dans un moule en usine.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.28,
+        "y": 0.08,
+        "largeur": 0.6,
+        "hauteur": 0.6
+      },
+      "lieu": "",
+      "note": "Benne à trappe et volant nette en plein déversement, rectangle sur la benne."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cliché ancien en tunnel, pont roulant avec benne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, benne peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cliché ancien de bétonnage de tunnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, benne peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Benne à béton bleue et blanche coulant une fondation, tirage ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays-Bas",
+      "note": "Benne petite, grain marqué : mieux vaut écarter."
     }
   ]
 }

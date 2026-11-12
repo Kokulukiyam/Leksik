@@ -13,7 +13,8 @@
     "incompatibles": [
       "coffrage-de-dalle",
       "coffrage",
-      "coffrage-metallique"
+      "coffrage-metallique",
+      "coffrage-bois"
     ]
   },
   "candidats": [
@@ -75,5 +76,7 @@
       "largeur": 4032,
       "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

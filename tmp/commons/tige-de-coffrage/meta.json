@@ -131,6 +131,69 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Social_networking_services.jpg/1280px-Social_networking_services.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2560,
       "hauteur": 1679
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Form Holder and Wall Tie - DPLA - 70de9b09a0f97533fadf073f57293efa (page 3).jpg",
+      "description": "Patent for Form holder and wall tie; [1], 4 p. : ill. ; 23 cm.",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by The Portal to Texas History",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by University of North Texas Libraries"
+      ],
+      "auteur": "Tenholder, Herman G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_(page_3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_3%29.jpg/1280px-Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Form Holder and Wall Tie - DPLA - 70de9b09a0f97533fadf073f57293efa (page 1).jpg",
+      "description": "Patent for Form holder and wall tie; [1], 4 p. : ill. ; 23 cm.",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by The Portal to Texas History",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by University of North Texas Libraries"
+      ],
+      "auteur": "Tenholder, Herman G",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_(page_1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_1%29.jpg/1280px-Form_Holder_and_Wall_Tie_-_DPLA_-_70de9b09a0f97533fadf073f57293efa_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Social Networking (3721801952).jpg",
+      "description": "Kristen talks social networking at \"Do You Speak Web2.0?,\" an introduction to Web 2.0 and Web 3.0, for members of the University of Scranton community. Presented at the University of Scranton Weinberg Memorial Library on July 14, 2009.",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Social networking",
+        "Weinberg Memorial Library"
+      ],
+      "auteur": "University of Scranton Weinberg Memorial Library from Scranton, Pennsylvania",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Social_Networking_(3721801952).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Social_Networking_%283721801952%29.jpg/1280px-Social_Networking_%283721801952%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

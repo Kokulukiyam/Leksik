@@ -148,6 +148,146 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Nalanda_Monastery_4_ei7-07.jpg/1280px-Nalanda_Monastery_4_ei7-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1944,
       "hauteur": 2592
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Mausoleo di teodorico, interno, camera superiore, piattabanda.jpg",
+      "description": "Mausoleo di Teodorico",
+      "categories": [
+        "Jack arches",
+        "Artworks without Wikidata item",
+        "Images from Wiki Loves Monuments 2016 in Italy - Emilia-Romagna",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "Italian MiBAC disclaimer warning",
+        "Images from Wiki Loves Monuments 2016",
+        "Cultural heritage monuments in Italy with known IDs",
+        "All media supported by Wikimedia CH",
+        "Images from Wiki Loves Monuments 2016 in Italy",
+        "Uploaded via Campaign:wlm-it",
+        "Files with coordinates missing SDC location of creation",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC location of creation",
+        "Cultural heritage monuments in Italy missing SDC depicts",
+        "Photographs of antiquities by User:Sailko - Architectural elements",
+        "Mausoleum of Theodoric (Ravenna) - Upper floor interior",
+        "Images from Wiki Loves Monuments 2016 in Italy - Emilia-Romagna/Special prize"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mausoleo_di_teodorico,_interno,_camera_superiore,_piattabanda.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Mausoleo_di_teodorico%2C_interno%2C_camera_superiore%2C_piattabanda.jpg/1280px-Mausoleo_di_teodorico%2C_interno%2C_camera_superiore%2C_piattabanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Detalle del dintel.jpg",
+      "description": "Detalle del dintel",
+      "categories": [
+        "Lintels",
+        "Self-published work"
+      ],
+      "auteur": "DIEGO BAÑARES",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Detalle_del_dintel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Detalle_del_dintel.jpg/1280px-Detalle_del_dintel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Tormellas-arco adintelado.jpg",
+      "description": "Steep arch in Tormellas, Ávila, Spain",
+      "categories": [
+        "Vernacular architecture in the province of Ávila",
+        "Jack arches",
+        "Tormellas",
+        "Self-published work",
+        "Images of municipalities without photograph until now",
+        "Doors in the province of Ávila",
+        "All media supported by Wikimedia España in 2019",
+        "Images from Spanish municipalities with no previous picture uploaded in 2019"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tormellas-arco_adintelado.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Tormellas-arco_adintelado.jpg/1280px-Tormellas-arco_adintelado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Ancient Galilee Synagogue Lintel, Chorazin, 4th-6th Century AD (42311255125).jpg",
+      "description": "Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com",
+      "categories": [
+        "CC-Zero",
+        "Lintels",
+        "Collections of the Israel Museum",
+        "Korazim",
+        "Information field template with formatting",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Gary Lee Todd/Israel Museum"
+      ],
+      "auteur": "Gary Todd from Xinzheng, China",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Galilee_Synagogue_Lintel,_Chorazin,_4th-6th_Century_AD_(42311255125).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg/1280px-Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ermita de las fuentes-arco adintelado.jpg",
+      "description": "Arco adintelado en dependencias de la ermita, San Juan del Olmo, AV, España.",
+      "categories": [
+        "Jack arches",
+        "Hermitage of Virgin of las Fuentes, San Juan del Olmo",
+        "Self-published work",
+        "All media supported by Wikimedia España in 2016",
+        "Cultural heritage monuments in Spain with known IDs",
+        "Spain photographs taken on 2016-06-30",
+        "Images from Wiki Loves Monuments 2016",
+        "Images from Wiki Loves Monuments 2016 in Spain",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC location of creation",
+        "Cultural heritage monuments in Spain missing SDC depicts",
+        "Images from Wiki Loves Monuments 2016 in Spain, reviewed",
+        "Images of monuments of Spain not included in WLM 2016 lists"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ermita_de_las_fuentes-arco_adintelado.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ermita_de_las_fuentes-arco_adintelado.jpg/1280px-Ermita_de_las_fuentes-arco_adintelado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cucinone di palazzo pitti, cappa con piattabanda attr. al dis. del buontalenti 01.jpg",
+      "description": "Palazzo Pitti - Cucinone",
+      "categories": [
+        "Jack arches",
+        "Self-published work",
+        "Photographs by User:Sailko",
+        "All media supported by Wikimedia CH",
+        "Images by Sailko - Supported by Wikimedia CH",
+        "Photographs of decorative arts by User:Sailko - Architectural elements - Fireplaces",
+        "Palazzo Pitti - Cucinone"
+      ],
+      "auteur": "Sailko",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cucinone_di_palazzo_pitti,_cappa_con_piattabanda_attr._al_dis._del_buontalenti_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cucinone_di_palazzo_pitti%2C_cappa_con_piattabanda_attr._al_dis._del_buontalenti_01.jpg/1280px-Cucinone_di_palazzo_pitti%2C_cappa_con_piattabanda_attr._al_dis._del_buontalenti_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4688,
+      "hauteur": 3648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

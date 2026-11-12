@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Grue, pas une foreuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grue à chenilles bleue GEKA devant des palplanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Grue, pas une foreuse à tarière."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne d'un bateau-sonnette dans un port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Balatonszabadi, Hongrie",
+      "note": "Noir et blanc, sonnette flottante."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grue à chenilles bleue GEKA devant des palplanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam",
+      "note": "Grue, pas une foreuse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue ancienne d'un chantier de port avec une sonnette au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne",
+      "note": "Archive noir et blanc, engin minuscule."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sonnette à vapeur sur barge exposée dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zehdenick, Allemagne",
+      "note": "Sonnette à battre flottante, pas une foreuse à tarière."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pelle Caterpillar rouge équipée d'un mouton de battage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin de battage de pieux, pas de mât ni de tarière."
     }
   ]
 }

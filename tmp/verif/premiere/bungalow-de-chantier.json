@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans module-bureau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Modules-conteneurs gris superposés, avec escalier métallique et coursive, derrière une clôture de chantier bâchée.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.07,
+        "largeur": 0.92,
+        "hauteur": 0.63
+      },
+      "lieu": "Wentorf bei Hamburg, Allemagne",
+      "note": "Bungalows de chantier empilés, typiques ; rectangle pour exclure les bâches."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieille installation rouillée orange (centrale d'enrobage ou de béton) devant une montagne.",
+      "verdict": "rejetée",
+      "note": "Aucun bungalow.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rangée de modules préfabriqués jaunes sur l'eau à Stockholm, grue et église en arrière-plan.",
+      "verdict": "rejetée",
+      "lieu": "Stockholm, Suède",
+      "note": "Modules flottants, éloignés et peu lisibles comme bungalows de chantier.",
+      "rectangle": null
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Terrain de terre remuée avec maisonnettes au loin, dominante rose.",
+      "verdict": "rejetée",
+      "lieu": "État de New York, États-Unis",
+      "note": "Pas de bungalow identifiable, photo dégradée.",
+      "rectangle": null
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Local préfabriqué vert olive derrière un grillage (central téléphonique).",
+      "verdict": "rejetée",
+      "lieu": "Estella, Australie",
+      "note": "Local technique, pas un bungalow de chantier.",
+      "rectangle": null
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier en pull rayé devant une construction en cours à charpente apparente.",
+      "verdict": "rejetée",
+      "note": "Aucun bungalow de chantier.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

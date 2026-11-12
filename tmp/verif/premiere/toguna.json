@@ -5,7 +5,12 @@
       "fichier": "01.jpg",
       "vu": "Abri bas aux piliers de pierres sèches, coiffé d'un toit très épais de tiges de mil ; un homme assis dessous, un grenier conique à gauche.",
       "verdict": "validée",
-      "rectangle": { "x": 0.23, "y": 0.39, "largeur": 0.53, "hauteur": 0.42 },
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.39,
+        "largeur": 0.53,
+        "hauteur": 0.42
+      },
       "lieu": "Djiguibombo, Mali",
       "note": "Toguna typique (toit épais de tiges, faible hauteur) ; rectangle nécessaire pour écarter le grenier conique visible à gauche."
     },
@@ -13,7 +18,12 @@
       "fichier": "02.jpg",
       "vu": "Abri bas aux piliers de bois sculptés de figures, toit de tiges, au pied de la falaise de Bandiagara ; enfants au premier plan.",
       "verdict": "validée",
-      "rectangle": { "x": 0.22, "y": 0.45, "largeur": 0.64, "hauteur": 0.36 },
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.45,
+        "largeur": 0.64,
+        "hauteur": 0.36
+      },
       "lieu": "Kani-Kombolé, Mali",
       "note": "Toguna à piliers sculptés bien lisible ; rectangle pour isoler l'abri des enfants, du grand arbre et de la falaise."
     },
@@ -48,6 +58,54 @@
       "rectangle": null,
       "lieu": "Varsovie, Pologne",
       "note": "Détail illisible, toguna non identifiable ; sculpture en Pologne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Greniers et habitations de terre accrochés à une falaise, Bandiagara.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tours de terre aux motifs en chevrons sous un surplomb rocheux.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Village de terre au pied d'une falaise, vue lointaine.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Falaise de Bandiagara dominant des arbres, village à peine visible.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'un village sous la falaise.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible ; de plus, carte postale.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Habitations de terre sous un surplomb de falaise.",
+      "verdict": "rejetée",
+      "note": "Aucun toguna visible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

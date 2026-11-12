@@ -11,7 +11,8 @@
       "raised paving pedestals"
     ],
     "incompatibles": [
-      "terrasse-accessible"
+      "terrasse-accessible",
+      "toiture-terrasse"
     ],
     "categoriesCommons": [
       "Category:Roof terraces"
@@ -140,6 +141,139 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cupolas_of_Printemps_Haussmann_%284653779732%29.jpg/1280px-Cupolas_of_Printemps_Haussmann_%284653779732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4320,
       "hauteur": 2432
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Krovna terasa zgrade u okolini Trznog centra u Rajicevoj, pogled sa sprata Trznog centra.jpg",
+      "description": "One roof terrace in Belgrade, a view from the roof of the Rajićeva shopping center in Knez Mihailova street in Belgrade, Serbia",
+      "categories": [
+        "Roof terraces",
+        "Rajiceva Shopping Center",
+        "Self-published work",
+        "Roofs in Serbia",
+        "Files with coordinates missing SDC location of creation",
+        "Viki bibliotekar materijal 2018",
+        "Projekat BGB o BGD"
+      ],
+      "auteur": "Milica Buha",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Krovna_terasa_zgrade_u_okolini_Trznog_centra_u_Rajicevoj,_pogled_sa_sprata_Trznog_centra.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Krovna_terasa_zgrade_u_okolini_Trznog_centra_u_Rajicevoj%2C_pogled_sa_sprata_Trznog_centra.jpg/1280px-Krovna_terasa_zgrade_u_okolini_Trznog_centra_u_Rajicevoj%2C_pogled_sa_sprata_Trznog_centra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2024-12-17 Rest area on top of garages.jpg",
+      "description": "Rest area with a row of different benches on the garages rooftop east of 38 Petre Kavtaradze Street in Tbilisi, with two houses at 34g Petre Kavtaradze Street in the background",
+      "categories": [
+        "Roof terraces",
+        "Self-published work",
+        "Garages in Georgia (country)",
+        "Taken on missing SDC inception",
+        "Potted plants in Georgia (country)",
+        "Files with coordinates missing SDC location of creation",
+        "2024 in Tbilisi",
+        "Buildings in Georgia (country) photographed in 2024",
+        "Roofs in Georgia (country)",
+        "Georgia (country) photographs taken on 2024-12-17",
+        "Apartment buildings in Tbilisi",
+        "Street benches in Tbilisi",
+        "Taken with Samsung Galaxy A06",
+        "Petre Kavtaradze Street",
+        "Photographs by Yuri Samoylov taken on 2024-12-17"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-12-17_Rest_area_on_top_of_garages.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2024-12-17_Rest_area_on_top_of_garages.jpg/1280px-2024-12-17_Rest_area_on_top_of_garages.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3987,
+      "hauteur": 2990
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Brisbane City YHA rooftop.jpg",
+      "description": "Brisbane City YHA's rooftop enjoys views over the Brisbane River.",
+      "categories": [
+        "Roof terraces",
+        "Self-published work",
+        "Hostels in Brisbane",
+        "Youth hostels in Australia"
+      ],
+      "auteur": "Backpackingmate",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brisbane_City_YHA_rooftop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Brisbane_City_YHA_rooftop.jpg/1280px-Brisbane_City_YHA_rooftop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3500,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Kallikratia, Chalkidiki, Greece - View on city.jpg",
+      "description": "Kallikratia, Chalkidiki, Greece - View on city",
+      "categories": [
+        "Taken with Canon EOS 300D",
+        "Roof terraces",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "June 2005 Greece photographs",
+        "Roofscapes in Greece",
+        "2005 in Nea Propontida",
+        "Photographs by Ilya Schurov",
+        "Apartment buildings in Nea Propontida",
+        "Kallikrateia"
+      ],
+      "auteur": "Ilya Schurov from Moscow, Russia",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kallikratia,_Chalkidiki,_Greece_-_View_on_city.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kallikratia%2C_Chalkidiki%2C_Greece_-_View_on_city.jpg/1280px-Kallikratia%2C_Chalkidiki%2C_Greece_-_View_on_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2024-06-27 View of Tbilisi from Zemo Vedzisi.jpg",
+      "description": "View of the eastern part of the Saburtalo District of Tbilisi from Zemo Vedzisi neighbourgood, taken from the stairs connecting the upper Meri Davitashvili Street and Tashkent Street",
+      "categories": [
+        "Roof terraces",
+        "Views from stairs",
+        "Outdoor dining",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Files with coordinates missing SDC location of creation",
+        "2024 in Tbilisi",
+        "Georgia (country) photographs taken on 2024-06-27",
+        "Cityscapes of Tbilisi",
+        "People on roofs",
+        "Vedzisi",
+        "Photographs by Yuri Samoylov taken on 2024-06-27"
+      ],
+      "auteur": "Yuri Samoylov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2024-06-27_View_of_Tbilisi_from_Zemo_Vedzisi.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2024-06-27_View_of_Tbilisi_from_Zemo_Vedzisi.jpg/1280px-2024-06-27_View_of_Tbilisi_from_Zemo_Vedzisi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4095,
+      "hauteur": 2275
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Gozsdu-yard. 'C' yard. View to Madách Tower. Monument ID 840 - Budapest 7th district. Király St. 13 & Dob St. 16.JPG",
+      "description": "Gozsdu-udvar. 'C' udvarból kilátás a Madách irodaházra. Műemlék ID 840 - Budapest , VII. kerület , Király utca 13",
+      "categories": [
+        "Roof terraces",
+        "Gozsdu courtyard",
+        "Self-published work",
+        "Office buildings in Budapest District VII",
+        "Files with coordinates missing SDC location of creation",
+        "May 2015 in Budapest"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gozsdu-yard._%27C%27_yard._View_to_Mad%C3%A1ch_Tower._Monument_ID_840_-_Budapest_7th_district._Kir%C3%A1ly_St._13_%26_Dob_St._16.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gozsdu-yard._%27C%27_yard._View_to_Mad%C3%A1ch_Tower._Monument_ID_840_-_Budapest_7th_district._Kir%C3%A1ly_St._13_%26_Dob_St._16.JPG/1280px-Gozsdu-yard._%27C%27_yard._View_to_Mad%C3%A1ch_Tower._Monument_ID_840_-_Budapest_7th_district._Kir%C3%A1ly_St._13_%26_Dob_St._16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

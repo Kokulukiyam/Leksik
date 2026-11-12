@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Outil dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pièce vide dont le sol est couvert d'une moquette bouclée beige-brun tendue d'un mur à l'autre, avec un tendeur de moquette posé dessus.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moquette clairement visible, posée mur à mur ; l'outil confirme le contexte sans prêter à confusion."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tapisserie murale ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenture murale, pas une moquette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tenture murale japonaise à poissons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenture murale, pas une moquette."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan d'une moquette bouclée beige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture seule, confondable avec une dalle de moquette ou un tapis."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan d'un tissage gris torsadé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériau ambigu, confondable avec un tapis."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tapisserie murale historique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tenture murale, pas une moquette."
     }
   ]
 }

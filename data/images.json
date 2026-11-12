@@ -252,6 +252,42 @@
     "note": "Vérification : Tympan lisible et sobre sous l'arc, au-dessus du linteau ; rectangle pour éviter la confusion avec l'arc / l'archivolte. Contre-vérification : Surface sculptée (outils de maçon) dans un arc brisé au-dessus d'un linteau ; le rectangle la cadre, avec un peu de claveaux aux coins, et le terme tympan est juste."
   },
   {
+    "id": "tympan-08",
+    "termId": "tympan",
+    "fichier": "commons/tympan-08.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.39,
+      "largeur": 0.4,
+      "hauteur": 0.31
+    },
+    "lieu": "Chartres, France",
+    "source": "commons",
+    "auteur": "Eusebius",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chartres_-_portail_royal,_tympan_central.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tympan romain canonique ; rectangle sur le champ entre linteau et arc. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "tympan-12",
+    "termId": "tympan",
+    "fichier": "commons/tympan-12.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.27,
+      "largeur": 0.86,
+      "hauteur": 0.62
+    },
+    "lieu": "Sligo, Irlande",
+    "source": "commons",
+    "auteur": "Andreas F. Borchert",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sligo_Cathedral_of_the_Immaculate_Conception_South_Portal_Tympanum_2013_09_14.jpg",
+    "statut": "validée",
+    "note": "Vérification : Champ sculpté clair entre linteau et arc ; rectangle sur le tympan. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "oeil-de-boeuf-01",
     "termId": "oeil-de-boeuf",
     "fichier": "commons/oeil-de-boeuf-01.webp",
@@ -721,6 +757,42 @@
     "note": "Vérification : Lucarne dominante et typique ; rectangle pour exclure la gouttière et la corniche en dessous. Contre-vérification : Lucarne à fronton et ailerons à volutes émergeant du toit de tuiles, fenêtre verticale bien visible ; le rectangle l'encadre de près."
   },
   {
+    "id": "lucarne-10",
+    "termId": "lucarne",
+    "fichier": "commons/lucarne-10.webp",
+    "rectangle": {
+      "x": 0.12,
+      "y": 0.18,
+      "largeur": 0.36,
+      "hauteur": 0.57
+    },
+    "lieu": "Brandenburg an der Havel, Allemagne",
+    "source": "commons",
+    "auteur": "Rendor Thuces Al'Nachkar",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gaube_modern,_Brandenburg_a.d.H.,_2015.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ouvrages en saillie à fenêtre verticale, nets ; rectangle sur une lucarne. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "lucarne-12",
+    "termId": "lucarne",
+    "fichier": "commons/lucarne-12.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.27,
+      "largeur": 0.27,
+      "hauteur": 0.21
+    },
+    "lieu": "Göttingen-Weende, Allemagne",
+    "source": "commons",
+    "auteur": "Rendor Thuces Al'Nachkar",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dachgaube_(G%C3%B6ttingen-Weende,_Klostergut_Weende,_2024).jpg",
+    "statut": "validée",
+    "note": "Vérification : Lucarne à trois fenêtres claire ; rectangle dessus pour la distinguer des fenêtres de toit. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "acrotere-11",
     "termId": "acrotere",
     "fichier": "commons/acrotere-11.webp",
@@ -876,6 +948,19 @@
     "note": "Vérification : Succession de sheds caractéristique ; cadre sur la toiture. Contre-vérification : Rangée d'usines en brique à toiture en dents de scie, un versant vitré par dent ; le rectangle désigne bien la succession de sheds."
   },
   {
+    "id": "shed-12",
+    "termId": "shed",
+    "fichier": "commons/shed-12.webp",
+    "rectangle": null,
+    "lieu": "Ichinomiya, Japon",
+    "source": "commons",
+    "auteur": "Asturio Cantabrio",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kisogawa_saw-tooth_roof_factories_2019-08_ac.jpg",
+    "statut": "validée",
+    "note": "Vérification : Profil en dents de scie asymétrique clair d'un bâtiment industriel. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "fleche-05",
     "termId": "fleche",
     "fichier": "commons/fleche-05.webp",
@@ -910,6 +995,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Jami_Masjid_spire_over_mihrab_hall_(6133559943).jpg",
     "statut": "validée",
     "note": "Vérification : Couronnement pyramidal élancé sur une tour ; cadre sur la flèche pour écarter les toitures inférieures. Contre-vérification : Flèche pyramidale en bois très élancée surmontant la tour-lanterne d'une mosquée, cadrée de près par le rectangle."
+  },
+  {
+    "id": "fleche-08",
+    "termId": "fleche",
+    "fichier": "commons/fleche-08.webp",
+    "rectangle": {
+      "x": 0.38,
+      "y": 0.34,
+      "largeur": 0.2,
+      "hauteur": 0.37
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Kirigroeller",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kirchturm_Emmerichskirche.jpg",
+    "statut": "validée",
+    "note": "Vérification : Flèche élancée au sommet de la tour, nette. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "lanterneau-02",
@@ -1278,6 +1381,32 @@
     "note": "Vérification : Colombage net, frontal, très lisible sur téléphone. Contre-vérification : Maison dont l'étage et le pignon présentent un pan de bois apparent à remplissage blanc ; colombage clairement identifiable."
   },
   {
+    "id": "colombage-07",
+    "termId": "colombage",
+    "fichier": "commons/colombage-07.webp",
+    "rectangle": null,
+    "lieu": "Korbach, Allemagne",
+    "source": "commons",
+    "auteur": "Silversurfer83",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Gasthaus_zur_Krone_Ansicht_von_der_B%C3%BCcherei.jpg",
+    "statut": "validée",
+    "note": "Vérification : Colombage net, dominant et typique. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "colombage-12",
+    "termId": "colombage",
+    "fichier": "commons/colombage-12.webp",
+    "rectangle": null,
+    "lieu": "Stöckheim, Allemagne",
+    "source": "commons",
+    "auteur": "JuliusCeaser13",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ackerhof_St%C3%B6ckheim_1_von_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ossature de bois apparente très lisible, clôture au premier plan sans gêne. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "pilotis-06",
     "termId": "pilotis",
     "fichier": "commons/pilotis-06.webp",
@@ -1636,6 +1765,24 @@
     "note": "Vérification : Rosace nette ; rectangle nécessaire pour écarter la corniche à modillons visible en dessous. Contre-vérification : Baie circulaire à remplage en étoile, moulurée de briques, sur une façade d'église ; elle est bien cadrée. Plus modeste qu'une rosace gothique, c'est pourtant le seul terme pertinent de la catégorie."
   },
   {
+    "id": "rosace-09",
+    "termId": "rosace",
+    "fichier": "commons/rosace-09.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.17,
+      "largeur": 0.6,
+      "hauteur": 0.68
+    },
+    "lieu": "Keila, Estonie",
+    "source": "commons",
+    "auteur": "Keila linnavalitsus",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Keila_kiriku_roosaken.JPG",
+    "statut": "validée",
+    "note": "Vérification : Baie circulaire à remplage et vitraux, claire et centrée. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "modillon-06",
     "termId": "modillon",
     "fichier": "commons/modillon-06.webp",
@@ -1683,6 +1830,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:(Venice)_Left_Mascaron_of_the_facade_of_the_Fenice.jpg",
     "statut": "validée",
     "note": "Vérification : Mascaron de clé d'arc dominant, parfaitement lisible ; aucun élément concurrent. Contre-vérification : Masque de théâtre sculpté sur la clé d'un arc, en plein cadre ; c'est un mascaron sans ambiguïté."
+  },
+  {
+    "id": "mascaron-07",
+    "termId": "mascaron",
+    "fichier": "commons/mascaron-07.webp",
+    "rectangle": null,
+    "lieu": "Merano, Italie",
+    "source": "commons",
+    "auteur": "MeranoCity",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ARCHITETTURA_73.jpg",
+    "statut": "validée",
+    "note": "Vérification : Masque sculpté en clé d'arc, net et dominant. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "mascaron-09",
+    "termId": "mascaron",
+    "fichier": "commons/mascaron-09.webp",
+    "rectangle": {
+      "x": 0.26,
+      "y": 0.13,
+      "largeur": 0.5,
+      "hauteur": 0.52
+    },
+    "lieu": "Montpellier, France",
+    "source": "commons",
+    "auteur": "GO69",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Montpellier_(34)_H%C3%B4tel_de_Belleval_06.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rectangle sur le visage pour lever la confusion avec la console. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "frise-01",
@@ -1758,6 +1936,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Porch_of_the_Maidens_(Caryatids)_4.jpg",
     "statut": "validée",
     "note": "Vérification : Cariatide nette et dominante, chapiteau sur la tête bien visible ; les visiteurs n'introduisent aucune ambiguïté. Contre-vérification : Cariatide de l'Érechthéion, figure féminine drapée coiffée d'un chapiteau et d'un abaque ; elle est dominante et sans ambiguïté."
+  },
+  {
+    "id": "cariatide-10",
+    "termId": "cariatide",
+    "fichier": "commons/cariatide-10.webp",
+    "rectangle": {
+      "x": 0.1,
+      "y": 0.12,
+      "largeur": 0.65,
+      "hauteur": 0.78
+    },
+    "lieu": "Saint-Mihiel, France",
+    "source": "commons",
+    "auteur": "Vassil",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Eglise_Saint-Michel_Saint-Mihiel_Orgue_271108_03.jpg",
+    "statut": "validée",
+    "note": "Vérification : Statue féminine faisant office de support, claire malgré l'éclairage chaud. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "cariatide-12",
+    "termId": "cariatide",
+    "fichier": "commons/cariatide-12.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.1,
+      "largeur": 0.45,
+      "hauteur": 0.82
+    },
+    "lieu": "Aix-en-Provence, France",
+    "source": "commons",
+    "auteur": "François GOGLINS",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Aix_en_Provence-FR-13-Hotel_d%27Agut_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cariatide en pierre portant l'entablement, très lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "brique-03",
@@ -2132,6 +2346,19 @@
     "note": "Vérification : Mise en œuvre du pisé sans ambiguïté (banche, pisoir, mur à banchées visibles) ; rectangle pour exclure les tuiles et le terrassement. Contre-vérification : Chantier de pisé : coffrage en bois et mur de terre compactée par levées, le rectangle cadre banches et mur ; très explicite."
   },
   {
+    "id": "pise-13",
+    "termId": "pise",
+    "fichier": "commons/pise-13.webp",
+    "rectangle": null,
+    "lieu": "Alhambra, Grenade, Espagne",
+    "source": "commons",
+    "auteur": "Øyvind Holmstad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Aa_rammed_earth_alhambra_walls_2016_utsnitt.jpg",
+    "statut": "validée",
+    "note": "Vérification : Lits de terre compactée et trous de banche lisibles ; mur de terre damée (tapial). Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "banco-07",
     "termId": "banco",
     "fichier": "commons/banco-07.webp",
@@ -2351,6 +2578,24 @@
     "note": "Vérification : Panneau d'information de chantier typique, net. Contre-vérification : Grand panneau de chantier avec perspective du projet, intervenants et références du permis, bien cadré devant le chantier."
   },
   {
+    "id": "bungalow-de-chantier-07",
+    "termId": "bungalow-de-chantier",
+    "fichier": "commons/bungalow-de-chantier-07.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0.07,
+      "largeur": 0.92,
+      "hauteur": 0.63
+    },
+    "lieu": "Wentorf bei Hamburg, Allemagne",
+    "source": "commons",
+    "auteur": "Jeuwre",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Baucontainer_001.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bungalows de chantier empilés, typiques ; rectangle pour exclure les bâches. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "benne-a-gravats-03",
     "termId": "benne-a-gravats",
     "fichier": "commons/benne-a-gravats-03.webp",
@@ -2545,6 +2790,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:2018061101_Wurzener_Strasse_56_Rohbau_Moto_G4_2018.jpg",
     "statut": "validée",
     "note": "Vérification : Échafaudage tubulaire typique, clair et dominant ; bannières sans rapport avec la réponse. Contre-vérification : Échafaudage de façade en tubes d'acier couvrant tout l'immeuble en construction ; élément dominant, aucun autre type d'échafaudage possible."
+  },
+  {
+    "id": "echafaudage-en-bambou-12",
+    "termId": "echafaudage-en-bambou",
+    "fichier": "commons/echafaudage-en-bambou-12.webp",
+    "rectangle": null,
+    "lieu": "Chiang Mai, Thaïlande",
+    "source": "commons",
+    "auteur": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chiang-Mai_Thailand_Workers-on-a-bamboo-scaffolding-01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bambous et ligatures très lisibles, élément dominant. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "echelle-08",
@@ -2868,6 +3126,24 @@
     "note": "Vérification : Niveleuse typique, nette. Contre-vérification : Niveleuse en travail sur une plateforme de grave, lame centrale sous le châssis visible ; sans ambiguïté."
   },
   {
+    "id": "niveleuse-08",
+    "termId": "niveleuse",
+    "fichier": "commons/niveleuse-08.webp",
+    "rectangle": {
+      "x": 0.42,
+      "y": 0,
+      "largeur": 0.57,
+      "hauteur": 0.85
+    },
+    "lieu": "Guantanamo, Cuba",
+    "source": "commons",
+    "auteur": "Staff Sgt. Blair Heusdens",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:106th_CES_Supports_Operation_Unified_Response_From_Guantanamo_DVIDS245766.jpg",
+    "statut": "validée",
+    "note": "Vérification : Engin bien reconnaissable (lame centrale, roues larges) ; rectangle pour exclure le soldat. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "rouleau-compresseur-03",
     "termId": "rouleau-compresseur",
     "fichier": "commons/rouleau-compresseur-03.webp",
@@ -3003,6 +3279,42 @@
     "note": "Vérification : Tombereau articulé net et dominant. Contre-vérification : Tombereau articulé Liebherr TA 230 à benne basculante vu de profil ; terme juste."
   },
   {
+    "id": "tombereau-07",
+    "termId": "tombereau",
+    "fichier": "commons/tombereau-07.webp",
+    "rectangle": {
+      "x": 0.29,
+      "y": 0.3,
+      "largeur": 0.6,
+      "hauteur": 0.4
+    },
+    "lieu": "Sunny Isles Beach, Floride",
+    "source": "commons",
+    "auteur": "Jax Strong",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Coastal_erosion_solutions_(1158).jpg",
+    "statut": "validée",
+    "note": "Vérification : Engin articulé de terrassement bien lisible ; rectangle pour exclure l'ouvrier. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "tombereau-08",
+    "termId": "tombereau",
+    "fichier": "commons/tombereau-08.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.26,
+      "largeur": 0.78,
+      "hauteur": 0.52
+    },
+    "lieu": "Vallstena, Gotland, Suède",
+    "source": "commons",
+    "auteur": "Bene Riobó",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Nord-Verk_Dumper_140.jpg",
+    "statut": "validée",
+    "note": "Vérification : Dumper articulé net ; rectangle pour exclure godets et conteneur au premier plan. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "camion-toupie-01",
     "termId": "camion-toupie",
     "fichier": "commons/camion-toupie-01.webp",
@@ -3053,6 +3365,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_pump_trucks_(photos;_2023-08-25)_E911a_01.jpg",
     "statut": "validée",
     "note": "Vérification : Camion à bras de pompe à béton clair ; le nom de société n'est pas la réponse. Contre-vérification : Camion-pompe avec flèche rouge articulée repliée et tuyauterie de béton bien visible ; reconnaissable."
+  },
+  {
+    "id": "chariot-telescopique-08",
+    "termId": "chariot-telescopique",
+    "fichier": "commons/chariot-telescopique-08.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.2,
+      "largeur": 0.66,
+      "hauteur": 0.52
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Cpl. Ismael Ortega",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:DESERT_SCIMITAR_140511-M-RD023-374.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bras télescopique et fourches nets, rectangle sur l'engin ; éclairage sombre mais lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "chariot-telescopique-12",
+    "termId": "chariot-telescopique",
+    "fichier": "commons/chariot-telescopique-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Lionel Allorge",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chantiers_sur_l%27autoroute_A10_17.jpg",
+    "statut": "validée",
+    "note": "Vérification : Engin entier, fourches et bras clairs, sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "grue-a-tour-03",
@@ -3143,6 +3486,19 @@
     "note": "Vérification : Palans clairement identifiables, étiquette technique sans lien avec la réponse. Contre-vérification : Photo produit de palans à levier et à chaîne avec crochets et chaînes ; clairement des palans."
   },
   {
+    "id": "palan-09",
+    "termId": "palan",
+    "fichier": "commons/palan-09.webp",
+    "rectangle": null,
+    "lieu": "Haltern am See, Allemagne",
+    "source": "commons",
+    "auteur": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Haltern_am_See,_Sythen,_Werkzeughalle_der_Quarzwerke_--_2015_--_4998-5002.jpg",
+    "statut": "validée",
+    "note": "Vérification : Nombreux palans à chaîne nets, chaînes et crochets ; aucune confusion avec la poulie. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "benne-a-beton-03",
     "termId": "benne-a-beton",
     "fichier": "commons/benne-a-beton-03.webp",
@@ -3167,6 +3523,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Placing_the_mud_mat_in_the_final_approach_structure_in_Harold_Interlocking._11-13-2019_(49070775026).jpg",
     "statut": "validée",
     "note": "Vérification : Benne suspendue au crochet avec trappe en bas, claire et dominante. Contre-vérification : Benne à béton suspendue au câble de grue en train de déverser le béton : illustration typique et claire."
+  },
+  {
+    "id": "benne-a-beton-08",
+    "termId": "benne-a-beton",
+    "fichier": "commons/benne-a-beton-08.webp",
+    "rectangle": {
+      "x": 0.32,
+      "y": 0.3,
+      "largeur": 0.45,
+      "hauteur": 0.62
+    },
+    "lieu": "New York",
+    "source": "commons",
+    "auteur": "MTA Capital Construction Mega Projects",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pouring_concrete_to_support_the_base_of_soldier_piles._07-09-2019_(48266204406).jpg",
+    "statut": "validée",
+    "note": "Vérification : Benne conique à trappe bien visible, rectangle dessus pour écarter la foreuse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "benne-a-beton-09",
+    "termId": "benne-a-beton",
+    "fichier": "commons/benne-a-beton-09.webp",
+    "rectangle": {
+      "x": 0.28,
+      "y": 0.08,
+      "largeur": 0.6,
+      "hauteur": 0.6
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Chmee2",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Concrete_mixing_plant5.jpg",
+    "statut": "validée",
+    "note": "Vérification : Benne à trappe et volant nette en plein déversement, rectangle sur la benne. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "truelle-06",
@@ -3428,6 +3820,19 @@
     "note": "Vérification : Usage maçon évident, élément dominant. Contre-vérification : Plomb suspendu à une ficelle devant un mur de briques, usage évident."
   },
   {
+    "id": "cordeau-traceur-07",
+    "termId": "cordeau-traceur",
+    "fichier": "commons/cordeau-traceur-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "wolliballa RS",
+    "licence": "CC BY-SA 2.0 de",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:P4270055_schlagschnur.JPG",
+    "statut": "validée",
+    "note": "Vérification : Objet entier, net et typique. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "talocheuse-mecanique-01",
     "termId": "talocheuse-mecanique",
     "fichier": "commons/talocheuse-mecanique-01.webp",
@@ -3465,6 +3870,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Zacieraczka_do_betonu.JPG",
     "statut": "validée",
     "note": "Vérification : Machine isolée et nette. Contre-vérification : Talocheuse mécanique rouge à long manche posée sur une dalle, pales visibles : objet dominant et clair."
+  },
+  {
+    "id": "regle-vibrante-12",
+    "termId": "regle-vibrante",
+    "fichier": "commons/regle-vibrante-12.webp",
+    "rectangle": {
+      "x": 0.31,
+      "y": 0.37,
+      "largeur": 0.54,
+      "hauteur": 0.45
+    },
+    "lieu": "Allemagne",
+    "source": "commons",
+    "auteur": "U.S. Army 120PAD by Capt. Caitlin Sweet",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Trans-Atlantic_Castle_(5686114).jpg",
+    "statut": "validée",
+    "note": "Vérification : Règle vibrante à treillis et moteur sur le béton frais, rectangle sur la règle. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "aiguille-vibrante-06",
@@ -3676,6 +4099,24 @@
     "note": "Vérification : Tronçonneuse à moteur thermique, claire, nette et dominante. Contre-vérification : Tronçonneuse thermique avec guide et chaîne dentée bien visibles, posée sur une souche : illustration nette."
   },
   {
+    "id": "tronconneuse-09",
+    "termId": "tronconneuse",
+    "fichier": "commons/tronconneuse-09.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.3,
+      "largeur": 0.31,
+      "hauteur": 0.18
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Capt. Rachel Morgan",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Army_Reserve_team_earns_bronze_in_ice_sculpting_150311-A-AA999-002.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tronçonneuse nette et reconnaissable, rectangle sur l'outil ; usage sur glace sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "perceuse-04",
     "termId": "perceuse",
     "fichier": "commons/perceuse-04.webp",
@@ -3780,6 +4221,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Core_drill_in_action_IMG_20201029_165313188.jpg",
     "statut": "validée",
     "note": "Vérification : Machine à couronne en action sur un mur, lisible. Contre-vérification : Carotteuse sur bâti fixé au mur avec grosse couronne cylindrique, opérateur au travail : machine clairement identifiable."
+  },
+  {
+    "id": "carotteuse-07",
+    "termId": "carotteuse",
+    "fichier": "commons/carotteuse-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Costantino Figini",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carotatrice_portatile.jpg",
+    "statut": "validée",
+    "note": "Vérification : Machine entière, couronne en action, nette. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "rabot-05",
@@ -14349,6 +14803,19 @@
     "note": "Vérification : Sol en granito clair et net, éclats bien visibles, occupe toute l'image. Contre-vérification : Couloir au sol en granito poli à éclats de marbre multicolores ; terme juste."
   },
   {
+    "id": "granito-09",
+    "termId": "granito",
+    "fichier": "commons/granito-09.webp",
+    "rectangle": null,
+    "lieu": "Venise, Italie",
+    "source": "commons",
+    "auteur": "Armin Kleiner",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Venice,_Castello,_Giardini_della_Biennale_09,_slippery.jpg",
+    "statut": "validée",
+    "note": "Vérification : Terrazzo typique occupant toute l'image, bien lisible. Le panneau « slippery » ne donne pas la réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "parquet-04",
     "termId": "parquet",
     "fichier": "commons/parquet-04.webp",
@@ -14455,6 +14922,19 @@
     "note": "Vérification : Moquette bien visible, rectangle sur la partie de sol. Contre-vérification : Couloir d'hôtel couvert d'une moquette bleue à motifs posée de mur à mur, rectangle sur le sol ; terme juste."
   },
   {
+    "id": "moquette-07",
+    "termId": "moquette",
+    "fichier": "commons/moquette-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Floyd Wilde",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Carpet_stretcher.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moquette clairement visible, posée mur à mur ; l'outil confirme le contexte sans prêter à confusion. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "plancher-technique-05",
     "termId": "plancher-technique",
     "fichier": "commons/plancher-technique-05.webp",
@@ -14484,6 +14964,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:4769494160_wallpaper.jpg",
     "statut": "validée",
     "note": "Vérification : Papier peint à motif net et dominant, rectangle pour exclure le cadre. Contre-vérification : Mur tapissé d'un papier peint à grands motifs floraux, rectangle sur le motif ; terme juste."
+  },
+  {
+    "id": "papier-peint-07",
+    "termId": "papier-peint",
+    "fichier": "commons/papier-peint-07.webp",
+    "rectangle": null,
+    "lieu": "Oberhofen, Suisse",
+    "source": "commons",
+    "auteur": "Shesmax",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Schloss_Oberhofen._Dienstbotenkammer._Wandtapeten._2020-09-19_14-41-40.jpg",
+    "statut": "validée",
+    "note": "Vérification : Papier peint clairement reconnaissable, motif répété. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "papier-peint-09",
+    "termId": "papier-peint",
+    "fichier": "commons/papier-peint-09.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 0.53,
+      "hauteur": 0.66
+    },
+    "lieu": "Weesenstein, Allemagne",
+    "source": "commons",
+    "auteur": "Jörg Blobelt",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:19860615070NR_Weesenstein_(M%C3%BCglitztal)_Schlo%C3%9F_Chinatapete.jpg",
+    "statut": "validée",
+    "note": "Vérification : Papier peint chinois sur les murs ; rectangle sur les lés. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "tadelakt-03",
@@ -14528,6 +15039,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Marmoutier_Abbaye_198.JPG",
     "statut": "validée",
     "note": "Vérification : Rectangle sur le revêtement mural à panneaux, distinct des stalles. Contre-vérification : Rectangle sur le lambris de chœur en panneaux de chêne moulurés et sculptés ; terme juste."
+  },
+  {
+    "id": "placard-09",
+    "termId": "placard",
+    "fichier": "commons/placard-09.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.08,
+      "largeur": 0.48,
+      "hauteur": 0.73
+    },
+    "lieu": "Van Cortlandt House Museum, New York",
+    "source": "commons",
+    "auteur": "ElectricSeeker",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cupboard_Inside_Van_Cortlandt_House_Museum.jpg",
+    "statut": "validée",
+    "note": "Vérification : Rangement intégré dans le mur fermé par des portes ; rectangle sur le placard. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "plan-de-travail-01",

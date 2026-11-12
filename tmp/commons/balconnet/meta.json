@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "balcon",
-      "garde-corps"
+      "garde-corps",
+      "garde-corps-en-fer-forge",
+      "garde-corps-a-barreaudage"
     ],
     "categoriesCommons": [
       "Category:Balconies"
@@ -119,6 +121,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Balc%C3%B3nCeramica.jpg/1280px-Balc%C3%B3nCeramica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1536,
       "hauteur": 2048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Abyss - Flickr - Stiller Beobachter (1).jpg",
+      "description": "abyss",
+      "categories": [
+        "Balconies",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Stiller Beobachter",
+        "Human legs and feet"
+      ],
+      "auteur": "Stiller Beobachter from Ansbach, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abyss_-_Flickr_-_Stiller_Beobachter_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg/1280px-Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4898,
+      "hauteur": 3265
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Balconies Cruise Ship Southampton 2016.jpg",
+      "description": "Balconies of a cruise ship with liveboats, taken in the harbour of Southampton",
+      "categories": [
+        "GFDL",
+        "Balconies",
+        "License migration redundant",
+        "Self-published work",
+        "Photo challenge winners",
+        "Cruise ship lifeboats",
+        "Balconies on cruise ships",
+        "Caribbean Princess (ship, 2004) in Southampton"
+      ],
+      "auteur": "Kyriondaniel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balconies_Cruise_Ship_Southampton_2016.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Balconies_Cruise_Ship_Southampton_2016.jpg/1280px-Balconies_Cruise_Ship_Southampton_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4596,
+      "hauteur": 3048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:'Blowing the Sabath horn' LOC matpc.13024.jpg",
+      "description": "Title: \"Blowing the Sabath horn\" Abstract/medium: G. Eric and Edith Matson Photograph Collection Physical description: 1 negative :",
+      "categories": [
+        "Images from the Library of Congress",
+        "Shabbat",
+        "Balconies",
+        "1925 in the British Mandate of Palestine",
+        "PD-Matson",
+        "People blowing a Shofar",
+        "Images uploaded by Fæ",
+        "Hasidic Jews",
+        "PD US no notice",
+        "Matson Collection in the Library of Congress",
+        "Library of Congress-no known copyright restrictions"
+      ],
+      "auteur": "Matson Collection",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:%27Blowing_the_Sabath_horn%27_LOC_matpc.13024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%27Blowing_the_Sabath_horn%27_LOC_matpc.13024.jpg/1280px-%27Blowing_the_Sabath_horn%27_LOC_matpc.13024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4378,
+      "hauteur": 3119
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Balcony - Flickr - mirabelka szuszu.jpg",
+      "description": "balcony",
+      "categories": [
+        "Balconies",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs taken on 2019-08-10",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "mirabelka szuszu",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_-_Flickr_-_mirabelka_szuszu.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Balcony_-_Flickr_-_mirabelka_szuszu.jpg/1280px-Balcony_-_Flickr_-_mirabelka_szuszu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Balcony (1).jpg",
+      "description": "Balcony",
+      "categories": [
+        "Balconies",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Images from Wiki Loves Africa 2022 in Egypt"
+      ],
+      "auteur": "Myousry6666",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Balcony_%281%29.jpg/1280px-Balcony_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5315,
+      "hauteur": 3543
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Balcony with parasols (9307352963).jpg",
+      "description": "Balcony with parasols",
+      "categories": [
+        "Balconies",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Blondinrikard Fröberg Flickr stream"
+      ],
+      "auteur": "Blondinrikard Fröberg",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balcony_with_parasols_(9307352963).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Balcony_with_parasols_%289307352963%29.jpg/1280px-Balcony_with_parasols_%289307352963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -7,6 +7,11 @@
     "requetes": [
       "incategory:\"Spires\"",
       "church spire"
+    ],
+    "priorite": 3,
+    "categoriesCommons": [
+      "Category:Spires",
+      "Category:Church spires"
     ]
   },
   "candidats": [
@@ -132,6 +137,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Jami_Masjid_spire_over_mihrab_hall_%286133559943%29.jpg/1280px-Jami_Masjid_spire_over_mihrab_hall_%286133559943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1536,
       "hauteur": 2048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Electric towers at Buffalo Pan-American Exposition, 1901.jpg",
+      "description": "Spires at the Buffalo, New York, Pan-American Exposition, including Electric Tower in center back.",
+      "categories": [
+        "Towers in New York (state)",
+        "Images from the Library of Congress",
+        "Spires",
+        "Art Nouveau architecture in Buffalo, New York",
+        "PD US expired",
+        "Files with coordinates missing SDC location of creation",
+        "Electric Tower (Pan-American Exposition)"
+      ],
+      "auteur": "Underhill, New York City",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Electric_towers_at_Buffalo_Pan-American_Exposition,_1901.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Electric_towers_at_Buffalo_Pan-American_Exposition%2C_1901.jpg/1280px-Electric_towers_at_Buffalo_Pan-American_Exposition%2C_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1504,
+      "hauteur": 784
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Kirchturm Emmerichskirche.jpg",
+      "description": "The church spire of St. Emerich church with its golden cross on top of it. The cross has been consecrated by pope John Paul II. during his pastoral visit to Hungary in 1991.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Church spires",
+        "Files with coordinates missing SDC location of creation",
+        "Roman Catholic Church in Rönök"
+      ],
+      "auteur": "Kirigroeller",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kirchturm_Emmerichskirche.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kirchturm_Emmerichskirche.jpg/1280px-Kirchturm_Emmerichskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Spire of Sultanahmet Mosque.jpg",
+      "description": "Spire of Sultanahmet Mosque",
+      "categories": [
+        "Istanbul in the 2010s",
+        "Exterior of Sultan Ahmed I Mosque",
+        "Sultanahmet (neighbourhood)",
+        "Spires",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Minarets of Sultan Ahmed I Mosque"
+      ],
+      "auteur": "Slyronit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Spire_of_Sultanahmet_Mosque.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Spire_of_Sultanahmet_Mosque.jpg/1280px-Spire_of_Sultanahmet_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Saint Ildefonso Bulacan Church Bulacan October 24 2026 Heritage preservation retrofitting 04.jpg",
+      "description": "Saint Ildephonsus of Toledo Church, Bulacan (E. Viudez – A. Villacorte streets - San Ildefonso-Doña Remedios Trinidad Road - Cagayan Valley Road Pan-Philippine Highway or Asian Highway 26 Barangay Poblacion)",
+      "categories": [
+        "Self-published work",
+        "Church spires",
+        "Creative Commons Attribution 4.0 missing SDC copyright license",
+        "Creative Commons Attribution missing SDC copyright status",
+        "Self-published work missing SDC copyright license",
+        "Saint Ildephonsus of Toledo Church (San Ildefonso, Bulacan)"
+      ],
+      "auteur": "P1898",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint_Ildefonso_Bulacan_Church_Bulacan_October_24_2026_Heritage_preservation_retrofitting_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Saint_Ildefonso_Bulacan_Church_Bulacan_October_24_2026_Heritage_preservation_retrofitting_04.jpg/1280px-Saint_Ildefonso_Bulacan_Church_Bulacan_October_24_2026_Heritage_preservation_retrofitting_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2583,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Jade Spire 1990 by Kevin Oehler, Denver, CO.jpg",
+      "description": "Jade Spire 1990 by Kevin Oehler in Denver, Colorado.",
+      "categories": [
+        "Culture of Denver, Colorado",
+        "Spires",
+        "Public art in Colorado",
+        "Self-published work",
+        "1990 works in the United States",
+        "Jade sculptures"
+      ],
+      "auteur": "Xnatedawgx",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jade_Spire_1990_by_Kevin_Oehler,_Denver,_CO.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Jade_Spire_1990_by_Kevin_Oehler%2C_Denver%2C_CO.jpg/1280px-Jade_Spire_1990_by_Kevin_Oehler%2C_Denver%2C_CO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1836,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Church of Merciful Saviour in Kuskovo (spire of bell tower, angel).jpg",
+      "description": "The Church of the Merciful Saviour in Kuskovo , Moscow. The spire of the bell tower and the figure of an angel with the cross mounted on the top of the church dome. Late 1730s . A photo from the user collection Moscow .",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Church of the Merciful Saviour in Kuskovo (Moscow)",
+        "Self-published work",
+        "Church spires",
+        "Statues of angels in Russia",
+        "1730s statues",
+        "Cultural heritage monuments in Russia with known IDs",
+        "Metallic crosses in Russia",
+        "Files uploaded by Dmitry Ivanov",
+        "Churches in Russia photographed in 2014",
+        "Buildings with addresses",
+        "October 2014 in Moscow",
+        "Roofs in Moscow",
+        "Russia photographs taken on 2014-10-11",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures photographed in 2014",
+        "Cultural heritage monuments in Russia missing SDC location of creation",
+        "Baroque spires",
+        "Spires in Moscow",
+        "Statues of angels with crosses",
+        "Sculptures of standing angels",
+        "Russian heritage ID 7710966017",
+        "Statues on top of towers"
+      ],
+      "auteur": "Dmitry Ivanov .",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_Merciful_Saviour_in_Kuskovo_(spire_of_bell_tower,_angel).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Church_of_Merciful_Saviour_in_Kuskovo_%28spire_of_bell_tower%2C_angel%29.jpg/1280px-Church_of_Merciful_Saviour_in_Kuskovo_%28spire_of_bell_tower%2C_angel%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2772,
+      "hauteur": 2894
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

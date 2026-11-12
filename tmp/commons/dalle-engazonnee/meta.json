@@ -11,7 +11,8 @@
       "grass grid paving"
     ],
     "incompatibles": [
-      "pelouse"
+      "pelouse",
+      "allee"
     ]
   },
   "candidats": [
@@ -133,6 +134,141 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Euromaster_%C3%A0_Massy_en_Essonne_le_2_ao%C3%BBt_2015_-_10.jpg/1280px-Euromaster_%C3%A0_Massy_en_Essonne_le_2_ao%C3%BBt_2015_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bochum - Werner Hellweg - Heinrich Gustav - Schacht Jacob 02 ies.jpg",
+      "description": "Ehemaliger Standort des Schachtes Jacob der Zeche Heinrich Gustav, später Zeche Robert Müser, am Werner Hellweg in Bochum",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 5D Mark II",
+        "License migration redundant",
+        "Grass pavements",
+        "Self-published work",
+        "Zeche Heinrich Gustav Schacht Jacob"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob_02_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob_02_ies.jpg/1280px-Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob_02_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:FileGroup playing cards at Campo Almirante Reis - 2014-01-15.jpg",
+      "description": "Funchal Madeira Portugal January 2013",
+      "categories": [
+        "Grass pavements",
+        "Clothing of Portugal",
+        "Flickr images reviewed by FlickreviewR",
+        "Groups of people in Portugal",
+        "Restaurants in Funchal",
+        "2014 in Funchal",
+        "Standing men seen from behind",
+        "People playing card games",
+        "Clothing in 2014",
+        "People standing while wearing jeans",
+        "Rua Dom Carlos I",
+        "Taxis in Funchal",
+        "Madeira by BN",
+        "Groups of men wearing blue jeans"
+      ],
+      "auteur": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FileGroup_playing_cards_at_Campo_Almirante_Reis_-_2014-01-15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/FileGroup_playing_cards_at_Campo_Almirante_Reis_-_2014-01-15.jpg/1280px-FileGroup_playing_cards_at_Campo_Almirante_Reis_-_2014-01-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7301,
+      "hauteur": 4825
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Oldtimer Seen In Auckland Domain.jpg",
+      "description": "An oldtimer car (aparently a Ford Model A) in the Auckland Domain in Auckland , New Zealand .",
+      "categories": [
+        "Trees in New Zealand",
+        "Ford Model A",
+        "Auckland Domain",
+        "2010 photographs of New Zealand",
+        "Grass pavements",
+        "Self-published work",
+        "Red automobiles",
+        "PD-self",
+        "2010 in Auckland",
+        "Files with coordinates missing SDC location of creation",
+        "Ford automobiles in New Zealand",
+        "Photos taken by Ingolfson"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oldtimer_Seen_In_Auckland_Domain.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Oldtimer_Seen_In_Auckland_Domain.jpg/1280px-Oldtimer_Seen_In_Auckland_Domain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Забавная зеленая стоянка - panoramio.jpg",
+      "description": "Сходненская улица. Зеленая стоянка",
+      "categories": [
+        "Taken with Samsung GT-B5702",
+        "Grass pavements",
+        "Skhodnenskaya Street",
+        "Car parks in Moscow",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Moscow photographs taken on 2011-08-11",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 1275365"
+      ],
+      "auteur": "karel291",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0_-_panoramio.jpg/1280px-%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bochum - Werner Hellweg - Heinrich Gustav - Schacht Jacob+Hauptfeuerwache 01 ies.jpg",
+      "description": "Ehemaliger Standort des Schachtes Jacob der Zeche Heinrich Gustav, später Zeche Robert Müser, am Werner Hellweg in Bochum . Im Hintergrund die Hauptfeuer- und Rettungswache.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 5D Mark II",
+        "License migration redundant",
+        "Grass pavements",
+        "Self-published work",
+        "Hauptfeuer- und Rettungswache Bochum",
+        "Zeche Heinrich Gustav Schacht Jacob"
+      ],
+      "auteur": "Frank Vincentz",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache_01_ies.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache_01_ies.jpg/1280px-Bochum_-_Werner_Hellweg_-_Heinrich_Gustav_-_Schacht_Jacob%2BHauptfeuerwache_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3744,
+      "hauteur": 5616
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Grass Pavers In The Auckland Domain I.jpg",
+      "description": "Grass paver stones in the Auckland Domain, near Carlton Gore Road.",
+      "categories": [
+        "Trees in New Zealand",
+        "CC-Zero",
+        "Auckland Domain",
+        "Grass pavements",
+        "Self-published work",
+        "Car parks in New Zealand"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grass_Pavers_In_The_Auckland_Domain_I.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Grass_Pavers_In_The_Auckland_Domain_I.jpg/1280px-Grass_Pavers_In_The_Auckland_Domain_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

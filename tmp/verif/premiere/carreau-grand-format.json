@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Petits carreaux, sujet urinoirs."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sol de petits carreaux en damier noir et jaune près d'un mur de faïence.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux, pas du grand format."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre grillagée encadrée de carreaux de faïence anciens.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Nef d'église avec sol carrelé au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Carrelage trop petit et peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bancs d'église sur un sol en damier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Petits carreaux, pas du grand format."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plan de temple (dessin).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Autel d'église avec sol carrelé à motifs en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

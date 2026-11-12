@@ -48,6 +48,54 @@
       "note": "Cordeau non visible.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cordeau traceur orange en plastique avec manivelle et crochet, sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet entier, net et typique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancien traceur en bois noir vu de côté avec roue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de musée peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Militaire sur échelle sous une charpente neuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cordeau non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier devant un mur de parpaings avec une ligne rose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cordeau absent, ligne seule."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur un ancien traceur en bois noir étiqueté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux militaires tenant une ligne sur un plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fort Hunter Liggett",
+      "note": "Cordeau non identifiable."
     }
   ]
 }

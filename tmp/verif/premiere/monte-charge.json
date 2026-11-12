@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Monte-matériaux à benne sur échelle, pas plateforme sur mât : doute."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Installation d'un escalator suspendu dans une station.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Pas un monte-charge."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Potence rouge fixée contre une façade d'immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liverpool",
+      "note": "Potence de levage, pas une plateforme sur mât."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cliché ancien d'un mécanisme de vanne de barrage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gravure de moufles pour tirer un navire à terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand mât de bois incliné sur la lande côtière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Esquibien, France",
+      "note": "Mât de levage de goémon, pas un monte-charge de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Monte-matériaux à échelle avec treuil à moteur au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Châtillon-sur-Saône",
+      "note": "Monte-matériaux sur échelle, pas une plateforme sur mât ; doute, comme pour la candidate 06."
     }
   ]
 }

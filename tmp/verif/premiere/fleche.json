@@ -58,6 +58,59 @@
       },
       "lieu": "Srinagar, Inde",
       "note": "Couronnement pyramidal élancé sur une tour ; cadre sur la flèche pour écarter les toitures inférieures."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tours et pavillons d'exposition en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, plusieurs éléments."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Flèche conique d'un clocher d'église surmontée d'une croix, sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.34,
+        "largeur": 0.2,
+        "hauteur": 0.37
+      },
+      "lieu": "",
+      "note": "Flèche élancée au sommet de la tour, nette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Minaret de la mosquée Sultanahmet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Minaret, non un clocher."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Église en échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flèche en chantier, peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mât vert élancé devant un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mât ou colonne, pas une flèche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Flèche dorée et dôme à ange portant une croix.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dôme et statue prêtent à confusion."
     }
   ]
 }

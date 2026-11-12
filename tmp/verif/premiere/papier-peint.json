@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peut aussi être toile de verre ou enduit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Papier peint à motif de lierre et de rubans lilas, vu de près sur un mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Oberhofen, Suisse",
+      "note": "Papier peint clairement reconnaissable, motif répété."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tenture à motif de grenades en velours sur fond doré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tissu ou velours : confusion avec une tenture textile."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salon dont les murs sont tapissés d'un papier peint chinois peint à arbres fleuris et oiseaux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 0.53,
+        "hauteur": 0.66
+      },
+      "lieu": "Weesenstein, Allemagne",
+      "note": "Papier peint chinois sur les murs ; rectangle sur les lés."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Reproduction d'un ouvrage ancien avec motifs de toile imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure ou illustration de livre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Papier peint panoramique à paysage sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour une peinture murale ou un tableau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Damas floqué rose et brun couvrant un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Motif velouté : doute entre papier peint et tissu."
     }
   ]
 }

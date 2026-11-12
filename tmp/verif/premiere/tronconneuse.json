@@ -48,6 +48,59 @@
       "note": "Texte et enseigne, aucune tronçonneuse.",
       "rectangle": null,
       "lieu": ""
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Homme tronçonnant une branche avec une tronçonneuse verte, de dos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil petit, partiellement masqué."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Couteau suisse avec lame de scie ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une tronçonneuse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soldat découpant un bloc de glace avec une tronçonneuse Stihl orange.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.3,
+        "largeur": 0.31,
+        "hauteur": 0.18
+      },
+      "lieu": "",
+      "note": "Tronçonneuse nette et reconnaissable, rectangle sur l'outil ; usage sur glace sans ambiguïté."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Couteau de poche avec lame de scie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leegebruch",
+      "note": "Pas une tronçonneuse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Soldat débitant un arbre tombé au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil trop petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mini-chargeuse Bobcat avec scie à disque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scie à roue, pas tronçonneuse."
     }
   ]
 }

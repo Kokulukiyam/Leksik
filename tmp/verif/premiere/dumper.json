@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Camion-benne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion benne de salage avec lame chasse-neige sous la neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ewing, New Jersey",
+      "note": "Camion-benne routier, pas un dumper."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chargeuse sur pneus remplissant un camion de neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Rosière, France",
+      "note": "Chargeuse et camion, pas de dumper."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Engin jaune ancien à benne arrière devant un hangar.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vallstena, Suède",
+      "note": "Benne à l'arrière, pas à l'avant : confusion avec tombereau, doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Camion-benne Peterbilt blanc sur un terrain sableux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-benne routier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Camion-benne déversant l'enrobé dans un finisseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-benne, scène de voirie."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Engin articulé à benne vu de loin sur une passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zirgu Sala, Lettonie",
+      "note": "Tombereau articulé, trop petit et lointain."
     }
   ]
 }

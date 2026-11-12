@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Murs peints, pas d'enduit de lissage identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Masque mortuaire en plâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Voûte d'un abri avec stucs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pansements et compresses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pièce sous combles aux murs blancs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murs finis, enduit de lissage non identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Homme dos à l'objectif devant un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Geste de lissage non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Enduit grossier gris-brun.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enduit rugueux, pas un enduit de lissage."
     }
   ]
 }
