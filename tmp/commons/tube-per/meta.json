@@ -13,6 +13,11 @@
     "categoriesCommons": [
       "Category:Plastic pipes",
       "Category:Pipes"
+    ],
+    "incompatibles": [
+      "tube-ppr",
+      "tube-pvc",
+      "tuyau-en-polyethylene"
     ]
   },
   "candidats": [
@@ -136,6 +141,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_pipe.jpg/1280px-Blue_pipe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4968,
       "hauteur": 3312
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Abandoned Machines (16255177732).jpg",
+      "description": "The old disused Brickwork's has plenty of abandoned machines lying around outside. The bushes and grass is growing wild over the top of them",
+      "categories": [
+        "Pipes",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Brickwork's",
+        "Darkday (photographer)"
+      ],
+      "auteur": "darkday from Brisbane, Australia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abandoned_Machines_(16255177732).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Abandoned_Machines_%2816255177732%29.jpg/1280px-Abandoned_Machines_%2816255177732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:0041Baliuag, Bulacan Maharlika Highway Proper 21.jpg",
+      "description": "Baliuag, Bulacan Maharlika Highway Proper",
+      "categories": [
+        "Plastic pipes",
+        "Taken with Nikon Coolpix AW100",
+        "CC-Zero",
+        "Trusses",
+        "Self-published work",
+        "Photographs by Judgefloro",
+        "Files with coordinates missing SDC location of creation",
+        "Philippines photographs taken on 2021-02-01",
+        "Pawid"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0041Baliuag,_Bulacan_Maharlika_Highway_Proper_21.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/0041Baliuag%2C_Bulacan_Maharlika_Highway_Proper_21.jpg/1280px-0041Baliuag%2C_Bulacan_Maharlika_Highway_Proper_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Jiangsu Provincial Highway 238 construction site (20240718) P6.jpg",
+      "description": "Jiangsu Provincial Highway 238 construction site",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Jiangsu Provincial Highway 238 construction site"
+      ],
+      "auteur": "Fumikas Sagisavas",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jiangsu_Provincial_Highway_238_construction_site_(20240718)_P6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jiangsu_Provincial_Highway_238_construction_site_%2820240718%29_P6.jpg/1280px-Jiangsu_Provincial_Highway_238_construction_site_%2820240718%29_P6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:16 Strada Dimitrie Racoviță, Bucharest (01).jpg",
+      "description": "16 Strada Dimitrie Racoviță, Bucharest",
+      "categories": [
+        "Pipes",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "September 2022 in Bucharest",
+        "Strada Dimitrie Racoviță, 16",
+        "Art Nouveau reliefs in Bucharest"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:16_Strada_Dimitrie_Racovi%C8%9B%C4%83,_Bucharest_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/16_Strada_Dimitrie_Racovi%C8%9B%C4%83%2C_Bucharest_%2801%29.jpg/1280px-16_Strada_Dimitrie_Racovi%C8%9B%C4%83%2C_Bucharest_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2772,
+      "hauteur": 2862
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Acu-Therm Coex white skinned HDPE Pipe lengths..jpg",
+      "description": "Acu-Therm Coex white skinned HDPE Pipe lengths.",
+      "categories": [
+        "Plastic pipes",
+        "Self-published work",
+        "Polyethylene irrigation pipes"
+      ],
+      "auteur": "GordonJ86",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acu-Therm_Coex_white_skinned_HDPE_Pipe_lengths..jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Acu-Therm_Coex_white_skinned_HDPE_Pipe_lengths..jpg/1280px-Acu-Therm_Coex_white_skinned_HDPE_Pipe_lengths..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:HK TKO 寶琳 Po Lam MCP 新都城中心 Metro City Plaza mall 海港酒家 Victoria Harbour Seafood Restaurant 飲早茶 morning tea pot October 2022 Px3 09.jpg",
+      "description": "HK TKO zh:寶琳 Po Lam MCP zh:新都城中心 Metro City Plaza mall zh:海港酒家 Victoria Harbour Seafood Restaurant in October 2022",
+      "categories": [
+        "Plastic pipes",
+        "Self-published work",
+        "Breakfast in Hong Kong",
+        "Hong Kong photographs taken on 2022-10-30",
+        "October 2022 in Po Lam",
+        "Victoria Harbour Restaurant, Metro City Plaza One",
+        "Victoria Harbour Restaurant in 2021",
+        "2022 in Metro City Plaza, Hong Kong",
+        "Victoria Harbour Restaurant in 2022"
+      ],
+      "auteur": "WANGSICHYUO 7882",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_MCP_%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83_Metro_City_Plaza_mall_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Seafood_Restaurant_%E9%A3%B2%E6%97%A9%E8%8C%B6_morning_tea_pot_October_2022_Px3_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/HK_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_MCP_%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83_Metro_City_Plaza_mall_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Seafood_Restaurant_%E9%A3%B2%E6%97%A9%E8%8C%B6_morning_tea_pot_October_2022_Px3_09.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

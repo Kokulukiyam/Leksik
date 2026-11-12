@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Engrenage conique et tringle de manoeuvre d'un rideau de boutique sous un auvent, avec un caisson métallique en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le mécanisme domine ; le caisson est un rideau métallique de boutique, ambigu avec rideau métallique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade rose avec deux fenêtres et une porte fermées par des volets roulants baissés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tabliers baissés visibles, coffre non identifiable comme tel."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Volets battants en bois à panneaux fermés sur une façade jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volet battant, pas de coffre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers installant une porte roulante en acier avec chariot élévateur et échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier industriel, personnes dominantes, coffre non clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade rose vue en contre-plongée avec volets battants en bois ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets battants, pas de coffre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Devanture de boutique avec rideau métallique peint baissé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rideau métallique de devanture, pas un coffre de volet roulant."
     }
   ]
 }

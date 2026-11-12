@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Hong Kong",
       "note": "Spots trop petits et peu nets."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Galerie commerçante avec vitrine orange et plafond à lames où sont encastrés de nombreux petits spots ronds.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots minuscules dans une scène chargée, enseigne dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Galerie commerçante avec enseignes et plafond courbe à éclairage linéaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots non visibles ou noyés, éclairage linéaire dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boutique de téléphones avec plafond à lames et spots, comptoir vitré au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots très petits dans une boutique chargée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond clair d'une galerie avec quelques spots plats encastrés et une grille de haut-parleur, devant une devanture de restaurant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots petits en haut de la photo, devanture et texte dominants, haut-parleur qui prête à confusion."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Allée commerçante décorée de guirlandes de Noël avec spots au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décorations dominantes, spots non lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Local commercial vide à façade vitrée avec spots sur rail et un homme sur un escabeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots sur rail, pas des spots encastrés."
     }
   ]
 }

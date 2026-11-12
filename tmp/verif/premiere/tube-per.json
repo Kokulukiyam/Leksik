@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gaine, pas un tube PER."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Machine industrielle rouillée dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rue d'une ville philippine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tuyaux orange empilés sur un chantier routier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conduits de gaines, pas du PER."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'un immeuble de Bucarest.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuyaux blancs en PEHD empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros tuyaux en PEHD, pas du PER."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Service à thé avec une théière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

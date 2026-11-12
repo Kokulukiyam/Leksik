@@ -121,6 +121,46 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Capitol_Square%2C_Madison%2C_WI_%2852734374793%29.jpg/1280px-Capitol_Square%2C_Madison%2C_WI_%2852734374793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3731,
       "hauteur": 2798
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Wisconsin State Capitol, Capitol Square, Madison, WI (52734374328).jpg",
+      "description": "Built in 1906-1917, this Beaux Arts-style Capitol Building was designed by George B. Post to house the state house of representatives, state senate, and offices for the Wisconsin State Government. The fourth state capitol to house the state government since the state’s establishment in 1848, the building is the third building to sit on the present site, and replaced the previous state capitol, built in 1857-1869 and expanded in 1882, which burned down in February of 1904. The capitol houses both the Wisconsin State Assembly and the Wisconsin State Senate, as well as the Wisconsin Supreme Court",
+      "categories": [
+        "Wisconsin State Capitol",
+        "Flickr images missing SDC creator",
+        "Flickr images missing SDC inception",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2022 in Madison, Wisconsin"
+      ],
+      "auteur": "Warren LeMay from Covington, KY, United States",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wisconsin_State_Capitol,_Capitol_Square,_Madison,_WI_(52734374328).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Wisconsin_State_Capitol%2C_Capitol_Square%2C_Madison%2C_WI_%2852734374328%29.jpg/1280px-Wisconsin_State_Capitol%2C_Capitol_Square%2C_Madison%2C_WI_%2852734374328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2931,
+      "hauteur": 3908
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Wisconsin State Capitol, Capitol Square, Madison, WI (52734144389).jpg",
+      "description": "Built in 1906-1917, this Beaux Arts-style Capitol Building was designed by George B. Post to house the state house of representatives, state senate, and offices for the Wisconsin State Government. The fourth state capitol to house the state government since the state’s establishment in 1848, the building is the third building to sit on the present site, and replaced the previous state capitol, built in 1857-1869 and expanded in 1882, which burned down in February of 1904. The capitol houses both the Wisconsin State Assembly and the Wisconsin State Senate, as well as the Wisconsin Supreme Court",
+      "categories": [
+        "Wisconsin State Capitol",
+        "Files from Warren LeMay Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "September 2022 in Madison, Wisconsin"
+      ],
+      "auteur": "Warren LeMay from Covington, KY, United States",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wisconsin_State_Capitol,_Capitol_Square,_Madison,_WI_(52734144389).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Wisconsin_State_Capitol%2C_Capitol_Square%2C_Madison%2C_WI_%2852734144389%29.jpg/1280px-Wisconsin_State_Capitol%2C_Capitol_Square%2C_Madison%2C_WI_%2852734144389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3794,
+      "hauteur": 2845
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

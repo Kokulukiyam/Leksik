@@ -134,6 +134,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Casemate_museum_Kornwerderzand%2C_Afsluitdijk_%289788118406%29.jpg/1280px-Casemate_museum_Kornwerderzand%2C_Afsluitdijk_%289788118406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2068,
       "hauteur": 1374
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Amber - Sing Pol 7.jpg",
+      "description": "Jaipur ( Rajasthan ). Amber Fort: Sing Pol gate - Door lock",
+      "categories": [
+        "Self-published work",
+        "Door locks",
+        "Metal doors in India",
+        "Doors in Rajasthan",
+        "Singh Pol (Amber Fort)"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amber_-_Sing_Pol_7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Amber_-_Sing_Pol_7.jpg/1280px-Amber_-_Sing_Pol_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2585,
+      "hauteur": 3757
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-6.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Closed toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ArlandaAirportToiletDoorKnob-6.jpg/1280px-ArlandaAirportToiletDoorKnob-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:ArlandaAirportToiletDoorKnob-7.jpg",
+      "description": "",
+      "categories": [
+        "Stockholm-Arlanda Airport",
+        "Media lacking a description",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Toilets in Sweden",
+        "Door handles in Sweden",
+        "2016 in Stockholm County",
+        "Toilet doors"
+      ],
+      "auteur": "Leon S.K.",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ArlandaAirportToiletDoorKnob-7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/ArlandaAirportToiletDoorKnob-7.jpg/1280px-ArlandaAirportToiletDoorKnob-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Cerradura puerta.jpg",
+      "description": "Cerradura puerta",
+      "categories": [
+        "Self-published work",
+        "Door locks"
+      ],
+      "auteur": "Elduendesuarez",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cerradura_puerta.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cerradura_puerta.jpg/1280px-Cerradura_puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1827,
+      "hauteur": 1142
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bathroom staff.JPG",
+      "description": "staff only",
+      "categories": [
+        "Taken with Nikon D90",
+        "Higher education institutions in China",
+        "Staff only signs",
+        "Self-published work",
+        "Door locks",
+        "Green signs",
+        "Blue and yellow signs",
+        "Door signs",
+        "Vacancy signs"
+      ],
+      "auteur": "Jeff chenqinyi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_staff.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bathroom_staff.JPG/1280px-Bathroom_staff.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Al Curry, Three Door Latches, c. 1938, NGA 24110.jpg",
+      "description": "",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "Door locks",
+        "Artworks with known accession number",
+        "Images from the National Gallery of Art",
+        "Index of American Design, National Gallery of Art (Washington, D.C.)"
+      ],
+      "auteur": "Al Curry",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al_Curry,_Three_Door_Latches,_c._1938,_NGA_24110.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg/1280px-Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3210,
+      "hauteur": 4113
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Planche composite, boîte ambiguë avec dérivation."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Faux plafond ouvert avec conduits métalliques étiquetés et boîtes de jonction métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtes de jonction apparentes, pas des boîtes d'encastrement ; étiquettes chargées."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux boîtes d'encastrement en plastique vues de face sur fond gris : une rectangulaire orange et une double bleue, avec griffes de fixation et opercules.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.07,
+        "largeur": 0.78,
+        "hauteur": 0.4
+      },
+      "lieu": "",
+      "note": "Boîtes d'encastrement typiques à fixation par griffes ; rectangle sur la boîte orange, incompatible seulement avec la dérivation."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boîtier rond gris et son couvercle blanc posés côte à côte avec deux vis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîte de jonction pour cloison avec couvercle, plutôt une boîte de dérivation ; trop ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boîtier carré gris clair vide, de face, sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier de surface à pattes, pas une boîte à sceller."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Armoire électrique métallique de rue couverte de graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffret de rue, pas une boîte d'encastrement."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Interrupteur triple blanc à côté de son boîtier de surface.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier apparent d'interrupteur, pas une boîte d'encastrement."
     }
   ]
 }

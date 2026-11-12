@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Charnière de boîte, pas une paumelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur une lourde paumelle cylindrique en acier peint, fourreau soudé sur le montant tubulaire d'un portail, avec axe réglable et platine boulonnée sur le pilier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.05,
+        "largeur": 0.3,
+        "hauteur": 0.47
+      },
+      "lieu": "",
+      "note": "Fourreau cylindrique plein soudé sur le profilé du vantail métallique, sans ailes percées ; le rectangle isole le cylindre soudé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Trois charnières invisibles en laiton cannelé posées sur un fond clair.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnières à encastrer en laiton, pas des paumelles à souder."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux grandes pentures décoratives en fer sur une porte en bois sous un linteau sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pentures, pas une paumelle à souder."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boîte métallique blanche à bonbons avec logo, vue côté charnière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande penture ornementale en fer forgé sur une porte d'église en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Penture décorative, pas une paumelle à souder."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pivot de porte antique en bronze (polleguera) exposé en vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet archéologique, pas une paumelle à souder."
     }
   ]
 }

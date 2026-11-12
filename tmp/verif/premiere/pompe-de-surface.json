@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pièce interne, hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Homme accroupi devant le carter d'une turbine ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Turbine, pas une pompe de surface."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Énorme carter métallique de pompe de centrale nucléaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Greifswald, Allemagne",
+      "note": "Pompe industrielle, pas de surface."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite pompe à vide de laboratoire avec manomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe à vide, pas une pompe de surface."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fillette actionnant une pompe à bras.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe à main, autre type."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pompe houlomotrice mise à l'eau dans un port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ilo, Pérou",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Motopompe d'irrigation sur dalle dans un champ, moteur sous une bâche, tuyaux et poulie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vrindavan, Inde",
+      "note": "Moteur couvert d'une bâche, pas lisible comme pompe de surface."
     }
   ]
 }

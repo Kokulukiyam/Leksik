@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Route de terre sans lien établi avec l'Afrique de l'Ouest ni latérite rouge nette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chemin forestier clair sous des hêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin clair de forêt tempérée, pas de terre rouge."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Large rue de sable jaune orangé bordée de murs et de palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Al-Ula, Arabie saoudite",
+      "note": "Sable clair, pas une piste de latérite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chemin de terre brun avec ornières entre champs, ballons en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cappadoce, Turquie",
+      "note": "Terre brun-ocre, pas de latérite rouge identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rue de terre brune bordée de maisons colorées au crépuscule.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Guayameo, Mexique",
+      "note": "Rue de village mexicain, terre brune, ciel dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chemin de terre brun clair dans une prairie arborée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Terre brune, paysage tempéré, pas de latérite."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panorama très étiré d'une piste de terre et de collines sèches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Azla, Maroc",
+      "note": "Panorama déformé, trop petit, terre non rouge."
     }
   ]
 }

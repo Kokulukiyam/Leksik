@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Hong Kong",
       "note": "Bande minuscule."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Illustration dessinée d'un hall de gare avec un ours.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auvent de gare avec une ligne jaune au sol dans la brume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kumagaya, Japon",
+      "note": "Ligne trop fine, mal lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue étroite avec façade carrelée et bornes noires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Bande podotactile quasi invisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Couloir sombre de métro avec ligne jaune au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Mal éclairé, plots invisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Marquage « LOOK LEFT » sur la chaussée, avec dalles à plots en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gibraltar",
+      "note": "Texte visible et dalles partiellement cadrées."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rangée de dalles jaunes à plots posée au sol devant des panneaux de maintenance d'escalator.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.62,
+        "largeur": 0.66,
+        "hauteur": 0.3
+      },
+      "lieu": "Kurume, Japon",
+      "note": "Bande jaune à plots bien visible ; rectangle contrôlé, signalétique en japonais hors du cadre."
     }
   ]
 }

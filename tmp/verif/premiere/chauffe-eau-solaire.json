@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ensemble ballon horizontal et capteur à tubes, net et dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit-terrasse avec deux capteurs plans inclinés, un ballon vertical argenté en hauteur et une cuve noire en plastique derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble vertical, cuve noire voisine qui prête à confusion ; pas le ballon horizontal typique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Toit d'une maison en brique avec trois capteurs plans et un ballon cylindrique horizontal posés sur la toiture ; un château d'eau métallique en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.61,
+        "largeur": 0.31,
+        "hauteur": 0.27
+      },
+      "lieu": "Nagarkot, Népal",
+      "note": "Chauffe-eau solaire à thermosiphon en toiture, rectangle sur capteurs et ballon pour écarter le château d'eau."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Réflecteur parabolique en miroir portant une bouilloire, dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cuiseur solaire, pas un chauffe-eau solaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur un régulateur solaire à écran numérique affichant des températures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Régulateur électronique, pas un chauffe-eau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Capteur solaire plan posé à plat au sol sur l'asphalte, démonté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Capteur seul, démonté au sol, sans ballon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Capteur solaire plan tombé au sol dans une rue, près d'une clôture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Capteur endommagé au sol, sans ballon."
     }
   ]
 }

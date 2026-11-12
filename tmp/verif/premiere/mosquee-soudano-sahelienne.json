@@ -58,6 +58,54 @@
       },
       "lieu": "Koro, Mali",
       "note": "Style soudano-sahélien évident."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande mosquée de Djenné vue en contre-jour au loin derrière un marché, sous des arbres et des bâches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Mosquée petite, sombre, masquée par le marché ; quasi-doublon de 05."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mosquée moderne blanche et verte à minaret rayé, avec un palmier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mali",
+      "note": "Mosquée moderne en béton, pas soudano-sahélienne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gravure ancienne d'une mosquée à pinacles pointus, avec palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dramanet, Galam",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mosquée de Kani Bonzon très lointaine entre deux baobabs, briqueterie au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kani Bonzon, Mali",
+      "note": "Mosquée minuscule et lointaine, illisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carte postale ancienne en noir et blanc d'une mosquée de Ségou à minaret pyramidal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ségou, Mali",
+      "note": "Carte postale ancienne avec légende imprimée, mosquée peu typique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photographie ancienne des ruines de l'ancienne mosquée de Djenné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Djenné, Mali",
+      "note": "Ruines en noir et blanc, bâtiment non lisible comme mosquée."
     }
   ]
 }

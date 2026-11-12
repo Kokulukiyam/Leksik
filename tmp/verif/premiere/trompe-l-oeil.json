@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Henderson, Texas",
       "note": "Archive, pas de trompe-l'oeil."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Reproduction en noir et blanc d'une peinture murale de paysans.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Peinture reproduite, pas de trompe-l'œil."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Reproduction d'une peinture murale de pionniers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Reproduction, pas de trompe-l'œil."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Reproduction d'une peinture de cow-boys et de bétail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Reproduction, pas de trompe-l'œil."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment couvert de graffitis rouges le long d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Graffiti, aucun trompe-l'œil."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur peint avec portraits et statue de la Liberté, texte visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mexique",
+      "note": "Fresque murale sans illusion de relief, texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Reproduction d'une peinture de travailleurs et de derricks.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Reproduction, pas de trompe-l'œil."
     }
   ]
 }

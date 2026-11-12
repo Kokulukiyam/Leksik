@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Naples, Italie",
       "note": "Montre une porte sculptée ; confusion avec porte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hall vitré avec porte double vitrée donnant sur un paysage enneigé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte vitrée/double porte : ambigu avec porte vitrée ou porte à deux vantaux."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arcades d'église avec lampadaire au premier plan et porte en bois à panneaux au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lampadaire dominant, porte partielle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Clé dans une serrure de porte, logo LG flou au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrure et marque visibles, aucun vantail lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte étroite en bois à panneaux dans un mur enduit délabré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Simple porte, se confond avec porte ou porte à panneaux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Devanture sombre avec porte vitrée en bois, nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, porte/porte vitrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte de temple rouge à deux vantaux, le vantail de gauche ouvert, avec dieux gardiens peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Se confond avec la porte à deux vantaux, terme voisin non incompatible."
     }
   ]
 }

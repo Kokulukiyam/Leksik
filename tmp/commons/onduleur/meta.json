@@ -136,6 +136,107 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Solar_Installation_in_Kenya.jpg/1280px-Solar_Installation_in_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Tesla Solar Inverter and AC disconnect.jpg",
+      "description": "Tesla Solar Inverter and AC disconnect",
+      "categories": [
+        "Tesla, Inc.",
+        "Self-published work"
+      ],
+      "auteur": "RickyCourtney",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tesla_Solar_Inverter_and_AC_disconnect.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Tesla_Solar_Inverter_and_AC_disconnect.jpg/1280px-Tesla_Solar_Inverter_and_AC_disconnect.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Vermont Law School Solar Panel Array-4.JPG",
+      "description": "Vermont Law School 9.36 kW solar panel array power panel.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "CC-Zero",
+        "Solar inverter panels",
+        "Solar power in Vermont",
+        "Vermont Law and Graduate School",
+        "Self-published work"
+      ],
+      "auteur": "SayCheeeeeese",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vermont_Law_School_Solar_Panel_Array-4.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vermont_Law_School_Solar_Panel_Array-4.JPG/1280px-Vermont_Law_School_Solar_Panel_Array-4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Tesla Solar Inverter (interior).jpg",
+      "description": "Interior of a 7.6 kW Tesla Solar Inverter installed in the garage of a home.",
+      "categories": [
+        "Tesla, Inc.",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "RickyCourtney",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Tesla_Solar_Inverter_(interior).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tesla_Solar_Inverter_%28interior%29.jpg/1280px-Tesla_Solar_Inverter_%28interior%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1340,
+      "hauteur": 2008
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Growatt MOD 4000TL3-X inverter.jpg",
+      "description": "Growatt MOD 4000TL3-X inverter for solar panels. AC nominal power: 4000 W.",
+      "categories": [
+        "Solar inverter panels",
+        "Growatt inverters"
+      ],
+      "auteur": "Zátonyi Sándor, (ifj.) Fizped",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Growatt_MOD_4000TL3-X_inverter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Growatt_MOD_4000TL3-X_inverter.jpg/1280px-Growatt_MOD_4000TL3-X_inverter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Müllberg Speyer - 2.JPG",
+      "description": "Müllberg Speyer: Solaranlage auf dem Osthang; hier ein Blick auf einen Wechselrichter von SMA ; im Hintergrund der Rhein",
+      "categories": [
+        "Rhine in Germany",
+        "Taken with Fujifilm FinePix S9500",
+        "Solar inverter panels",
+        "Self-published work",
+        "SMA Inverters"
+      ],
+      "auteur": "Claus Ableiter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:M%C3%BCllberg_Speyer_-_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/M%C3%BCllberg_Speyer_-_2.JPG/1280px-M%C3%BCllberg_Speyer_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3488,
+      "hauteur": 2616
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:PV Inverter.jpg",
+      "description": "A SMA Sunny Boy 2500 Photovoltaic inverter",
+      "categories": [
+        "Solar inverter panels",
+        "Flickr images uploaded by Flickr upload bot",
+        "SMA Inverters"
+      ],
+      "auteur": "Simon Walker",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PV_Inverter.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/PV_Inverter.jpg/1280px-PV_Inverter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1552
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Fire alarms"
+    ],
+    "incompatibles": [
+      "detecteur-de-fumee"
     ]
   },
   "candidats": [
@@ -123,6 +126,124 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/20030613%EB%8C%80%EC%A4%91%EC%86%8C%EB%B0%A9%EC%95%88%EC%A0%84%EA%B5%90%EB%B2%94%EC%A0%9C%EC%9E%91%EA%B8%B0%ED%9A%8D%EB%8B%A8_%EA%B4%80%EB%A0%A8_%EC%82%AC%EC%A7%8425.jpg/960px-20030613%EB%8C%80%EC%A4%91%EC%86%8C%EB%B0%A9%EC%95%88%EC%A0%84%EA%B5%90%EB%B2%94%EC%A0%9C%EC%9E%91%EA%B8%B0%ED%9A%8D%EB%8B%A8_%EA%B4%80%EB%A0%A8_%EC%82%AC%EC%A7%8425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1200,
       "hauteur": 1600
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Basel 2012-10-14 Batch (30).JPG",
+      "description": "Department fire detection and alarm system within Section alarm communication: voice of the so-called traditional brass bands (St. Martin, Münster 1493 to 17th century), etc., signal trumpet and bell",
+      "categories": [
+        "Taken with Sony DSC-HX5VN",
+        "Fire alarms",
+        "Location not applicable",
+        "Historical firefighting equipment",
+        "Natural trumpet family instruments",
+        "Feuerwehrmuseum Basel",
+        "Speaking horns",
+        "Uploaded with Commonist",
+        "Bells in Switzerland",
+        "Switzerland photographs taken on 2012-10-14",
+        "User:Mattes/Contributions/Topics/Switzerland/Basel BS",
+        "Work by Mattes 2012",
+        "Files with coordinates missing SDC location of creation",
+        "File uploads by User:Mattes (flat)",
+        "User:Mattes/Contributions/Topics/Technology"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basel_2012-10-14_Batch_(30).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Basel_2012-10-14_Batch_%2830%29.JPG/1280px-Basel_2012-10-14_Batch_%2830%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:20150209P형1급수신기.jpg",
+      "description": "20150209-20150214최광모 촬영",
+      "categories": [
+        "Taken with Sony DSC-RX10",
+        "Fire alarms",
+        "Self-published work"
+      ],
+      "auteur": "최광모",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20150209P%ED%98%951%EA%B8%89%EC%88%98%EC%8B%A0%EA%B8%B0.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/20150209P%ED%98%951%EA%B8%89%EC%88%98%EC%8B%A0%EA%B8%B0.jpg/1280px-20150209P%ED%98%951%EA%B8%89%EC%88%98%EC%8B%A0%EA%B8%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 5472
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:A Gent System 32000 32025 Repeater Panel connected to a Vigilon (System 35000).jpg",
+      "description": "A Gent System 32000 32025 Repeater Panel connected to a Vigilon (System 35000)",
+      "categories": [
+        "CC-Zero",
+        "Fire alarms",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Adam S.",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Gent_System_32000_32025_Repeater_Panel_connected_to_a_Vigilon_(System_35000).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/A_Gent_System_32000_32025_Repeater_Panel_connected_to_a_Vigilon_%28System_35000%29.jpg/1280px-A_Gent_System_32000_32025_Repeater_Panel_connected_to_a_Vigilon_%28System_35000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1905,
+      "hauteur": 1429
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20130401 32 Utrecht.JPG",
+      "description": "2013-04-01 in Utrecht.",
+      "categories": [
+        "Taken with Fujifilm FinePix J50",
+        "Fire alarms",
+        "Self-published work",
+        "Bells in the Netherlands",
+        "2013 in Utrecht (city)",
+        "Netherlands photographs taken on 2013-04-01",
+        "Photographs by Mark Ahsmann",
+        "Alarm bells"
+      ],
+      "auteur": "Mark Ahsmann",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130401_32_Utrecht.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/20130401_32_Utrecht.JPG/1280px-20130401_32_Utrecht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A Gent 32020 Control Panel.jpg",
+      "description": "A Gent 32020 Control Panel seen flush-mounted",
+      "categories": [
+        "CC-Zero",
+        "Fire alarms",
+        "Items with VRTS permission confirmed"
+      ],
+      "auteur": "Luke W.",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Gent_32020_Control_Panel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/A_Gent_32020_Control_Panel.jpg/1280px-A_Gent_32020_Control_Panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1666,
+      "hauteur": 2139
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Alpine Lodge 1841 MCP.jpg",
+      "description": "Alpine Lodge (hotel in Saint Arnaud, New Zealand)",
+      "categories": [
+        "Fire alarms",
+        "Saint Arnaud, New Zealand",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "New Zealand photographs taken on 2022-08-27"
+      ],
+      "auteur": "Sebastiansmartguy101",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Alpine_Lodge_1841_MCP.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alpine_Lodge_1841_MCP.jpg/1280px-Alpine_Lodge_1841_MCP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Malbork, Pologne",
       "note": "Matériau incertain, état de ruine."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier droit étroit aux marches en bois entre deux murs blancs, vu depuis le bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier droit : pourrait illustrer l'escalier droit ; pas de rampe ni de limon visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Quelques marches tournantes en bois avec une main courante murale et un parquet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marches tournantes : confusion possible avec l'escalier quart tournant ; pas de rampe en bois."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Volée à marches peintes en turquoise avec rampe et balustres en bois peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Doublon de la 02 déjà rejetée : marches peintes/linoléum, bois peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Escalier à rampe, balustres et main courante en bois tourné, marches en bois, dans un musée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bolestraszyce, Pologne",
+      "note": "Marches, rampe, balustres et poteaux d'attente en bois, bien visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Noir et blanc : pied d'escalier ancien avec poteau tourné, chaîne et roue de vélo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage trop serré, noir et blanc, élément peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier sombre vu d'en haut, image très retouchée en sépia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, trop sombre, bois non identifiable."
     }
   ]
 }

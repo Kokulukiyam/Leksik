@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue plongeante dans un puits en béton avec câble jaune, chaîne et tuyaux ; une pompe noire à peine discernable au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe non identifiable, image sombre et confuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pompe rotative rouge à lobes sur un stand de salon professionnel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe de surface sur stand, pas une pompe immergée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Écluse vide vue d'en haut, bajoyers et porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune pompe visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur la roue d'une pompe à turbine régénérative.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce interne d'une pompe de surface, pas une pompe immergée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tunnel de métro inondé avec deux pompes noires et gros tuyaux au sol, ouvriers au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompes noires encombrées de flexibles dans un décor sombre et chargé ; trop de doute pour un joueur."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite pompe à vide de laboratoire sur fond gris avec manomètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompe de laboratoire, pas immergée."
     }
   ]
 }

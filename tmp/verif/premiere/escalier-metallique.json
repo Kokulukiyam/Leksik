@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Kenya",
       "note": "Pas métallique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Passerelle couverte au-dessus d'une gare avec escaliers en métal sur le côté, voies au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leixlip, Irlande",
+      "note": "Escalier petit et noyé dans un ensemble gare et passerelle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cage d'escalier ancienne avec rampe à balustres en bois et palier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Escalier en bois, pas métallique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Long escalier en acier à limons métalliques, marches à claire-voie et garde-corps blanc dans un bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Portland, États-Unis",
+      "note": "Escalier métallique net et dominant, structure acier bien lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Escalier intérieur à marches en bois avec main courante en inox.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marches en bois, pas un escalier métallique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier d'échafaudage tubulaire et caillebotis métalliques sur un chantier de scène.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure d'échafaudage temporaire, pas un escalier métallique de bâtiment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux détails de balustrade en bois tourné.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Austin, États-Unis",
+      "note": "Boiserie, pas métallique."
     }
   ]
 }

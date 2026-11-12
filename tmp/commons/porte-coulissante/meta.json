@@ -11,7 +11,10 @@
       "sliding door"
     ],
     "incompatibles": [
-      "porte"
+      "porte",
+      "porte-vitree",
+      "porte-metallique",
+      "porte-de-placard"
     ],
     "categoriesCommons": [
       "Category:Sliding doors",
@@ -140,6 +143,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg/1280px-23_1-2-Fuji_Reala_pushed_2_stops_%285826165749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4288,
       "hauteur": 2848
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:02170jfSacred Heart Jesus Parish Science City Munoz Ecijafvf 09.JPG",
+      "description": "Sacred Heart of Jesus Parish Church and Shrine , Barangay Bantug , Muñoz , Nueva Ecija (along the Maharlika Highway , Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science City of Muñoz, Nueva Ecija section) or the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26).",
+      "categories": [
+        "Sliding doors",
+        "Self-published work",
+        "PD-self",
+        "Sacred Heart of Jesus Parish Church and Shrine (Bantug, Science City of Muñoz, Nueva Ecija)"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG/1280px-02170jfSacred_Heart_Jesus_Parish_Science_City_Munoz_Ecijafvf_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A plant stem door.jpg",
+      "description": "Wildlife in the hoods",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Cornelius Agordome",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_plant_stem_door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A_plant_stem_door.jpg/1280px-A_plant_stem_door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:500px photo (68751975).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Sliding doors",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Cesar Callant",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(68751975).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/500px_photo_%2868751975%29.jpeg/1280px-500px_photo_%2868751975%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1365,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20140814 BozenBolzanoSuedTirol DoorDetail DSC02169 PtrQs.jpg",
+      "description": "Details of a door in Bolzano, South Tyrol/Italy",
+      "categories": [
+        "Doors",
+        "Taken with Sony DSLR-A900",
+        "Self-published work",
+        "Files by User:PtrQs",
+        "Photographs taken with Minolta AF 17-35mm F3.5",
+        "No QIC by usr:PtrQs"
+      ],
+      "auteur": "PtrQs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg/1280px-20140814_BozenBolzanoSuedTirol_DoorDetail_DSC02169_PtrQs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3741,
+      "hauteur": 5612
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:11 03 20 Uptown Minneapolis (50594526202).jpg",
+      "description": "Graffiti on a Target Store on election night.",
+      "categories": [
+        "Taken with Sony ILCE-7RM4",
+        "Sliding doors",
+        "Lake Street (Minneapolis)",
+        "Lowry Hill East, Minneapolis",
+        "Night in Minneapolis",
+        "Shops in Minneapolis",
+        "Graffiti in Minnesota",
+        "November 2020 in Minneapolis",
+        "Black Lives Matter in Minneapolis",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2020-11-03",
+        "Shops in the United States photographed in 2020",
+        "Exteriors of Target stores in Minnesota",
+        "Automatic doors in the United States",
+        "Taken with Tamron 28-75mm F2.8 Di III RXD",
+        "Photographs by Chad Davis"
+      ],
+      "auteur": "Chad Davis",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:11_03_20_Uptown_Minneapolis_(50594526202).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/11_03_20_Uptown_Minneapolis_%2850594526202%29.jpg/1280px-11_03_20_Uptown_Minneapolis_%2850594526202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 9087,
+      "hauteur": 6058
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Arab pharmacy, view of front door Wellcome L0011526.jpg",
+      "description": "Arab pharmacy, view of front door Wellcome Images Keywords: pharmacy, arab",
+      "categories": [
+        "Doors",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images",
+        "Islamic wood carving",
+        "Arab pharmacy"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arab_pharmacy,_view_of_front_door_Wellcome_L0011526.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Arab_pharmacy%2C_view_of_front_door_Wellcome_L0011526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1270,
+      "hauteur": 1610
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

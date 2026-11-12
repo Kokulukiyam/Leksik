@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite fenêtre vitrée losangée dans un mur de brique d'une chapelle, vue de face, fermée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien ne montre un basculement par le bas ; la fenêtre est fermée, titre seul non fiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sanitaires avec cloisons et une grande fenêtre double à contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre fermée et noyée dans la pièce, aucun mode d'ouverture lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Même fenêtre de chapelle losangée en brique, fermée, avec une plaque sous elle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermée, plaque visible, mode d'ouverture indiscernable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite fenêtre grillagée dans un mur enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de soufflet identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade d'immeuble à contre-jour derrière un arbre, avec filigrane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres minuscules, filigrane, rien de lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de verre cathédrale à reliefs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de verre, pas une fenêtre."
     }
   ]
 }

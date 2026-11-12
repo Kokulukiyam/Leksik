@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Façade extérieure, pas une cloison intérieure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Passage vitré entre deux bâtiments anciens, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Façade vitrée extérieure, pas une cloison intérieure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble de bureaux en chantier au rez-de-chaussée bâché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Haye, Pays-Bas",
+      "note": "Façade extérieure en chantier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Écran de verre sérigraphié en plein air devant un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Putrajaya, Malaisie",
+      "note": "Garde-corps ou écran extérieur, pas une cloison intérieure."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Couloir avec une paroi de grands panneaux de verre à profilés fins et une porte vitrée donnant sur des bureaux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.02,
+        "largeur": 0.69,
+        "hauteur": 0.88
+      },
+      "lieu": "Berlin, Allemagne",
+      "note": "Cloison vitrée de bureau nette ; rectangle pour la distinguer de la bannière et du reste du hall."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passerelle couverte et bâtiment universitaire en béton, garde-corps vitré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burnaby, Canada",
+      "note": "Garde-corps extérieur, pas une cloison."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Salle de conférence avec grandes baies obliques donnant sur le Reichstag.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berlin, Allemagne",
+      "note": "Mur-rideau de façade, pas une cloison intérieure."
     }
   ]
 }

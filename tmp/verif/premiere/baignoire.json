@@ -58,6 +58,54 @@
       },
       "lieu": "Kenya",
       "note": "Baignoire nette, rectangle posé dessus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bord d'une baignoire émaillée sale avec mitigeur, flexible de douche et trace de rouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baignoire partielle, centrée sur le mitigeur et très sale : doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite salle d'eau avec lavabo, WC et cabine de douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turquie",
+      "note": "Pas de baignoire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Baignoire blanche vue de biais, tablier en haut, panneau métallique avec manettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage tronqué et confus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Salle de bains des années 80 avec lavabo sur pied et angle d'une baignoire vert olive.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baignoire tronquée, lavabo plus visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Douche vitrée à l'italienne avec robinetterie dorée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Douche, pas de baignoire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessous d'une baignoire et sa tuyauterie dans un vide technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue du dessous, peu lisible."
     }
   ]
 }

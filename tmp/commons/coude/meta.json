@@ -11,7 +11,8 @@
       "PVC elbow"
     ],
     "incompatibles": [
-      "raccord"
+      "raccord",
+      "te"
     ]
   },
   "candidats": [
@@ -124,6 +125,106 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Raccord_de_la_garde_hydraulique.jpg/1280px-Raccord_de_la_garde_hydraulique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2448,
       "hauteur": 3264
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Пластиковое цанговое угловое соединение на холодную воду.jpg",
+      "description": "Fitting",
+      "categories": [
+        "Self-published work",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Schekinov Alexey Victorovich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%86%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D1%83%D0%B3%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%83%D1%8E_%D0%B2%D0%BE%D0%B4%D1%83.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%86%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D1%83%D0%B3%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%83%D1%8E_%D0%B2%D0%BE%D0%B4%D1%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1207,
+      "hauteur": 1207
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:PVC plumbing fittings in Awka.jpg",
+      "description": "These are plastic elbows and joint connectors used to join pipes together to direct the flow of water and waste in a building.",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026 for Creatives in Nigeria",
+        "Building Materials in Nigeria"
+      ],
+      "auteur": "Johnnybam",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PVC_plumbing_fittings_in_Awka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/PVC_plumbing_fittings_in_Awka.jpg/1280px-PVC_plumbing_fittings_in_Awka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4096
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Raccord de Garde hydraulique.jpg",
+      "description": "Le raccord de garde hydraulique est serti afin d'éviter au mieux les fuites.",
+      "categories": [
+        "Self-published work",
+        "Elbow pipe fittings"
+      ],
+      "auteur": "Rieul Techer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Raccord_de_Garde_hydraulique.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Raccord_de_Garde_hydraulique.jpg/1280px-Raccord_de_Garde_hydraulique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:PvcElbows.JPG",
+      "description": "PVC Elbow joints",
+      "categories": [
+        "Taken with iPhone 5",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Stirling engine (Wikiversity project by Eisemann)"
+      ],
+      "auteur": "REisemann3937",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:PvcElbows.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/PvcElbows.JPG/1280px-PvcElbows.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:1 and a half inch pvc pipe used.JPG",
+      "description": "Used a 1 1/2\" 45-Degree elbow pvc pipe.",
+      "categories": [
+        "Taken with iPhone 5",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Tribot"
+      ],
+      "auteur": "MauryMartinez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1_and_a_half_inch_pvc_pipe_used.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/1_and_a_half_inch_pvc_pipe_used.JPG/1280px-1_and_a_half_inch_pvc_pipe_used.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Faltenrohrbogen-2.jpg",
+      "description": "Faltenrohrbogen in einer Fernwärmeleitung aus den 1950er bzw. 1960er Jahren auf einer Baustelle in Dresden",
+      "categories": [
+        "Self-published work",
+        "Pipe construction",
+        "Elbow pipe fittings",
+        "Photos by SchiDD/2017"
+      ],
+      "auteur": "SchiDD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Faltenrohrbogen-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Faltenrohrbogen-2.jpg/1280px-Faltenrohrbogen-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

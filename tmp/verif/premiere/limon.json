@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Paris",
       "note": "Archive, limon non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier extérieur en béton rouge entre deux murs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kenya",
+      "note": "Limon non identifiable, escalier entre murs."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalier de métro en pierre sombre avec mains courantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de limon visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier peint en turquoise avec rampe en bois peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Limon pas clairement isolable : confusion avec rampe ou balustre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Large escalier d'entrée en gravillons lavés avec bord jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de limon visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cage d'escalier vue d'en haut avec rampe en fer et main courante en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Rampe et balustres dominent, pas de limon identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Intérieur de galerie avec tableaux et escalier à rampe métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sanok, Pologne",
+      "note": "Limon non montré."
     }
   ]
 }

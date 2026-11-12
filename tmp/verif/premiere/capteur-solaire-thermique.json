@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dessin, textes visibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangées de capteurs à tubes sous vide bleus inclinés sur le toit d'une tour, skyline en arrière-plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Brisbane, Australie",
+      "note": "Tubes sous vide très nets, dominants, sans ballon ni confusion possible avec du photovoltaïque."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneau photovoltaïque incliné au-dessus d'un réflecteur courbe sur un terrain végétalisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau hybride PV, pas un capteur thermique clair."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand champ de capteurs à tubes sous vide sur une toiture industrielle, collecteurs gris à gauche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Thessalonique, Grèce",
+      "note": "Capteurs à tubes sous vide dominants et lisibles ; cadrage différent des images déjà dans le jeu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux hommes devant des chauffe-eau solaires à tubes sur une terrasse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes au premier plan, ensemble chauffe-eau plutôt que capteur ; quasi-doublon des images du jeu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chauffe-eau solaire à tubes avec ballon marqué V-GUARD et panneau jaune « evacuated tube collector ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible qui donne la réponse ; quasi-doublon d'images déjà dans le jeu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan dans l'extrémité d'un tube sous vide, tige de cuivre et bouchon orange.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail trop rapproché, illisible comme capteur."
     }
   ]
 }

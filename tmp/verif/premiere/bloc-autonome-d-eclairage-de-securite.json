@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Jérusalem",
       "note": "Simple panneau, texte visible, pas un BAES."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quai de métro new-yorkais avec une rangée d'ampoules de chantier en série près de la voie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ampoules de travaux, pas un BAES."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Quai de métro de Lisbonne avec banc et plaque verte de signalisation « Saída » au mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque de signalétique en haut du mur, rien qui prouve un bloc autonome lumineux ; trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Paroi d'un tunnel ferroviaire avec panneau vert de sortie indiquant 7450 m et boîtier jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau de signalisation de tunnel, pas un bloc autonome."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Couloir sombre menant à une porte rouge surmontée d'un minuscule panneau de sortie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau minuscule, image sombre, lieu abandonné."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Module électronique d'alimentation de secours et batterie cylindrique à fils, posés sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Composants internes d'un bloc, pas le bloc lui-même, étiquettes en polonais."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cabine d'un jet privé avec fauteuils blancs, hublots et petit panneau Exit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau d'avion minuscule, hors sujet."
     }
   ]
 }

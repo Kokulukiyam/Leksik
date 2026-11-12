@@ -113,6 +113,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Citadelle_de_Quebec_086.jpg/1280px-Citadelle_de_Quebec_086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Citadelle de Quebec 093.jpg",
+      "description": "Citadelle de Québec",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_093.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Citadelle_de_Quebec_093.jpg/1280px-Citadelle_de_Quebec_093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Old arched prison window with iron bars on grunge concrete wall, Indonesia.jpg",
+      "description": "Old arched prison window with iron bars on grunge concrete wall, Padang Indonesia",
+      "categories": [
+        "Iron",
+        "Windows",
+        "Buildings",
+        "Urban decay",
+        "Padang",
+        "Self-published work"
+      ],
+      "auteur": "Undeka 11",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_arched_prison_window_with_iron_bars_on_grunge_concrete_wall,_Indonesia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Old_arched_prison_window_with_iron_bars_on_grunge_concrete_wall%2C_Indonesia.jpg/1280px-Old_arched_prison_window_with_iron_bars_on_grunge_concrete_wall%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7904,
+      "hauteur": 5928
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Citadelle de Quebec 094.jpg",
+      "description": "Citadelle de Québec",
+      "categories": [
+        "Taken with Canon PowerShot A3100 IS",
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work",
+        "Museum of the Royal 22e Régiment"
+      ],
+      "auteur": "Jeangagnon",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_094.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Citadelle_de_Quebec_094.jpg/1280px-Citadelle_de_Quebec_094.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Montauk Pt Lighthouse; Iron Bars in Window Chamber.jpg",
+      "description": "Window chamber facing the side of the lighthouse keeper's house as seen from the staircase of the Montauk Point Lighthouse in Montauk Point, New York . This view also contains some iron bars within the window and a rope leading from those bars.",
+      "categories": [
+        "Views from the Montauk Point Lighthouse",
+        "Interior of Montauk Point Lighthouse",
+        "November 2019 in New York (state)",
+        "Self-published work",
+        "United States photographs taken on 2019-11-23",
+        "Towers in the United States photographed in 2019",
+        "2019 in Suffolk County, New York",
+        "Lighthouse windows"
+      ],
+      "auteur": "DanTD",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Montauk_Pt_Lighthouse;_Iron_Bars_in_Window_Chamber.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Montauk_Pt_Lighthouse%3B_Iron_Bars_in_Window_Chamber.jpg/1280px-Montauk_Pt_Lighthouse%3B_Iron_Bars_in_Window_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Citadelle de Quebec ancienne prison 01.jpg",
+      "description": "Le bâtiment no 10, aussi connu sous les noms de l’ancienne Prison militaire - Citadelle de Québec",
+      "categories": [
+        "Building 10 (Citadelle of Quebec)",
+        "Self-published work"
+      ],
+      "auteur": "Cephas",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_ancienne_prison_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Citadelle_de_Quebec_ancienne_prison_01.jpg/1280px-Citadelle_de_Quebec_ancienne_prison_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3604,
+      "hauteur": 3604
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:La tenaille, ancienne prison militaire.jpg",
+      "description": "La tenaille, ancienne prison militaire, à la Citadelle de Québec",
+      "categories": [
+        "PD-author",
+        "Building 10 (Citadelle of Quebec)"
+      ],
+      "auteur": "Musée Royal 22e Régiment",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_tenaille,_ancienne_prison_militaire.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/La_tenaille%2C_ancienne_prison_militaire.jpg/1280px-La_tenaille%2C_ancienne_prison_militaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 1184
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

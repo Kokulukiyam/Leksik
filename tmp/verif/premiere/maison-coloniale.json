@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Saint-Louis",
       "note": "Trop délabrée, enduit effondré, moins typique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade enduite jaune et rose d'une maison à étage de Saint-Louis, avec balcon de fer forgé et persiennes de bois, passant au premier plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Saint-Louis, Sénégal",
+      "note": "Façade typique : enduit coloré, étage, balcon en fer et persiennes ; bien lisible malgré le passant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bunker de béton envahi par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Popenguine, Sénégal",
+      "note": "Ouvrage militaire, pas une maison."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bâtiment bas à toit de tuiles derrière une clôture grillagée, au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thiès, Sénégal",
+      "note": "Bâtiment lointain, sans étage ni galerie lisibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pan de mur en ruine avec ouverture et piliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pout Diak, Sénégal",
+      "note": "Ruine, aucun élément de maison coloniale lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ruine de mur avec deux piliers, vue en biais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pout Diak, Sénégal",
+      "note": "Ruine, non lisible comme maison."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancienne gare à étage et galerie de bois, enfants au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kelle, Sénégal",
+      "note": "Gare et non maison, panneau « chef de gare » visible, personnes nombreuses."
     }
   ]
 }

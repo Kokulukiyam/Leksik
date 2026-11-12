@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Sutton",
       "note": "Sujet : façade ; projecteurs non identifiables."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Marché couvert très animé avec foule, auvents translucides et quelques lampes industrielles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Foule dominante, projecteurs secondaires et peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Haut d'un pylône de stade portant un grand panneau de nombreux projecteurs orientables sur fond de ciel bleu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.23,
+        "y": 0.06,
+        "largeur": 0.34,
+        "hauteur": 0.58
+      },
+      "lieu": "Ostrava, République tchèque",
+      "note": "Batterie de projecteurs de stade très nette ; rectangle sur le panneau de projecteurs plutôt que sur le mât."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Stade avec pylônes d'éclairage blancs inclinés, tribunes vertes et ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteurs trop petits au sommet des pylônes."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur un projecteur carré à réflecteur martelé et lampe à iodure métallique, sur ciel bleu, un câble traversant l'image.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Mehliskopf, Allemagne",
+      "note": "Projecteur puissant très net, occupe l'image entière ; le câble ne gêne pas."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mât d'éclairage en treillis blanc dépassant d'un stade à toiture géodésique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteurs minuscules, toiture de stade dominante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stade au coucher du soleil avec deux pylônes d'éclairage éloignés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Projecteurs trop petits, contre-jour."
     }
   ]
 }

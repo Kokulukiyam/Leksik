@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Reproduction ancienne en sépia d'une armoire joséphine à deux portes, cerisier plaqué.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Autriche",
+      "note": "Reproduction imprimée d'un meuble (armoire), pas une photo de porte de placard."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porche d'église à deux battants de bois ferrés de noir, entrouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Muñoz, Philippines",
+      "note": "Porte d'église, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieille porte bleue écaillée à deux vantaux sous un balcon en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte de façade, pas de placard."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vêtements en tas tombant d'un meuble, prise de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tas de vêtements, aucune porte lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrée vitrée automatique d'un immeuble de bureaux, sas et poteau à clés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zurich, Suisse",
+      "note": "Porte d'entrée vitrée, pas une porte de placard."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rangée de portes en acier inoxydable avec un guichet central, devant un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portes métalliques de local technique, pas de placard."
     }
   ]
 }

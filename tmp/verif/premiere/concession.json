@@ -48,6 +48,38 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure sur assiette, pas une photo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rue de village sableuse avec abri de palissade tressée, fils électriques et sacs, vue penchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gadia, Sénégal",
+      "note": "Pas de groupe de cases autour d'une cour, cadrage penché, éléments confus."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une fleur de trèfle bitumineux violet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bulgarie",
+      "note": "Photo de plante, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cases à toit de chaume conique, murets et palissades autour d'une cour de sable, village peul.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sénégal",
+      "note": "Une case domine l'image : risque de confusion avec la case ronde ; l'ensemble en concession n'est pas lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fleurs de trèfle bitumineux violettes dans un pré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bulgarie",
+      "note": "Photo de plante, sans rapport."
     }
   ]
 }

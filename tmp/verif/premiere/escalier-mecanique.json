@@ -53,6 +53,59 @@
       },
       "lieu": "Francfort, Allemagne",
       "note": "Escalator encadré, escalier fixe écarté par le rectangle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalators à garde-corps vitrés dans un grand hall d'aéroport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bakou, Azerbaïdjan",
+      "note": "Marches peu visibles, confusion possible avec un trottoir roulant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalator et trottoir roulant vus d'en haut dans un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Mélange escalator et trottoir roulant : ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux escalators de station couverts de neige, vus depuis le bas, marches rainurées bien visibles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Marches rainurées et balustrades mobiles clairement lisibles, aucun doute."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tube vitré d'escalator extérieur devant un immeuble avec grand panneau de texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Texte visible, escalator peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mécanisme et roue dentée sous un escalator.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Pièces mécaniques, pas l'escalier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalators de station vus d'en haut avec une passante au premier plan.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.62,
+        "y": 0.15,
+        "largeur": 0.38,
+        "hauteur": 0.45
+      },
+      "lieu": "Japon",
+      "note": "Escalators bleus bien visibles, rectangle contrôlé ; passante et signalétique hors du cadre."
     }
   ]
 }

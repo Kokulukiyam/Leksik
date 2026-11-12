@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Prague",
       "note": "Photo sombre, rampe partiellement lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plateau de jeu tournant accessible avec une petite rampe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Eupatoria, Crimée",
+      "note": "Équipement de jeu, rampe minuscule."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rampe en pente avec garde-corps et doubles mains courantes sous les arcades d'un bâtiment en granit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.5,
+        "largeur": 0.7,
+        "hauteur": 0.5
+      },
+      "lieu": "Austin, États-Unis",
+      "note": "Rampe d'accès avec mains courantes, pente lisible ; rectangle contrôlé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Passerelle d'embarquement d'un navire rapide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Souda, Grèce",
+      "note": "Rampe de navire, pas une rampe d'accès de bâtiment."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite rampe métallique blanche menant à une terrasse couverte d'une maison jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lieksa, Finlande",
+      "note": "Rampe trop petite et noyée dans le décor."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Quai pavé le long d'un garde-corps bordant l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Helsinki, Finlande",
+      "note": "Pas de rampe identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade d'hôtel de ville avec petite entrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hahira, États-Unis",
+      "note": "Rampe invisible."
     }
   ]
 }

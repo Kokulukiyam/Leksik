@@ -120,6 +120,42 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Glasscheibenmontageprofil_Alu.jpg/1280px-Glasscheibenmontageprofil_Alu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4156,
       "hauteur": 1760
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Attaching the sign (49892101736).jpg",
+      "description": "Oregon DOT designated a new safety corridor on OR 22W from Buell to Dallas, a 10-mile stretch in Polk County that has seen an increase in crashes in the past five years.",
+      "categories": [
+        "Oregon Department of Transportation",
+        "Cordless drills",
+        "Photographs by the Oregon Department of Transportation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Aluminium profiles",
+        "Back of road signs in the United States"
+      ],
+      "auteur": "Oregon Department of Transportation",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Attaching_the_sign_(49892101736).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Attaching_the_sign_%2849892101736%29.jpg/1280px-Attaching_the_sign_%2849892101736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7360,
+      "hauteur": 4912
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Aluprofil für Werbetafel Kunststoff1.jpg",
+      "description": "Aluprofil für Werbetafel",
+      "categories": [
+        "Self-published work",
+        "Aluminium profiles"
+      ],
+      "auteur": "Leo Miregalitheo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg/1280px-Aluprofil_f%C3%BCr_Werbetafel_Kunststoff1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

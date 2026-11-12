@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chemins de câbles, pas une goulotte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quatre prises de courant modulaires (grise, rouge, blanche, noire) posées sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prises seules, aucune goulotte visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pont à haubans vu depuis la chaussée, avec mâts et lampadaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pont, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grande salle en chantier avec de nombreux chemins de câbles métalliques sous faux plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemins de câbles métalliques, pas une goulotte plastique ; incompatible avec le terme."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Machine à paver jaune et bleue sur un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin routier, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan en contre-plongée sur un chemin de câbles en treillis rempli de câbles gris, au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles ouvert et non une goulotte à couvercle ; câbles apparents."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Balise verte sur un sentier au bord de l'eau avec un pont au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paysage, hors sujet."
     }
   ]
 }

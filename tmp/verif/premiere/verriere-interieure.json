@@ -48,6 +48,30 @@
       "rectangle": null,
       "lieu": "",
       "note": "Extérieur, sans verrière intérieure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pièce d'atelier avec deux fenêtres à petits-bois, une en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Erith, Angleterre",
+      "note": "Fenêtres extérieures, pas une verrière intérieure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Autocar blanc devant des immeubles de bureaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade d'un grand immeuble Art déco en bord de mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "St Leonards-on-Sea, Angleterre",
+      "note": "Façade extérieure, pas une verrière intérieure."
     }
   ]
 }

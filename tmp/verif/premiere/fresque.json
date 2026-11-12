@@ -53,6 +53,54 @@
       },
       "lieu": "Certosa di Montebenedetto",
       "note": "Fresque extérieure lisible; rectangle sur la peinture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Visage de saint barbu très effacé sur un enduit rugueux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fossato Ionico, Italie",
+      "note": "Image difficile à lire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plafond décoré de motifs géométriques et de blasons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor peint, non une fresque figurative nette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Figure effacée sur un mur de chœur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dahlen, Allemagne",
+      "note": "Très effacée, peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Médaillon rond flou dans un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, illisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chapelle voûtée dont les murs et les arcs sont couverts de scènes et de figures de saints peintes.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Corte Franca, Italie",
+      "note": "Fresques nettes et abondantes, reconnaissables."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grande scène peinte de la Dormition de la Vierge sur un mur d'église orthodoxe.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Ohrid, Macédoine du Nord",
+      "note": "Fresque byzantine nette, plein cadre."
     }
   ]
 }

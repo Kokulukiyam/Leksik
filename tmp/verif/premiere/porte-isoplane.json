@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Illisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte intérieure à deux vantaux en bois vitrés au fond d'un couloir d'hôtel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Székesfehérvár, Hongrie",
+      "note": "Porte vitrée à deux vantaux, pas une porte lisse isoplane."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immense vantail de bronze sculpté en bas-reliefs, entrouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Porte historique en bronze sculpté, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte-fenêtre brune à trois panneaux à vitrage décoré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Menuiserie lambrissée vitrée, pas une porte isoplane."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cloison de planches brutes et grand portail de tôle ondulée rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte de tôle de ferme, sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte blanche à panneaux moulurés surmontée d'une imposte néogothique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Overveen, Pays-Bas",
+      "note": "Porte à panneaux moulurés, le contraire d'un vantail lisse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur la porte vitrée d'un véhicule portant « AUTO DOOR ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte de véhicule, texte visible."
     }
   ]
 }

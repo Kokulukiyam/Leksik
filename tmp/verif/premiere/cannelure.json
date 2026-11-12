@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Moana Hotel, Honolulu",
       "note": "Chapiteau dominant, cannelures trop peu visibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Arcades d'un hall en brique sur colonnes de marbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Cannelures à peine visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Murs de ruines mayas sous un toit de chaume.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá, Mexique",
+      "note": "Pas de cannelure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Colonnes corinthiennes et entablement d'un temple romain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Cannelures partielles, ombres et surcharge de détails."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de ruines et colonnes basses de Chichén Itzá.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá, Mexique",
+      "note": "Pas de cannelure."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passage couvert avec deux colonnes de pierre à fût cannelé, une au premier plan et une au centre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.565,
+        "y": 0.02,
+        "largeur": 0.15,
+        "hauteur": 0.8
+      },
+      "lieu": "Budapest, Hongrie",
+      "note": "Cannelures verticales nettes ; rectangle sur la colonne centrale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Base de colonne en pierre rouge polie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Colchester, Angleterre",
+      "note": "Pas de cannelure."
     }
   ]
 }

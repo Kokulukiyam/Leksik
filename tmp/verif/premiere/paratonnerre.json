@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Compteur de coups de foudre fixé sur un câble de descente le long d'un mur de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Accessoire de la descente de foudre, pas la tige."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de pierre avec une descente d'eau pluviale et un fin conducteur de foudre le long de la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Conducteur de descente discret, confondable avec la descente d'eau ; la tige n'est pas visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pointe en fer forgé en forme de fuseau ajouré au sommet d'un coin de toit en tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour un épi de faîtage décoratif ; trop petit et ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gravure ancienne de 1774 montrant des dispositifs de paratonnerre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo réelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tige de paratonnerre en fer forgé à pointe ornée dressée au coin d'une façade en brique, avec ses attaches de fixation et le conducteur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.05,
+        "largeur": 0.17,
+        "hauteur": 0.8
+      },
+      "lieu": "Karcag, Hongrie",
+      "note": "Tige métallique dominante sur le ciel, rectangle sur la tige pour écarter gouttières et descentes."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois échantillons de câble en fer tressé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câbles de musée, pas un paratonnerre identifiable."
     }
   ]
 }

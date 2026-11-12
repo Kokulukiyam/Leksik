@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Fixation au mur non certaine, scène chargée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plaques commémoratives au sol d'un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bellingham, États-Unis",
+      "note": "Texte, sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "WC à poser avec barres d'appui et lave-mains dans des toilettes accessibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "WC posé au sol, pas suspendu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Latrines médiévales dans un château.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malbork, Pologne",
+      "note": "Latrines anciennes."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Affiche en russe dans des toilettes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kharkiv, Ukraine",
+      "note": "Texte seulement."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plafond à ouvertures en étoile d'un hammam.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancien cliché d'ouvriers sur un site de céramique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, sans rapport."
     }
   ]
 }

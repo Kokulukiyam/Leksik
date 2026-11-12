@@ -148,6 +148,68 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Sur_le_chemin_des_rares_passants_dans_la_R%C3%A9serve_Naturelle_Urbaine_de_la_grande_Niaye_de_Pikine_et_d%C3%A9pendance_02.jpg/1280px-Sur_le_chemin_des_rares_passants_dans_la_R%C3%A9serve_Naturelle_Urbaine_de_la_grande_Niaye_de_Pikine_et_d%C3%A9pendance_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1365,
       "hauteur": 2048
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Negou sacette.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Fences in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Pout Diak"
+      ],
+      "auteur": "Soxna Diarra",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Negou_sacette.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Negou_sacette.jpg/1280px-Negou_sacette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Guembeul 6022.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Guembeul Reserve",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Fences in Senegal",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Senegal",
+        "Images from Wiki Loves Africa 2022 in Saint-Louis Region"
+      ],
+      "auteur": "GuillaumeG",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Guembeul_6022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Guembeul_6022.jpg/1280px-Guembeul_6022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Katakel-Jatropha curcas.jpg",
+      "description": "A Jatropha curcas living fence, planted last year, will act as an unpalatable barrier to livestock after the coming wet season.",
+      "categories": [
+        "Jatropha curcas",
+        "Katakel",
+        "Flickr images reviewed by FlickreviewR",
+        "Fences in Senegal",
+        "February 2012 in Senegal",
+        "Fields in Senegal"
+      ],
+      "auteur": "Trees ForTheFuture",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Katakel-Jatropha_curcas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Katakel-Jatropha_curcas.jpg/1280px-Katakel-Jatropha_curcas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

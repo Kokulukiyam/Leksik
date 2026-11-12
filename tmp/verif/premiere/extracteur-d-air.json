@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Serres",
       "note": "Extracteur minuscule."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Extracteur d'air mural blanc Xpelair à lames, encastré dans un mur de brique, pales visibles derrière les lamelles.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur d'extraction fixé dans un mur, net et dominant ; la marque ne donne pas la réponse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Église en brique avec un petit appareil de climatisation sur la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Serres, Grèce",
+      "note": "Élément minuscule, sujet autre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ventilateur d'extraction à grille carrée posé dans un mur extérieur, pales visibles derrière la grille, scotché au pourtour.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Extracteur mural clair, pales visibles ; aspect usagé mais sans ambiguïté."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ruelle étroite avec un conduit en hauteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Victoria, Canada",
+      "note": "Extracteur absent ou invisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ventilateur à cadre noir posé à plat sur le sol, non installé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Non monté, contexte peu clair."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ventilateur axial rouge posé au sol, avec cordon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur portatif de chantier, pas un extracteur mural."
     }
   ]
 }

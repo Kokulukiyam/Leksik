@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Scène encombrée, collier non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux gaines blanches fixées sous un chevron avec une petite attache.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Slovénie",
+      "note": "Attache trop petite, tube mal visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvriers dans un tunnel devant des supports de conduits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Scène de chantier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Collier de fixation métallique doublé de caoutchouc, ouvert, avec tige filetée et écrou à ailettes vert, fixé sur un rail.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.5,
+        "y": 0.07,
+        "largeur": 0.5,
+        "hauteur": 0.86
+      },
+      "lieu": "",
+      "note": "Collier isolé net, encadré."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers sur une nacelle posant des tubes sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York",
+      "note": "Scène de chantier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux manchons d'échafaudage reliant des tubes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Collier d'échafaudage, confusion."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Réseau de tuyaux gris dans un local technique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colliers non distincts."
     }
   ]
 }

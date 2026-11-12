@@ -48,6 +48,22 @@
       "rectangle": null,
       "lieu": "",
       "note": "Coupe nette montrant la section creuse extrudée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier casqué perceuse en main, fixant un panneau sur un poteau métallique perforé, au bout d'une nacelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier routier, personne dominante, pas un profilé de menuiserie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur une pièce métallique anguleuse d'enseigne avec un embout rond en plastique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de fixation d'une enseigne, section creuse non visible, rien d'évident sur le profilé de menuiserie."
     }
   ]
 }

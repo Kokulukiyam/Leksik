@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Regard au sol, pas un poteau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plan technique ancien d'une clé à volant pour bouches d'incendie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pompier branchant un tuyau jaune sur une borne blanche, au milieu d'herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buckley, États-Unis",
+      "note": "Poteau en partie masqué par le pompier, scène centrée sur la personne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poteau d'incendie jaune à chapeau et prises bleus au bord d'une rue, en gros plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Borne nette, dominante, au bord de la voie, deux prises visibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyau en fonte et plaques de repérage dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Pièce de musée, pas un poteau en place."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poteau d'incendie rouge à tête arrondie sur une pelouse, au bord d'un chemin.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Borne rouge très lisible et isolée ; la marque ne donne pas la réponse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Armoire inox murale « fire hose / fire extinguisher ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Abu Dhabi",
+      "note": "Armoire incendie intérieure, pas un poteau ; texte visible."
     }
   ]
 }

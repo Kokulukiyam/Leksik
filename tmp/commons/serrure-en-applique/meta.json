@@ -11,7 +11,9 @@
       "rim lock"
     ],
     "incompatibles": [
-      "serrure"
+      "serrure",
+      "serrure-a-encastrer",
+      "serrure-multipoint"
     ],
     "categoriesCommons": [
       "Category:Rim locks",
@@ -126,6 +128,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cerradura_puerta.jpg/1280px-Cerradura_puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1827,
       "hauteur": 1142
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Serrure de porte aux deux poignées-Musée Le Secq des Tournelles.jpg",
+      "description": "Serrure de porte aux deux poignées Strasbourg, fin du 18e s. Musée Le Secq des Tournelles, Rouen",
+      "categories": [
+        "Art in Strasbourg",
+        "Self-published work",
+        "Rim locks",
+        "18th-century locks, keys and latches",
+        "Metal locks",
+        "Collections of Musée Le Secq des Tournelles"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Serrure_de_porte_aux_deux_poign%C3%A9es-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Serrure_de_porte_aux_deux_poign%C3%A9es-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg/1280px-Serrure_de_porte_aux_deux_poign%C3%A9es-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2012,
+      "hauteur": 2694
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2010-365-85 Double Locked (4465783125).jpg",
+      "description": "2010/365",
+      "categories": [
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Door locks",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2010-365-85_Double_Locked_(4465783125).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2010-365-85_Double_Locked_%284465783125%29.jpg/1280px-2010-365-85_Double_Locked_%284465783125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1573,
+      "hauteur": 1049
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Serrure et clef vers 1780-Musée Le Secq des Tournelles.jpg",
+      "description": "Serrure d'armoire ou de buffet à la guirlande et sa clef vers 1780 Strasbourg, 18e s. Fer forgé, repris au ciseau, découpé à jour et assemblé par vis et étoquiaux Musée Le Secq des Tournelles, Rouen",
+      "categories": [
+        "Art in Strasbourg",
+        "Self-published work",
+        "Rim locks",
+        "Keys in France",
+        "18th-century locks, keys and latches",
+        "Metal locks",
+        "Collections of Musée Le Secq des Tournelles"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Serrure_et_clef_vers_1780-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Serrure_et_clef_vers_1780-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg/1280px-Serrure_et_clef_vers_1780-Mus%C3%A9e_Le_Secq_des_Tournelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2981,
+      "hauteur": 2712
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Al Curry, Three Door Latches, c. 1938, NGA 24110.jpg",
+      "description": "",
+      "categories": [
+        "CC-Zero",
+        "Uploaded with pattypan",
+        "Artworks without Wikidata item",
+        "Door locks",
+        "Artworks with known accession number",
+        "Images from the National Gallery of Art",
+        "Index of American Design, National Gallery of Art (Washington, D.C.)"
+      ],
+      "auteur": "Al Curry",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Al_Curry,_Three_Door_Latches,_c._1938,_NGA_24110.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg/1280px-Al_Curry%2C_Three_Door_Latches%2C_c._1938%2C_NGA_24110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3210,
+      "hauteur": 4113
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pizzeria Pinokio Polczyn Zdroj (2).JPG",
+      "description": "Pizzeria Pinokio w Połczynie Zdr.",
+      "categories": [
+        "Połczyn-Zdrój",
+        "Self-published work",
+        "Rim locks",
+        "Pizzerias in Poland"
+      ],
+      "auteur": "MOs810",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pizzeria_Pinokio_Polczyn_Zdroj_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Pizzeria_Pinokio_Polczyn_Zdroj_%282%29.JPG/1280px-Pizzeria_Pinokio_Polczyn_Zdroj_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 2881
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:20210516 091116i.jpg",
+      "description": "Zaouia of Sidi Bouhlel",
+      "categories": [
+        "Self-published work",
+        "Door locks",
+        "Wooden doors in Tunisia",
+        "Zaouia of Sidi Bouhlel"
+      ],
+      "auteur": "Nagaboussi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20210516_091116i.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20210516_091116i.jpg/1280px-20210516_091116i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3096,
+      "hauteur": 4128
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

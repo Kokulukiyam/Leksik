@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Bucarest, Roumanie",
       "note": "Forme peu identifiable comme acanthe."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangée de colonnes à chapiteaux corinthiens derrière des palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Karlovy Vary, Tchéquie",
+      "note": "Feuilles trop petites et masquées."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Feuille de fer forgé enroulée sur une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferronnerie, motif incertain."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chapiteau rustique à rangs de feuilles, flou et sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kilmaurs, Écosse",
+      "note": "Image sombre et floue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux chapiteaux romains fragmentaires en vitrine, avec panneau explicatif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un volute, un feuillage, panneau de texte."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chapiteau corinthien romain fragmentaire sur fond noir : au registre inférieur, rangs de feuilles d'acanthe dentelées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.17,
+        "y": 0.63,
+        "largeur": 0.55,
+        "hauteur": 0.31
+      },
+      "lieu": "Rome, Italie",
+      "note": "Feuilles d'acanthe nettes ; rectangle sur le registre de feuilles pour écarter le gorgonéion."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin au crayon d'un motif d'acanthe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
     }
   ]
 }

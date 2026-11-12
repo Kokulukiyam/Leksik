@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Photo ancienne, plâtres."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chapiteau corinthien d'une colonne de façade, avec rangs de feuilles d'acanthe, volutes et fleuron, près d'un bas-relief de lion ailé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.54,
+        "y": 0.29,
+        "largeur": 0.42,
+        "hauteur": 0.31
+      },
+      "lieu": "Copenhague, Danemark",
+      "note": "Chapiteau corinthien typique et net ; rectangle pour exclure le lion et la frise."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Colonnes cannelées d'un portique antique devant des immeubles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Chapiteaux trop petits et mal visibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Page d'un livre ancien avec une gravure de chapiteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros chapiteau corinthien romain en ruine, à deux rangs de feuilles et volutes, posé dans un site de ruines.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.02,
+        "largeur": 0.56,
+        "hauteur": 0.8
+      },
+      "lieu": "Timgad, Algérie",
+      "note": "Corinthien lisible malgré l'érosion ; rectangle sur le chapiteau pour exclure les tambours."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Colonnes de la bibliothèque d'Hadrien, chapiteaux en haut coupés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Chapiteaux coupés par le cadre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chapiteau en pierre brute sous des poutres de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arabie saoudite",
+      "note": "Chapiteau fruste, non corinthien."
     }
   ]
 }

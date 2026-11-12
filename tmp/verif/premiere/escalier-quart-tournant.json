@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Cadix, Espagne",
       "note": "Escalier non montré."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escaliers métalliques en zigzag le long d'une grue portuaire bleue, vus en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mombasa, Kenya",
+      "note": "Escalier de grue, pas de quart tournant lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Large escalier droit en noir et blanc devant un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volée droite, aucun changement de direction."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Hall d'exposition avec escalier métallique à deux volées reliées par un palier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Plutôt un demi-tournant, virage à 180 degrés ; ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Marches en béton couvertes d'ombres en zigzag.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de marches, pas de virage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier droit descendant entre deux murs blanchis vers un passage sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kenya",
+      "note": "Volée droite."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cage d'escalier ancienne avec une volée droite, rampe en bois et porte vitrée en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Une seule volée visible, virage non démontré."
     }
   ]
 }

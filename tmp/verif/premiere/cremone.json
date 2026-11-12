@@ -48,6 +48,38 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Planche gravée de serrurerie ancienne (palâtre, espagnolette du Louvre).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poignée à tête ronde d'une ancienne espagnolette sur une croisée, à contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Contre-jour, titre « espagnolette » : indiscernable de l'espagnolette, voisine du terme."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poignée d'espagnolette noire sur une croisée de bibliothèque, en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Légendée espagnolette ; ne montre pas les deux tringles : confusion avec espagnolette ou poignée de fenêtre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poignée d'espagnolette en laiton à tête ronde sur une croisée, fond flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même ambiguïté avec l'espagnolette et la poignée de fenêtre."
     }
   ]
 }

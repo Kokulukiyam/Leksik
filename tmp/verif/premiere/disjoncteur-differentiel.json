@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Disjoncteurs ordinaires, texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tableau électrique américain gris ouvert, rangée de disjoncteurs divisionnaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteurs simples nord-américains, pas de différentiel identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petit tableau japonais blanc avec compteur jaune, trois disjoncteurs et un disjoncteur différentiel à bouton test en bas à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Différentiel minuscule dans l'image, format japonais et texte japonais ; trop incertain et peu lisible sur téléphone."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte fermée d'un tableau électrique gris sur un mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun appareil visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ancien disjoncteur noir français à boutons Marche et Arrêt avec plaque mentionnant Disjoncteur BT et différentiel 650 mA.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque qui donne la réponse, appareil ancien sans bouton test moderne ; ne ressemble pas au différentiel attendu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau de commande d'aéronef avec nombreux voyants et boutons colorés, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rien à voir avec un disjoncteur différentiel."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Disjoncteur aéronautique unipolaire à bascule, ancien, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Disjoncteur simple militaire, pas différentiel."
     }
   ]
 }

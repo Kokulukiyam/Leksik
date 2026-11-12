@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Escalier droit."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier extérieur à marches bleues sur un bateau de croisière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Volga, Russie",
+      "note": "Volée droite sur un bateau, aucun demi-tour."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Foule dans un bar sous un escalier vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Escalier à peine visible, sujet autre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Hall d'établissement scolaire avec une volée droite sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Une seule volée, pas de demi-tour."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Escalier métallique à marches en tôle vu d'en haut, volées superposées dans la cage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Palo Alto, États-Unis",
+      "note": "Prise de vue en plongée qui ne permet pas de lire le demi-tour."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Nef d'église vue du seuil avec marches couvertes de tapis rouge vers l'autel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kežmarok, Slovaquie",
+      "note": "Marches droites vers un autel."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cage d'escalier ancienne avec rampe à balustres tournés, palier et portes blanches, plafond décoré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Harzburg, Allemagne",
+      "note": "Deux volées et palier, mais disposition vue en plongée trop ambiguë pour trancher entre demi et quart tournant."
     }
   ]
 }

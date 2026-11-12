@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Rennes",
       "note": "Vue à travers l'optique, pas l'objet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bas-relief sculpté d'un personnage endormi dans un cadre en bois, musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dinkelsbühl, Allemagne",
+      "note": "Sculpture, aucun judas lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue floue à travers l'optique d'un judas, halo lumineux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue depuis l'intérieur du trou, pas la lentille sur une porte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Judas blindé à volet articulé sur porte métallique de bunker.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Ragaz, Suisse",
+      "note": "Dispositif militaire atypique, mécanisme qui prête à confusion."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue grand angle déformée d'un couloir à travers un judas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image à travers l'optique, pas l'objet sur la porte."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte métallique rayée et sale percée d'un petit trou rond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maryland, États-Unis",
+      "note": "Trou abîmé, lentille absente, élément illisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue floue et colorée à travers un judas, fleur rouge au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue depuis l'optique, pas l'objet."
     }
   ]
 }

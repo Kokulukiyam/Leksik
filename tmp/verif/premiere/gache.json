@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans gâche visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Verrou de porte-fenêtre japonaise de marque YKK AP, vu de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Loquet de fenêtre, marque visible, pas une gâche."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte métallique écaillée avec verrous à tige et cadenas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inde",
+      "note": "Targettes et cadenas, pas de gâche identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte grise avec poignée et bouton de condamnation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda, Suède",
+      "note": "Pas de gâche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vieille porte en rondins avec lanterne et branchage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wilderness Road, États-Unis",
+      "note": "Pas de gâche lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte en bois avec bouton de porte en laiton sur plaque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre un bouton et une entrée de clef, pas une gâche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Verrou de porte-fenêtre japonaise YKK AP.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Japon",
+      "note": "Loquet de fenêtre, pas une gâche."
     }
   ]
 }

@@ -15,7 +15,9 @@
       "frise",
       "corniche",
       "triglyphe",
-      "metope"
+      "metope",
+      "denticule",
+      "modillon"
     ],
     "categoriesCommons": [
       "Category:Entablatures"
@@ -142,6 +144,145 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Backside_of_a_pediment_and_entablature_%28Gate_of_Athena_Archegetis%29_on_February_26%2C_2022.jpg/1280px-Backside_of_a_pediment_and_entablature_%28Gate_of_Athena_Archegetis%29_on_February_26%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5828,
       "hauteur": 3886
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Kapsberger - Libro primo di Villanelle.jpg",
+      "description": "Front cover of J.H. Kapsberger's Libro primo di Villanelle à 1, 2 et 3 voci accommodate per qual si voglia strumento con l'intavolatura del chitarone et alfabeto per la chitarra spagnola",
+      "categories": [
+        "Johannes Hieronymus Kapsberger",
+        "Author died more than 100 years ago public domain images",
+        "Villanelle",
+        "Entablatures",
+        "Images with extracted images",
+        "CC-PD-Mark",
+        "Guitar music",
+        "Files from Gallica",
+        "PD-old missing SDC copyright status",
+        "1610 books in Italian",
+        "Unknown publisher",
+        "1610 music in Rome",
+        "1610 books from Rome",
+        "Flaminio Flamini"
+      ],
+      "auteur": "Johannes Hieronymus Kapsberger",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kapsberger_-_Libro_primo_di_Villanelle.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Kapsberger_-_Libro_primo_di_Villanelle.jpg/1280px-Kapsberger_-_Libro_primo_di_Villanelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3669,
+      "hauteur": 5268
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Colonne corinthienne et médaillons - façade de l'ancien musée-bibliothèque de Grenoble 02.jpg",
+      "description": "colonnes corinthiennes et médaillons de Pierre Corneille et Descartes sur la façade de l'ancien musée-bibliothèque de Grenoble",
+      "categories": [
+        "Entablatures",
+        "Self-published work",
+        "Corinthian capitals in France",
+        "Sculptures of René Descartes",
+        "Ancien musée-bibliothèque de Grenoble - Facade",
+        "Sculptures of Pierre Corneille"
+      ],
+      "auteur": "Patafisik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_02.jpg/1280px-Colonne_corinthienne_et_m%C3%A9daillons_-_fa%C3%A7ade_de_l%27ancien_mus%C3%A9e-biblioth%C3%A8que_de_Grenoble_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2735,
+      "hauteur": 1708
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Capitelll i entaulament d'un retaule de la capella de la Comunió, església de sant Pau, institut Lluís Vives de València.JPG",
+      "description": "Capitelll i entaulament d'un retaule de la capella de la Comunió, església de sant Pau, institut Lluís Vives de València.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Capella de Sant Pau - Institut Lluís Vives de València",
+        "Entablatures",
+        "Self-published work",
+        "Baroque altarpieces in the province of Valencia",
+        "Files with coordinates missing SDC location of creation",
+        "Baroque capitals in the Land of Valencia"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitelll_i_entaulament_d%27un_retaule_de_la_capella_de_la_Comuni%C3%B3,_esgl%C3%A9sia_de_sant_Pau,_institut_Llu%C3%ADs_Vives_de_Val%C3%A8ncia.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Capitelll_i_entaulament_d%27un_retaule_de_la_capella_de_la_Comuni%C3%B3%2C_esgl%C3%A9sia_de_sant_Pau%2C_institut_Llu%C3%ADs_Vives_de_Val%C3%A8ncia.JPG/1280px-Capitelll_i_entaulament_d%27un_retaule_de_la_capella_de_la_Comuni%C3%B3%2C_esgl%C3%A9sia_de_sant_Pau%2C_institut_Llu%C3%ADs_Vives_de_Val%C3%A8ncia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Capitals and Entablature of the Academy of Athens, Greece.jpg",
+      "description": "Capitals and entablature of the Academy of Athens, Greece «Μέγαρο Ακαδημίας Αθηνών» This is a photo of a monument in Greece identified by the ID GR-IA10-0006 ( wikidata )",
+      "categories": [
+        "CC-Zero",
+        "Entablatures",
+        "Self-published work",
+        "Academy of Athens - Facade",
+        "Cultural heritage monuments in Greece with known IDs",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:wlm-gr",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Images from Wiki Loves Monuments 2025",
+        "Images from Wiki Loves Monuments 2025 in Greece",
+        "Cultural heritage monuments in Athens",
+        "Greek antiquities disclaimer warning",
+        "WLM 2025 in Greece images uploaded on 10-10"
+      ],
+      "auteur": "Julian Lupyan",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitals_and_Entablature_of_the_Academy_of_Athens,_Greece.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Capitals_and_Entablature_of_the_Academy_of_Athens%2C_Greece.jpg/1280px-Capitals_and_Entablature_of_the_Academy_of_Athens%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5915,
+      "hauteur": 3641
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Capitell i entaulament, capella de la Comunió, església de sant Antoni, València.JPG",
+      "description": "Capitell i entaulament, capella de la Comunió, església de sant Antoni, València.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Interior of the Església de Sant Antoni Abat (València)",
+        "Entablatures",
+        "Self-published work",
+        "Capitals (architecture) in Valencia"
+      ],
+      "auteur": "Joanbanjo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitell_i_entaulament,_capella_de_la_Comuni%C3%B3,_esgl%C3%A9sia_de_sant_Antoni,_Val%C3%A8ncia.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Capitell_i_entaulament%2C_capella_de_la_Comuni%C3%B3%2C_esgl%C3%A9sia_de_sant_Antoni%2C_Val%C3%A8ncia.JPG/1280px-Capitell_i_entaulament%2C_capella_de_la_Comuni%C3%B3%2C_esgl%C3%A9sia_de_sant_Antoni%2C_Val%C3%A8ncia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4105,
+      "hauteur": 3071
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Memorial Amphitheater - rear pediment - Arlington National Cemetery - 2011.JPG",
+      "description": "Detail of the inscription over the rear entrance to Arlington Memorial Amphitheater at Arlington National Cemetery in Arlington, Virginia, in the United States. The amphitheater was dedicated on May 15, 1920. The inscription reads: \" Dulce et decorum est pro patria mori \". This is a line from a poem by the ancient poet Horace . In English, it means \"It is sweet and fitting to die for one's country.\"",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 5D Mark II",
+        "License migration redundant",
+        "Entablatures",
+        "Self-published work",
+        "United States photographs taken on 2011-09-11",
+        "MCMXV (numeral)",
+        "Arlington Memorial Amphitheater in 2011",
+        "Clouds and blue sky in Virginia",
+        "Bilingual English-Latin signs in the United States",
+        "Dulce et decorum est pro patria mori",
+        "Arlington National Cemetery in September 2011"
+      ],
+      "auteur": "Tim1965",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Memorial_Amphitheater_-_rear_pediment_-_Arlington_National_Cemetery_-_2011.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Memorial_Amphitheater_-_rear_pediment_-_Arlington_National_Cemetery_-_2011.JPG/1280px-Memorial_Amphitheater_-_rear_pediment_-_Arlington_National_Cemetery_-_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1667
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

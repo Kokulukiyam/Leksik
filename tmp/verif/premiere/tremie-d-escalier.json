@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Oak Ridge, États-Unis",
       "note": "Ambigu, plafond et non plancher."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cage d'escalier en briques vue d'en haut avec volées métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cage d'escalier plutôt que trémie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rampe et balustres en bois de style ancien autour d'un palier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Garde-corps, ouverture non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Garde-corps en bois ajouré autour d'une ouverture ronde dans le plancher d'un vestibule de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hagen, Allemagne",
+      "note": "Ouverture vers une salle, pas un escalier ; risque de confusion avec le garde-corps."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue verticale d'une cage d'escalier avec lumière en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bogota, Colombie",
+      "note": "Cage d'escalier, pas de trémie lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Volées d'escalier superposées vues en plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Cage d'escalier, trémie non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chantier : ouverture dans un plancher avec ouvriers et palan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Ouverture de gaine, pas d'escalier ; ouvriers."
     }
   ]
 }

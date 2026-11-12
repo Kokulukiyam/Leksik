@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plutôt monte-charge, pas de portes palières."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Armoire de commande électrique d'un ascenseur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareillage électrique, pas la cabine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Portes en laiton art déco d'un ascenseur avec inscription « THIS CAR AVAILABLE ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible en bandeau ; mieux vaut ne pas valider."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cliché ancien d'un homme réglant un avion.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Diego, États-Unis",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portes vitrées d'un ascenseur vues de l'intérieur de la cabine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Vue peu parlante, reflets, cabine mal identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Missile exposé dans un hangar.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois portes d'ascenseur en bronze ouvragé dans un hall de marbre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Buffalo, États-Unis",
+      "note": "Portes palières d'ascenseurs bien visibles ; plaque sans rapport avec la réponse."
     }
   ]
 }

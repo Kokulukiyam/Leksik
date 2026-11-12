@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "colonne",
-      "pilastre"
+      "pilastre",
+      "colonne-torse"
     ],
     "categoriesCommons": [
       "Category:Fluted columns",
@@ -131,6 +132,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Moana-Hotel-column-capital.JPG/1280px-Moana-Hotel-column-capital.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2048,
       "hauteur": 1536
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:5a3-Den blå hallen - the blue hall - Stockholm city hall.JPG",
+      "description": "Søyleganger i Den blå hallen. (Archades in Stockholm City Hall)",
+      "categories": [
+        "Fluted columns",
+        "Blå hallen",
+        "Self-published work",
+        "Interior columns in Sweden",
+        "Columns in Stockholm"
+      ],
+      "auteur": "Øyvind Holmstad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5a3-Den_bl%C3%A5_hallen_-_the_blue_hall_-_Stockholm_city_hall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/5a3-Den_bl%C3%A5_hallen_-_the_blue_hall_-_Stockholm_city_hall.JPG/1280px-5a3-Den_bl%C3%A5_hallen_-_the_blue_hall_-_Stockholm_city_hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 40.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:ItaliaRomaForoAugustoTempioArchitrave.jpg",
+      "description": "Italia, Roma, Fori Imperiali, Foro di Augusto, Tempio di Marte Ultore (2 a.C.), particolare dell'architrave sopra le colonne del fianco destro del tempio, rimaste in situ.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus C-750UZ",
+        "Fluted columns",
+        "License migration redundant",
+        "Self-published work",
+        "Corinthian columns in Italy",
+        "Ancient Roman Ionic architraves",
+        "Ancient Roman Corinthian capitals in Rome",
+        "Temple of Mars the Avenger (Rome) - Architectural elements"
+      ],
+      "auteur": "Massimo Baldi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ItaliaRomaForoAugustoTempioArchitrave.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/ItaliaRomaForoAugustoTempioArchitrave.jpg/1280px-ItaliaRomaForoAugustoTempioArchitrave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1984,
+      "hauteur": 1348
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Chichén Itzá columnas 2025 39.jpg",
+      "description": "Chichén Itzá columnas 2025",
+      "categories": [
+        "CC-Zero",
+        "Chichén Itzá",
+        "Columns",
+        "Self-published work"
+      ],
+      "auteur": "Álvaro de la Paz Franco",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg/1280px-Chich%C3%A9n_Itz%C3%A1_columnas_2025_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Károlyi-palota és Károlyi-kert3.JPG",
+      "description": "Károlyi-palota kocsibehajtója illetve átjárója a Károlyi-kert felé",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "Passages (architecture)",
+        "Fluted columns",
+        "Interior of the Károlyi Mansion (Budapest 5)",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Hungary",
+        "WLM-HU review needed",
+        "Uploaded via Campaign:wlm-hu",
+        "Hungary photographs taken on 2013-09-30",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Drinking fountains in Budapest District V"
+      ],
+      "auteur": "Thaler",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:K%C3%A1rolyi-palota_%C3%A9s_K%C3%A1rolyi-kert3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/K%C3%A1rolyi-palota_%C3%A9s_K%C3%A1rolyi-kert3.JPG/1280px-K%C3%A1rolyi-palota_%C3%A9s_K%C3%A1rolyi-kert3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2432
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Brown beige.jpg",
+      "description": "this is the base of a column in Colchester",
+      "categories": [
+        "Columns",
+        "Science technology society and Wikipedia Doctorate course 2019",
+        "Colchester",
+        "Self-published work"
+      ],
+      "auteur": "SPT FGiuntini",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brown_beige.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Brown_beige.jpg/1280px-Brown_beige.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2376,
+      "hauteur": 3568
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

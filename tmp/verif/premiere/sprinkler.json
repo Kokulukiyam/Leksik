@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Brooklyn",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rupture d'une canalisation de sprinkler sous un plastique, gros plan sur la tuyauterie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyauterie cassée, pas de tête de sprinkler."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cimenterie ancienne en noir et blanc avec arroseurs de bassin au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dallas, États-Unis",
+      "note": "Arroseurs de jardin, photo ancienne, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maquette de coupe-feu avec tuyau CPVC traversant une cloison et notes manuscrites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Colombie-Britannique",
+      "note": "Tuyau de sprinkler en chantier, pas de tête ; texte manuscrit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Seaux en bois anciens, photo noir et blanc, usage agricole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Slovénie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gong rouge « Sprinkler alarm » avec plaque triangulaire sur un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alarme à cloche, pas une tête de sprinkler ; texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Stade de rugby arrosé par des arroseurs de pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montevideo, Uruguay",
+      "note": "Arrosage de pelouse, pas un sprinkler d'incendie."
     }
   ]
 }

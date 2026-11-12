@@ -53,6 +53,59 @@
       },
       "lieu": "Athènes, Grèce",
       "note": "Rectangle sur l'architrave et la frise sous le fronton."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Page de titre gravée d'un recueil de chansons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chapiteau corinthien entre deux médaillons de portraits, entablement en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Grenoble, France",
+      "note": "Entablement coupé en haut de l'image."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Retable doré avec colonne et entablement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Dorure sombre et élément trop petit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'un temple à fronton sculpté, au-dessus de colonnes ioniques : la bande de l'entablement sous le fronton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.7,
+        "largeur": 0.92,
+        "hauteur": 0.19
+      },
+      "lieu": "Athènes, Grèce",
+      "note": "Entablement net (architrave, frise de marbre, corniche) ; rectangle sous le fronton pour lever le doute."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chapiteau doré et entablement en ressaut d'une chapelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Détail trop complexe, vue en contre-plongée peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Attique d'un amphithéâtre avec inscription gravée, au-dessus de colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arlington, États-Unis",
+      "note": "Texte visible et entablement partiellement cadré."
     }
   ]
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "C'est un levier (béquille), pas un bouton."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tas de boutons de porte en bois posés sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objets en studio, pas en situation sur une porte, plusieurs objets."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte blanche avec bouton rond en laiton sur platine ovale à entrée de clef.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.335,
+        "y": 0.295,
+        "largeur": 0.15,
+        "hauteur": 0.22
+      },
+      "lieu": "Toronto, Canada",
+      "note": "Bouton rond net et dominant, cadré de près."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bouton de porte en porcelaine et laiton avec étiquette d'inventaire sur tissu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée avec étiquette, hors contexte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poignée de porte en fer forgé ornée sur porte rose, Biélorussie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vawkavysk, Biélorussie",
+      "note": "Poignée à levier, pas un bouton."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vieille porte en bois écaillé avec loquet à poignée et entrée de clef.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Godovik, Serbie",
+      "note": "Loquet/poignée, pas un bouton."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte à deux vantaux avec espagnolette et poignées en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kotor, Monténégro",
+      "note": "Poignées et crémones, pas des boutons."
     }
   ]
 }

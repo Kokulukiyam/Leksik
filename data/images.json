@@ -8543,6 +8543,37 @@
     "note": "Vérification : Texture typique de Corten après exposition, plein cadre. Contre-vérification : Gros plan d'une surface d'acier couverte d'une rouille brun orangé homogène : patine Corten, aucun autre métal proposé ne correspond."
   },
   {
+    "id": "acier-corten-07",
+    "termId": "acier-corten",
+    "fichier": "commons/acier-corten-07.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.28,
+      "largeur": 0.82,
+      "hauteur": 0.54
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Чаховіч Уладзіслаў",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D1%8D%D1%81%D1%82._%D0%91%D0%A6_%D0%A6%D1%8D%D0%BB%D1%8C%D1%81%D1%96%D0%B9_(02).jpg",
+    "statut": "validée",
+    "note": "Vérification : Corten bien reconnaissable (patine brun orangé uniforme) ; rectangle sur la bordure. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "acier-galvanise-09",
+    "termId": "acier-galvanise",
+    "fichier": "commons/acier-galvanise-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Andrew Beeston",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Texture_-_Galvanized_metal.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fleurage typique du galvanisé, texture claire sur toute l'image. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "inox-06",
     "termId": "inox",
     "fichier": "commons/inox-06.webp",
@@ -8554,6 +8585,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:HK_Central_Murray_Road_Hutchison_House_entrance_stairs_stainless_steel_fences_Nov-2012.jpg",
     "statut": "validée",
     "note": "Vérification : Inox brillant très lisible, garde-corps typique. Contre-vérification : Garde-corps d'escalier en tubes d'acier brillant poli miroir : inox typique."
+  },
+  {
+    "id": "inox-12",
+    "termId": "inox",
+    "fichier": "commons/inox-12.webp",
+    "rectangle": {
+      "x": 0.03,
+      "y": 0.17,
+      "largeur": 0.94,
+      "hauteur": 0.7
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Urinal_at_High_Beach,_Epping_Forest.jpg",
+    "statut": "validée",
+    "note": "Vérification : Grande surface d'inox brossé reconnaissable ; rectangle pour exclure les carrelages. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "cuivre-05",
@@ -9061,6 +9110,24 @@
     "note": "Vérification : Rectangle sur l'architrave et la frise sous le fronton. Contre-vérification : Porte antique : rectangle sur toute la bande horizontale portée par les colonnes, sous le fronton exclu : entablement juste."
   },
   {
+    "id": "entablement-10",
+    "termId": "entablement",
+    "fichier": "commons/entablement-10.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0.7,
+      "largeur": 0.92,
+      "hauteur": 0.19
+    },
+    "lieu": "Athènes, Grèce",
+    "source": "commons",
+    "auteur": "Julian Lupyan",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Capitals_and_Entablature_of_the_Academy_of_Athens,_Greece.jpg",
+    "statut": "validée",
+    "note": "Vérification : Entablement net (architrave, frise de marbre, corniche) ; rectangle sous le fronton pour lever le doute. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "triglyphe-05",
     "termId": "triglyphe",
     "fichier": "commons/triglyphe-05.webp",
@@ -9115,6 +9182,24 @@
     "note": "Vérification : Volute nette et dominante, rectangle sur celle de droite. Contre-vérification : Rectangle serré sur un enroulement en spirale d'un chapiteau de type ionique : volute claire."
   },
   {
+    "id": "volute-12",
+    "termId": "volute",
+    "fichier": "commons/volute-12.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.22,
+      "largeur": 0.26,
+      "hauteur": 0.3
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Szalax",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:CountyHall_Miskolc_07.jpg",
+    "statut": "validée",
+    "note": "Vérification : Volute nette et grande ; rectangle sur la volute gauche. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "feuille-d-acanthe-04",
     "termId": "feuille-d-acanthe",
     "fichier": "commons/feuille-d-acanthe-04.webp",
@@ -9131,6 +9216,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Karlsbad_-_M%C3%BChlbrunnkolonnade_4a_Kapitell.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur les rangées de feuilles ; palmier au premier plan sans gêne. Contre-vérification : Rectangle serré sur le rang de feuilles découpées et recourbées d'un chapiteau corinthien : feuille d'acanthe."
+  },
+  {
+    "id": "feuille-d-acanthe-11",
+    "termId": "feuille-d-acanthe",
+    "fichier": "commons/feuille-d-acanthe-11.webp",
+    "rectangle": {
+      "x": 0.17,
+      "y": 0.63,
+      "largeur": 0.55,
+      "hauteur": 0.31
+    },
+    "lieu": "Rome, Italie",
+    "source": "commons",
+    "auteur": "Wilfredo Rafael Rodriguez Hernandez",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Capitel_corintio_romano_con_gorgoneion_del_Coliseo.jpg",
+    "statut": "validée",
+    "note": "Vérification : Feuilles d'acanthe nettes ; rectangle sur le registre de feuilles pour écarter le gorgonéion. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "denticule-05",
@@ -9592,6 +9695,24 @@
     "note": "Vérification : Cannelures nettes; rectangle sur le fût pour exclure le chapiteau ionique. Contre-vérification : Rectangle sur le fût d'une colonne en bois creusé de rainures verticales régulières : cannelures nettes."
   },
   {
+    "id": "cannelure-11",
+    "termId": "cannelure",
+    "fichier": "commons/cannelure-11.webp",
+    "rectangle": {
+      "x": 0.565,
+      "y": 0.02,
+      "largeur": 0.15,
+      "hauteur": 0.8
+    },
+    "lieu": "Budapest, Hongrie",
+    "source": "commons",
+    "auteur": "Thaler",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:K%C3%A1rolyi-palota_%C3%A9s_K%C3%A1rolyi-kert3.JPG",
+    "statut": "validée",
+    "note": "Vérification : Cannelures verticales nettes ; rectangle sur la colonne centrale. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "chapiteau-corinthien-02",
     "termId": "chapiteau-corinthien",
     "fichier": "commons/chapiteau-corinthien-02.webp",
@@ -9608,6 +9729,78 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Square_ornate_acanthus_leaf_Corinthian_capital_at_the_Ancient_Agora_of_Athens_on_21_February_2019.jpg",
     "statut": "validée",
     "note": "Vérification : Corbeille d'acanthe et volutes d'angle bien lisibles; rectangle sur le chapiteau. Contre-vérification : Chapiteau antique tombé, corbeille à rangs de feuilles d'acanthe et petites volutes d'angle, bien cadré : chapiteau corinthien."
+  },
+  {
+    "id": "chapiteau-corinthien-07",
+    "termId": "chapiteau-corinthien",
+    "fichier": "commons/chapiteau-corinthien-07.webp",
+    "rectangle": {
+      "x": 0.54,
+      "y": 0.29,
+      "largeur": 0.42,
+      "hauteur": 0.31
+    },
+    "lieu": "Copenhague, Danemark",
+    "source": "commons",
+    "auteur": "Wolfgang Sauber",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Marmorkirken_-_Fassade_Markusl%C3%B6we_1.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteau corinthien typique et net ; rectangle pour exclure le lion et la frise. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "chapiteau-corinthien-10",
+    "termId": "chapiteau-corinthien",
+    "fichier": "commons/chapiteau-corinthien-10.webp",
+    "rectangle": {
+      "x": 0.08,
+      "y": 0.02,
+      "largeur": 0.56,
+      "hauteur": 0.8
+    },
+    "lieu": "Timgad, Algérie",
+    "source": "commons",
+    "auteur": "LBM1948",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Columnas_Timgad_6.jpg",
+    "statut": "validée",
+    "note": "Vérification : Corinthien lisible malgré l'érosion ; rectangle sur le chapiteau pour exclure les tambours. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "chapiteau-ionique-09",
+    "termId": "chapiteau-ionique",
+    "fichier": "commons/chapiteau-ionique-09.webp",
+    "rectangle": {
+      "x": 0.72,
+      "y": 0.13,
+      "largeur": 0.28,
+      "hauteur": 0.17
+    },
+    "lieu": "Copenhague, Danemark",
+    "source": "commons",
+    "auteur": "Carole Raddato from FRANKFURT, Germany",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Antinous_as_Dionysus,_Ny_Carlsberg_Glyptotek,_Copenhagen_(10532242823).jpg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteau ionique net à volutes ; rectangle sur celui de droite pour écarter la statue. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "chapiteau-dorique-10",
+    "termId": "chapiteau-dorique",
+    "fichier": "commons/chapiteau-dorique-10.webp",
+    "rectangle": {
+      "x": 0.52,
+      "y": 0.53,
+      "largeur": 0.27,
+      "hauteur": 0.17
+    },
+    "lieu": "Paestum, Italie",
+    "source": "commons",
+    "auteur": "ParmenZenon",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Capaccio_Paestum_-_Tempio_di_Era_-_2026-09-12_09-23-03_001.jpeg",
+    "statut": "validée",
+    "note": "Vérification : Chapiteaux doriques nets ; rectangle sur l'un d'eux. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "vitrail-03",
@@ -9634,6 +9827,45 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:03_M_Roga-Sk%C4%85pska_Warszawa_Op._Bo._Fragment-L.jpg",
     "statut": "validée",
     "note": "Vérification : Vitrail coloré, lisible et dominant. Contre-vérification : Grande verrière moderne en verres colorés sertis de plombs : vitrail."
+  },
+  {
+    "id": "vitrail-07",
+    "termId": "vitrail",
+    "fichier": "commons/vitrail-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Collin M",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:8978502379_Jpg_(115858027).jpeg",
+    "statut": "validée",
+    "note": "Vérification : Vitrail éclairé et net, fond sombre sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "vitrail-10",
+    "termId": "vitrail",
+    "fichier": "commons/vitrail-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Secretlondon",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Buckden_Towers_cf_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Vitraux abstraits nets sur fond sombre, très lisibles. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "vitrail-11",
+    "termId": "vitrail",
+    "fichier": "commons/vitrail-11.webp",
+    "rectangle": null,
+    "lieu": "Moulins, France",
+    "source": "commons",
+    "auteur": "Ecclésiaste-1.2",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame-de-l%27Annonciation_de_Moulins,_vitrail_de_Godefroy_de_Bouillon_et_de_la_Saintes_%C3%89pine,_vers_1540-1550.jpg",
+    "statut": "validée",
+    "note": "Vérification : Vitrail ancien net et complet. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "fresque-05",
@@ -9665,6 +9897,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Affresco_Montebenedetto.jpg",
     "statut": "validée",
     "note": "Vérification : Fresque extérieure lisible; rectangle sur la peinture. Contre-vérification : Peinture murale ancienne sur enduit, protégée par un auvent sur un mur de pierre, rectangle bien placé : fresque."
+  },
+  {
+    "id": "fresque-11",
+    "termId": "fresque",
+    "fichier": "commons/fresque-11.webp",
+    "rectangle": null,
+    "lieu": "Corte Franca, Italie",
+    "source": "commons",
+    "auteur": "Giopogib",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Affreschi_eufemia.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fresques nettes et abondantes, reconnaissables. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "fresque-12",
+    "termId": "fresque",
+    "fichier": "commons/fresque-12.webp",
+    "rectangle": null,
+    "lieu": "Ohrid, Macédoine du Nord",
+    "source": "commons",
+    "auteur": "Wooofer",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:07-Sv-Kliment-Frescoes-040699-39.jpg",
+    "statut": "validée",
+    "note": "Vérification : Fresque byzantine nette, plein cadre. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "sgraffite-02",
@@ -9863,6 +10121,24 @@
     "note": "Vérification : Texture alvéolée et couleur typiques ; bloc appareillé dans un mur. Contre-vérification : Bloc de latérite rougeâtre très alvéolé dans un mur, vu de près ; matériau caractéristique."
   },
   {
+    "id": "crinting-07",
+    "termId": "crinting",
+    "fichier": "commons/crinting-07.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.41,
+      "largeur": 1,
+      "hauteur": 0.25
+    },
+    "lieu": "Pout Diak, Sénégal",
+    "source": "commons",
+    "auteur": "Soxna Diarra",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Negou_sacette.jpg",
+    "statut": "validée",
+    "note": "Vérification : Panneaux tressés en clôture, bien visibles ; rectangle pour exclure le mur en parpaings et la végétation. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "ronier-01",
     "termId": "ronier",
     "fichier": "commons/ronier-01.webp",
@@ -9887,6 +10163,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Deleb_palm_trees_in_Zankan_6.jpg",
     "statut": "validée",
     "note": "Vérification : Rôniers bien lisibles. Contre-vérification : Peuplement de rôniers aux stipes droits et palmes en éventail, typique ; terme juste."
+  },
+  {
+    "id": "ronier-10",
+    "termId": "ronier",
+    "fichier": "commons/ronier-10.webp",
+    "rectangle": null,
+    "lieu": "Gumel-Kachia, Nigeria",
+    "source": "commons",
+    "auteur": "Kambai Akau",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Deleb_palm_tree_in_Gumel-Kachia.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palmier net, dominant, centré ; vue différente des images déjà retenues. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "typha-01",
@@ -9991,6 +10280,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Saint-Louis_-_02_Maison_coloniale.JPG",
     "statut": "validée",
     "note": "Vérification : Exemple typique de Saint-Louis. Contre-vérification : Maison à étage enduite d'ocre, balcons en fer forgé sur consoles et persiennes, typique du Sénégal colonial ; terme juste."
+  },
+  {
+    "id": "maison-coloniale-07",
+    "termId": "maison-coloniale",
+    "fichier": "commons/maison-coloniale-07.webp",
+    "rectangle": null,
+    "lieu": "Saint-Louis, Sénégal",
+    "source": "commons",
+    "auteur": "LamourYves",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:NDAR,_la_Venice_africaine_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Façade typique : enduit coloré, étage, balcon en fer et persiennes ; bien lisible malgré le passant. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "minaret-03",
@@ -10107,6 +10409,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Mu%C3%B1ozChurchjf9690_14.JPG",
     "statut": "validée",
     "note": "Vérification : Deux vantaux à panneaux moulurés en creux clairement visibles, cadre assemblé. Contre-vérification : Porte en bois dont le cadre assemblé encadre de nombreux panneaux moulurés, de face et dominante ; terme juste."
+  },
+  {
+    "id": "porte-a-panneaux-10",
+    "termId": "porte-a-panneaux",
+    "fichier": "commons/porte-a-panneaux-10.webp",
+    "rectangle": null,
+    "lieu": "Suède",
+    "source": "commons",
+    "auteur": "Holger.Ellgaard",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Spegeld%C3%B6rr,_ramverksd%C3%B6rr.jpg",
+    "statut": "validée",
+    "note": "Vérification : Cadre à montants et traverses encadrant trois panneaux en creux ; l'image tient la porte entière au centre, lisible malgré la dominante colorée. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "porte-vitree-07",
@@ -10478,6 +10793,24 @@
     "note": "Vérification : Grille de défense typique, élément dominant. Contre-vérification : Grille à barreaux en fer fixée devant une fenêtre aux volets fermés ; la grille domine l'image."
   },
   {
+    "id": "barreaudage-11",
+    "termId": "barreaudage",
+    "fichier": "commons/barreaudage-11.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.07,
+      "largeur": 0.65,
+      "hauteur": 0.9
+    },
+    "lieu": "Citadelle de Québec, Canada",
+    "source": "commons",
+    "auteur": "Cephas",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Citadelle_de_Quebec_ancienne_prison_01.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barreaux parallèles clairs fermant une ouverture, pas une fenêtre : pas de confusion avec la grille de défense. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "grille-extensible-01",
     "termId": "grille-extensible",
     "fichier": "commons/grille-extensible-01.webp",
@@ -10515,6 +10848,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Fly_on_insect_net_20060621_001.jpg",
     "statut": "validée",
     "note": "Vérification : Maille serrée de moustiquaire très lisible, élément occupant toute l'image. Contre-vérification : Toile à mailles fines tendue devant une fenêtre, avec une mouche posée dessus : sans ambiguïté."
+  },
+  {
+    "id": "ouvrant-10",
+    "termId": "ouvrant",
+    "fichier": "commons/ouvrant-10.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.08,
+      "largeur": 0.3,
+      "hauteur": 0.74
+    },
+    "lieu": "Harlow, Essex, Angleterre",
+    "source": "commons",
+    "auteur": "Acabashi",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Open_window_Harlow_Museum_%26_Walled_Gardens,_Essex_01_darker.jpg",
+    "statut": "validée",
+    "note": "Vérification : Le vantail ouvert est la partie mobile par rapport au cadre fixe : ouvrant clairement visible, encadré pour le distinguer du vantail fermé. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "huisserie-01",
@@ -10559,6 +10910,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_03.jpg",
     "statut": "validée",
     "note": "Vérification : Baguettes de bois en croix divisant le vitrage en carreaux, nettes. Contre-vérification : Gros plan sur des baguettes en bois croisées qui divisent le vitrage d'une fenêtre ; terme juste."
+  },
+  {
+    "id": "petit-bois-10",
+    "termId": "petit-bois",
+    "fichier": "commons/petit-bois-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "TomAlt",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_02.jpg",
+    "statut": "validée",
+    "note": "Vérification : Baguettes qui divisent le vitrage en carreaux, très lisibles et dominantes. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "profile-aluminium-06",
@@ -10631,6 +10995,24 @@
     "note": "Vérification : Boîtier saillant vissé avec entrée de clé, bien lisible. Contre-vérification : Gros plan sur un boîtier de serrure en applique avec entrée de clé, fixé en saillie ; terme juste."
   },
   {
+    "id": "serrure-en-applique-11",
+    "termId": "serrure-en-applique",
+    "fichier": "commons/serrure-en-applique-11.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.3,
+      "largeur": 0.5,
+      "hauteur": 0.66
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "MOs810",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pizzeria_Pinokio_Polczyn_Zdroj_(2).JPG",
+    "statut": "validée",
+    "note": "Vérification : Boîtier en saillie net et dominant, cadré de près. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "gache-03",
     "termId": "gache",
     "fichier": "commons/gache-03.webp",
@@ -10678,6 +11060,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Bartholom%C3%A4uskirche_Syke-Barrien_2010_0108.JPG",
     "statut": "validée",
     "note": "Vérification : Levier net et dominant ; rectangle pour le distinguer du cylindre voisin. Contre-vérification : Béquille en laiton en forme d'oiseau cadrée par le rectangle ; le cylindre est hors du cadre."
+  },
+  {
+    "id": "bouton-de-porte-08",
+    "termId": "bouton-de-porte",
+    "fichier": "commons/bouton-de-porte-08.webp",
+    "rectangle": {
+      "x": 0.335,
+      "y": 0.295,
+      "largeur": 0.15,
+      "hauteur": 0.22
+    },
+    "lieu": "Toronto, Canada",
+    "source": "commons",
+    "auteur": "Xander Ashburn",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Casa_Loma_2016_(40_of_122)_(27722354846).jpg",
+    "statut": "validée",
+    "note": "Vérification : Bouton rond net et dominant, cadré de près. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "poignee-de-fenetre-02",
@@ -10779,6 +11179,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_de_Lyon_-_Salon_Louis_XIII_-_Verrou_porte_(sept_2025).jpg",
     "statut": "validée",
     "note": "Vérification : Verrou plat sur platine manoeuvré par un bouton, au premier plan. Contre-vérification : Petit verrou plat sur platine ornée, manœuvré par un bouton, avec son crampon sur le dormant ; targette typique."
+  },
+  {
+    "id": "targette-10",
+    "termId": "targette",
+    "fichier": "commons/targette-10.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.34,
+      "largeur": 0.67,
+      "hauteur": 0.42
+    },
+    "lieu": "Dromara, Irlande du Nord",
+    "source": "commons",
+    "auteur": "Ardfern",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Dromara_Road_Farmhouse_(07),_December_2009.JPG",
+    "statut": "validée",
+    "note": "Vérification : Verrou plat sur platine net, cadré de près. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "cadenas-02",
@@ -10944,6 +11362,42 @@
     "note": "Vérification : Net, bras visible. Contre-vérification : Ferme-porte à bras articulé fixé en haut d'une porte, vu de dessous ; terme juste."
   },
   {
+    "id": "ferme-porte-08",
+    "termId": "ferme-porte",
+    "fichier": "commons/ferme-porte-08.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.35,
+      "largeur": 0.7,
+      "hauteur": 0.34
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Wesha",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Door_closer.jpg",
+    "statut": "validée",
+    "note": "Vérification : Corps et bras nets, image un peu terne mais lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "ferme-porte-09",
+    "termId": "ferme-porte",
+    "fichier": "commons/ferme-porte-09.webp",
+    "rectangle": {
+      "x": 0.21,
+      "y": 0.04,
+      "largeur": 0.61,
+      "hauteur": 0.88
+    },
+    "lieu": "Bangalore, Inde",
+    "source": "commons",
+    "auteur": "Gpkp",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Door_self-closing_hinge,_Bengaluru,_India_(2026).jpg",
+    "statut": "validée",
+    "note": "Vérification : Mécanisme complet, clair et dominant. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "barre-antipanique-05",
     "termId": "barre-antipanique",
     "fichier": "commons/barre-antipanique-05.webp",
@@ -10968,6 +11422,37 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Panic_bar.jpg",
     "statut": "validée",
     "note": "Vérification : Claire, typique. Contre-vérification : Barre antipanique métallique traversant une porte vitrée de sortie ; terme juste."
+  },
+  {
+    "id": "barre-antipanique-09",
+    "termId": "barre-antipanique",
+    "fichier": "commons/barre-antipanique-09.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.31,
+      "largeur": 0.21,
+      "hauteur": 0.17
+    },
+    "lieu": "New York, États-Unis",
+    "source": "commons",
+    "auteur": "Tdorante10",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Macombs_Dam_Pk_td_(2019-03-15)_107.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barre antipanique nette, cadrée sur le portillon de premier plan. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "barre-antipanique-12",
+    "termId": "barre-antipanique",
+    "fichier": "commons/barre-antipanique-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Inconnu",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Barra_antip%C3%A1nico_tempro_TM1S.jpg",
+    "statut": "validée",
+    "note": "Vérification : Produit isolé, net et sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "heurtoir-01",
@@ -11040,6 +11525,19 @@
     "note": "Vérification : Structure et marches en acier nettement visibles. Contre-vérification : Escalier extérieur en acier galvanisé à marches métalliques et limons en profilés ; terme juste."
   },
   {
+    "id": "escalier-metallique-09",
+    "termId": "escalier-metallique",
+    "fichier": "commons/escalier-metallique-09.webp",
+    "rectangle": null,
+    "lieu": "Portland, États-Unis",
+    "source": "commons",
+    "auteur": "TechnoSquirrel69",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Staircase_on_NW_St_Helens_Rd,_Portland,_Oregon,_U.S.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalier métallique net et dominant, structure acier bien lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "escalier-en-bois-01",
     "termId": "escalier-en-bois",
     "fichier": "commons/escalier-en-bois-01.webp",
@@ -11066,6 +11564,19 @@
     "note": "Vérification : Marches, balustres et boiseries en bois. Contre-vérification : Escaliers à marches, limons et rampes à balustres en bois dans un hall boisé ; terme juste."
   },
   {
+    "id": "escalier-en-bois-10",
+    "termId": "escalier-en-bois",
+    "fichier": "commons/escalier-en-bois-10.webp",
+    "rectangle": null,
+    "lieu": "Bolestraszyce, Pologne",
+    "source": "commons",
+    "auteur": "Bazie",
+    "licence": "CC BY-SA 3.0 pl",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bolestraszyce,_pa%C5%82ac_Micha%C5%82owskich,_schody.JPG",
+    "statut": "validée",
+    "note": "Vérification : Marches, rampe, balustres et poteaux d'attente en bois, bien visibles. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "escalier-de-secours-05",
     "termId": "escalier-de-secours",
     "fichier": "commons/escalier-de-secours-05.webp",
@@ -11082,6 +11593,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:2025-05-03_Oradea_detail_83.jpg",
     "statut": "validée",
     "note": "Vérification : Escalier extérieur métallique de façade, encadré. Contre-vérification : Escalier métallique extérieur en zigzag accroché à la façade, bien cadré ; terme juste."
+  },
+  {
+    "id": "escalier-de-secours-12",
+    "termId": "escalier-de-secours",
+    "fichier": "commons/escalier-de-secours-12.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0,
+      "largeur": 0.45,
+      "hauteur": 0.55
+    },
+    "lieu": "Ciudad Cayalá, Guatemala",
+    "source": "commons",
+    "auteur": "Rud1132",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Ciudad_Cayala,_Guatemala.jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalier extérieur métallique en façade, rectangle contrôlé sur les volées. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "escalier-escamotable-06",
@@ -11164,6 +11693,37 @@
     "note": "Vérification : Escalator encadré, escalier fixe écarté par le rectangle. Contre-vérification : Le rectangle désigne l'escalier mécanique, distinct de l'escalier fixe voisin laissé hors cadre ; terme juste."
   },
   {
+    "id": "escalier-mecanique-09",
+    "termId": "escalier-mecanique",
+    "fichier": "commons/escalier-mecanique-09.webp",
+    "rectangle": null,
+    "lieu": "Hanovre, Allemagne",
+    "source": "commons",
+    "auteur": "Bärbel Miemietz",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2021-02-08_Aegidientorplatz_Rolltreppe.JPG",
+    "statut": "validée",
+    "note": "Vérification : Marches rainurées et balustrades mobiles clairement lisibles, aucun doute. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "escalier-mecanique-12",
+    "termId": "escalier-mecanique",
+    "fichier": "commons/escalier-mecanique-12.webp",
+    "rectangle": {
+      "x": 0.62,
+      "y": 0.15,
+      "largeur": 0.38,
+      "hauteur": 0.45
+    },
+    "lieu": "Japon",
+    "source": "commons",
+    "auteur": "mrhayata from Tokyo, Japan",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Escalator_(50257670116).jpg",
+    "statut": "validée",
+    "note": "Vérification : Escalators bleus bien visibles, rectangle contrôlé ; passante et signalétique hors du cadre. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "trottoir-roulant-02",
     "termId": "trottoir-roulant",
     "fichier": "commons/trottoir-roulant-02.webp",
@@ -11206,6 +11766,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Bo%C3%B4-Silhen_%C3%A9glise_Bo%C3%B4_marches.JPG",
     "statut": "validée",
     "note": "Vérification : Marches de pierre nettes ; rectangle sur la marche centrale pour désigner une seule marche. Contre-vérification : Le rectangle cadre une seule marche en pierre d'un petit escalier extérieur."
+  },
+  {
+    "id": "nez-de-marche-08",
+    "termId": "nez-de-marche",
+    "fichier": "commons/nez-de-marche-08.webp",
+    "rectangle": {
+      "x": 0.4,
+      "y": 0.17,
+      "largeur": 0.57,
+      "hauteur": 0.27
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Erkaha",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stufe_zum_Ausgleich_von_Hoehenunterschieden.jpg",
+    "statut": "validée",
+    "note": "Vérification : Profilé de nez de marche en laiton bien visible ; rectangle contrôlé sur le profilé. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "cage-d-escalier-06",
@@ -11258,6 +11836,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Corrim%C3%A3o_(11563028335).jpg",
     "statut": "validée",
     "note": "Vérification : Les barres à saisir occupent tout l'axe de l'image, nettes et sans ambiguïté. Contre-vérification : Deux mains courantes tubulaires en inox au centre d'un escalier, en perspective : élément dominant."
+  },
+  {
+    "id": "barreau-de-rampe-12",
+    "termId": "barreau-de-rampe",
+    "fichier": "commons/barreau-de-rampe-12.webp",
+    "rectangle": {
+      "x": 0.3,
+      "y": 0.12,
+      "largeur": 0.7,
+      "hauteur": 0.75
+    },
+    "lieu": "Mexico, Mexique",
+    "source": "commons",
+    "auteur": "J Mndz",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Baranda_-_Escalinata_de_la_Emperatriz_Carlota.jpg",
+    "statut": "validée",
+    "note": "Vérification : Barreaux verticaux en fer forgé entre main courante et marches, rectangle contrôlé. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "poteau-de-depart-02",
@@ -11314,6 +11910,24 @@
     "note": "Vérification : Perron de villa, marches encadrées. Contre-vérification : Petit escalier extérieur à quelques marches et palier devant l'entrée, désigné par le rectangle ; perron typique."
   },
   {
+    "id": "perron-07",
+    "termId": "perron",
+    "fichier": "commons/perron-07.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.74,
+      "largeur": 0.98,
+      "hauteur": 0.26
+    },
+    "lieu": "Tbilissi, Géorgie",
+    "source": "commons",
+    "auteur": "Yuri Samoylov",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2024-07-20_Entrance_to_1a_Shota_Meskhia_Street.jpg",
+    "statut": "validée",
+    "note": "Vérification : Petit escalier extérieur avec plateforme devant l'entrée ; rectangle placé sur les marches pour écarter l'encadrement. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "rampe-d-acces-03",
     "termId": "rampe-d-acces",
     "fichier": "commons/rampe-d-acces-03.webp",
@@ -11330,6 +11944,42 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Asemakatu_5_Oulu_20201212_03.jpg",
     "statut": "validée",
     "note": "Vérification : Plan incliné d'accès nettement visible avec garde-corps ; panneau d'accessibilité sans le mot. Contre-vérification : Rampe d'accès en bois avec garde-corps le long d'une façade, pictogramme fauteuil roulant à côté : le plan incliné domine le rectangle."
+  },
+  {
+    "id": "rampe-d-acces-08",
+    "termId": "rampe-d-acces",
+    "fichier": "commons/rampe-d-acces-08.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.5,
+      "largeur": 0.7,
+      "hauteur": 0.5
+    },
+    "lieu": "Austin, États-Unis",
+    "source": "commons",
+    "auteur": "Jsg1224",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Access_Ramp_2.JPG",
+    "statut": "validée",
+    "note": "Vérification : Rampe d'accès avec mains courantes, pente lisible ; rectangle contrôlé. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "bande-podotactile-12",
+    "termId": "bande-podotactile",
+    "fichier": "commons/bande-podotactile-12.webp",
+    "rectangle": {
+      "x": 0.04,
+      "y": 0.62,
+      "largeur": 0.66,
+      "hauteur": 0.3
+    },
+    "lieu": "Kurume, Japon",
+    "source": "commons",
+    "auteur": "Chihaya Sta",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Temporary_tactile_paving.JPG",
+    "statut": "validée",
+    "note": "Vérification : Bande jaune à plots bien visible ; rectangle contrôlé, signalétique en japonais hors du cadre. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "ascenseur-01",
@@ -11356,6 +12006,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Elevator_door,_Red_Cross_building,_Omonia,_Athens.JPG",
     "statut": "validée",
     "note": "Vérification : Porte palière dominante et claire. Contre-vérification : Porte palière d'ascenseur ancienne avec indicateur d'étage et bouton d'appel, dominante."
+  },
+  {
+    "id": "ascenseur-12",
+    "termId": "ascenseur",
+    "fichier": "commons/ascenseur-12.webp",
+    "rectangle": null,
+    "lieu": "Buffalo, États-Unis",
+    "source": "commons",
+    "auteur": "TonyTheTiger ( t / c / bio / WP:CHICAGO / WP:LOTD )",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:20080228_Ellicott_Square_Building_(5).JPG",
+    "statut": "validée",
+    "note": "Vérification : Portes palières d'ascenseurs bien visibles ; plaque sans rapport avec la réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "robinet-07",
@@ -11631,6 +12294,37 @@
     "note": "Vérification : Rectangle sur la douchette, bien visible. Contre-vérification : Douchette hygiénique à gâchette sur son support à côté de la cuvette, bien désignée par le rectangle."
   },
   {
+    "id": "douchette-wc-09",
+    "termId": "douchette-wc",
+    "fichier": "commons/douchette-wc-09.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.18,
+      "largeur": 0.36,
+      "hauteur": 0.3
+    },
+    "lieu": "New York, États-Unis",
+    "source": "commons",
+    "auteur": "Lwarrenwiki",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Waldorf_Astoria_NY_bidet_shower.jpg",
+    "statut": "validée",
+    "note": "Vérification : Douchette avec flexible près de la cuvette ; rectangle contrôlé. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "douchette-wc-11",
+    "termId": "douchette-wc",
+    "fichier": "commons/douchette-wc-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Sv7n",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bum_Gun_Detail.JPG",
+    "statut": "validée",
+    "note": "Vérification : Douchette nette, dominante et sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "bidet-05",
     "termId": "bidet",
     "fichier": "commons/bidet-05.webp",
@@ -11668,6 +12362,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:FC_Schalke_04_Urinal.jpg",
     "statut": "validée",
     "note": "Vérification : Urinoir dominant et net. Contre-vérification : Gros plan d'un urinoir mural en céramique sur carrelage : forme et évacuation caractéristiques, sans ambiguïté."
+  },
+  {
+    "id": "urinoir-10",
+    "termId": "urinoir",
+    "fichier": "commons/urinoir-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "SuSanA Secretariat",
+    "licence": "CC BY 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Addicom_SVR-M_urinal_white_plastic_(3348431925).jpg",
+    "statut": "validée",
+    "note": "Vérification : Urinoir sans équivoque, dominant et net. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "pomme-de-douche-04",
@@ -11712,6 +12419,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Slipper_Baths_-_disused_shower_tray_at_Walsall_Gala_Baths_9-4-15.JPG",
     "statut": "validée",
     "note": "Vérification : Receveur clair et dominant, même s il est sale. Contre-vérification : Receveur de douche d'angle à fond antidérapant et bonde, entre murs carrelés : terme juste."
+  },
+  {
+    "id": "receveur-de-douche-09",
+    "termId": "receveur-de-douche",
+    "fichier": "commons/receveur-de-douche-09.webp",
+    "rectangle": {
+      "x": 0.39,
+      "y": 0.66,
+      "largeur": 0.36,
+      "hauteur": 0.31
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "YellowstoneNPS",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Laurel_Dorm_before_renovation-_shower_(50567060506).jpg",
+    "statut": "validée",
+    "note": "Vérification : Receveur encadré ; sale mais net, bord surélevé caractéristique. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "douche-a-l-italienne-04",
@@ -11781,6 +12506,24 @@
     "note": "Vérification : Rectangle sur la bonde, pas sur le trop-plein. Contre-vérification : Bonde métallique à clapet au fond d'un lavabo, nettement désignée par le rectangle."
   },
   {
+    "id": "bonde-09",
+    "termId": "bonde",
+    "fichier": "commons/bonde-09.webp",
+    "rectangle": {
+      "x": 0.18,
+      "y": 0.42,
+      "largeur": 0.43,
+      "hauteur": 0.5
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Belchers Albert",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Stainless_steel_sink_drain_parts_Oct-2011_HK_Ip4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Bonde d'évier claire, encadrée sur l'orifice. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "siphon-de-sol-10",
     "termId": "siphon-de-sol",
     "fichier": "commons/siphon-de-sol-10.webp",
@@ -11820,6 +12563,19 @@
     "note": "Vérification : Tubes orangés nets et dominants. Contre-vérification : Trois tubes en cuivre orangés sortant d'une dalle, en gros plan : matériau reconnaissable."
   },
   {
+    "id": "tube-en-cuivre-09",
+    "termId": "tube-en-cuivre",
+    "fichier": "commons/tube-en-cuivre-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Rhetos",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Messschieber_misst_Rohrinnendurchmesser.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tube de cuivre net, cuivre reconnaissable ; pied à coulisse sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "coude-04",
     "termId": "coude",
     "fichier": "commons/coude-04.webp",
@@ -11836,6 +12592,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Copper-press-fitting.JPG",
     "statut": "validée",
     "note": "Vérification : Coude de tuyauterie net et dominant, change la direction du tube. Contre-vérification : Coude à 90° en cuivre à sertir sur une canalisation, bien cadré par le rectangle."
+  },
+  {
+    "id": "coude-10",
+    "termId": "coude",
+    "fichier": "commons/coude-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "REisemann3937",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:PvcElbows.JPG",
+    "statut": "validée",
+    "note": "Vérification : Coudes nets et dominants. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "coude-11",
+    "termId": "coude",
+    "fichier": "commons/coude-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "MauryMartinez",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:1_and_a_half_inch_pvc_pipe_used.JPG",
+    "statut": "validée",
+    "note": "Vérification : Coude à 45 degrés clair ; code-barres sans valeur de réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "te-01",
@@ -11898,6 +12680,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Green_plastic_pipes.JPG",
     "statut": "validée",
     "note": "Vérification : Les deux colliers sont encadrés, l'élément est clair. Contre-vérification : Deux colliers métalliques à garniture caoutchouc maintenant des tubes PPR, bien désignés par le rectangle."
+  },
+  {
+    "id": "collier-de-fixation-09",
+    "termId": "collier-de-fixation",
+    "fichier": "commons/collier-de-fixation-09.webp",
+    "rectangle": {
+      "x": 0.5,
+      "y": 0.07,
+      "largeur": 0.5,
+      "hauteur": 0.86
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "User:MarkusHagenlocher",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Rohrschelle.jpg",
+    "statut": "validée",
+    "note": "Vérification : Collier isolé net, encadré. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "vanne-d-arret-06",
@@ -12055,6 +12855,24 @@
     "note": "Vérification : Ensemble ballon horizontal et capteur à tubes, net et dominant. Contre-vérification : Chauffe-eau solaire complet (tubes sous vide + ballon horizontal) devant une maison, dominant l'image."
   },
   {
+    "id": "chauffe-eau-solaire-08",
+    "termId": "chauffe-eau-solaire",
+    "fichier": "commons/chauffe-eau-solaire-08.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.61,
+      "largeur": 0.31,
+      "hauteur": 0.27
+    },
+    "lieu": "Nagarkot, Népal",
+    "source": "commons",
+    "auteur": "Brabim Bhandari",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Nagarkot,Bhaktapur_(95).JPG",
+    "statut": "validée",
+    "note": "Vérification : Chauffe-eau solaire à thermosiphon en toiture, rectangle sur capteurs et ballon pour écarter le château d'eau. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "capteur-solaire-thermique-03",
     "termId": "capteur-solaire-thermique",
     "fichier": "commons/capteur-solaire-thermique-03.webp",
@@ -12089,6 +12907,32 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_water_heater.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur les tubes, sans le ballon ni les tuyaux. Contre-vérification : Rectangle sur le capteur à tubes sous vide, le ballon au-dessus restant essentiellement hors du cadre."
+  },
+  {
+    "id": "capteur-solaire-thermique-07",
+    "termId": "capteur-solaire-thermique",
+    "fichier": "commons/capteur-solaire-thermique-07.webp",
+    "rectangle": null,
+    "lieu": "Brisbane, Australie",
+    "source": "commons",
+    "auteur": "Chris Olszewski",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_water_heater_on_top_of_Santos_Place.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tubes sous vide très nets, dominants, sans ballon ni confusion possible avec du photovoltaïque. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "capteur-solaire-thermique-09",
+    "termId": "capteur-solaire-thermique",
+    "fichier": "commons/capteur-solaire-thermique-09.webp",
+    "rectangle": null,
+    "lieu": "Thessalonique, Grèce",
+    "source": "commons",
+    "auteur": "Greensolarvacuum",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_vacuum_tube_collectors_Thessaloniki.jpg",
+    "statut": "validée",
+    "note": "Vérification : Capteurs à tubes sous vide dominants et lisibles ; cadrage différent des images déjà dans le jeu. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "groupe-de-securite-02",
@@ -12326,6 +13170,24 @@
     "note": "Vérification : Interrupteurs muraux à bascule, nets et dominants. Contre-vérification : Deux interrupteurs à levier en laiton sur une platine en bois, en gros plan et dominants."
   },
   {
+    "id": "boite-d-encastrement-08",
+    "termId": "boite-d-encastrement",
+    "fichier": "commons/boite-d-encastrement-08.webp",
+    "rectangle": {
+      "x": 0.11,
+      "y": 0.07,
+      "largeur": 0.78,
+      "hauteur": 0.4
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Dmitry G",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:TEM_fitting_boxes.JPG",
+    "statut": "validée",
+    "note": "Vérification : Boîtes d'encastrement typiques à fixation par griffes ; rectangle sur la boîte orange, incompatible seulement avec la dérivation. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "boite-de-derivation-03",
     "termId": "boite-de-derivation",
     "fichier": "commons/boite-de-derivation-03.webp",
@@ -12344,6 +13206,24 @@
     "note": "Vérification : Rectangle sur la boîte centrale ; les étiquettes de tension ne donnent pas la réponse. Contre-vérification : Boîte de dérivation métallique à couvercle sur des conduits en faux plafond, bien désignée par le rectangle."
   },
   {
+    "id": "boite-de-derivation-07",
+    "termId": "boite-de-derivation",
+    "fichier": "commons/boite-de-derivation-07.webp",
+    "rectangle": {
+      "x": 0.22,
+      "y": 0.2,
+      "largeur": 0.24,
+      "hauteur": 0.31
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Dmitry G",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Modern_European_and_old_Soviet_junction_boxes.JPG",
+    "statut": "validée",
+    "note": "Vérification : Boîtier à couvercle où arrivent plusieurs câbles, typique ; rectangle sur la boîte pour écarter le nid et les câbles. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "chemin-de-cables-04",
     "termId": "chemin-de-cables",
     "fichier": "commons/chemin-de-cables-04.webp",
@@ -12357,6 +13237,19 @@
     "note": "Vérification : Support en treillis chargé de câbles, net et dominant. Contre-vérification : Chemins de câbles en treillis métallique portant des câbles, en gros plan : sans ambiguïté."
   },
   {
+    "id": "chemin-de-cables-11",
+    "termId": "chemin-de-cables",
+    "fichier": "commons/chemin-de-cables-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Santeri Viinamäki",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cable_tray_with_cables_20170514.jpg",
+    "statut": "validée",
+    "note": "Vérification : Chemin de câbles à échelons très lisible et dominant ; différent du modèle en treillis déjà dans le jeu. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "paratonnerre-01",
     "termId": "paratonnerre",
     "fichier": "commons/paratonnerre-01.webp",
@@ -12368,6 +13261,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Conventional_Lightning_Rod_(46429374125).jpg",
     "statut": "validée",
     "note": "Vérification : Paratonnerre conventionnel net, conducteur de descente visible. Contre-vérification : Tige de paratonnerre à pointes au sommet d'un mât avec feuillard de descente, sur le ciel : clair."
+  },
+  {
+    "id": "paratonnerre-11",
+    "termId": "paratonnerre",
+    "fichier": "commons/paratonnerre-11.webp",
+    "rectangle": {
+      "x": 0.42,
+      "y": 0.05,
+      "largeur": 0.17,
+      "hauteur": 0.8
+    },
+    "lieu": "Karcag, Hongrie",
+    "source": "commons",
+    "auteur": "Globetrotter19",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Karcag_1_post_office,_lightning_rod,_2018_Karcag.jpg",
+    "statut": "validée",
+    "note": "Vérification : Tige métallique dominante sur le ciel, rectangle sur la tige pour écarter gouttières et descentes. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "groupe-electrogene-10",
@@ -12621,6 +13532,37 @@
     "note": "Vérification : Batterie de projecteurs nette et dominante. Contre-vérification : Couronne de projecteurs orientables au sommet d'un mât d'éclairage, bien désignée par le rectangle."
   },
   {
+    "id": "projecteur-08",
+    "termId": "projecteur",
+    "fichier": "commons/projecteur-08.webp",
+    "rectangle": {
+      "x": 0.23,
+      "y": 0.06,
+      "largeur": 0.34,
+      "hauteur": 0.58
+    },
+    "lieu": "Ostrava, République tchèque",
+    "source": "commons",
+    "auteur": "User:Sveter (Please credit as \"Petr Šmerkl, Wikipedia\" in case you use this outside WMF projects.)",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bazaly_Floodlights_01.JPG",
+    "statut": "validée",
+    "note": "Vérification : Batterie de projecteurs de stade très nette ; rectangle sur le panneau de projecteurs plutôt que sur le mât. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "projecteur-10",
+    "termId": "projecteur",
+    "fichier": "commons/projecteur-10.webp",
+    "rectangle": null,
+    "lieu": "Mehliskopf, Allemagne",
+    "source": "commons",
+    "auteur": "Frank Vincentz",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:B%C3%BChl-Forbach_-_L83_-_Skilifte_Mehliskopf_17_ies.jpg",
+    "statut": "validée",
+    "note": "Vérification : Projecteur puissant très net, occupe l'image entière ; le câble ne gêne pas. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "lampadaire-solaire-01",
     "termId": "lampadaire-solaire",
     "fichier": "commons/lampadaire-solaire-01.webp",
@@ -12694,6 +13636,55 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Solar_Installation_in_Kenya.jpg",
     "statut": "validée",
     "note": "Vérification : Rectangle sur l'onduleur à écran bleu ; les batteries restent hors cadre. Contre-vérification : Onduleur hybride mural à écran, désigné par le rectangle au-dessus du parc de batteries, qui reste hors du cadre."
+  },
+  {
+    "id": "onduleur-08",
+    "termId": "onduleur",
+    "fichier": "commons/onduleur-08.webp",
+    "rectangle": {
+      "x": 0.09,
+      "y": 0.03,
+      "largeur": 0.37,
+      "hauteur": 0.69
+    },
+    "lieu": "Vermont, États-Unis",
+    "source": "commons",
+    "auteur": "SayCheeeeeese",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Vermont_Law_School_Solar_Panel_Array-4.JPG",
+    "statut": "validée",
+    "note": "Vérification : Onduleur de production photovoltaïque net ; rectangle sur l'onduleur pour écarter le compteur et le sectionneur. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "onduleur-11",
+    "termId": "onduleur",
+    "fichier": "commons/onduleur-11.webp",
+    "rectangle": {
+      "x": 0.34,
+      "y": 0.44,
+      "largeur": 0.27,
+      "hauteur": 0.44
+    },
+    "lieu": "Speyer, Allemagne",
+    "source": "commons",
+    "auteur": "Claus Ableiter",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:M%C3%BCllberg_Speyer_-_2.JPG",
+    "statut": "validée",
+    "note": "Vérification : Onduleur boîtier mural jaune bien visible sous les panneaux ; rectangle pour le distinguer de la structure. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "onduleur-12",
+    "termId": "onduleur",
+    "fichier": "commons/onduleur-12.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Simon Walker",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:PV_Inverter.jpg",
+    "statut": "validée",
+    "note": "Vérification : Onduleur occupant l'image ; flash qui éclaire fortement l'afficheur mais l'appareil reste net et identifiable. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "batterie-solaire-05",
@@ -12859,6 +13850,32 @@
     "note": "Vérification : Extracteur de fenêtre typique, net et dominant. Contre-vérification : Extracteur d'air hélicoïdal fixé dans une baie de fenêtre, en gros plan : sans ambiguïté."
   },
   {
+    "id": "extracteur-d-air-07",
+    "termId": "extracteur-d-air",
+    "fichier": "commons/extracteur-d-air-07.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Saud",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Xpelair_GX12_Extractor_Fan.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ventilateur d'extraction fixé dans un mur, net et dominant ; la marque ne donne pas la réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "extracteur-d-air-09",
+    "termId": "extracteur-d-air",
+    "fichier": "commons/extracteur-d-air-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Saud",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Xpelair_GX12_Extractor_Fan_Exterior_Side.jpg",
+    "statut": "validée",
+    "note": "Vérification : Extracteur mural clair, pales visibles ; aspect usagé mais sans ambiguïté. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "grille-de-ventilation-03",
     "termId": "grille-de-ventilation",
     "fichier": "commons/grille-de-ventilation-03.webp",
@@ -12896,6 +13913,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7514300488).jpg",
     "statut": "validée",
     "note": "Vérification : Gaines circulaires de ventilation, nettes et dominantes. Contre-vérification : Grosses gaines rondes en tôle à brides reliées à un caisson de traitement d'air sur une toiture technique : gaines de ventilation dominantes."
+  },
+  {
+    "id": "gaine-de-ventilation-12",
+    "termId": "gaine-de-ventilation",
+    "fichier": "commons/gaine-de-ventilation-12.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.39,
+      "largeur": 0.57,
+      "hauteur": 0.26
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Achim Hering",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Assorted_ducting.jpg",
+    "statut": "validée",
+    "note": "Vérification : Gaine en tôle isolée nette avec coude ; rectangle pour la distinguer des tubes électriques ; résolution moyenne. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "centrale-de-traitement-d-air-04",
@@ -12965,6 +14000,42 @@
     "note": "Vérification : Hotte bien identifiable, cadrée. Contre-vérification : Hotte inox à cheminée au-dessus du plan de cuisson, bien cadrée par le rectangle."
   },
   {
+    "id": "hotte-09",
+    "termId": "hotte",
+    "fichier": "commons/hotte-09.webp",
+    "rectangle": {
+      "x": 0.64,
+      "y": 0.11,
+      "largeur": 0.28,
+      "hauteur": 0.42
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Specialiste en lumiere naturelle",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Exemple_d%27installation_d%27un_conduit_de_lumi%C3%A8re_naturelle_dans_une_cuisine_-_SOLATUBE.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hotte inox claire, encadrée pour la distinguer du reste de la cuisine. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "hotte-10",
+    "termId": "hotte",
+    "fichier": "commons/hotte-10.webp",
+    "rectangle": {
+      "x": 0.15,
+      "y": 0.05,
+      "largeur": 0.55,
+      "hauteur": 0.46
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Antonio Mette",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cappa_di_aspirazione_11.jpg",
+    "statut": "validée",
+    "note": "Vérification : Hotte typique, dominante et bien lisible au-dessus de la gazinière. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "extincteur-02",
     "termId": "extincteur",
     "fichier": "commons/extincteur-02.webp",
@@ -13009,6 +14080,32 @@
     "note": "Vérification : Extincteur net et dominant, tuyau et poignée visibles. Contre-vérification : Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
   },
   {
+    "id": "poteau-d-incendie-09",
+    "termId": "poteau-d-incendie",
+    "fichier": "commons/poteau-d-incendie-09.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Mack Male from Edmonton, AB, Canada",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fire_Hyrdrant_(50055861127).jpg",
+    "statut": "validée",
+    "note": "Vérification : Borne nette, dominante, au bord de la voie, deux prises visibles. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "poteau-d-incendie-11",
+    "termId": "poteau-d-incendie",
+    "fichier": "commons/poteau-d-incendie-11.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Bjørn Erik Pedersen",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Esco_brannhydrant_202305.jpg",
+    "statut": "validée",
+    "note": "Vérification : Borne rouge très lisible et isolée ; la marque ne donne pas la réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "detecteur-de-fumee-02",
     "termId": "detecteur-de-fumee",
     "fichier": "commons/detecteur-de-fumee-02.webp",
@@ -13025,6 +14122,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Fire_detector_showcased_by_Shibuya_fire_authority.jpg",
     "statut": "validée",
     "note": "Vérification : Détecteur net et dominant, cadré ; texte japonais non révélateur. Contre-vérification : Détecteur de fumée rond à chambre de détection, en gros plan et bien cadré."
+  },
+  {
+    "id": "declencheur-manuel-12",
+    "termId": "declencheur-manuel",
+    "fichier": "commons/declencheur-manuel-12.webp",
+    "rectangle": null,
+    "lieu": "Saint Arnaud, Nouvelle-Zélande",
+    "source": "commons",
+    "auteur": "Sebastiansmartguy101",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Alpine_Lodge_1841_MCP.jpg",
+    "statut": "validée",
+    "note": "Vérification : Déclencheur manuel typique, dominant et net. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "cloison-03",

@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre à volets bleus dans une façade enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vieux-Mareuil, France",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Caniveau d'herbe au bord d'une route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santa Elena",
+      "note": "Fossé, pas une bonde."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Évier inox vu du dessus : trou d'évacuation avec sa collerette, panier crépine et bouchon posés à côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.42,
+        "largeur": 0.43,
+        "hauteur": 0.5
+      },
+      "lieu": "",
+      "note": "Bonde d'évier claire, encadrée sur l'orifice."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fossé de drainage et chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santa Elena",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Une personne remplit un verre au robinet d'une cuisine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bonde invisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit ouvrage de drainage en brique dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Regard, pas une bonde."
     }
   ]
 }

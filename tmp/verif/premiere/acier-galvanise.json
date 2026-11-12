@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Monessen, États-Unis",
       "note": "Archive historique avec texte, matériau invisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Main tenant un appareil de mesure contre une poutre galvanisée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "L'appareil domine l'image, matériau flou à l'arrière-plan."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pièces d'acier brillantes plongées dans un bain de zinc, éclaboussures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan abstrait, aspect fondu et non lisible comme revêtement fini."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plaque d'acier galvanisé en gros plan : surface gris argenté mat avec le motif de grosses paillettes de zinc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fleurage typique du galvanisé, texture claire sur toute l'image."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutrelles rouillées avec une étiquette indiquant « feuerverzinkt ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte qui donne la réponse, et acier visiblement rouillé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coupe d'un métal jaune-orangé sur fond noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image de laboratoire, non architecturale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade d'une église blanche à clocheton et fenêtres ogivales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle peinte en blanc, matériau non identifiable comme galvanisé."
     }
   ]
 }

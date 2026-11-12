@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Langford, Oxfordshire",
       "note": "Sujet : porte romane et arc, huisserie non isolée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Entrée d'un immeuble en brique avec encadrement de pierre sculpté et fronton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encadrement de pierre (chambranle/portail), pas une huisserie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cadre de porte en bois blanc écaillé dans un mur de brique, jardin au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'image déjà dans le jeu (huisserie-01), même lieu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de gare avec ouvriers, mur de parpaings et cadre de porte posé, horodatage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier confuse, ouvriers et horodatage dominants, cadre peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade enduite avec un passage cintré en pierre, lanterne au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc de passage, pas une huisserie."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier sur un escabeau près d'un mur de parpaings et d'un cadre en bois, gaine jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier désordonné, cadre à peine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d'un arc de pierre cintré sous une lanterne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc de pierre, pas une huisserie."
     }
   ]
 }

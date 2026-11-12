@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chapiteaux minuscules, composition qui prête à confusion."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'église en brique et pierre avec chapiteaux aux profils complexes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maastricht, Pays-Bas",
+      "note": "Chapiteaux peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Page gravée représentant un chapiteau de bronze.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Statue d'Antinoüs entre deux colonnes de marbre cannelées, dont les chapiteaux ioniques à volutes se voient en haut.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.72,
+        "y": 0.13,
+        "largeur": 0.28,
+        "hauteur": 0.17
+      },
+      "lieu": "Copenhague, Danemark",
+      "note": "Chapiteau ionique net à volutes ; rectangle sur celui de droite pour écarter la statue."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand bâtiment de pierre blanche à pilastres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tainan, Taïwan",
+      "note": "Chapiteaux invisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Colonnette à chapiteau à feuillages sous des arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Skopje, Macédoine du Nord",
+      "note": "Chapiteau non ionique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux chapiteaux de pilastres à petites volutes et guirlandes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Demmingen, Allemagne",
+      "note": "Petits, pâles et peu lisibles."
     }
   ]
 }

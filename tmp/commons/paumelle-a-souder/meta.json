@@ -11,7 +11,9 @@
       "bullet hinge weld"
     ],
     "incompatibles": [
-      "paumelle"
+      "paumelle",
+      "charniere",
+      "gond"
     ],
     "categoriesCommons": [
       "Category:Door hinges",
@@ -151,6 +153,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg/1280px-Blechdose_f%C3%BCr_Bonbons_SWF_03_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:- Hinge -.jpg",
+      "description": "Charnière",
+      "categories": [
+        "Door hinges",
+        "Self-published work",
+        "Photos by User:Nino Barbieri"
+      ],
+      "auteur": "User:Nino Barbieri",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:-_Hinge_-.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/-_Hinge_-.jpg/1280px--_Hinge_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2043,
+      "hauteur": 2851
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Blind hinge.JPG",
+      "description": "Blind hinge",
+      "categories": [
+        "Hinges",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "HandigeHarry",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blind_hinge.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Blind_hinge.JPG/1280px-Blind_hinge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1308,
+      "hauteur": 1924
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Adnet - Pfarrkirche Adnet - Tür 2.jpg",
+      "description": "Detail der Eingangstür zur Pfarrkirche Adnet, Bezirk Hallein, Land Salzburg",
+      "categories": [
+        "Door hinges",
+        "Pfarrkirche Adnet",
+        "Self-published work",
+        "Doors in Salzburg (state)",
+        "Decorative hinges in Austria",
+        "Photographs of Bezirk Hallein by Eweht"
+      ],
+      "auteur": "Eweht",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg/1280px-Adnet_-_Pfarrkirche_Adnet_-_T%C3%BCr_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4877,
+      "hauteur": 3251
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Blechdose für Bonbons SWF 02 (fcm).jpg",
+      "description": "Bildinhalt: Weiße Blechdose für Bonbons mit Werbeaufdruck \"Südwestfunk:\", geschlossen, auf grauem Hintergrund, von der Scharnierseite aus fotografiert Aufnahmeort: Frankfurt am Main, Deutschland",
+      "categories": [
+        "Hinges",
+        "Taken with Canon EOS 600D",
+        "Self-published work",
+        "Images by Frank C. Müller",
+        "Sweets tins",
+        "Photographs taken on 2015-08-31"
+      ],
+      "auteur": "Photographie : Frank C. Müller , Frankfurt am Main",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blechdose_f%C3%BCr_Bonbons_SWF_02_(fcm).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Blechdose_f%C3%BCr_Bonbons_SWF_02_%28fcm%29.jpg/1280px-Blechdose_f%C3%BCr_Bonbons_SWF_02_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cappenberg-Stiftskirche-MG 1146 Kopie.jpg",
+      "description": "Schloss Cappenberg, Kirche, Türbeschlag Westportal",
+      "categories": [
+        "Taken with Canon Digital IXUS 800 IS",
+        "GFDL-1.2",
+        "Door hinges",
+        "Stiftskirche Cappenberg",
+        "Photographs by Mbdortmund",
+        "2008 in Selm",
+        "Decorative hinges in North Rhine-Westphalia"
+      ],
+      "auteur": "Mbdortmund",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappenberg-Stiftskirche-MG_1146_Kopie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cappenberg-Stiftskirche-MG_1146_Kopie.jpg/1280px-Cappenberg-Stiftskirche-MG_1146_Kopie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2684,
+      "hauteur": 2035
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Catalonia Badalona MuseuDeBadalona Polleguera.JPG",
+      "description": "Polleguera de bronze d'una de les portes de la ciutat romana de Baetulo, que donava entrada pel SE des de la Via Augusta, trobada al clos de la Torre. Es conserva al Museu de Badalona, Badalona , Barcelonès , ( Catalunya ).",
+      "categories": [
+        "Hinges",
+        "GFDL",
+        "Blurred images",
+        "Via Augusta",
+        "License migration redundant",
+        "Self-published work",
+        "Friviere",
+        "Ancient Roman bronzes in Catalonia",
+        "Files with coordinates missing SDC location of creation",
+        "Friviere Museus",
+        "Taken with Arkofoto SD-318",
+        "Collections of the Museu de Badalona"
+      ],
+      "auteur": "Friviere",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Catalonia_Badalona_MuseuDeBadalona_Polleguera.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Catalonia_Badalona_MuseuDeBadalona_Polleguera.JPG/1280px-Catalonia_Badalona_MuseuDeBadalona_Polleguera.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

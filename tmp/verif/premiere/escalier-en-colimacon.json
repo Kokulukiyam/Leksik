@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Alaverdi, Arménie",
       "note": "Pas un colimaçon."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier en marbre vu d'en haut, volées carrées autour d'un jour central, rampe en bois et fer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Escalier à jour carré, pas hélicoïdal autour d'un poteau."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux détails de balustrade en bois tourné d'un grand escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Austin, États-Unis",
+      "note": "Balustrade, pas d'escalier hélicoïdal."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Palier et rampe en bois d'un escalier de maison ancienne vus d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Escalier à volées, pas un colimaçon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Foule dans un bar sous un escalier vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Russie",
+      "note": "Sujet autre, escalier à peine visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Nef d'église vue du seuil avec marches couvertes de tapis rouge vers l'autel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kežmarok, Slovaquie",
+      "note": "Marches droites."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Hall d'établissement scolaire avec une volée droite sur le côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Volée droite."
     }
   ]
 }

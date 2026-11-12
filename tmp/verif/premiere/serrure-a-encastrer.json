@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Kornwerderzand, Pays-Bas",
       "note": "Têtière non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vieille porte en bois avec chaîne et verrou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jaipur, Inde",
+      "note": "Verrou à chaîne, pas de têtière visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte grise avec bouton tournant de condamnation et poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda, Suède",
+      "note": "Pas de têtière visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte grise avec bouton de condamnation et poignée, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aéroport d'Arlanda, Suède",
+      "note": "Pas de têtière visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cylindre de serrure en laiton dans une porte verte écaillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cylindre seul, pas la serrure à encastrer."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte en bois avec panneau Staff Only.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chine",
+      "note": "Texte visible, serrure minuscule."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Aquarelle de trois loquets de porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

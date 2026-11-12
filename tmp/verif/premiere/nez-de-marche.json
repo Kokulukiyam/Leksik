@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Barcelone",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boutique aménagée dans une usine avec un escalier en fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Steinhude, Allemagne",
+      "note": "Nez de marche invisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marches stratifiées avec profilé laiton antidérapant sur le bord de chaque marche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.17,
+        "largeur": 0.57,
+        "hauteur": 0.27
+      },
+      "lieu": "",
+      "note": "Profilé de nez de marche en laiton bien visible ; rectangle contrôlé sur le profilé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier moderne avec marches en pierre vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Frederiksberg, Danemark",
+      "note": "Nez de marche non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Marches taillées dans la roche au bord de la falaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaliakra, Bulgarie",
+      "note": "Marches trop petites, sujet flou."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier de métro en pierre sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nez de marche peu discernable, mal éclairé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Arcades d'un hôtel de ville avec un escalier en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Nez de marche trop petit."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Baguettes de bois en croix divisant le vitrage en carreaux, nettes."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan flou d'une barre diagonale sur une vitre avec moustiquaire et reflets verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image confuse, barre inclinée mêlée à une moustiquaire : sens non évident."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre ancienne à deux vantaux et petits-bois blancs écaillés, vitres sombres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre entière sombre et reflétante, petits-bois non mis en valeur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite fenêtre à cadre blanc dans un mur de brique, quatre carreaux, chandelier derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre petite dans l'image, petit-bois fin et peu lisible sur téléphone."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan frontal sur la croisée de deux petits-bois blancs entre quatre carreaux couverts de buée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baguettes qui divisent le vitrage en carreaux, très lisibles et dominantes."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fenêtre de façade avec ornements sculptés et inscription sous l'appui.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décor sculpté dominant, petits-bois absents."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Immeuble d'habitation enduit en angle, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres minuscules."
     }
   ]
 }

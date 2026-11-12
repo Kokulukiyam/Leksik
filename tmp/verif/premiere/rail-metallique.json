@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier de toiture métallique au-dessus d'un site archéologique, grues en fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Akrotiri, Grèce",
+      "note": "Charpente métallique, pas un rail de cloison."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ossature acier rouge d'un immeuble en construction sur fond de ville.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Téhéran, Iran",
+      "note": "Poteaux de structure, pas un rail."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand hangar à portiques acier avec nacelles et sol mouillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente métallique, rail absent."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ossature de montants métalliques d'une cloison, photo très saturée en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "États-Unis",
+      "note": "Montants dominants, rails à peine discernables, image retouchée et illisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ancienne photo noir et blanc de coffrages et armatures de fondation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fondations, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cage d'escalier en brique avec escalier en restauration.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Epping, Angleterre",
+      "note": "Sans rapport."
     }
   ]
 }

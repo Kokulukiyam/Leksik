@@ -48,6 +48,38 @@
       "rectangle": null,
       "lieu": "",
       "note": "Décor intérieur fini, pas un doublage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ossature métallique de cloisons dans un local en travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature de cloison, pas un doublage contre un mur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur en béton de station de métro avec profilés métalliques horizontaux et fixations.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Profilés sur béton sans plaques ni isolant en place ; ne montre pas un doublage fini."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux plaquistes au travail dans une grande pièce, vue lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Personnes et pièce, élément illisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Parois et plafond en plaques de plâtre dans un bâtiment en travaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cloisons et plafond, rien ne montre un doublage contre mur."
     }
   ]
 }

@@ -48,6 +48,64 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas un ferme-porte mécanique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Enseigne lumineuse de boulangerie au-dessus d'une entrée, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lake Buena Vista, États-Unis",
+      "note": "Aucun ferme-porte visible, texte d'enseigne dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ferme-porte à bras articulé gris fixé en haut d'une porte brune.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.35,
+        "largeur": 0.7,
+        "hauteur": 0.34
+      },
+      "lieu": "",
+      "note": "Corps et bras nets, image un peu terne mais lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ferme-porte Kadson à bras articulé fixé en haut d'une porte blanche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.21,
+        "y": 0.04,
+        "largeur": 0.61,
+        "hauteur": 0.88
+      },
+      "lieu": "Bangalore, Inde",
+      "note": "Mécanisme complet, clair et dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Boîtier électrique bleu dans un coffre de voiture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Philippines",
+      "note": "Pompe pour automobile, rien à voir."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poignée et plaque en fer forgé sur porte d'église ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Poignée, pas un ferme-porte."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plaque en fonte portant l'inscription Thürschliesser Schliesst von selbst.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Plaque avec texte, pas le mécanisme."
     }
   ]
 }

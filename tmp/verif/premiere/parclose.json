@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Odolena Voda, Tchéquie",
       "note": "Parclose non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quatre fenêtres à petits-bois très sombres, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, aucune parclose visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre à deux vantaux avec stores dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre entière, parclose indiscernable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte-fenêtre à rideaux avec balcon et lanterne, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune parclose visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande fenêtre rectangulaire avec stores et fleurs, mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parclose indiscernable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Angle de toit orné avec une petite fenêtre en bas, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre minuscule, aucune parclose visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois chats sur un appui de fenêtre dont un vantail est ouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chats dominants, aucune parclose lisible."
     }
   ]
 }

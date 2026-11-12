@@ -12,7 +12,12 @@
     ],
     "incompatibles": [
       "porte",
-      "placard"
+      "placard",
+      "porte-a-panneaux",
+      "porte-isoplane",
+      "porte-accordeon",
+      "porte-persiennee",
+      "porte-a-deux-vantaux"
     ],
     "categoriesCommons": [
       "Category:Wardrobes",
@@ -144,6 +149,116 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg/1280px-A_person_is_opening_a_door_to_enter_a_room_with_soft_lighting_and_wooden_floor_at_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3885,
       "hauteur": 5827
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:072 Josepinism Style Furniture.jpg",
+      "description": "GARDEROBESCHRANK, mit Kirschholz furniert, poliert Im Aufbau gleich den Schränken des Rokoko. Beine und schmückendes Beiwerk antikisierend, bis auf versprengte Rokokomotive in der Mitte der Schranktüren: kleine Felder von langgezogenen Rocailleschnörkeln umrahmt",
+      "categories": [
+        "Wardrobes",
+        "Author died more than 100 years ago public domain images",
+        "BDA-Scan",
+        "CC-PD-Mark",
+        "Files by User:Hubertl",
+        "Josephinism interiors",
+        "CPB-Scan from Austria"
+      ],
+      "auteur": "Scan and postprocessing by Hubertl",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:072_Josepinism_Style_Furniture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/072_Josepinism_Style_Furniture.jpg/1280px-072_Josepinism_Style_Furniture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3829,
+      "hauteur": 5265
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:FvfCLSUChurchPark1036 02.JPG",
+      "description": "CLSU : Central Luzon State University in Muñoz, Nueva Ecija , Science City of Muñoz, Nueva Ecija, Philippines: Christ the Worker Parish Church (CLSU, Science City of Muñoz, Nueva Ecija) near the Rizal Park (CLSU, Science City of Muñoz, Nueva Ecija).",
+      "categories": [
+        "Taken with Nikon Coolpix AW100",
+        "Sliding doors",
+        "Self-published work",
+        "Christ the Worker Parish Church (Central Luzon State University)"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FvfCLSUChurchPark1036_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/FvfCLSUChurchPark1036_02.JPG/1280px-FvfCLSUChurchPark1036_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:5 Porta Blava02.jpg",
+      "description": "això és una prova",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Monblau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:5_Porta_Blava02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/5_Porta_Blava02.jpg/1280px-5_Porta_Blava02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1912,
+      "hauteur": 1912
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Clothes Falling Down.jpg",
+      "description": "Some Clothes were falling down from an Wardrobe",
+      "categories": [
+        "Clothing",
+        "Wardrobes",
+        "Falling",
+        "Self-published work"
+      ],
+      "auteur": "Rina",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Clothes_Falling_Down.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Clothes_Falling_Down.jpg/1280px-Clothes_Falling_Down.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Automatische Schiebetüre mit Schlüsselsäule.jpg",
+      "description": "automatische Schiebetüre mit Schlüsselsäule",
+      "categories": [
+        "Sliding doors",
+        "Self-published work",
+        "Switzerland photographs taken on 2022-03-28",
+        "Entrances in the canton of Zürich",
+        "Files with coordinates missing SDC location of creation",
+        "Bernerstrasse Süd (Zürich)"
+      ],
+      "auteur": "Plennert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Automatische_Schiebet%C3%BCre_mit_Schl%C3%BCssels%C3%A4ule.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Automatische_Schiebet%C3%BCre_mit_Schl%C3%BCssels%C3%A4ule.jpg/1280px-Automatische_Schiebet%C3%BCre_mit_Schl%C3%BCssels%C3%A4ule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 2084
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Astonished silver - Flickr - Genista.jpg",
+      "description": "astonished silver",
+      "categories": [
+        "Doors",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2005-08-09",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Kai Schreiber from Solingen, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Astonished_silver_-_Flickr_-_Genista.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Astonished_silver_-_Flickr_-_Genista.jpg/1280px-Astonished_silver_-_Flickr_-_Genista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2048
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

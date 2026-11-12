@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "porte",
-      "porte-metallique"
+      "porte-metallique",
+      "porte-vitree",
+      "porte-a-deux-vantaux"
     ],
     "categoriesCommons": [
       "Category:Fire doors",
@@ -124,6 +126,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/20260114_The_Door.jpg/1280px-20260114_The_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2252,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cfd construction 217.jpg",
+      "description": "Exposed side of a 4 hour Durasteel wall per UL Design V460 with DuraSystems Type CFD fire door and CFF firedoor frame per UL Listing SP-2-003 after a 3 hour fire test (doors are derated from walls), immediately after being pulled away from the UL full scale panel furnace, in preparation for the 45PSI (3.1 bar) hose stream test.",
+      "categories": [
+        "GFDL",
+        "Fire doors",
+        "Fire testing",
+        "License migration redundant",
+        "Self-published work",
+        "Durasteel",
+        "Fire door in 4h Durasteel wall"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cfd_construction_217.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Cfd_construction_217.jpg/1280px-Cfd_construction_217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ancient Gateway (116650393).jpeg",
+      "description": "500px provided description: Ancient Gateway [#city ,#travel ,#door ,#house ,#italy ,#old ,#urban ,#architecture ,#gate ,#building ,#wooden ,#double ,#portal]",
+      "categories": [
+        "Doors",
+        "Photos imported with import-500px"
+      ],
+      "auteur": "Maurice Klabbers",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Gateway_(116650393).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ancient_Gateway_%28116650393%29.jpeg/1280px-Ancient_Gateway_%28116650393%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Afterthought firestop.jpg",
+      "description": "This picture was staged but it symbolises the fact that firestops are dealt with as afterthoughts in many countries. In this example, we have gone to the trouble of getting a cast concrete wall, a fire door, all duly rated, but the cable tray penetration above has no firestop, or it could be an inoperable firestop. No building code or fire code in recorded history ever permitted Swiss cheese fire barriers. Why? Because all fire barriers have testing back-up and if you have holes in there, they fail the fire test . Still, many buildings have no firestops or illegal ones with no certification li",
+      "categories": [
+        "GFDL",
+        "Building code violations",
+        "Fire doors",
+        "Cable trays",
+        "License migration redundant",
+        "Self-published work",
+        "No firestop at all - empty hole"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Afterthought_firestop.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Afterthought_firestop.jpg/1280px-Afterthought_firestop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 4629
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Back door of Markazi Masjid Aishmuqam Jammu and Kashmir.jpg",
+      "description": "back door of Markazi Masjid Aishmuqam Jammu and Kashmir",
+      "categories": [
+        "Doors",
+        "Self-published work",
+        "Uploaded via Campaign:Heritage Lens",
+        "Heritage Lens - Iteration 6"
+      ],
+      "auteur": "Sabaaya",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg/1280px-Back_door_of_Markazi_Masjid_Aishmuqam_Jammu_and_Kashmir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1800,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:11 Дверь огнестойкой перегородки кабины машиниста на производстве.jpg",
+      "description": "Дверь огнестойкой перегородки кабины машиниста на производстве",
+      "categories": [
+        "Fire doors",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Алюминиевые интерьеры транспорта",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:11_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%BE%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/11_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%BE%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5.jpg/1280px-11_%D0%94%D0%B2%D0%B5%D1%80%D1%8C_%D0%BE%D0%B3%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B0_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:G30 Feuerabschluss.jpg",
+      "description": "Feuerabschluss mit Glas",
+      "categories": [
+        "Fire doors",
+        "Self-published work"
+      ],
+      "auteur": "Besserwisser123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:G30_Feuerabschluss.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/G30_Feuerabschluss.jpg/1280px-G30_Feuerabschluss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2056
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -13,6 +13,11 @@
     "categoriesCommons": [
       "Category:Plastic pipes",
       "Category:Pipes"
+    ],
+    "incompatibles": [
+      "tube-multicouche",
+      "tube-pvc",
+      "tuyau-en-polyethylene"
     ]
   },
   "candidats": [
@@ -159,6 +164,137 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Belgick%C3%A1_%28Praha%29%2C_rekonstrukce_%28038%29.jpg/1280px-Belgick%C3%A1_%28Praha%29%2C_rekonstrukce_%28038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2160,
       "hauteur": 3840
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Kształtki hydrauliczne.jpg",
+      "description": "Ekspozycja kształtek hydraulicznych z PCV. Skan z diapozytywu barwnego.",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Self-published work",
+        "Hydraulical connectors"
+      ],
+      "auteur": "Tomasz Zugaj",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kszta%C5%82tki_hydrauliczne.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kszta%C5%82tki_hydrauliczne.jpg/1280px-Kszta%C5%82tki_hydrauliczne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 2361
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:70 365 Pipe Dream (16580688787).jpg",
+      "description": "I am seriously dreaming for an early spring!",
+      "categories": [
+        "Pipes",
+        "Files with coordinates missing SDC location of creation",
+        "Icicles in Ontario",
+        "Flickr images reviewed by FlickreviewR 2",
+        "March 2015 in Ontario",
+        "Animal Services Centre (Whitby, Ontario)",
+        "2015 in Whitby, Ontario"
+      ],
+      "auteur": "Camera Eye Photography from Oshawa, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:70_365_Pipe_Dream_(16580688787).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/70_365_Pipe_Dream_%2816580688787%29.jpg/1280px-70_365_Pipe_Dream_%2816580688787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Cours Lafayette - travaux en 2017 (1).JPG",
+      "description": "Cours Lafayette - travaux en 2017.",
+      "categories": [
+        "Plastic pipes",
+        "CC-Zero",
+        "Photographs by Benoît Prieur",
+        "Self-published work",
+        "2017 in Lyon",
+        "Images of Lyon 3e arrondissement by Benoît Prieur",
+        "Files with coordinates missing SDC location of creation",
+        "2017 images by Benoît Prieur",
+        "Auvergne-Rhône-Alpes photographs taken on 2017-05-30",
+        "Cours Lafayette (Lyon)",
+        "Construction machines in Lyon"
+      ],
+      "auteur": "Benoît Prieur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cours_Lafayette_-_travaux_en_2017_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cours_Lafayette_-_travaux_en_2017_%281%29.JPG/1280px-Cours_Lafayette_-_travaux_en_2017_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:111A1407.jpg",
+      "description": "اعمال",
+      "categories": [
+        "Pipes",
+        "Work clothing",
+        "Construction workers",
+        "Self-published work",
+        "Unidentified buildings in Saudi Arabia",
+        "Unidentified locations in Saudi Arabia",
+        "People of Saudi Arabia in 2019",
+        "Photographs taken on 2019-09-05",
+        "Blue male clothing",
+        "Men at work in the 2010s"
+      ],
+      "auteur": "Abubaker Elshikh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:111A1407.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/111A1407.jpg/1280px-111A1407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:HK TKO 寶琳 Po Lam MCP 新都城中心 Metro City Plaza mall 海港酒家 Victoria Harbour Seafood Restaurant 飲早茶 morning tea pot October 2022 Px3 02.jpg",
+      "description": "HK TKO zh:寶琳 Po Lam MCP zh:新都城中心 Metro City Plaza mall zh:海港酒家 Victoria Harbour Seafood Restaurant in October 2022",
+      "categories": [
+        "Plastic pipes",
+        "Self-published work",
+        "Breakfast in Hong Kong",
+        "Hong Kong photographs taken on 2022-10-30",
+        "October 2022 in Po Lam",
+        "Victoria Harbour Restaurant, Metro City Plaza One",
+        "Tea pots in Hong Kong",
+        "Victoria Harbour Restaurant in 2021",
+        "2022 in Metro City Plaza, Hong Kong",
+        "Victoria Harbour Restaurant in 2022"
+      ],
+      "auteur": "WANGSICHYUO 7882",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_MCP_%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83_Metro_City_Plaza_mall_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Seafood_Restaurant_%E9%A3%B2%E6%97%A9%E8%8C%B6_morning_tea_pot_October_2022_Px3_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/HK_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_MCP_%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83_Metro_City_Plaza_mall_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Seafood_Restaurant_%E9%A3%B2%E6%97%A9%E8%8C%B6_morning_tea_pot_October_2022_Px3_02.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Aethertractor at Steampunk HQ.jpg",
+      "description": "Aethertractor at Steampunk HQ",
+      "categories": [
+        "Pipes",
+        "Steampunk HQ",
+        "Self-published work",
+        "PD-self",
+        "Tractors in art",
+        "FoP-New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "Sculptures of skulls",
+        "Steampunk machines"
+      ],
+      "auteur": "Pseudopanax sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aethertractor_at_Steampunk_HQ.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Aethertractor_at_Steampunk_HQ.jpg/1280px-Aethertractor_at_Steampunk_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3264
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

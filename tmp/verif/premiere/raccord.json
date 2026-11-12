@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ce sont des tés, ambigu avec le té."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coude en cuivre serti sur une canalisation murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustre davantage le coude."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'un tuyau PVC avec un bouchon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tranchée avec canalisations de chauffage urbain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tubes d'acier à chanfrein de soudure empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haltern am See, Allemagne",
+      "note": "Tubes, pas des raccords."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coude de compression en PE noir et bleu avec écrou et bague.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Illustre le coude, doute avec le terme."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand coude de canalisation dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Hors sujet."
     }
   ]
 }

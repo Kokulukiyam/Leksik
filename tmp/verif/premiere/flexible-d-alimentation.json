@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Industriel."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Accouplement de tuyau de wagon japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord ferroviaire, pas un flexible sanitaire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Accouplement de tuyau de wagon japonais vu de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord ferroviaire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Accouplement de wagon-citerne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord ferroviaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ancien accouplement de tuyau autrichien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Raccord ancien, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Attelage et accouplement de locomotive sur fond rayé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessin de brevet d'un raccord de tuyau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
     }
   ]
 }

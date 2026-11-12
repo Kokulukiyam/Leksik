@@ -53,6 +53,64 @@
       },
       "lieu": "Kenya",
       "note": "Rectangle sur l'onduleur à écran bleu ; les batteries restent hors cadre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boîtier blanc Tesla et sectionneur gris Eaton fixés sur un mur beige, reliés par un conduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le boîtier blanc ressemble à une batterie murale ; ambigu avec la batterie solaire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Onduleur solaire jaune fixé sur un mur en bois, avec sectionneur, compteur et boîtier AC voisins.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.03,
+        "largeur": 0.37,
+        "hauteur": 0.69
+      },
+      "lieu": "Vermont, États-Unis",
+      "note": "Onduleur de production photovoltaïque net ; rectangle sur l'onduleur pour écarter le compteur et le sectionneur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boîtier mural noir ouvert montrant l'électronique interne d'un onduleur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Intérieur ouvert, moins parlant que l'appareil fermé."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Onduleur Growatt blanc fixé au mur, avec câbles et étiquette jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'onduleur Growatt déjà dans le jeu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Onduleur jaune fixé sous une rangée de panneaux solaires sur une structure, au bord d'un champ, un fleuve derrière.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.34,
+        "y": 0.44,
+        "largeur": 0.27,
+        "hauteur": 0.44
+      },
+      "lieu": "Speyer, Allemagne",
+      "note": "Onduleur boîtier mural jaune bien visible sous les panneaux ; rectangle pour le distinguer de la structure."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Onduleur rouge SMA fixé sur un mur de briques, avec afficheur, étiquettes d'avertissement et sectionneur à droite.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Onduleur occupant l'image ; flash qui éclaire fortement l'afficheur mais l'appareil reste net et identifiable."
     }
   ]
 }

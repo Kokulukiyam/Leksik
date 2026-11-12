@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Panneaux peu lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Détail d'un vantail de bois sombre dont la moitié droite montre des panneaux sculptés dans un cadre mouluré, l'autre moitié des planches brutes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Potenza, Italie",
+      "note": "Cadrage partiel et ambigu (planches à gauche, panneaux sculptés à droite) ; la porte n'est pas vue entière."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte cintrée de vieilles planches au haut d'un escalier de ruelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Asso, Italie",
+      "note": "Porte à planches, pas de panneaux visibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vantail de bronze à bas-reliefs figuratifs entrouvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Naples, Italie",
+      "note": "Porte de bronze à reliefs historiés, pas une porte à panneaux de bois."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte intérieure ancienne peinte en blanc cassé, à trois panneaux moulurés dans un cadre assemblé, avec chambranle.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Suède",
+      "note": "Cadre à montants et traverses encadrant trois panneaux en creux ; l'image tient la porte entière au centre, lisible malgré la dominante colorée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte de temple chinois rouge à vantaux peints de gardiens, entrée ouverte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rangoun, Birmanie",
+      "note": "Porte peinte de temple, panneaux non lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Disque de pierre roulant servant de porte dans une cité souterraine, avec légende « STONE DOOR ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaymaklı, Turquie",
+      "note": "Porte de pierre, texte visible."
     }
   ]
 }

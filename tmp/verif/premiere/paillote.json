@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Rügen",
       "note": "Chaumière européenne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Charpente intérieure d'une cabane de gardians vue d'en dessous, avec toit de roseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Camargue, France",
+      "note": "Vue intérieure de charpente, pas un abri ouvert sur poteaux."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Case à murs fermés et gros toit de chaume, hutte maya.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chichén Itzá, Mexique",
+      "note": "Hutte à murs pleins : relève de la case, pas de la paillote."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Femme et bébé dans un hamac sous un abri de toit de paille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Don Det, Laos",
+      "note": "Portrait de personnes dominant ; abri à peine lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Trois huttes rondes en terre à toit de chaume au bord d'un lac.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lac Titicaca, Pérou",
+      "note": "Huttes à murs pleins, pas une paillote."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photographie ancienne de fileuses devant une chaumière irlandaise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Donegal, Irlande",
+      "note": "Chaumière à murs, scène de personnages."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite maison à toit de chaume dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maison de chaume, pas un abri léger sur poteaux."
     }
   ]
 }

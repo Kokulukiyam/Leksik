@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cabine ancienne, sans lecture du sol."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pomme de douche en jet avec une brosse de dos en forme de squelette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de sol visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Salle de bains de musée avec baignoire en cuivre et cabine vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Pétersbourg, Russie",
+      "note": "Sol non visible, objet de musée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Douche murale à pommeau carré dans un carrelage rayé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kigali, Rwanda",
+      "note": "Aucun sol visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Niche de douche en pierre avec mitigeur thermostatique, sol en carrelage sombre en bas de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol à peine visible, pente et siphon invisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cabine de douche ancienne en laiton avec pommeau et tuyauterie apparente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "USS Becuna",
+      "note": "Douche de sous-marin, pas de douche à l'italienne."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couloir avec deux portes de cabines numérotées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jasseron, France",
+      "note": "Aucune douche visible."
     }
   ]
 }

@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "carreau-de-gres-cerame",
-      "carrelage"
+      "carrelage",
+      "gres-cerame-poli",
+      "carreau-imitation-bois"
     ]
   },
   "candidats": [
@@ -160,6 +162,148 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Armitage_Shanks_urinals_at_Margate_Kent_England.jpg/1280px-Armitage_Shanks_urinals_at_Margate_Kent_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Sols de la Chambre en face du Hammam.jpg",
+      "description": "Floors of the Room in front of the Hammam in the Bardo National Museum, Algiers, Algeria",
+      "categories": [
+        "Bardo National Museum (Algiers)",
+        "Self-published work",
+        "Tiles in Algeria",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:Reda Kerbouche"
+      ],
+      "auteur": "Reda Kerbouche",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sols_de_la_Chambre_en_face_du_Hammam.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sols_de_la_Chambre_en_face_du_Hammam.jpg/1280px-Sols_de_la_Chambre_en_face_du_Hammam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3454,
+      "hauteur": 2910
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Superior Court of the Bartdo, Algeria3.jpg",
+      "description": "Superior Court at the 1 floor of the Bardo National Museum, Algiers, Algeria.",
+      "categories": [
+        "Self-published work",
+        "Windows in Algeria",
+        "Tiles in Algeria",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:Reda Kerbouche",
+        "Superior Court, Bardo"
+      ],
+      "auteur": "Reda Kerbouche",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Superior_Court_of_the_Bartdo,_Algeria3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Superior_Court_of_the_Bartdo%2C_Algeria3.jpg/1280px-Superior_Court_of_the_Bartdo%2C_Algeria3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 3836
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Church of the Holy Cross Felsted Essex England - chancel and nave facing west.jpg",
+      "description": "The chancel and nave facing west towards the tower arch of the Grade I listed Holy Cross Church on the B1417 Braintree Road, Felsted , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Choir stalls in Essex",
+        "February 2016 in Essex",
+        "Churches in Essex photographed in 2016",
+        "Holy Cross Church, Felsted (interior)",
+        "Wooden chairs",
+        "Church arcades in England",
+        "Floor tiles in England",
+        "Nave interiors in Essex",
+        "Acabashi photos: nave interiors",
+        "Church tiles in Essex",
+        "Chairs in Essex",
+        "Essex photographs taken on 2016-02-29"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_and_nave_facing_west.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_and_nave_facing_west.jpg/1280px-Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_and_nave_facing_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Beauchamp Roding - St Botolph's Church - Essex England - nave north tiered oak pews.jpg",
+      "description": "The nave north oak pews, probably 18th-century, tiered to three stages at the west, of the Grade II* listed 14th-century St Botolph's Church at Beauchamp Roding in The Rodings , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Church benches in Essex",
+        "March 2016 in Essex",
+        "Wooden church benches in the United Kingdom",
+        "St Botolph's Church, Beauchamp Roding (interior)",
+        "United Kingdom photographs taken on 2016-03-31",
+        "Floor tiles in England",
+        "Nave interiors in Essex",
+        "Carved wooden church objects",
+        "Acabashi photos: pews and stalls",
+        "Church tiles in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_nave_north_tiered_oak_pews.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_nave_north_tiered_oak_pews.jpg/1280px-Beauchamp_Roding_-_St_Botolph%27s_Church_-_Essex_England_-_nave_north_tiered_oak_pews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Santappa Nayak Tirumala temple, Bhatkal Karnataka.jpg",
+      "description": "Location of this monument: Position de l'objet 13° 58′ 59,8″ N, 74° 33′ 50,62″ E Voir cet endroit et d’autres images sur : OpenStreetMap 13.983277; 74.564062 Bhatkal is a small town in the Kanara region of the northwestern Karnataka. It was a large historic trading hub during the Vijayanagara era, a period that witnessed the construction of numerous Jain and Hindu temples. It is notable for its unique style of Hindu and Jain architecture that is not in Vijayanagara style, but is an evolution in the Chalukyan style adapted to periods of heavy monsoon rains and humid environment. The Kanarese ar",
+      "categories": [
+        "CC-Zero",
+        "Floor plans of Hindu temples",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "JPG plans of Indian temples and monuments",
+        "Santappa Nayak Tirumala temple Bhatkal"
+      ],
+      "auteur": "Ms Sarah Welch",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Santappa_Nayak_Tirumala_temple,_Bhatkal_Karnataka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Santappa_Nayak_Tirumala_temple%2C_Bhatkal_Karnataka.jpg/1280px-Santappa_Nayak_Tirumala_temple%2C_Bhatkal_Karnataka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3300,
+      "hauteur": 5100
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Church of the Holy Cross Felsted Essex England - chancel altar and reredos.jpg",
+      "description": "The chancel altar and reredos of the Grade I listed Holy Cross Church on the B1417 Braintree Road, Felsted , Essex , England. Camera : Canon EOS 6D with Canon EF 24-105mm F4L IS USM lens. Software : large RAW file lens-corrected, optimized and downsized with DxO OpticsPro 10 Elite , Viewpoint 2, and Adobe Photoshop CS2 .",
+      "categories": [
+        "Altar crosses",
+        "Taken with Canon EOS 6D and Canon EF 24-105mm F4L IS USM",
+        "Self-published work",
+        "Listed buildings in England with known IDs",
+        "Crosses in Essex",
+        "Altars in Essex",
+        "February 2016 in Essex",
+        "Churches in Essex photographed in 2016",
+        "Photographs taken on 2016-02-29",
+        "Holy Cross Church, Felsted (interior)",
+        "Church of England altars",
+        "Reredos in Essex",
+        "Floor tiles in England",
+        "Carved wooden church objects",
+        "Acabashi photos: reredoses",
+        "Acabashi photos: altars",
+        "Church tiles in Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_altar_and_reredos.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_altar_and_reredos.jpg/1280px-Church_of_the_Holy_Cross_Felsted_Essex_England_-_chancel_altar_and_reredos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2400
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Idem 04, mêmes réserves."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poseur de calfeutrement coupe-feu sur des tubes de cuivre, avec légendes écrites en anglais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vancouver",
+      "note": "Légendes écrites donnant la réponse, tube petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tuyaux gris et bouches grillagées sur un mur, retouchés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas du cuivre, image retouchée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Extrémité d'un tube de cuivre mesuré au pied à coulisse sur un plan de bois.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tube de cuivre net, cuivre reconnaissable ; pied à coulisse sans ambiguïté."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Câbles gris le long d'un mur dans un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Weißenburg",
+      "note": "Pas de tube de cuivre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Structure de tuyaux de cuivre sur une place avec panneau « Bull Run Water ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portland, États-Unis",
+      "note": "Tuyaux petits et panneau textuel."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tuyau de descente d'eau pluviale gelé en hiver.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas du cuivre."
     }
   ]
 }

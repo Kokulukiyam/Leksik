@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande baie rectangulaire en façade de brique avec stores vénitiens et vases de fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Impossible de savoir quelles parties sont fixes ; store et fleurs masquent le vitrage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade vitrée sombre avec une personne assise derrière, colonne orange et feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image confuse et sombre, rien de clair."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre blanche protégée par une grille de défense, un pantalon noir suspendu devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille et pantalon dominent, mode d'ouverture non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quatre fenêtres à petits-bois en noir et blanc, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, fixité non démontrée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Jali ajouré en arc avec petite ouverture, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un châssis fixe vitré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois chats sur un appui de fenêtre, un vantail ouvert à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chats dominants, la fenêtre s'ouvre."
     }
   ]
 }

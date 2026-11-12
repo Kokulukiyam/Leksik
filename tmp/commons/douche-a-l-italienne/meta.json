@@ -133,6 +133,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Casa_Loma%2C_Toronto_Laslovarga20.JPG/1280px-Casa_Loma%2C_Toronto_Laslovarga20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:11am (EST) (2744688143).jpg",
+      "description": "At least one photo, every hour.",
+      "categories": [
+        "Showers",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Morgan Carter Flickr stream"
+      ],
+      "auteur": "Morgan from Montreal, Quebec, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:11am_(EST)_(2744688143).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/11am_%28EST%29_%282744688143%29.jpg/1280px-11am_%28EST%29_%282744688143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2800,
+      "hauteur": 2100
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bathroom - toilet 02.JPG",
+      "description": "Saint Petersburg. Museum of history of St.-Petersburg (an exposition in the Commandant's house of the Peter and Paul Fortress). Items of bathrooms late XIX - early XX century. Bath, faucets, shower, various utensils.",
+      "categories": [
+        "Bathrooms",
+        "Taken with Canon PowerShot S3 IS",
+        "Showers",
+        "Self-published work",
+        "Images by Andrey Korzun",
+        "History of toilets",
+        "Bathroom mirrors",
+        "Collections of the State Museum of the History of Saint Petersburg"
+      ],
+      "auteur": "Andrey Korzun",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathroom_-_toilet_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bathroom_-_toilet_02.JPG/1280px-Bathroom_-_toilet_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:ASC Leiden - Rwanda 2021 - 092 - Shower - Kigali.jpg",
+      "description": "Douche.",
+      "categories": [
+        "Showers",
+        "Images from the African Studies Centre (Leiden)",
+        "Uploaded with pattypan",
+        "Self-published work",
+        "Items with VRTS permission confirmed",
+        "Bathrooms in Rwanda",
+        "Rwanda 2021 (African Studies Centre Leiden)",
+        "Images donated by Gerard van de Bruinhorst"
+      ],
+      "auteur": "Gerard C. van de Bruinhorst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg/1280px-ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Baltic Queen shower - 20230902 - 06.jpg",
+      "description": "Resa med Baltic Queen från Stockholm-Mariehamn-Tallinn den 2 september 2023. Dusch i poolområdet.",
+      "categories": [
+        "Showers",
+        "Interior of Baltic Queen (ship, 2009)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2023-09-02"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baltic_Queen_shower_-_20230902_-_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Baltic_Queen_shower_-_20230902_-_06.jpg/1280px-Baltic_Queen_shower_-_20230902_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Becuna 14.JPG",
+      "description": "USS Becuna (SS-319)",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Showers",
+        "Submarine heads",
+        "Sanitary facilities on the USS Becuna (SS-319)"
+      ],
+      "auteur": "User:Piotrus",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Becuna_14.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Becuna_14.JPG/1280px-Becuna_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Aire de Bourg-Teyssonge - Douches (juil 2018).jpg",
+      "description": "Douches sur l'aire de Bourg-Teyssonge, sur l'autoroute A40 (commune de Jasseron, Ain, France).",
+      "categories": [
+        "Showers",
+        "Aire de Bourg-Teyssonge",
+        "Self-published work",
+        "Files by User:Sebleouf",
+        "July 2018 in Ain",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded via Campaign:Été des régions 2018",
+        "Showers in France",
+        "Bourgogne-Franche-Comté photographs taken on 2018-07-22",
+        "Images from Été des Régions 2018",
+        "Images of Jasseron by Sebleouf",
+        "Cabale lyonnaise @ Jura 2018 (2)",
+        "Images from Été des Régions 2018 to check"
+      ],
+      "auteur": "Sebleouf",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aire_de_Bourg-Teyssonge_-_Douches_(juil_2018).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aire_de_Bourg-Teyssonge_-_Douches_%28juil_2018%29.jpg/1280px-Aire_de_Bourg-Teyssonge_-_Douches_%28juil_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3016,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

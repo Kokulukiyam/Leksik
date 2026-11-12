@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Barkers Creek",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Intérieur d'une école abandonnée, gaines pendantes sous la charpente.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Aucun diffuseur à ailettes visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Même salle délabrée avec gaines flexibles pendantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Pas de diffuseur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade extérieure en brique d'une école abandonnée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Entrée en brique couverte de graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle au plafond effondré, gaines visibles, graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Pas de diffuseur identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade de gymnase en brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barkers Creek, Caroline du Nord",
+      "note": "Sans rapport."
     }
   ]
 }

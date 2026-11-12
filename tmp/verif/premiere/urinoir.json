@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Extérieur, aucun appareil visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux seaux métalliques posés sur des socles devant une fenêtre, installation d'art.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seaux, pas un urinoir."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cabine de toilettes de ferry avec WC et douche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baltic Princess",
+      "note": "Pas d'urinoir."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vitrine de musée avec robinetterie ancienne, un urinoir et une cuvette décorés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Pétersbourg, Russie",
+      "note": "Pièce de musée, urinoir petit et noyé dans la vitrine avec texte."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un urinoir mural blanc ovale, vu de face sur fond sombre, avec sa crépine au bas de la cuvette.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Urinoir sans équivoque, dominant et net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Trois cloisons séparatives jaunies dans des toilettes extérieures délabrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ben Lomond",
+      "note": "Seules les cloisons sont visibles, urinoirs absents."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un homme souriant, sac à dos, utilisant un urinoir dans des toilettes publiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne au premier plan, urinoir masqué."
     }
   ]
 }

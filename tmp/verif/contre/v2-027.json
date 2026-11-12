@@ -1,0 +1,212 @@
+[
+ {
+  "cle": "escalier-en-bois/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "escalier-de-secours/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "escalier-mecanique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "escalier-mecanique/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "nez-de-marche/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "barreau-de-rampe/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "perron/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "rampe-d-acces/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "bande-podotactile/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ascenseur/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "douchette-wc/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "douchette-wc/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "urinoir/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "receveur-de-douche/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "bonde/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "tube-en-cuivre/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "coude/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "coude/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "collier-de-fixation/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chauffe-eau-solaire/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "capteur-solaire-thermique/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "capteur-solaire-thermique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "boite-d-encastrement/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "boite-de-derivation/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "boite-de-derivation/08",
+  "accord": false,
+  "raison": "Boîtier rond démonté posé à plat, sans fils ni mur : il pourrait aussi bien être pris pour une boîte d'encastrement ronde."
+ },
+ {
+  "cle": "chemin-de-cables/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "paratonnerre/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "projecteur/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "projecteur/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "onduleur/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "onduleur/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "onduleur/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cassette-de-climatisation/09",
+  "accord": false,
+  "raison": "Cassette minuscule dans une grande salle, parmi d'autres éléments de plafond : illisible sur un téléphone."
+ },
+ {
+  "cle": "extracteur-d-air/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "extracteur-d-air/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "gaine-de-ventilation/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "hotte/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "hotte/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "poteau-d-incendie/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "poteau-d-incendie/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "declencheur-manuel/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cloison-vitree/10",
+  "accord": false,
+  "raison": "Les parois vitrées encadrées semblent donner sur l'extérieur (brise-soleil derrière) : on hésite avec une façade vitrée, pas clairement une cloison intérieure."
+ }
+]

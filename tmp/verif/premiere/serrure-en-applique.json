@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Montre le cylindre, pas le type de serrure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande serrure ornementée du XVIIIe siècle exposée en musée avec cartel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rouen, France",
+      "note": "Objet de musée avec cartel qui donne la réponse, hors contexte de porte."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux boutons à cylindre dorés sur une porte violette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Serrures à cylindre, pas une serrure en applique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Serrure de buffet ornementée sur support de présentation avec sa clef.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rouen, France",
+      "note": "Pièce de musée posée sur un socle, pas fixée sur un vantail."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Aquarelle de trois loquets de porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Boîtier de serrure en fer vissé sur la face d'un vantail en bois, avec poignée à bec de cane.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.3,
+        "largeur": 0.5,
+        "hauteur": 0.66
+      },
+      "lieu": "",
+      "note": "Boîtier en saillie net et dominant, cadré de près."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte en bois peinte en vert avec petit cadenas, anneau et entrée de clef.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunisie",
+      "note": "Serrure peu lisible, pas de boîtier visible."
     }
   ]
 }

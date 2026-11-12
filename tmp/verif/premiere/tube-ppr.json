@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gaine drainage, pas du PPR."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pièces de raccordement en PVC gris disposées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "PVC pression, pas du PP-R, et ce sont des raccords."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tuyau de descente d'eau gelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fagot de tuyaux gris en PVC sur un chantier de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lyon, France",
+      "note": "PVC gris, pas du PP-R."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plafond de gaines : tuyaux verts, gaines aluminium, tubes noirs et PVC orange, deux ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop d'éléments, matériau vert non certain."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Table de restaurant avec théière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Machine steampunk dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

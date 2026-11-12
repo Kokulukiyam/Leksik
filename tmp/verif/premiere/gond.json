@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Gronsveld, Pays-Bas",
       "note": "Ferrure massive mais lecture douteuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Barrière de ferme en bois avec ferrures galvanisées sur le poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nuthurst, Royaume-Uni",
+      "note": "Pentures dominantes, gond petit : confusion avec la penture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pivot en bronze antique exposé en vitrine, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Badalona, Espagne",
+      "note": "Objet de musée flou, pas un gond de volet ou portail."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Portillon rustique en bois avec ferrures rouillées sur un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nuthurst, Royaume-Uni",
+      "note": "Gonds trop petits et peu lisibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Arrière d'une voiture break.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Macungie, États-Unis",
+      "note": "Voiture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bande de fer sur porte en bois noir portant l'inscription Collinge Patent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres",
+      "note": "Penture avec texte visible, pas un gond."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur la charnière d'une boîte en métal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet non architectural."
     }
   ]
 }

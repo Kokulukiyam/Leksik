@@ -13,7 +13,9 @@
     "incompatibles": [
       "chapiteau-corinthien",
       "chapiteau",
-      "rinceau"
+      "rinceau",
+      "chapiteau-dorique",
+      "chapiteau-ionique"
     ],
     "categoriesCommons": [
       "Category:Acanthus leaves",
@@ -142,6 +144,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_19.jpg/1280px-58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2095,
       "hauteur": 1879
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Karlsbad - Mühlbrunnkolonnade 4b Kapitell.jpg",
+      "description": "Ce média traite du monument culturel protégé en République Tchèque portant le numéro",
+      "categories": [
+        "Mlýnská kolonáda",
+        "Self-published work",
+        "Corinthian capitals",
+        "Cultural monuments in the Czech Republic with known IDs",
+        "Uploaded via Campaign:wlm-cz",
+        "Pillars in Karlovy Vary"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Karlsbad_-_M%C3%BChlbrunnkolonnade_4b_Kapitell.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsbad_-_M%C3%BChlbrunnkolonnade_4b_Kapitell.jpg/1280px-Karlsbad_-_M%C3%BChlbrunnkolonnade_4b_Kapitell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:58, Bulevardul Lascăr Catargiu, Bucharest (Romania) 20.jpg",
+      "description": "58, Bulevardul Lascăr Catargiu, Bucharest (Romania)",
+      "categories": [
+        "Acanthus ornaments",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Metal fences in Bucharest",
+        "Bulevardul Lascăr Catargiu, 58"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:58,_Bulevardul_Lasc%C4%83r_Catargiu,_Bucharest_(Romania)_20.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_20.jpg/1280px-58%2C_Bulevardul_Lasc%C4%83r_Catargiu%2C_Bucharest_%28Romania%29_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1644,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Corinthian style capital, Glencairn Aisle, Kilmaurs.jpg",
+      "description": "A pilaster capital that was not restored as the remainder was missing.",
+      "categories": [
+        "Glencairn Aisle",
+        "Kilmaurs (civil parish)",
+        "Self-published work",
+        "Corinthian capitals",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corinthian_style_capital,_Glencairn_Aisle,_Kilmaurs.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Corinthian_style_capital%2C_Glencairn_Aisle%2C_Kilmaurs.jpg/1280px-Corinthian_style_capital%2C_Glencairn_Aisle%2C_Kilmaurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3157,
+      "hauteur": 2582
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:4150 - Milano - Antiquarium - Capitelli romani - sec. IaC-IdC - Foto Giovanni Dall'Orto, 14-July.2007.jpg",
+      "description": "Ancient Roman capitals , dating from the 1st/2nd century AD, now in the Antiquarium in Milan , Italy. Picture by Giovanni Dall'Orto , July 14 2007.",
+      "categories": [
+        "Acanthus ornaments",
+        "Attribution only license",
+        "Self-published work",
+        "Sculptures of lizards in Italy",
+        "Ancient Roman capitals in Milan",
+        "Ancient Roman sculptures in the Antiquarium (Milan)"
+      ],
+      "auteur": "Giovanni Dall'Orto .",
+      "licence": "Attribution",
+      "lien": "https://commons.wikimedia.org/wiki/File:4150_-_Milano_-_Antiquarium_-_Capitelli_romani_-_sec._IaC-IdC_-_Foto_Giovanni_Dall%27Orto,_14-July.2007.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/4150_-_Milano_-_Antiquarium_-_Capitelli_romani_-_sec._IaC-IdC_-_Foto_Giovanni_Dall%27Orto%2C_14-July.2007.jpg/1280px-4150_-_Milano_-_Antiquarium_-_Capitelli_romani_-_sec._IaC-IdC_-_Foto_Giovanni_Dall%27Orto%2C_14-July.2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1877,
+      "hauteur": 921
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Capitel corintio romano con gorgoneion del Coliseo.jpg",
+      "description": "Fragment de chapiteau corinthien romain avec gorgonéion, feuilles d'acanthe et décor végétal, provenant du Colisée , Rome, Italie.",
+      "categories": [
+        "Colosseum",
+        "CC-Zero",
+        "Rome",
+        "Acanthus ornaments",
+        "Self-published work",
+        "Ancient Roman capitals",
+        "Corinthian capitals",
+        "Ancient Roman Corinthian capitals in Italy",
+        "Media created with Nikon Z7ii provided by the Quebec WikiClub",
+        "Images from Roma Project"
+      ],
+      "auteur": "Wilfredo Rafael Rodriguez Hernandez",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Capitel_corintio_romano_con_gorgoneion_del_Coliseo.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Capitel_corintio_romano_con_gorgoneion_del_Coliseo.jpg/1280px-Capitel_corintio_romano_con_gorgoneion_del_Coliseo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4682,
+      "hauteur": 6921
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Architectural Motif- Double Acanthus Fleuron MET DP812191.jpg",
+      "description": "Drawing; Drawings",
+      "categories": [
+        "CC-Zero",
+        "Acanthus ornaments",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "1875 drawings",
+        "GWToolset Batch Upload",
+        "Drawings by Georges Seurat in the Metropolitan Museum of Art",
+        "Architectural motifs",
+        "1870s drawings by Georges Seurat"
+      ],
+      "auteur": "Georges Seurat",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Architectural_Motif-_Double_Acanthus_Fleuron_MET_DP812191.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Architectural_Motif-_Double_Acanthus_Fleuron_MET_DP812191.jpg/1280px-Architectural_Motif-_Double_Acanthus_Fleuron_MET_DP812191.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2475,
+      "hauteur": 3698
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

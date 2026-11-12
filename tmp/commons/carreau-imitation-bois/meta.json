@@ -13,7 +13,8 @@
     "incompatibles": [
       "carreau-de-gres-cerame",
       "parquet",
-      "sol-stratifie"
+      "sol-stratifie",
+      "gres-cerame-poli"
     ]
   },
   "candidats": [
@@ -97,5 +98,7 @@
       "largeur": 2475,
       "hauteur": 1719
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

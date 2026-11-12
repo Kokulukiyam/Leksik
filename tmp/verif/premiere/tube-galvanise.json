@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tuyaux rouges en fonte empilés sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fonte ductile peinte, pas du galvanisé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vanne à volant et tuyauterie grise sous une verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyau gris peint, non galvanisé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers portant des tubes sur la route.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tubes mal visibles, scène d'ouvriers."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyau PVC blanc percé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "PVC, pas du galvanisé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne d'un aqueduc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tunnel en tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

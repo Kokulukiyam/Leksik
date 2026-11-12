@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Doute avec la fenêtre à guillotine."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre à trois vantaux à petits-bois d'un pub, vue de nuit avec l'intérieur éclairé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue nocturne, intérieur dominant, aucun vantail ouvert : ne montre pas le mode d'ouverture."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Claustra de pierre ajouré en arc avec une petite ouverture, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une fenêtre à la française."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre de pub à trois vantaux fermés, de nuit, intérieur éclairé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nocturne, vantaux fermés : ambigu avec fenêtre ou petit-bois."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre vue de l'intérieur, fermée, six carreaux et une poignée, donnant sur une façade à colombages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fermée, rien ne montre l'ouverture vers l'intérieur ; la vue extérieure domine, ambigu avec petit-bois."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade d'immeuble à contre-jour derrière un arbre, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres minuscules, rien de lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison anglaise enduite avec petites fenêtres, vue de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres trop petites, élément noyé dans la maison."
     }
   ]
 }

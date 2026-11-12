@@ -11,7 +11,12 @@
       "plain flush door"
     ],
     "incompatibles": [
-      "porte"
+      "porte",
+      "porte-d-entree",
+      "porte-metallique",
+      "porte-a-deux-vantaux",
+      "porte-coupe-feu",
+      "porte-vitree"
     ],
     "categoriesCommons": [
       "Category:Interior doors",
@@ -124,6 +129,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_key_is_inserted_in_a_door_lock.jpg/1280px-A_key_is_inserted_in_a_door_lock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6016,
       "hauteur": 4016
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Entrance to the restaurant. Magyar Király Hotel interior. Listed ID 3831 Zichy house, former Venice hotel. - 10, Fő St., Mátyás király Blvd., Downtown, Székesfehérvár, Fejér county, Hungary.JPG",
+      "description": "Magyar Király Szálló; Zichy-ház, volt Velence Szálló. Műemlék ID 3831. Bejárat az étterembe. - Magyarország, Fejér megye, Székesfehérvár, Belváros, Fő utca 10, Mátyás király körút Ce document montre le monument en Hongrie dont l’identifiant est 3831",
+      "categories": [
+        "Fő street 10 (Hotel Magyar Király)",
+        "Self-published work",
+        "Cultural heritage monuments in Hungary with known IDs",
+        "Hotel restaurants",
+        "Interior doors",
+        "Interiors of hotels",
+        "2015 in Székesfehérvár",
+        "Doors in Székesfehérvár"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_restaurant._Magyar_Kir%C3%A1ly_Hotel_interior._Listed_ID_3831_Zichy_house,_former_Venice_hotel._-_10,_F%C5%91_St.,_M%C3%A1ty%C3%A1s_kir%C3%A1ly_Blvd.,_Downtown,_Sz%C3%A9kesfeh%C3%A9rv%C3%A1r,_Fej%C3%A9r_county,_Hungary.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Entrance_to_the_restaurant._Magyar_Kir%C3%A1ly_Hotel_interior._Listed_ID_3831_Zichy_house%2C_former_Venice_hotel._-_10%2C_F%C5%91_St.%2C_M%C3%A1ty%C3%A1s_kir%C3%A1ly_Blvd.%2C_Downtown%2C_Sz%C3%A9kesfeh%C3%A9rv%C3%A1r%2C_Fej%C3%A9r_county%2C_Hungary.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2025-03-12 Castel Nuovo Entrance Door Left.jpg",
+      "description": "ナポリ ヌオーヴォ城",
+      "categories": [
+        "Doors",
+        "CC-Zero",
+        "Self-published work"
+      ],
+      "auteur": "C1815",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg/1280px-2025-03-12_Castel_Nuovo_Entrance_Door_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Basculante con vetri.jpg",
+      "description": "Basculante con rivestimento in multistrato e vetratura artistica",
+      "categories": [
+        "Self-published work",
+        "Taken with Samsung GT-I9100",
+        "Interior doors"
+      ],
+      "auteur": "Dimauroandrea78",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basculante_con_vetri.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Basculante_con_vetri.jpg/1280px-Basculante_con_vetri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2250,
+      "hauteur": 1752
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:-i---i- (38690807935).jpg",
+      "description": "",
+      "categories": [
+        "Doors",
+        "Media lacking a description",
+        "Files from Flickr with bad file names",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Thomas Woodtli",
+        "Flickr files uploaded by Nguyenhai314"
+      ],
+      "auteur": "Vinnie Cartabiano",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-i---i-_(38690807935).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/-i---i-_%2838690807935%29.jpg/1280px--i---i-_%2838690807935%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Deur naar sacristie OLV Onbevlek Ontvangen, Overveen.jpg",
+      "description": "Deur tussen de pastorie en de sacristie van de OLV Onbevlekt Ontvangen in Overveen.",
+      "categories": [
+        "O.L.Vrouw Onbevlekt Ontvangenkerk (Overveen)",
+        "Gothic Revival architecture in the Netherlands",
+        "Self-published work",
+        "Church doors in the Netherlands",
+        "Transom windows in the Netherlands",
+        "Rijksmonumenten with known IDs",
+        "Interior doors",
+        "Interiors of churches in North Holland",
+        "Netherlands photographs taken on 2017-01-25",
+        "Linenfold in the Netherlands"
+      ],
+      "auteur": "Dqfn13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deur_naar_sacristie_OLV_Onbevlek_Ontvangen,_Overveen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Deur_naar_sacristie_OLV_Onbevlek_Ontvangen%2C_Overveen.jpg/1280px-Deur_naar_sacristie_OLV_Onbevlek_Ontvangen%2C_Overveen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3629,
+      "hauteur": 5443
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ - Flickr - Abhisit Vejjajiva.jpg",
+      "description": "\"เปิด\" ณ รัฐสภาญี่ปุ่น 6พฤศจิกายน2552 (The Official Site of The Prime Minister of Thailand Photo by พีรพัฒน์ วิมลรังครัตน์)",
+      "categories": [
+        "Doors",
+        "Taken with Canon EOS 5D",
+        "Diet of Japan",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Peerapat Wimolrungkarat",
+        "Import by User:Slick-o-bot/Images of politicians of Thailand"
+      ],
+      "auteur": "Government of Thailand",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_(The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%22%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%22_%E0%B8%93_%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99_6%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%992552_%28The_Official_Site_of_The_Prime_Minister_of_Thailand_Photo_by_%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C_-_Flickr_-_Abhisit_Vejjajiva.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5120,
+      "hauteur": 3413
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

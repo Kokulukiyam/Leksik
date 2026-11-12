@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sirène/sonnerie, pas un déclencheur manuel."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vitrine de musée avec cornes et poteau d'alarme incendie anciens.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Objets de musée, pas un déclencheur manuel."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Centrale d'alarme grise sous une sonnerie rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Corée",
+      "note": "Centrale et sirène, pas le déclencheur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Écran violet de centrale « System 35000 Fire Alarm ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Écran, pas un déclencheur."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cloche noire sur un pilier au milieu d'arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Utrecht, Pays-Bas",
+      "note": "Cloche ancienne, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau de contrôle d'alarme encastré dans un cadre en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Centrale de signalisation, pas un déclencheur."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Boîtier rouge mural à vitre à briser « FIRE » sur une cloison en bois sombre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Saint Arnaud, Nouvelle-Zélande",
+      "note": "Déclencheur manuel typique, dominant et net."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Dublin",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tramway Luas à un arrêt devant la gare routière, avec feux de signalisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin, Irlande",
+      "note": "Tramway, aucune butée de porte."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tramway Luas articulé dans un carrefour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin, Irlande",
+      "note": "Tramway, aucune butée de porte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade d'immeuble ancien avec portes et fenêtres grillagées et passante au parapluie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Aucune butée identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande porte en bronze verdi avec quatre enfants assis devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Damas, Syrie",
+      "note": "Porte monumentale, pas de butée visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande porte rouge à panneaux dans un édifice ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Birmingham, Royaume-Uni",
+      "note": "Aucune butée visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bus articulé à une station de bus à haut niveau de service.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vancouver, États-Unis",
+      "note": "Bus, hors sujet."
     }
   ]
 }

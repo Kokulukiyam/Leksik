@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop sombre, encombré."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gaine de ventilation métallique avec silencieux et boîtier noir ; des câbles rouges sur un chemin de câbles perforé au bas de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaine de ventilation dominante, le chemin de câbles est secondaire et en partie caché."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Quatre prises de courant modulaires sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prises seules, pas de chemin de câbles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Canaux métalliques blancs ouverts avec prises, afficheur et prises HDMI intégrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Goulotte ou colonne d'équipement à modules, pas un chemin de câbles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Toiture-terrasse gravillonnée avec fil de protection foudre et caniveau métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toiture avec conducteur de foudre, chemin de câbles peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chemin de câbles métallique en échelle fixé au plafond, rempli de câbles blancs, bleus et orange avec petits boîtiers, descente de câbles le long d'un mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles à échelons très lisible et dominant ; différent du modèle en treillis déjà dans le jeu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chantier de structure métallique avec cloisons à ossature et gaine de ventilation suspendue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin de câbles absent ou non identifiable, gaine dominante."
     }
   ]
 }

@@ -11,7 +11,8 @@
       "staircase stringer"
     ],
     "incompatibles": [
-      "escalier"
+      "escalier",
+      "paillasse"
     ],
     "categoriesCommons": [
       "Category:Staircases",
@@ -119,6 +120,112 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg/1280px-4_Place_des_Vosges%2C_H%C3%B4tel_Regnouart%2C_d%C3%A9part_d%27escalier%2C_4%C3%A8me_arrondissement%2C_Paris%2C_PH23381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4580,
       "hauteur": 3443
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A staircase to first floor.jpg",
+      "description": "this is a staircase that connects to the first floor on the outside separated from the ground floor",
+      "categories": [
+        "Buildings in Kenya",
+        "Staircases",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Images from Wiki Loves Africa 2022 in Kenya",
+        "Stairs in Kenya"
+      ],
+      "auteur": "Latif2022",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_staircase_to_first_floor.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/A_staircase_to_first_floor.jpg/1280px-A_staircase_to_first_floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A stair of a subway entrance(32181776522).jpg",
+      "description": "A stair of a subway entrance",
+      "categories": [
+        "Stairs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Guido Flickr stream"
+      ],
+      "auteur": "Guido from Berlin",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_stair_of_a_subway_entrance(32181776522).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/A_stair_of_a_subway_entrance%2832181776522%29.jpg/1280px-A_stair_of_a_subway_entrance%2832181776522%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2423,
+      "hauteur": 1298
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6.jpg",
+      "description": "Bad Harzburg Baudenkmal ID-37698740 Wohnhaus Amsbergstraße 27 Bild 6",
+      "categories": [
+        "Staircases",
+        "Self-published work",
+        "June 2024 in Lower Saxony",
+        "Amsbergstraße 27 (Bad Harzburg)"
+      ],
+      "auteur": "Steffen Dietrich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg/1280px-Bad_Harzburg_Baudenkmal_ID-37698740_Wohnhaus_Amsbergstra%C3%9Fe_27_Bild_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 6000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:500px photo (139746191).jpeg",
+      "description": "500px provided description: OLYMPUS DIGITAL CAMERA []",
+      "categories": [
+        "Stairs",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names",
+        "Photographs by Martin Kopta"
+      ],
+      "auteur": "Martin Kopta",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(139746191).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/500px_photo_%28139746191%29.jpeg/1280px-500px_photo_%28139746191%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:656 Casa Museu Benlliure (València), escala.jpg",
+      "description": "Casa Museu Benlliure (València), escala",
+      "categories": [
+        "Staircases",
+        "Casa-Museu Benlliure",
+        "Self-published work",
+        "Staircases in the Land of Valencia"
+      ],
+      "auteur": "Enric",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:656_Casa_Museu_Benlliure_(Val%C3%A8ncia),_escala.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/656_Casa_Museu_Benlliure_%28Val%C3%A8ncia%29%2C_escala.jpg/1280px-656_Casa_Museu_Benlliure_%28Val%C3%A8ncia%29%2C_escala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:0663 joanna szostak 2o13.JPG",
+      "description": "joanna szostak 2013",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Stairs",
+        "Self-published work",
+        "June 2013 in Sanok",
+        "Joanna Szostak"
+      ],
+      "auteur": "Silar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:0663_joanna_szostak_2o13.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/0663_joanna_szostak_2o13.JPG/1280px-0663_joanna_szostak_2o13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4388,
+      "hauteur": 2987
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -14,6 +14,10 @@
       "Category:Water pumps",
       "Category:Centrifugal pumps",
       "Category:Pumps"
+    ],
+    "incompatibles": [
+      "pompe-immergee",
+      "pompe-de-relevage"
     ]
   },
   "candidats": [
@@ -127,6 +131,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Close-up_of_a_Regenerative_Turbine_Pump_Impeller_inside_of_a_T51_Series_pump_from_MTH_Pumps.jpg/1280px-Close-up_of_a_Regenerative_Turbine_Pump_Impeller_inside_of_a_T51_Series_pump_from_MTH_Pumps.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2272,
       "hauteur": 1704
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:100-Year old Water Induction Pump (29603660606).jpg",
+      "description": "Project manager, Glen Vita, reads the manutfacturer's label from a 100-year old induction motor. The nearly century old water intake on the river north of Sacramento is being replaced, making way for a new intake and fish screen facility designed to protect threatened and endangered fish species while also providing improved water supply reliability for eastern Yolo County. Located on the western bank of the Sacramento River immediately upstream from the Vietnam Veterans Bridge on Interstate-5, the intake facility is a collaborative effort between Reclamation District 2035 and the Woodland-Dav",
+      "categories": [
+        "Water pumps",
+        "Sacramento River",
+        "PD US FWS",
+        "Images from the United States Fish and Wildlife Service",
+        "Files from the United States Fish and Wildlife Service Pacific Southwest Region Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "USGov files uploaded by OceanAtoll",
+        "Electric pumps"
+      ],
+      "auteur": "Pacific Southwest Region USFWS from Sacramento, US",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:100-Year_old_Water_Induction_Pump_(29603660606).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/100-Year_old_Water_Induction_Pump_%2829603660606%29.jpg/1280px-100-Year_old_Water_Induction_Pump_%2829603660606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3761
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Casing of a main circulation pump from the Greifswald Nuclear Power Plant.jpg",
+      "description": "The massive austenitic steel casing of a main circulation pump (Hauptumwälzpumpe ), a component from a decommissioned VVER-440 reactor at the Greifswald Nuclear Power Plant in Lubmin. This pump was a vertical, single-stage centrifugal pump. A small information plate on the casing indicates its weight is approximately 11 tons and it was manufactured in 1989. These pumps were essential for circulating the primary coolant through the reactor core, with a flow rate of 7100 m³/h at a design pressure of 14 MPa and a temperature of 335°C",
+      "categories": [
+        "Nuclear reactors in Germany",
+        "Centrifugal pumps",
+        "Greifswald Nuclear Power Plant",
+        "VVER-440",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:Siarhei V",
+        "Photos of Greifswald Nuclear Power Plant taken by User:Siarhei V"
+      ],
+      "auteur": "Siarhei Besarab",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casing_of_a_main_circulation_pump_from_the_Greifswald_Nuclear_Power_Plant.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Casing_of_a_main_circulation_pump_from_the_Greifswald_Nuclear_Power_Plant.jpg/1280px-Casing_of_a_main_circulation_pump_from_the_Greifswald_Nuclear_Power_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 2232
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Equipement de laboratoire pour la filtration sous vide - Pompe (Ifremer 00780-89201).jpg",
+      "description": "Pompe",
+      "categories": [
+        "Pumps",
+        "Files from Océanothèque uploaded by OptimusPrimeBot",
+        "Laboratory equipment in France"
+      ],
+      "auteur": "Stephane Lesbats (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompe_(Ifremer_00780-89201).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompe_%28Ifremer_00780-89201%29.jpg/1280px-Equipement_de_laboratoire_pour_la_filtration_sous_vide_-_Pompe_%28Ifremer_00780-89201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4256,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A young girl fetching water on a hand-operated water pump 06.jpg",
+      "description": "A young girl fetching water on a hand-operated water pump",
+      "categories": [
+        "Water pumps",
+        "Self-published work",
+        "AWC 2026 In Nigeria",
+        "AWC 2026 in the Tyap Community"
+      ],
+      "auteur": "Danjuma Anthony",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_young_girl_fetching_water_on_a_hand-operated_water_pump_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/A_young_girl_fetching_water_on_a_hand-operated_water_pump_06.jpg/1280px-A_young_girl_fetching_water_on_a_hand-operated_water_pump_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Atmocean pump .jpg",
+      "description": "Single Atmocean pump being deployed in Ilo, Perú 2015",
+      "categories": [
+        "Taken with Canon EOS 7D",
+        "Pumps",
+        "Wave power",
+        "Marine engineering",
+        "Marine energy",
+        "Desalination",
+        "Self-published work"
+      ],
+      "auteur": "Chrisbioworld",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atmocean_pump_.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Atmocean_pump_.jpg/1280px-Atmocean_pump_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Agricultural irrigation pump set with borewell, Vrindavan, Uttar Pradesh, India 02.jpg",
+      "description": "An agricultural irrigation pump set drawing groundwater from a borewell to irrigate crop fields in Vrindavan, Uttar Pradesh, India.",
+      "categories": [
+        "Water pumps",
+        "Irrigation in India",
+        "Agriculture in Uttar Pradesh",
+        "Agricultural machines",
+        "Vrindavan",
+        "Self-published work"
+      ],
+      "auteur": "Gannu03",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agricultural_irrigation_pump_set_with_borewell,_Vrindavan,_Uttar_Pradesh,_India_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Agricultural_irrigation_pump_set_with_borewell%2C_Vrindavan%2C_Uttar_Pradesh%2C_India_02.jpg/1280px-Agricultural_irrigation_pump_set_with_borewell%2C_Vrindavan%2C_Uttar_Pradesh%2C_India_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 3368
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

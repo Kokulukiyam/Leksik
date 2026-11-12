@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Produits au premier plan, lavabo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lavabo ancien à miroir dans un café viennois avec horloge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Poços de Caldas, Brésil",
+      "note": "Lavabo mural, pas une vasque."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Local technique avec tuyaux et petit évier mural.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Évier mural, pas une vasque."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Un homme installe deux cuvettes rondes dans un plan carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Équateur",
+      "note": "Personne dominante, scène de chantier."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fontaine en pierre dans une niche murale avec robinet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vienne, Autriche",
+      "note": "Bassin en pierre, pas une vasque posée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle d'eau collective en noir et blanc avec auges en rangée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Cannstatt, Allemagne",
+      "note": "Lavabos collectifs, pas des vasques."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit évier mural en inox dans un sous-marin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Francisco, États-Unis",
+      "note": "Évier mural, texte visible."
     }
   ]
 }

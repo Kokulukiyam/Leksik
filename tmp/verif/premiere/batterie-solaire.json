@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Wisconsin",
       "note": "Doublon moins net de 05 ; boîtier voisin en bord de cadre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux batteries vertes sur un plateau en contreplaqué avec régulateur et onduleur, et deux lampes allumées au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'installation déjà dans le jeu ; batteries petites, lampes qui distraient."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Onduleur Stanley noir et gris sur un plateau en bois avec câbles rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Onduleur, pas une batterie."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur l'onduleur Stanley avec affichage rouge et deux fiches branchées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Onduleur, pas une batterie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur un régulateur de charge solaire bleu et noir avec écran et câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Régulateur de charge, pas une batterie."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau solaire incliné vu de dos sur un pied métallique dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau seul, pas de batterie."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit panneau solaire sur poteau au loin dans un jardin vu par une ouverture.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau minuscule, pas de batterie."
     }
   ]
 }

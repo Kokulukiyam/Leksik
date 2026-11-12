@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "Alcobaça",
       "note": "Confusion possible avec une cheminée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cuisine d'exposition en magasin de bricolage, petite hotte en fond, étiquette de prix visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Coignières, France",
+      "note": "Hotte trop petite et décor de magasin."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessous d'un groupe filtrant encastré sous un meuble haut, très rapproché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue en contre-plongée peu parlante, pourrait être autre chose."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cuisine moderne sous charpente bois avec une hotte îlot en inox à conduit vertical.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.64,
+        "y": 0.11,
+        "largeur": 0.28,
+        "hauteur": 0.42
+      },
+      "lieu": "",
+      "note": "Hotte inox claire, encadrée pour la distinguer du reste de la cuisine."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cuisine rustique avec une hotte pyramidale blanche à bandeau en bois au-dessus des feux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.05,
+        "largeur": 0.55,
+        "hauteur": 0.46
+      },
+      "lieu": "",
+      "note": "Hotte typique, dominante et bien lisible au-dessus de la gazinière."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Hotte aspirante crème sous un meuble haut, vue de dessous avec le moteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Correcte mais quasi-doublon de la photo 01 déjà jugée ; on garde 09 et 10."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cuisine carrelée sombre avec hotte inox à gauche et un homme à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo sombre, hotte petite, personne visible."
     }
   ]
 }

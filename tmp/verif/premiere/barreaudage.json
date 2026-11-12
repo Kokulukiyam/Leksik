@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couloir de pierre voûté d'un musée militaire avec vitrines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun barreaudage visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fenêtre cintrée fermée par une grille de barreaux de fer sur un mur délabré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barreaux devant une fenêtre : se confond avec la grille de défense, voisine du terme."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Moto exposée dans une salle de musée, visiteur à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun barreaudage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cellule sombre en brique avec une fenêtre éclairée et une barre transversale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre, aucun barreau net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte de cellule de prison formée de barreaux verticaux noirs et d'une traverse, devant une cellule en brique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.18,
+        "y": 0.07,
+        "largeur": 0.65,
+        "hauteur": 0.9
+      },
+      "lieu": "Citadelle de Québec, Canada",
+      "note": "Barreaux parallèles clairs fermant une ouverture, pas une fenêtre : pas de confusion avec la grille de défense."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couloir de pierre éclairé d'un musée avec vitrines d'armes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun barreaudage."
     }
   ]
 }

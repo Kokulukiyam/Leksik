@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade enduite avec une haute baie vitrée à encadrement rose et une petite porte en bois en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Encadrement de pierre et d'enduit, pas un dormant de menuiserie lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancienne station-service abandonnée avec vitrine à cadres métalliques vert d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ensemble dégradé, aucun dormant isolable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Encadrement blanc mouluré d'une ouverture donnant sur une pièce ruinée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chambranle/encadrement de maçonnerie, se confond avec huisserie ou chambranle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à cadre blanc dans une façade à colombages, vue en biais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue oblique, dormant non distinguable de l'ouvrant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portail roman en arc cintré avec une porte en bois ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail de pierre, pas un dormant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Oiseaux en bois posés sur l'appui d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les oiseaux dominent, dormant non identifiable."
     }
   ]
 }

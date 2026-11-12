@@ -9,6 +9,10 @@
       "kitchen hood",
       "hotte de cuisine",
       "range hood"
+    ],
+    "incompatibles": [
+      "extracteur-d-air",
+      "bouche-d-extraction"
     ]
   },
   "candidats": [
@@ -121,6 +125,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Alcoba%C3%A7a%2C_Mosteiro_de_Alcoba%C3%A7a%2C_cozinha_%284%29.jpg/1280px-Alcoba%C3%A7a%2C_Mosteiro_de_Alcoba%C3%A7a%2C_cozinha_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3679,
       "hauteur": 2759
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Castorama à Coignières le 12 avril 2017 - 06.jpg",
+      "description": "Magasin de bricolage Castorama à Coignières en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "Exhaust hoods",
+        "License migration redundant",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Home kitchens in France",
+        "April 2017 in Yvelines",
+        "Interiors of shops in Yvelines",
+        "Kitchens in the 2010s",
+        "Photographs taken on 2017-04-12",
+        "Shops in France photographed in 2017",
+        "Files with coordinates missing SDC location of creation (48° N, 1° E)",
+        "Electric ovens",
+        "Castorama in Coignières"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castorama_%C3%A0_Coigni%C3%A8res_le_12_avril_2017_-_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Castorama_%C3%A0_Coigni%C3%A8res_le_12_avril_2017_-_06.jpg/1280px-Castorama_%C3%A0_Coigni%C3%A8res_le_12_avril_2017_-_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Cappa aspirazione 1.jpg",
+      "description": "Cappa di aspirazione a casa di mio padrino.",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work"
+      ],
+      "auteur": "Air fans",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappa_aspirazione_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Cappa_aspirazione_1.jpg/1280px-Cappa_aspirazione_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Exemple d'installation d'un conduit de lumière naturelle dans une cuisine - SOLATUBE.jpg",
+      "description": "Un exemple d'installation d'un conduit de lumière naturelle dans la cuisine d'un particulier.",
+      "categories": [
+        "Dishwashers",
+        "Exhaust hoods",
+        "Innovation",
+        "Tubular daylighting devices",
+        "Self-published work"
+      ],
+      "auteur": "Specialiste en lumiere naturelle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Exemple_d%27installation_d%27un_conduit_de_lumi%C3%A8re_naturelle_dans_une_cuisine_-_SOLATUBE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Exemple_d%27installation_d%27un_conduit_de_lumi%C3%A8re_naturelle_dans_une_cuisine_-_SOLATUBE.jpg/1280px-Exemple_d%27installation_d%27un_conduit_de_lumi%C3%A8re_naturelle_dans_une_cuisine_-_SOLATUBE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Cappa di aspirazione 11.jpg",
+      "description": "Cappa di aspirazione per cucina a casa di mia zia",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work"
+      ],
+      "auteur": "Antonio Mette",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cappa_di_aspirazione_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cappa_di_aspirazione_11.jpg/1280px-Cappa_di_aspirazione_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Broan Range Hood.jpg",
+      "description": "Broan Range Hood",
+      "categories": [
+        "Exhaust hoods",
+        "Self-published work",
+        "Images by Steven Pavlov taken in 2017",
+        "Fans with four blades",
+        "Photos by Steven Pavlov taken with iPhone 6",
+        "Home appliances photographed by Steven Pavlov"
+      ],
+      "auteur": "Steven Pavlov",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broan_Range_Hood.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Broan_Range_Hood.jpg/1280px-Broan_Range_Hood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3229,
+      "hauteur": 2153
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cozinha (4582676674).jpg",
+      "description": "Cozinha",
+      "categories": [
+        "Exhaust hoods",
+        "Edifício Bretagne",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Gas cooking stoves",
+        "Files by Monica Kaneko"
+      ],
+      "auteur": "Monica Kaneko from Sao Paulo, Brasil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cozinha_(4582676674).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cozinha_%284582676674%29.jpg/1280px-Cozinha_%284582676674%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1504,
+      "hauteur": 1000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

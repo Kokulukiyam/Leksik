@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Sénégal",
       "note": "Sans toit, titre le dit sur pilotis, risque de confusion."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand panier tressé sur plateforme de palettes, sans toit, dans une cour de village.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sérère, Sénégal",
+      "note": "Sans toit conique, doute avec le grenier sur pilotis ; même cas que 01, 04 et 06."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux grandes jarres en vannerie dans un local sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nagaland, Inde",
+      "note": "Greniers de riz indiens en intérieur, pas un grenier à mil ouest-africain."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grenier tressé sur plateforme devant un mur, sans toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mbind-Sérère, Sénégal",
+      "note": "Sans toit conique, doute avec le grenier sur pilotis."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photographie en noir et blanc d'un grenier collectif en pierre de l'Aurès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aurès, Algérie",
+      "note": "Grenier collectif maghrébin, pas un grenier à mil."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand bâtiment agricole en pierre et bois à toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Żylicze, Pologne",
+      "note": "Spichlerz européen, sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite cabane à toit de chaume conique sur pilotis de bois au bord de l'eau salée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sine Saloum, Sénégal",
+      "note": "Grenier à sel sur pilotis : correspond au grenier sur pilotis, pas au grenier à mil."
     }
   ]
 }

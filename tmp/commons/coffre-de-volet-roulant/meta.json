@@ -150,6 +150,114 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/500px_photo_%2849722290%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "largeur": 1280,
       "hauteur": 853
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Crown gears on roller-door at Ngcobo.jpg",
+      "description": "Crown-gears on roller-door at shop in Ngcobo",
+      "categories": [
+        "Crown gears",
+        "Universal joints",
+        "Roller shutters",
+        "Bevel gears",
+        "Self-published work",
+        "Taken with Nokia 6280"
+      ],
+      "auteur": "Gregory David Harington",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crown_gears_on_roller-door_at_Ngcobo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Crown_gears_on_roller-door_at_Ngcobo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1200,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Hodkovice nad Mohelkou - T. G. Masaryka, 51, výloha.jpg",
+      "description": "Hodkovice nad Mohelkou - T. G. Masaryka, 51, výloha (zatažené rolety)",
+      "categories": [
+        "Roller shutters",
+        "T. G. Masaryka 51 (Hodkovice nad Mohelkou)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Adam Rejha",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hodkovice_nad_Mohelkou_-_T._G._Masaryka,_51,_v%C3%BDloha.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Hodkovice_nad_Mohelkou_-_T._G._Masaryka%2C_51%2C_v%C3%BDloha.jpg/1280px-Hodkovice_nad_Mohelkou_-_T._G._Masaryka%2C_51%2C_v%C3%BDloha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5075,
+      "hauteur": 3383
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Fredrikshalds teater, detalj vinduslem.jpg",
+      "description": "Fredrikshalds teater, Halden, oppført 1838, arkitekt Balthazar Nicolai Garben",
+      "categories": [
+        "Window shutters",
+        "Fredrikshalds teater",
+        "Self-published work",
+        "Windows in Norway",
+        "Norway photographs taken on 2014-08-06"
+      ],
+      "auteur": "Apple farmer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fredrikshalds_teater,_detalj_vinduslem.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Fredrikshalds_teater%2C_detalj_vinduslem.jpg/1280px-Fredrikshalds_teater%2C_detalj_vinduslem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1891,
+      "hauteur": 2844
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Blue Grass Chemical Agent- Destruction Pilot Plant Supercritical Water Oxidation Process Building (13428808814).jpg",
+      "description": "At the Supercritical Water Oxidation (SCWO) Process Building, workers install an exterior steel roll up door. During operations at the Blue Grass Chemical Agent- Destruction Pilot Plant, agent and energetic hydrolysates, byproducts of the neutralization process, are emptied into HSA holding tanks once agent destruction is verified. The hydrolysate is transferred to the SCWO Process Building which houses the reactors where agent and energetic hydrolysates will be subjected to very high temperatures and pressures to destroy their organic content.",
+      "categories": [
+        "Roller shutters",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-_Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_(13428808814).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Blue_Grass_Chemical_Agent-_Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_%2813428808814%29.jpg/1280px-Blue_Grass_Chemical_Agent-_Destruction_Pilot_Plant_Supercritical_Water_Oxidation_Process_Building_%2813428808814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Kableshkov House-6.JPG",
+      "description": "Maison Kableshkov, à Koprivchtitsa (Bulgarie).",
+      "categories": [
+        "Taken with Nikon Coolpix 4600",
+        "Kableshkov House",
+        "Window shutters",
+        "Self-published work",
+        "PD-self",
+        "Photos by TwoWings (PD-self)"
+      ],
+      "auteur": "TwoWings",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kableshkov_House-6.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kableshkov_House-6.JPG/1280px-Kableshkov_House-6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2288,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Painted shutters, Bethel Street, Brighouse - geograph.org.uk - 6354482.jpg",
+      "description": "Painted shutters, Bethel Street, Brighouse",
+      "categories": [
+        "Roller shutters",
+        "Images from Geograph Britain and Ireland",
+        "Shops in Brighouse",
+        "Bethel Street, Brighouse"
+      ],
+      "auteur": "Humphrey Bolton",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Painted_shutters,_Bethel_Street,_Brighouse_-_geograph.org.uk_-_6354482.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Painted_shutters%2C_Bethel_Street%2C_Brighouse_-_geograph.org.uk_-_6354482.jpg/1280px-Painted_shutters%2C_Bethel_Street%2C_Brighouse_-_geograph.org.uk_-_6354482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1501
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

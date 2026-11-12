@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Eisenhüttenstadt, Allemagne",
       "note": "Texte qui donne la réponse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Échelle fixe à crinoline vue d'en bas, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Austin, États-Unis",
+      "note": "C'est une échelle à crinoline, pas un escalier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carte postale ancienne de New York avec escaliers de secours en façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Document ancien, escaliers minuscules."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plateformes et échelles d'issue de secours métalliques sur un mur de brique, vues en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dominé par plateformes et échelles, très déformé : risque de confusion avec l'échelle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Escalier hélicoïdal métallique longeant une façade, noir et blanc très contrasté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Addis-Abeba, Éthiopie",
+      "note": "Image très contrastée, escalier peu lisible, évoque le colimaçon."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Échelle à crinoline vue d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échelle à crinoline, pas un escalier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier métallique noir en zigzag accroché à la façade d'un immeuble blanc.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.0,
+        "largeur": 0.45,
+        "hauteur": 0.55
+      },
+      "lieu": "Ciudad Cayalá, Guatemala",
+      "note": "Escalier extérieur métallique en façade, rectangle contrôlé sur les volées."
     }
   ]
 }

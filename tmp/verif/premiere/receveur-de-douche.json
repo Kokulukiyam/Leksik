@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de receveur."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux vues d'un couloir de douches et d'une cabine avec petit receveur au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afghanistan",
+      "note": "Receveur petit et mal éclairé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Salle de douches collectives carrelée avec siphons de sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amorella",
+      "note": "Douches de plain-pied, sans receveur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cabine de douche étroite avec rideau ; au sol un receveur blanc à rebord et bonde ronde, assez sale.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.66,
+        "largeur": 0.36,
+        "hauteur": 0.31
+      },
+      "lieu": "",
+      "note": "Receveur encadré ; sale mais net, bord surélevé caractéristique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Carrelage mural d'une douche avec une pomme au plafond et rideau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Puebla, Mexique",
+      "note": "Receveur invisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Douche accessible blanche avec banc rabattable, base plane et siphon de sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Base de plain-pied ambiguë avec une douche à l'italienne."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Douche carrelée sombre avec deux pommes de douche en fonctionnement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baltic Princess",
+      "note": "Receveur non visible."
     }
   ]
 }

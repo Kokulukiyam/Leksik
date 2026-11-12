@@ -1,0 +1,162 @@
+[
+ {
+  "cle": "acier-corten/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "acier-galvanise/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "inox/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "entablement/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "volute/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "feuille-d-acanthe/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "cannelure/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chapiteau-corinthien/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chapiteau-corinthien/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chapiteau-ionique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "chapiteau-dorique/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "vitrail/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "vitrail/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "vitrail/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "fresque/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "fresque/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "crinting/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ronier/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "maison-coloniale/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "porte-a-panneaux/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "barreaudage/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ouvrant/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "petit-bois/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "paumelle-a-souder/07",
+  "accord": false,
+  "raison": "Charnière de portail lourde à platine boulonnée et axe réglable, pas une paumelle cylindrique soudée ; « le gond » serait aussi plausible."
+ },
+ {
+  "cle": "serrure-en-applique/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "bouton-de-porte/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "targette/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ferme-porte/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ferme-porte/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "barre-antipanique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "barre-antipanique/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "escalier-metallique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ }
+]

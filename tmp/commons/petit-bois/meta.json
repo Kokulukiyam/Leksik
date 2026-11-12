@@ -11,7 +11,11 @@
       "glazing bars window panes"
     ],
     "incompatibles": [
-      "fenetre"
+      "fenetre",
+      "fenetre-a-la-francaise",
+      "fenetre-a-guillotine",
+      "porte-fenetre",
+      "chassis-fixe"
     ],
     "categoriesCommons": [
       "Category:Muntins",
@@ -135,6 +139,152 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Sprossenfenster_03.jpg/1280px-Sprossenfenster_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3008,
       "hauteur": 2000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Contemporary American Window with Muntins 02.jpg",
+      "description": "muntins are mounted between the glass",
+      "categories": [
+        "Self-published work",
+        "Windows in the United States",
+        "Close-up photographs of man-made objects",
+        "Muntins"
+      ],
+      "auteur": "Stilfehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Contemporary_American_Window_with_Muntins_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Contemporary_American_Window_with_Muntins_02.jpg/1280px-Contemporary_American_Window_with_Muntins_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:500px photo (105270455).jpeg",
+      "description": "500px provided description: Img 0840 Jpg [#building ,#haus ,#h?tte]",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Elektroll",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(105270455).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/500px_photo_%28105270455%29.jpeg/1280px-500px_photo_%28105270455%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1364,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bredevoort (NL), St.-Joris-Kerk -- 2016 -- 4157.jpg",
+      "description": "Window at the St. Joris Kerk in Bredevoort , Gelderland , Netherlands",
+      "categories": [
+        "Photographs by Dietmar Rabich/Quality images of the Netherlands",
+        "Taken with Canon EOS 70D",
+        "Window frames",
+        "Sint-Joriskerk, Bredevoort",
+        "Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM",
+        "ISO speed rating 100",
+        "Groups of 4",
+        "Uploaded with VicuñaUploader",
+        "Photographs with aspect ratio of 4:5",
+        "Self-published work",
+        "F-number f/5.6",
+        "Exposure time 1/125 sec",
+        "Church windows in the Netherlands",
+        "Photographs by Dietmar Rabich/Quality images",
+        "Information field template with formatting",
+        "Photographs by Dietmar Rabich/Quality images of churches",
+        "Church candles in the Netherlands",
+        "Rijksmonumenten with known IDs",
+        "White candles",
+        "Churches in the Netherlands photographed in 2016",
+        "Buildings with addresses",
+        "Images by XRay (flat list)",
+        "Church candlesticks in the Netherlands",
+        "Photographs by Dietmar Rabich/Netherlands",
+        "Photographs by Dietmar Rabich/Medium exposure",
+        "Netherlands photographs taken on 2016-08-20",
+        "Lens focal length 85 mm",
+        "Muntin windows in the Netherlands",
+        "Closed windows in the Netherlands",
+        "4 candles",
+        "Photographs by Dietmar Rabich/Architectural photography/Religious buildings",
+        "Photographs by Dietmar Rabich/Quality images of lighting devices",
+        "Photographs by Dietmar Rabich/Quality images of windows",
+        "Photographs by Dietmar Rabich/Year/2016",
+        "2016 in Bredevoort"
+      ],
+      "auteur": "Dietmar Rabich",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_St.-Joris-Kerk_--_2016_--_4157.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredevoort_%28NL%29%2C_St.-Joris-Kerk_--_2016_--_4157.jpg/1280px-Bredevoort_%28NL%29%2C_St.-Joris-Kerk_--_2016_--_4157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3187,
+      "hauteur": 3984
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Sprossenfenster 02.jpg",
+      "description": "Lattice window with timber frame showing Thermal bridging",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D40",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Thermal bridges",
+        "Self-published work",
+        "Muntins"
+      ],
+      "auteur": "TomAlt",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sprossenfenster_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sprossenfenster_02.jpg/1280px-Sprossenfenster_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2025-03-09 Hameln Deisterstraße 17 1090745.jpg",
+      "description": "Fenster im Wohn- und Geschäftshaus Deisterstraße 17 in Hameln, unter dem Fenster die Beschriftung \"Haus Andrea\"",
+      "categories": [
+        "Windows",
+        "Self-published work",
+        "Uploaded via Campaign:wlm-de-ni",
+        "Cultural heritage monuments in Lower Saxony with known IDs",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2025 in Germany",
+        "Images from Wiki Loves Monuments 2025",
+        "Deisterstraße (Hameln)",
+        "Images from Wiki Loves Monuments 2025 in Germany not for prejury",
+        "Images from Wiki Loves Monuments 2025, DE-NI",
+        "Cultural heritage monuments in Lower Saxony missing SDC location of creation"
+      ],
+      "auteur": "Bärbel Miemietz",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg/1280px-2025-03-09_Hameln_Deisterstra%C3%9Fe_17_1090745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Odolena Voda, sídliště (059).jpg",
+      "description": "Sídliště v Odoleně Vodě.",
+      "categories": [
+        "Window frames",
+        "Uploaded with VicuñaUploader",
+        "Files by Juandev",
+        "Files with coordinates missing SDC location of creation",
+        "Ošklivá architektura",
+        "Housing estate in Odolena Voda"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Odolena_Voda,_s%C3%ADdli%C5%A1t%C4%9B_(059).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28059%29.jpg/1280px-Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6960,
+      "hauteur": 4640
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

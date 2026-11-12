@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Moscou",
       "note": "Détecteurs trop petits."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan d'un détecteur rond de fumée et monoxyde de carbone First Alert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Inscriptions « smoke and carbon monoxide alarm » lisibles qui donnent la réponse ; détecteur combiné."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chambre d'hôtel, détecteur minuscule au plafond au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Indianapolis, États-Unis",
+      "note": "Élément beaucoup trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dessous d'un boîtier d'alarme FireAngel avec étiquettes et câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Royaume-Uni",
+      "note": "Face arrière d'un appareil, non reconnaissable, texte abondant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Détecteur beige carré fixé sur un panneau d'exposition aux textes japonais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shibuya, Japon",
+      "note": "Appareil de démonstration sur panneau, textes visibles ; proche d'une image existante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tube rouge d'aspiration VESDA le long d'un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Afton, États-Unis",
+      "note": "Tuyau de prélèvement, pas un détecteur ponctuel ; texte visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pompier posant un détecteur au plafond sous un plafonnier lumineux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séoul, Corée",
+      "note": "Détecteur caché par la personne et la lumière."
     }
   ]
 }

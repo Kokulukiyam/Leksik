@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Aix-la-Chapelle, Allemagne",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Planche gravée de reliefs égyptiens de Dendérah.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure d'un livre."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Nef baroque dorée : entablement à festons au-dessus de pilastres cannelés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Segorbe, Espagne",
+      "note": "Entablement complet, l'architrave isolée n'est pas nette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trois maisons à pignons à volutes sur une place avec arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arras, France",
+      "note": "Pas d'architrave visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Planche gravée d'architraves du temple de Philae.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure d'un livre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chapiteaux et entablement dorés et colorés d'une chapelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Valence, Espagne",
+      "note": "Entablement complexe, architrave non isolable sans ambiguïté avec frise et corniche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Planche gravée d'une salle hypostyle de Dendérah.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure d'un livre."
     }
   ]
 }

@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Rapperswil, Suisse",
       "note": "Objet liturgique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grille en fer forgé à enroulements, avec un corbeau perché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ferronnerie plutôt que volute architecturale ; oiseau parasite."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux colonnes à chapiteaux ioniques sous un entablement.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nankin, Chine",
+      "note": "Volutes petites et vue d'angle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Crosse épiscopale dorée dans une vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée, volute non architecturale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux colonnes à chapiteaux sous un entablement de brique et pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toulouse, France",
+      "note": "Chapiteaux de type composite, volutes mêlées à d'autres motifs."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Acrotère en pierre à palmette et enroulements, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Noir et blanc, motif dominé par la palmette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur un chapiteau ionique d'un support d'entablement : volutes enroulées en spirale de chaque côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.22,
+        "largeur": 0.26,
+        "hauteur": 0.3
+      },
+      "lieu": "",
+      "note": "Volute nette et grande ; rectangle sur la volute gauche."
     }
   ]
 }

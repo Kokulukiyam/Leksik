@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneau d'essai au feu roussi et délavé en sortie de four, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon d'essai brûlé et flou, pas une porte en situation."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieille porte de planches dans un mur de pierre sous un linteau de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Porte ancienne en bois, aucun indice de coupe-feu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cadre de porte brun foncé sous un chemin de câbles qui traverse le mur, vue tronquée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image mise en scène sur un défaut de calfeutrement ; porte à peine visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Porte turquoise à cadre de brique d'une mosquée, vue de derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aishmuqam, Cachemire",
+      "note": "Porte de bois ordinaire sans rapport avec le coupe-feu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vantail métallique perforé posé à plat sur un établi, en cours de fabrication, avec poignée et oculus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte non posée, aspect d'atelier ; identification incertaine."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Angle d'une cloison vitrée avec profilé fin devant un escalier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrage non identifiable comme porte coupe-feu."
     }
   ]
 }

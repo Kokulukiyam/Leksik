@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Togo",
       "note": "Aliment, pas l'arbre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Feuilles en éventail de jeunes palmiers dans la végétation dense.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togo",
+      "note": "Jeunes palmes noyées dans la végétation, élément peu lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur une palme en éventail de jeune Borassus, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Feuille seule : ne montre pas le palmier ni le stipe."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Champ de rôniers à hauts stipes sous un ciel brumeux de harmattan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zankan, Nigeria",
+      "note": "Correct mais quasi-doublon de 01 et 03, brume."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Un rônier isolé au houppier de palmes en éventail, devant une savane sèche.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Gumel-Kachia, Nigeria",
+      "note": "Palmier net, dominant, centré ; vue différente des images déjà retenues."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Feuillage d'arbres divers avec peu de palmes visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togo",
+      "note": "Rônier à peine visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Palmes en éventail au pied de grands arbres feuillus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Togo",
+      "note": "Palmes cachées par la végétation, pas lisible."
     }
   ]
 }

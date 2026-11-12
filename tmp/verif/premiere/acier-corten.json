@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Amsterdam, Pays-Bas",
       "note": "Petits éléments en arrière-plan, peu lisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Jardinière de pelouse bordée d'une longue bordure en acier brun orangé rouillé, au milieu d'un pavage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.08,
+        "y": 0.28,
+        "largeur": 0.82,
+        "hauteur": 0.54
+      },
+      "lieu": "",
+      "note": "Corten bien reconnaissable (patine brun orangé uniforme) ; rectangle sur la bordure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Autoroute de montagne avec garde-corps brun-rouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps minuscules, élément non dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite construction à bardage de tôles brunes rivetées sur un socle en pierre, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Espagne",
+      "note": "Photo sombre et ombrée, élément peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rue de lotissement avec mâts d'éclairage et façades colorées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Corten minuscule ou incertain."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bord de canal fait de palplanches rouillées, avec herbes au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rotterdam, Pays-Bas",
+      "note": "Palplanches rouillées plutôt que Corten, cadre encombré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portillon d'embarcadère entre deux piles brun rouille portant un panneau et un texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Séville, Espagne",
+      "note": "Texte visible, sujet ambigu."
     }
   ]
 }

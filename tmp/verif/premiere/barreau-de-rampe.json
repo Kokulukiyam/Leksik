@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Chatsworth, Royaume-Uni",
       "note": "Balustres de terrasse, pas de rampe d escalier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre de lucarne avec petite balustrade en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Balustres de pierre, pas des barreaux d'escalier."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Escalier métallique avec lisses horizontales.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps à lisses horizontales, pas de barreaux verticaux."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dessin d'un balustre et d'une balustrade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Garde-corps ajouré à motifs découpés devant une verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Munich, Allemagne",
+      "note": "Panneau à motifs, pas de barreaux verticaux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier d'honneur avec balustres en marbre et statue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bucarest, Roumanie",
+      "note": "Balustres en marbre : relève du balustre plutôt que du barreau."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rampe en fer forgé vert à barreaux ouvragés verticaux au-dessus des marches d'un grand escalier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.3,
+        "y": 0.12,
+        "largeur": 0.7,
+        "hauteur": 0.75
+      },
+      "lieu": "Mexico, Mexique",
+      "note": "Barreaux verticaux en fer forgé entre main courante et marches, rectangle contrôlé."
     }
   ]
 }

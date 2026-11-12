@@ -136,6 +136,60 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_from_across_the_river_-_DSC08980.JPG/1280px-Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_from_across_the_river_-_DSC08980.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3648,
       "hauteur": 2736
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Upstairs Room in Erith Old Library (01).jpg",
+      "description": "One of the upstairs rooms inside Erith Old Library; the windows were produced by the Crittall windows.",
+      "categories": [
+        "Crittall windows",
+        "Self-published work",
+        "Interior of Erith Old Library"
+      ],
+      "auteur": "Doyle of London",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Upstairs_Room_in_Erith_Old_Library_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Upstairs_Room_in_Erith_Old_Library_%2801%29.jpg/1280px-Upstairs_Room_in_Erith_Old_Library_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4475,
+      "hauteur": 3282
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Supreme Van Hool bodied Scania R454 YDT - Flickr - sludgegulper.jpg",
+      "description": "Looking a bit tired is this Van hool bodied Scania new in 1998, but owned by the long established Supreme (Abridge Enterprises) concern since new. The reflected Crittall windows behind look very interesting in this melted form. Supreme is now based in Southend-on-Sea , having previously been located in Hadleigh.",
+      "categories": [
+        "Crittall windows",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by Kobac",
+        "Photographs by Felix O",
+        "Van Hool T8 Alizée on Scania K113CRB buses in the United Kingdom"
+      ],
+      "auteur": "Felix O",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Supreme_Van_Hool_bodied_Scania_R454_YDT_-_Flickr_-_sludgegulper.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Supreme_Van_Hool_bodied_Scania_R454_YDT_-_Flickr_-_sludgegulper.jpg/1280px-Supreme_Van_Hool_bodied_Scania_R454_YDT_-_Flickr_-_sludgegulper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2133,
+      "hauteur": 1600
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Marine Court - geograph.org.uk - 1751247.jpg",
+      "description": "Marine Court On the seafront at St Leonards Marine Court is a ocean liner shaped art-deco building, upon completion in 1937 was the tallest block of flats in the United Kingdom, comprising some 153 flats and 3 restaurants. Though a listed building, it is in a poor state of repair and awaiting the outcome of planning enquiries. It has a number of inappropriate modern double glazed, plastic framed windows out of keeping with the original \"Crittall\" style frames St_Leonards-on-Sea",
+      "categories": [
+        "Crittall windows",
+        "Images from Geograph Britain and Ireland",
+        "Marine Court, St Leonards-on-Sea",
+        "Information field template with formatting",
+        "Images by Paul Gillett"
+      ],
+      "auteur": "Paul Gillett",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marine_Court_-_geograph.org.uk_-_1751247.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Marine_Court_-_geograph.org.uk_-_1751247.jpg/1280px-Marine_Court_-_geograph.org.uk_-_1751247.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

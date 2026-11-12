@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Portail d'église à deux grands vantaux de bois sculpté écartés devant la nef.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Muñoz, Philippines",
+      "note": "Rien n'indique un coulissement sur rail ; vantaux plutôt battants ou escamotés, doute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grand tronc d'arbre à contreforts en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune porte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison de brique avec porte vitrée ouverte sur une terrasse, des hommes debout devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte petite, mécanisme invisible, personnes au premier plan."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Détail d'un vantail à lames verticales de bois avec poignée et serrure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bolzano, Italie",
+      "note": "Vantail plein, rien n'indique qu'il coulisse."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrée vitrée de magasin la nuit, graffitis et affiches sur la vitrine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Minneapolis, États-Unis",
+      "note": "Porte automatique de magasin, graffitis et texte visibles, doute avec la porte automatique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vieille porte de bois sculptée en noir et blanc d'une pharmacie arabe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Porte battante sculptée, pas coulissante."
     }
   ]
 }

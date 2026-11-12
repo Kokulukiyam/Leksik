@@ -11,7 +11,9 @@
       "drywall access hatch"
     ],
     "incompatibles": [
-      "faux-plafond"
+      "faux-plafond",
+      "faux-plafond-en-plaques-de-platre",
+      "faux-plafond-en-dalles"
     ]
   },
   "candidats": [
@@ -131,6 +133,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skoda_1000MB_hajaja_engine_2.JPG/1280px-Skoda_1000MB_hajaja_engine_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2048,
       "hauteur": 1536
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Faeces sieve (3040760142).jpg",
+      "description": "Open inspection door and filling inlet at the right end. This inlet is where the contents of the faeces bins has to be filled in manually!",
+      "categories": [
+        "Sanitation",
+        "Access panels and doors",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Faeces_sieve_(3040760142).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Faeces_sieve_%283040760142%29.jpg/1280px-Faeces_sieve_%283040760142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Old School of Medicine interior (18b).jpg",
+      "description": "Interior of Leeds School of Medicine, Thoresby Place, Leeds, West Yorkshire, England. It was designed by William Henry Thorp (born 1852), founded in 1890, and completed in 1894. All the original stone carving on the exterior, and the original wood and stone carving inside, was executed by John Wormald Appleyard (1831-1894). Showing a carved stone wall plaque by Appleyard, in the hexagonal entrance hall.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Plaques in Leeds",
+        "Wooden plaques in England",
+        "Old Leeds School of Medicine, entrance hall",
+        "Old Leeds School of Medicine, interior carving by Appleyard"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_School_of_Medicine_interior_(18b).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Old_School_of_Medicine_interior_%2818b%29.jpg/1280px-Old_School_of_Medicine_interior_%2818b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 1264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:US Navy 101006-N-8913A-056 Aviation Electrician's Mates 2nd Class Matthew C. Sereda, right, and William K. Bishop, both assigned to the Shadowhawks.jpg",
+      "description": "ATLANTIC OCEAN (Oct. 6, 2010) Aviation Electrician's Mates 2nd Class Matthew C. Sereda, right, and William K. Bishop, both assigned to the Shadowhawks of Electronic Attack Squadron (VAQ) 141, raise the generator access door of an EA-18G Growler in the hangar bay of the aircraft carrier USS George H.W. Bush (CVN 77). George H.W. Bush is conducting training in the Atlantic Ocean. (U.S. Navy photo by Mass Communication Specialist Seaman Leonard Adams/Released)",
+      "categories": [
+        "Taken with Nikon D300s",
+        "Boeing EA-18G Growler",
+        "Electronic Attack Squadron 141 (United States Navy)",
+        "Access panels and doors",
+        "PD US Navy",
+        "Files created by the United States Navy with known IDs",
+        "CC-PD-Mark",
+        "Maintenance of military aircraft on USS George H. W. Bush (CVN-77)"
+      ],
+      "auteur": "U.S. Navy photo by Mass Communication Specialist Seaman Leonard Adams",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:US_Navy_101006-N-8913A-056_Aviation_Electrician%27s_Mates_2nd_Class_Matthew_C._Sereda,_right,_and_William_K._Bishop,_both_assigned_to_the_Shadowhawks.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/US_Navy_101006-N-8913A-056_Aviation_Electrician%27s_Mates_2nd_Class_Matthew_C._Sereda%2C_right%2C_and_William_K._Bishop%2C_both_assigned_to_the_Shadowhawks.jpg/1280px-US_Navy_101006-N-8913A-056_Aviation_Electrician%27s_Mates_2nd_Class_Matthew_C._Sereda%2C_right%2C_and_William_K._Bishop%2C_both_assigned_to_the_Shadowhawks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1627,
+      "hauteur": 1152
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Old School of Medicine interior (19a).JPG",
+      "description": "Interior of Leeds School of Medicine, Thoresby Place, Leeds, West Yorkshire, England. It was designed by William Henry Thorp (born 1852), founded in 1890, and completed in 1894. All the original stone carving on the exterior, and the original wood and stone carving inside, was executed by John Wormald Appleyard (1831-1894). Showing a carved wooden wall plaque by Appleyard, on a tiled arch in the hexagonal entrance hall.",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "Self-published work",
+        "Plaques in Leeds",
+        "Wooden plaques in England",
+        "Old Leeds School of Medicine, entrance hall",
+        "Old Leeds School of Medicine, interior carving by Appleyard"
+      ],
+      "auteur": "Storye book",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_School_of_Medicine_interior_(19a).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Old_School_of_Medicine_interior_%2819a%29.JPG/1280px-Old_School_of_Medicine_interior_%2819a%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5156,
+      "hauteur": 3548
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Skoda 1000MB hajaja engine 1.JPG",
+      "description": "Engine of Škoda 1000MB Combi prototype as viewed from luggage hold throught service door.",
+      "categories": [
+        "Škoda 1000 MB Combi",
+        "Access panels and doors",
+        "Self-published work",
+        "PD-self",
+        "Taken with Sony Ericsson K800i",
+        "1960s Škoda automobiles in the Škoda Museum",
+        "Depository of Škoda Museum"
+      ],
+      "auteur": "VentYl",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Skoda_1000MB_hajaja_engine_1.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Skoda_1000MB_hajaja_engine_1.JPG/1280px-Skoda_1000MB_hajaja_engine_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A-26 Invader City of Santa Rosa nose access hatch.JPG",
+      "description": "The nose access hatch of the Douglas A-26 Invader \"City of Santa Rosa\", on display at the Pacific Coast Air Museum in Santa Rosa, California.",
+      "categories": [
+        "GFDL",
+        "Taken with Olympus FE-280 / X-820 / C-520",
+        "License migration redundant",
+        "Access panels and doors",
+        "Self-published work",
+        "Photos by User:BrokenSphere",
+        "A-26 Invader at Pacific Coast Air Museum"
+      ],
+      "auteur": "BrokenSphere",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A-26_Invader_City_of_Santa_Rosa_nose_access_hatch.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/A-26_Invader_City_of_Santa_Rosa_nose_access_hatch.JPG/1280px-A-26_Invader_City_of_Santa_Rosa_nose_access_hatch.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

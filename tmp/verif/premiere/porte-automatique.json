@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Sas vitré à portes coulissantes surmonté d'un rideau d'air, entouré de plantes, d'une exposition et de personnes floutées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, portes peu lisibles, personnes masquées par des pastilles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Homme qui entre dans une porte vitrée coulissante couverte de rubans adhésifs bleus et beiges avant un ouragan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Vitres masquées par des rubans, personne au centre : porte peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Caserne de pompiers aux portes de garage rouges et tour d'exercice, ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Abbeyfeale, Irlande",
+      "note": "Portes de garage sectionnelles, pas une porte automatique vitrée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Portail coulissant de tôle ondulée grise en entrée de cour, avec texte « Einfahrt ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Steyr, Autriche",
+      "note": "Portail métallique de cour, pas une porte vitrée automatique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Caserne de pompiers blanche à porte de garage rouge, ciel nuageux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dingle, Irlande",
+      "note": "Porte de garage, texte bilingue visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mécanisme bricolé de moteur et fils fixé sur une porte de bois et sa poignée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bricolage de laboratoire, pas une porte automatique."
     }
   ]
 }

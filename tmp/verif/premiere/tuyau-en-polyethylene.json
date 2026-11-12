@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Blanc, sous emballage avec texte visible : pas un tuyau PE noir."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gaine noire annelée parmi des tuyaux gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouillis, matériaux mêlés."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vanne à volant sous une verrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tuyau annelé bleu posé sur du sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Drain annelé, pas du PE en couronne."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyaux noirs à isolant blanc en usine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyaux préisolés en acier, pas du PE souple."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Étal de quincaillerie avec tuyau transparent bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyau transparent en PVC, hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tuyau de descente d'eau gelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

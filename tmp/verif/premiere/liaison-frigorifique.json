@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Militaire travaillant sur le câblage d'un groupe de climatisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de liaison frigorifique identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Main tenant une télécommande devant un split flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune liaison visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Split mural blanc sur mur bleu avec un seul câble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune paire de tubes cuivre isolés visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur de gros flexibles annelés métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines flexibles d'air, pas des tubes frigorifiques."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rafraîchisseur d'air mobile contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de liaison frigorifique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ventilateur rond derrière une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burdwan, Inde",
+      "note": "Sans rapport avec la liaison."
     }
   ]
 }

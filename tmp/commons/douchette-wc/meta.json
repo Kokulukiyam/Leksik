@@ -11,7 +11,9 @@
       "shattaf"
     ],
     "incompatibles": [
-      "cuvette-de-wc"
+      "cuvette-de-wc",
+      "wc-suspendu",
+      "wc-a-la-turque"
     ],
     "categoriesCommons": [
       "Category:Bidet showers",
@@ -129,6 +131,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/232_Bidet_s%C3%BCddeutsch_c1770.jpg/1280px-232_Bidet_s%C3%BCddeutsch_c1770.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2440,
       "hauteur": 3564
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Muslim toilet.jpg",
+      "description": "Muslim toilet with bidet shower and plastic ewer (\"Nurdaulet\" mosque, Aktobe city, Kazakhstan ).",
+      "categories": [
+        "Bidet showers",
+        "Hygiene",
+        "Self-published work",
+        "Toilets in Kazakhstan",
+        "Taken with Samsung GT-N7100",
+        "Photographs by User:Esetok"
+      ],
+      "auteur": "Esetok",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Muslim_toilet.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Muslim_toilet.jpg/1280px-Muslim_toilet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bidet in Italy 3.jpg",
+      "description": "Water flowing on a bidet in Ostello di Saronno.",
+      "categories": [
+        "Saronno",
+        "Taken with Panasonic Lumix DMC-TZ100 / TZ110 / ZS100 / ZS110",
+        "Bidets",
+        "Self-published work",
+        "Toilets in Italy",
+        "Water in movement",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2022-08-09"
+      ],
+      "auteur": "Tiia Monto",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_in_Italy_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bidet_in_Italy_3.jpg/1280px-Bidet_in_Italy_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4428,
+      "hauteur": 3372
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Waldorf Astoria NY bidet shower.jpg",
+      "description": "A bidet shower at the Waldorf Astoria New York , in a 23rd floor guest suite, March 2014.",
+      "categories": [
+        "Bidet showers",
+        "Taken with iPhone 5S",
+        "Self-published work",
+        "Waldorf–Astoria interior",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Lwarrenwiki",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Waldorf_Astoria_NY_bidet_shower.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Waldorf_Astoria_NY_bidet_shower.jpg/1280px-Waldorf_Astoria_NY_bidet_shower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 2400
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bidet 1960 P4580468.JPG",
+      "description": "Badezimmer mit Bidet",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-GH2",
+        "Bidets",
+        "Self-published work",
+        "PD-self"
+      ],
+      "auteur": "Fernost",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_1960_P4580468.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bidet_1960_P4580468.JPG/1280px-Bidet_1960_P4580468.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bum Gun Detail.JPG",
+      "description": "Bidet shower, Health Faucet, Toilet Spray, Bum Gun",
+      "categories": [
+        "Bidet showers",
+        "Taken with Pentax K100D",
+        "Self-published work"
+      ],
+      "auteur": "Sv7n",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bum_Gun_Detail.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bum_Gun_Detail.JPG/1280px-Bum_Gun_Detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1467,
+      "hauteur": 1466
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bidet of Madame Pompadour du cabinet des Dépêches.jpg",
+      "description": "Madame de Pompadour 's bidet in the Cabinet des Dépêches",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D40",
+        "Madame de Pompadour",
+        "Marquetry",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Bidets",
+        "License migration redundant",
+        "Cabinet des Dépêches",
+        "Self-published work",
+        "All images from the partnership with the Château de Versailles",
+        "Media supported by Wikimedia France",
+        "Wikimedia takes the Château de Versailles, March 25, 2011",
+        "18th-century furniture in France",
+        "Wooden furniture in France",
+        "Wooden chairs",
+        "Upholstered chairs in the Palace of Versailles"
+      ],
+      "auteur": "Trizek",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bidet_of_Madame_Pompadour_du_cabinet_des_D%C3%A9p%C3%AAches.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bidet_of_Madame_Pompadour_du_cabinet_des_D%C3%A9p%C3%AAches.jpg/1280px-Bidet_of_Madame_Pompadour_du_cabinet_des_D%C3%A9p%C3%AAches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 3008
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

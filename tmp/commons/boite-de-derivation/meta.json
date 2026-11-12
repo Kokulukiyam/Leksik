@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Junction boxes"
+    ],
+    "incompatibles": [
+      "boite-d-encastrement"
     ]
   },
   "candidats": [
@@ -133,6 +136,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Junction_box_for_drywall.JPG/1280px-Junction_box_for_drywall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 7300,
       "hauteur": 5480
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Modern European and old Soviet junction boxes.JPG",
+      "description": "Junction boxes from two eras.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Modern_European_and_old_Soviet_junction_boxes.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Modern_European_and_old_Soviet_junction_boxes.JPG/1280px-Modern_European_and_old_Soviet_junction_boxes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:ABB AU19 junction box for drywall with AK11 cover.JPG",
+      "description": "ABB junction box for drywall. Core attaching to native wall by 4 screws and cover could be installed after fixing drywall.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work",
+        "ABB products"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ABB_AU19_junction_box_for_drywall_with_AK11_cover.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/ABB_AU19_junction_box_for_drywall_with_AK11_cover.JPG/1280px-ABB_AU19_junction_box_for_drywall_with_AK11_cover.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2660
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Conduit junction box smoke migration.jpg",
+      "description": "Juntion box with electrical conduit and cables running in and out and one simple question: What about smoke migration throughout the conduit network?",
+      "categories": [
+        "GFDL",
+        "Firestops",
+        "Electrical conduit",
+        "License migration redundant",
+        "Power boxes",
+        "Self-published work"
+      ],
+      "auteur": "Achim Hering",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Conduit_junction_box_smoke_migration.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Conduit_junction_box_smoke_migration.jpg/1280px-Conduit_junction_box_smoke_migration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3131,
+      "hauteur": 4714
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:ABB junction box for drywall.JPG",
+      "description": "ABB junction box for drywall.",
+      "categories": [
+        "GFDL",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work",
+        "ABB products"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ABB_junction_box_for_drywall.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ABB_junction_box_for_drywall.JPG/1280px-ABB_junction_box_for_drywall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 7300,
+      "hauteur": 5480
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Кулантобе, распредкоробка СЦБ.jpg",
+      "description": "Electrical centralisation system junction box at Kulan-Tobe railway station. Almaty Region, Kazakhstan.",
+      "categories": [
+        "Self-published work",
+        "Outdoor junction boxes",
+        "Street furniture in Almaty Region"
+      ],
+      "auteur": "Nikolaï Boulykine",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D0%BB%D0%B0%D0%BD%D1%82%D0%BE%D0%B1%D0%B5,_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%A1%D0%A6%D0%91.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%9A%D1%83%D0%BB%D0%B0%D0%BD%D1%82%D0%BE%D0%B1%D0%B5%2C_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%A1%D0%A6%D0%91.jpg/1280px-%D0%9A%D1%83%D0%BB%D0%B0%D0%BD%D1%82%D0%BE%D0%B1%D0%B5%2C_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%A1%D0%A6%D0%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3280,
+      "hauteur": 3280
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:How to install SKX junction box for memory relay switches.JPG",
+      "description": "Lining cables for memory relay push-buttons",
+      "categories": [
+        "GFDL",
+        "How-tos",
+        "Junction boxes",
+        "License migration redundant",
+        "Self-published work",
+        "Memory relay"
+      ],
+      "auteur": "Dmitry G",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:How_to_install_SKX_junction_box_for_memory_relay_switches.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/How_to_install_SKX_junction_box_for_memory_relay_switches.JPG/1280px-How_to_install_SKX_junction_box_for_memory_relay_switches.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3800,
+      "hauteur": 1560
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

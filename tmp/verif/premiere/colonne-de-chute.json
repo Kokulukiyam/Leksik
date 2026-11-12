@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tuyaux d'aqueduc en terre cuite dans une vitrine de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Canalisation antique en vitrine, pas une colonne de chute."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tunnel en tôle ondulée annulaire, silhouette au fond, en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tunnel, pas une colonne de chute."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tube PVC blanc percé par une perceuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tube isolé, aucun contexte de chute verticale."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque en bronze Art nouveau entourant l'extrémité d'un tuyau en terre cuite sur un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornement de façade, pas une colonne de chute lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tranchée de travaux urbains avec tuyaux enterrés dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réseau enterré horizontal, pas une colonne de chute."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond de chantier avec réseaux de tuyaux isolés et des ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyauteries horizontales de plafond, rien d'une colonne de chute identifiable."
     }
   ]
 }

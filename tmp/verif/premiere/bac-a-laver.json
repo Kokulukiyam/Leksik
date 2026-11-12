@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gravure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lavabo ancien avec miroir dans un café.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lavabo, pas un bac à laver."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auge de lavabos collectifs en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bad Cannstatt, Allemagne",
+      "note": "Lavabo collectif et non bac profond."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Siphon et tuyauterie sous un lavabo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le bac."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Page de catalogue ancien d'éviers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Dessin gravé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Lavabo mural abandonné devant un carrelage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lavabo, pas un bac à laver."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Un homme installe deux vasques sur un plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Équateur",
+      "note": "Pas un bac à laver."
     }
   ]
 }

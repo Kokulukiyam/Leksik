@@ -123,6 +123,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28058%29.jpg/1280px-Odolena_Voda%2C_s%C3%ADdli%C5%A1t%C4%9B_%28058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6960,
       "hauteur": 4640
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:4 windows.jpg",
+      "description": "Black and white photograph of four windows at Duncan of Jordanstone College of Art.",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Eldmond",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:4_windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/4_windows.jpg/1280px-4_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2windows.jpg",
+      "description": "Windows in a brick wall",
+      "categories": [
+        "Taken with Canon EOS 350D",
+        "GFDL-1.2",
+        "Windows"
+      ],
+      "auteur": "Jonathunder",
+      "licence": "GFDL 1.2",
+      "lien": "https://commons.wikimedia.org/wiki/File:2windows.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2windows.jpg/1280px-2windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2160
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Picture by Edmir Silvestre (21938905686).jpg",
+      "description": "",
+      "categories": [
+        "Lanterns",
+        "Window frames",
+        "Media lacking a description",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Edmir Silvestre",
+        "Unidentified locations in Pamplona"
+      ],
+      "auteur": "Edmir Silvestre from Rio de Janeiro-RJ, Brasil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Picture_by_Edmir_Silvestre_(21938905686).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Picture_by_Edmir_Silvestre_%2821938905686%29.jpg/1280px-Picture_by_Edmir_Silvestre_%2821938905686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3076,
+      "hauteur": 3564
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2016 366 67 Window dressing (25601207095).jpg",
+      "description": "original flickr: 2016/366/67 Window dressing Nelson Street",
+      "categories": [
+        "Windows",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Nelson Street, Vancouver"
+      ],
+      "auteur": "Edna Winti",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2016_366_67_Window_dressing_(25601207095).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2016_366_67_Window_dressing_%2825601207095%29.jpg/1280px-2016_366_67_Window_dressing_%2825601207095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3575,
+      "hauteur": 2462
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ptuj - Murkova 2 - okno in vogalni stolpič.jpg",
+      "description": "Ptuj (14)",
+      "categories": [
+        "Taken with Nikon D90",
+        "Window frames",
+        "Buildings in Ptuj",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Photographs by János Korom",
+        "Turrets (architecture) in Slovenia",
+        "SpomenikSVN warning",
+        "Neo-Renaissance facades in Slovenia",
+        "Windows in Ptuj"
+      ],
+      "auteur": "János Korom Dr. from Wien, Austria",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg/1280px-Ptuj_-_Murkova_2_-_okno_in_vogalni_stolpi%C4%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1584,
+      "hauteur": 1058
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:3 Cats in the Window.jpg",
+      "description": "Curious cats observing handyman",
+      "categories": [
+        "Tuxedoes",
+        "Windows",
+        "Rescue",
+        "Self-published work",
+        "Black tortoiseshell and white cats",
+        "Black tabby cats",
+        "Groups of kittens with varying coat colours",
+        "Groups of cats with varying coat colors"
+      ],
+      "auteur": "Eesco9141",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:3_Cats_in_the_Window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/3_Cats_in_the_Window.jpg/1280px-3_Cats_in_the_Window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

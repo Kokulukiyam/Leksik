@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Montecchio, Italie",
       "note": "Escalier étroit en pente, texte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Porte d'entrée sombre dans un encadrement sculpté, précédée de quelques marches en pierre et d'un palier.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.74,
+        "largeur": 0.98,
+        "hauteur": 0.26
+      },
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Petit escalier extérieur avec plateforme devant l'entrée ; rectangle placé sur les marches pour écarter l'encadrement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Galerie avec tableaux et escalier intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sanok, Pologne",
+      "note": "Intérieur, pas un perron."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade à colonnes avec large emmarchement devant trois portes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Emmarchement monumental : confusion avec l'escalier, colonnes dominantes."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne d'un départ d'escalier à rampe en fer forgé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Escalier intérieur, ancien cliché."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Auditorio de Tenerife avec emmarchement sous la voûte de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Santa Cruz de Tenerife, Espagne",
+      "note": "Perron noyé dans l'architecture, retouche HDR."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cour de l'Audiencia, ancien cliché sépia avec escalier extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barcelone, Espagne",
+      "note": "Photo ancienne, escalier de cour et non perron."
     }
   ]
 }

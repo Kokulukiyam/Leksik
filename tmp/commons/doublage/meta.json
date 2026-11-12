@@ -124,6 +124,81 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Trockenbau.jpg/1280px-Trockenbau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2988,
       "hauteur": 5312
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Light gage metal framing.JPG",
+      "description": "Light guage metal framing",
+      "categories": [
+        "Taken with Nikon Coolpix 990",
+        "Steel framing",
+        "Dry lining",
+        "Self-published work",
+        "PD-self",
+        "Photos by P199",
+        "Metal wall studs"
+      ],
+      "auteur": "P199",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Light_gage_metal_framing.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Light_gage_metal_framing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Moscow, Begovaya Station rebuild Aug 2025 09.jpg",
+      "description": "Вялотекущий ремонт станции \"Беговая\". В июле 2024 здесь была частично демонтирована мраморная плитка. В августе 2025 полностью расчищены силовые бетонные стены, установлены продольные профили и кронштейны для монтажа новой фальшстены. Глядишь, года через три завершат.",
+      "categories": [
+        "CC-Zero",
+        "Dry lining",
+        "Self-published work",
+        "Begovaya (Moscow Metro)",
+        "Steel studs",
+        "Moscow photographs taken on 2025-08-19",
+        "Photographs by Retired electrician/sovietlegacy"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Begovaya_Station_rebuild_Aug_2025_09.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Moscow%2C_Begovaya_Station_rebuild_Aug_2025_09.jpg/1280px-Moscow%2C_Begovaya_Station_rebuild_Aug_2025_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Trockenbau in München.jpg",
+      "description": "Zwei Trockenbauer auf der Baustelle",
+      "categories": [
+        "Dry lining",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files with coordinates missing SDC location of creation (48° N, 11° E)",
+        "Drywalls in Germany",
+        "Photographs by Casey Hugelfink"
+      ],
+      "auteur": "Casey Hugelfink",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Trockenbau_in_M%C3%BCnchen.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Trockenbau_in_M%C3%BCnchen.jpg/1280px-Trockenbau_in_M%C3%BCnchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gipsväggar.jpg",
+      "description": "Väggar och tak med gipsskivor.",
+      "categories": [
+        "Dry lining",
+        "Self-published work"
+      ],
+      "auteur": "Jorchr",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gipsv%C3%A4ggar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gipsv%C3%A4ggar.jpg/1280px-Gipsv%C3%A4ggar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

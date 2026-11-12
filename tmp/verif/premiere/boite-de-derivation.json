@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Planche composite."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boîte de dérivation ronde grise en saillie sur un mur à la jonction mur-plafond, avec trois câbles gainés qui y entrent ; un nid d'hirondelle à côté.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.2,
+        "largeur": 0.24,
+        "hauteur": 0.31
+      },
+      "lieu": "",
+      "note": "Boîtier à couvercle où arrivent plusieurs câbles, typique ; rectangle sur la boîte pour écarter le nid et les câbles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Boîtier rond gris à presse-étoupes défonçables et son couvercle blanc, avec deux vis, sur fond gris.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîte ronde avec son couvercle, bornes de raccordement prévues ; image claire, boîte d'encastrement incompatible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Boîtier métallique ouvert avec fils rouges raccordés sur bornes et feuille manuscrite sur le sujet de la fumée dans les conduits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte manuscrit visible, boîtier plus proche d'un petit tableau, image sombre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quatre vues du même boîtier rond gris avec couvercle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planche composite et quasi-doublon des autres vues de ce boîtier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Borne noire en fonte et béton à toit jaune et noir dans une steppe, près d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boîtier de signalisation ferroviaire en plein air, pas une boîte de dérivation de bâtiment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plan et quatre photos de fils sortant d'un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage avec plan, aucune boîte visible."
     }
   ]
 }

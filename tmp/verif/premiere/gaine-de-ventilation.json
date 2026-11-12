@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peu lisible, éclairage terne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Galerie de bunker avec tuyauteries calorifugées et chemin de câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cochem, Allemagne",
+      "note": "Réseaux mélangés, nature des conduits incertaine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cave sombre avec un conduit aluminium souple relié à une chaudière au mazout.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Merrickville, Canada",
+      "note": "Gaine visible mais scène sombre et encombrée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Caisson de ventilation avec ventilateur suspendu sous plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Centrale/caisson de ventilation, risque de confusion avec la CTA."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier sur nacelle près de gaines calorifugées sous un plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gaines noyées dans le chantier, peu lisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier meulant un grand tronçon cylindrique de gaine en atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tronçon isolé en fabrication, pas en place."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gaines calorifugées rectangulaire et ronde en sous-face de toiture d'un bâtiment industriel.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.39,
+        "largeur": 0.57,
+        "hauteur": 0.26
+      },
+      "lieu": "",
+      "note": "Gaine en tôle isolée nette avec coude ; rectangle pour la distinguer des tubes électriques ; résolution moyenne."
     }
   ]
 }

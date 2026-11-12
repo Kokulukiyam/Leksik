@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Shower trays",
       "Category:Showers"
+    ],
+    "incompatibles": [
+      "caniveau-de-douche"
     ]
   },
   "candidats": [
@@ -138,6 +141,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg/1280px-ASC_Leiden_-_Rwanda_2021_-_092_-_Shower_-_Kigali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Showers, FOB Airborne, Afghanistan.jpg",
+      "description": "The following is the author's description of the photograph quoted directly from the photograph's Flickr page. \"My new place for getting clean. \"",
+      "categories": [
+        "Showers",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC source of file",
+        "Afghanistan photographs taken on 2009-10-14",
+        "Shower doors",
+        "Forward Operating Base Airborne",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in",
+        "Shower trays"
+      ],
+      "auteur": "Brian Hillegas",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Showers,_FOB_Airborne,_Afghanistan.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Showers%2C_FOB_Airborne%2C_Afghanistan.jpg/1280px-Showers%2C_FOB_Airborne%2C_Afghanistan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1988,
+      "hauteur": 1712
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Amorella 20220526 - Viking Line - 20220527 - 11.jpg",
+      "description": "Viking Line-fartyget Amorella, den 27 maj 2022. Duschar hos herrarna i Sauna",
+      "categories": [
+        "Showers",
+        "Self-published work",
+        "Interior of Amorella (ship, 1988)"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg/1280px-Amorella_20220526_-_Viking_Line_-_20220527_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Laurel Dorm before renovation- shower (50567060506).jpg",
+      "description": "NPS / Jacob W. Frank",
+      "categories": [
+        "PD US NPS",
+        "Files from Yellowstone NPS Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2020-10-28",
+        "U.S. National Park Service Flickr files uploaded by OptimusPrimeBot",
+        "Flickr images missing SDC published in",
+        "Shower trays",
+        "Laurel Dorm (Old Faithful)"
+      ],
+      "auteur": "YellowstoneNPS",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Laurel_Dorm_before_renovation-_shower_(50567060506).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Laurel_Dorm_before_renovation-_shower_%2850567060506%29.jpg/1280px-Laurel_Dorm_before_renovation-_shower_%2850567060506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5792,
+      "hauteur": 8688
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2017 Puebla earthquake damage in house 3.jpg",
+      "description": "The shower was slightly damaged after the 2017 Puebla earthquake.",
+      "categories": [
+        "Showers",
+        "Shower heads",
+        "Wall tiles",
+        "Self-published work",
+        "Bathrooms in Mexico",
+        "2017 Puebla earthquake in Mexico City"
+      ],
+      "auteur": "Ericamack1986",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2017_Puebla_earthquake_damage_in_house_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/2017_Puebla_earthquake_damage_in_house_3.jpg/1280px-2017_Puebla_earthquake_damage_in_house_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Madison Dorm Employee Housing Improvement Project- shower (50567045686).jpg",
+      "description": "NPS / Jacob W. Frank",
+      "categories": [
+        "PD US NPS",
+        "Flickr images missing SDC creator",
+        "Files from Yellowstone NPS Flickr stream",
+        "Flickr images reviewed by FlickreviewR 2",
+        "United States photographs taken on 2020-10-28",
+        "U.S. National Park Service Flickr files uploaded by OptimusPrimeBot",
+        "Flickr images missing SDC published in",
+        "Shower trays",
+        "Government housing at Madison Junction"
+      ],
+      "auteur": "YellowstoneNPS",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Madison_Dorm_Employee_Housing_Improvement_Project-_shower_(50567045686).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Madison_Dorm_Employee_Housing_Improvement_Project-_shower_%2850567045686%29.jpg/1280px-Madison_Dorm_Employee_Housing_Improvement_Project-_shower_%2850567045686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 8162,
+      "hauteur": 5441
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Baltic Princess, 20220910, Showers.jpg",
+      "description": "Duschar till poolområdet på Baltic Princess, den 10 september 2022",
+      "categories": [
+        "Showers",
+        "Interior of Baltic Princess (ship, 2008)",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "AleWi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baltic_Princess,_20220910,_Showers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Baltic_Princess%2C_20220910%2C_Showers.jpg/1280px-Baltic_Princess%2C_20220910%2C_Showers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

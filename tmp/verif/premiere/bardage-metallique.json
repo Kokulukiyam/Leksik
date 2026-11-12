@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Aarhus, Danemark",
       "note": "Tôle galvanisée vieillie, risque de confusion avec acier galvanisé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade en damier de panneaux de tôle perforée blanche et de vides sombres, vue en diagonale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Tôle perforée / métal déployé : confusion avec des termes voisins ; pas de nervures."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite centrale technique habillée de panneaux métalliques brillants emboutis, avec une grande cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Parement embouti brillant évoquant l'inox ou l'aluminium ; pas un bardage nervuré."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trois tours d'habitation au bord d'un fleuve, façades claires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Bâtiment lointain, matériau non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Même centrale à façade métallique brillante, cheminée centrale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Parement embouti brillant, peut passer pour inox ou aluminium."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Angle de façade en damier de panneaux perforés sous un ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stockholm, Suède",
+      "note": "Panneaux de tôle perforée : terme voisin possible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneaux de tôle rouillés rivetés sur une surface courbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cardiff, Pays de Galles",
+      "note": "Aspect acier Corten et rivets, pas un bardage nervuré."
     }
   ]
 }

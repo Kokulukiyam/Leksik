@@ -2807,6 +2807,16 @@
     ]
   },
   {
+    "id": "acier-galvanise",
+    "terme": "l'acier galvanisé",
+    "definition": "Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "acier"
+    ]
+  },
+  {
     "id": "inox",
     "terme": "l'inox",
     "definition": "Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.",
@@ -3235,6 +3245,28 @@
     ]
   },
   {
+    "id": "chapiteau-ionique",
+    "terme": "le chapiteau ionique",
+    "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d'autre.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "volute"
+    ]
+  },
+  {
+    "id": "chapiteau-dorique",
+    "terme": "le chapiteau dorique",
+    "definition": "Chapiteau simple formé d'un coussinet arrondi surmonté d'une tablette carrée.",
+    "categorie": "Ornement",
+    "priorite": 2,
+    "incompatibles": [
+      "chapiteau",
+      "chapiteau-ionique"
+    ]
+  },
+  {
     "id": "vitrail",
     "terme": "le vitrail",
     "definition": "Composition de verres colorés assemblés par des plombs, qui garnit une baie.",
@@ -3335,6 +3367,16 @@
     "incompatibles": [
       "laterite",
       "moellon"
+    ]
+  },
+  {
+    "id": "crinting",
+    "terme": "le crinting",
+    "definition": "Panneau de lattes de bambou ou de nervures de rônier tressées, utilisé au Sénégal en palissade, en clôture ou en paroi de case.",
+    "categorie": "Afrique de l'Ouest",
+    "priorite": 2,
+    "incompatibles": [
+      "paillote"
     ]
   },
   {
@@ -3598,6 +3640,16 @@
     ]
   },
   {
+    "id": "barreaudage",
+    "terme": "le barreaudage",
+    "definition": "Ensemble de barreaux métalliques parallèles qui ferment une ouverture ou forment une grille.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "grille-de-defense"
+    ]
+  },
+  {
     "id": "grille-extensible",
     "terme": "la grille extensible",
     "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
@@ -3616,6 +3668,16 @@
     "priorite": 1,
     "incompatibles": [
       "fenetre"
+    ]
+  },
+  {
+    "id": "ouvrant",
+    "terme": "l'ouvrant",
+    "definition": "Partie mobile d'une fenêtre, qui porte le vitrage et s'ouvre par rapport au dormant.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "vantail"
     ]
   },
   {
@@ -3716,6 +3778,16 @@
     "priorite": 1,
     "incompatibles": [
       "bouton-de-porte"
+    ]
+  },
+  {
+    "id": "bouton-de-porte",
+    "terme": "le bouton de porte",
+    "definition": "Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.",
+    "categorie": "Menuiserie et serrurerie",
+    "priorite": 2,
+    "incompatibles": [
+      "poignee-de-porte"
     ]
   },
   {
@@ -3937,6 +4009,16 @@
     ]
   },
   {
+    "id": "nez-de-marche",
+    "terme": "le nez de marche",
+    "definition": "Bord avant de la marche, souvent arrondi ou garni d'un profilé antidérapant.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "marche"
+    ]
+  },
+  {
     "id": "cage-d-escalier",
     "terme": "la cage d'escalier",
     "definition": "Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.",
@@ -3955,6 +4037,18 @@
     "incompatibles": [
       "rampe-d-escalier",
       "barreau-de-rampe"
+    ]
+  },
+  {
+    "id": "barreau-de-rampe",
+    "terme": "le barreau de rampe",
+    "definition": "Tige verticale, répétée en série, qui remplit l'espace entre la main courante et les marches.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "rampe-d-escalier",
+      "balustre",
+      "garde-corps-a-barreaudage"
     ]
   },
   {
@@ -3987,6 +4081,16 @@
     "priorite": 2,
     "incompatibles": [
       "bateau-de-trottoir"
+    ]
+  },
+  {
+    "id": "bande-podotactile",
+    "terme": "la bande podotactile",
+    "definition": "Bande à plots en relief posée au sol en haut des escaliers pour avertir les personnes malvoyantes.",
+    "categorie": "Escaliers et circulations",
+    "priorite": 2,
+    "incompatibles": [
+      "marche"
     ]
   },
   {
@@ -4298,6 +4402,16 @@
     "priorite": 1
   },
   {
+    "id": "boite-d-encastrement",
+    "terme": "la boîte d'encastrement",
+    "definition": "Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "gaine-icta"
+    ]
+  },
+  {
     "id": "boite-de-derivation",
     "terme": "la boîte de dérivation",
     "definition": "Boîtier à couvercle où se raccordent les fils de plusieurs circuits électriques.",
@@ -4510,6 +4624,16 @@
     "priorite": 1
   },
   {
+    "id": "poteau-d-incendie",
+    "terme": "le poteau d'incendie",
+    "definition": "Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "colonne-seche"
+    ]
+  },
+  {
     "id": "detecteur-de-fumee",
     "terme": "le détecteur de fumée",
     "definition": "Petit boîtier rond fixé au plafond qui détecte la fumée et déclenche une alarme.",
@@ -4517,6 +4641,16 @@
     "priorite": 2,
     "incompatibles": [
       "sprinkler"
+    ]
+  },
+  {
+    "id": "declencheur-manuel",
+    "terme": "le déclencheur manuel",
+    "definition": "Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.",
+    "categorie": "Réseaux et équipements",
+    "priorite": 2,
+    "incompatibles": [
+      "detecteur-de-fumee"
     ]
   },
   {

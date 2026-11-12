@@ -12,6 +12,9 @@
     ],
     "categoriesCommons": [
       "Category:Fire hydrants"
+    ],
+    "incompatibles": [
+      "colonne-seche"
     ]
   },
   "candidats": [
@@ -125,6 +128,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Brandkraan_hydrant.jpg/1280px-Brandkraan_hydrant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2493,
       "hauteur": 1566
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:File-50787.BA001--Wheel wrench for fire hydrants -1910.02.26- (090031f4-4ea7-4e73-80ca-f4299c690852).jpg",
+      "description": "50787.BA#001--Wheel wrench for fire hydrants [1910.02.26] Keywords: architectural drawings; wheel wrench; fire hydrants; Railroads; (NPS Focus Subject Thesaurus)",
+      "categories": [
+        "Fire hydrants",
+        "PD US expired",
+        "Images from NPGallery to check",
+        "Template Unknown (author)",
+        "Photographs taken on 1910-02-26",
+        "Images from NPGallery",
+        "Handwheels",
+        "Documents of the Delaware, Lackawanna and Western Railroad"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_(090031f4-4ea7-4e73-80ca-f4299c690852).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_%28090031f4-4ea7-4e73-80ca-f4299c690852%29.jpg/1280px-File-50787.BA001--Wheel_wrench_for_fire_hydrants_-1910.02.26-_%28090031f4-4ea7-4e73-80ca-f4299c690852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1618,
+      "hauteur": 2057
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Buckley Fire Department morning inspection (6862650).jpeg",
+      "description": "Mike Lehmier, a Buckley Fire Department firefighter, utilizes a flightline fire hydrant to fill a fire engine's water tank on Sept. 9, 2021, on Buckley Space Force Base, Colo. This hydrant is very close to the fire station, allowing firefighters to quickly fill the multiple fire engine’s water tanks, enhancing their readiness and capability to respond to fire emergencies. (U.S. Space Force photo by Staff Sgt. Timothy Kirchner)",
+      "categories": [
+        "Fire hydrants",
+        "Files created by the United States Space Force with known IDs",
+        "Photographs taken on 2021-09-09",
+        "PD US Space Force",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Military firefighters of the United States"
+      ],
+      "auteur": "U.S. Space Force photo by Staff Sgt. Timothy Kirchner",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Buckley_Fire_Department_morning_inspection_(6862650).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Buckley_Fire_Department_morning_inspection_%286862650%29.jpeg/1280px-Buckley_Fire_Department_morning_inspection_%286862650%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2700,
+      "hauteur": 1802
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Fire Hyrdrant (50055861127).jpg",
+      "description": "Fire Hyrdrant",
+      "categories": [
+        "Fire hydrants",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Mack Male",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Canada files uploaded by Orizan"
+      ],
+      "auteur": "Mack Male from Edmonton, AB, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_Hyrdrant_(50055861127).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Fire_Hyrdrant_%2850055861127%29.jpg/1280px-Fire_Hyrdrant_%2850055861127%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Basel 2012-10-14 Batch (54).JPG",
+      "description": "Überflurhydrant mit Anschlußrohr.",
+      "categories": [
+        "Taken with Sony DSC-HX5V",
+        "Water pipes",
+        "Fire hydrants",
+        "Location not applicable",
+        "Feuerwehrmuseum Basel",
+        "Uploaded with Commonist",
+        "Switzerland photographs taken on 2012-10-14",
+        "User:Mattes/Contributions/Topics/Switzerland/Basel BS",
+        "Water management in Switzerland",
+        "User:Mattes/Contributions/Topics/Technology",
+        "Sub-terrain hydrants"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Basel_2012-10-14_Batch_(54).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Basel_2012-10-14_Batch_%2854%29.JPG/1280px-Basel_2012-10-14_Batch_%2854%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Esco brannhydrant 202305.jpg",
+      "description": "",
+      "categories": [
+        "Fire hydrants",
+        "Media lacking a description",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bjørn Erik Pedersen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Esco_brannhydrant_202305.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Esco_brannhydrant_202305.jpg/1280px-Esco_brannhydrant_202305.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6861,
+      "hauteur": 5302
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Fire hydrants at Abu Dhabi International Airport 02.jpg",
+      "description": "Fire hydrant cabinets at Abu Dhabi International Airport on 2015-08-28",
+      "categories": [
+        "Fire hydrants",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Kgbo taken in 2015",
+        "United Arab Emirates photographs taken on 2015-08-28",
+        "Zayed International Airport",
+        "Photos by User:Kgbo"
+      ],
+      "auteur": "Kgbo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fire_hydrants_at_Abu_Dhabi_International_Airport_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Fire_hydrants_at_Abu_Dhabi_International_Airport_02.jpg/1280px-Fire_hydrants_at_Abu_Dhabi_International_Airport_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

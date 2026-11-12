@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "chapiteau",
-      "feuille-d-acanthe"
+      "feuille-d-acanthe",
+      "chapiteau-dorique",
+      "chapiteau-ionique"
     ],
     "categoriesCommons": [
       "Category:Corinthian capitals",
@@ -139,6 +141,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Photograph_of_two_capitals_Cuypershuis_0687a_%28003%29.jpg/1280px-Photograph_of_two_capitals_Cuypershuis_0687a_%28003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2828,
       "hauteur": 2089
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Marmorkirken - Fassade Markuslöwe 1.jpg",
+      "description": "Marmorkirken ( Copenhagen ). Lion of Saint Mark at the entrance.",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Reliefs of the Lion of Saint Mark in Denmark",
+        "Corinthian capitals",
+        "Marmorkirken - dark or partial views",
+        "Reliefs of lions in Copenhagen"
+      ],
+      "auteur": "Wolfgang Sauber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Marmorkirken_-_Fassade_Markusl%C3%B6we_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marmorkirken_-_Fassade_Markusl%C3%B6we_1.jpg/1280px-Marmorkirken_-_Fassade_Markusl%C3%B6we_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:The Roman Corinthian columns of the Library of Hadrian on September 26, 2021.jpg",
+      "description": "The Roman Corinthian columns of the Library of Hadrian in Athens, 2nd cent. A.D.",
+      "categories": [
+        "Images with annotations",
+        "Self-published work",
+        "Corinthian order",
+        "Files with coordinates missing SDC location of creation",
+        "Library of Hadrian (Athens) - Facade"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_September_26,_2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_September_26%2C_2021.jpg/1280px-The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_September_26%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3887,
+      "hauteur": 5831
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Histoire de l'art dans l'antiquite. T. 4 1887 (143262137).jpg",
+      "description": "Adres wydawniczy : Paris : Hachette, 1887 Współtwórcy : Chipiez, Charles ( 1835-1901) Opis fizyczny : [3], 833, [1] s., 9 k. tabl. ; 27 cm",
+      "categories": [
+        "Capitals (architecture)",
+        "Images contributed by the National Library in Warsaw",
+        "PD-old-100-expired",
+        "CC-PD-Mark",
+        "Patrimonium 2 (project)",
+        "Files from Polona",
+        "Histoire de l'art dans l'antiquite. T. 4 (1887)"
+      ],
+      "auteur": "Georges Perrot",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Histoire_de_l%27art_dans_l%27antiquite._T._4_1887_(143262137).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Histoire_de_l%27art_dans_l%27antiquite._T._4_1887_%28143262137%29.jpg/1280px-Histoire_de_l%27art_dans_l%27antiquite._T._4_1887_%28143262137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3248,
+      "hauteur": 4488
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Columnas Timgad 6.jpg",
+      "description": "Roman columns. Timgad, Batna, Algeria",
+      "categories": [
+        "Self-published work",
+        "Corinthian capitals",
+        "Photographs by LBM1948",
+        "2009 in Timgad",
+        "Ancient Roman columns in Timgad",
+        "Fallen Greek columns"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Columnas_Timgad_6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Columnas_Timgad_6.jpg/1280px-Columnas_Timgad_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:The Roman Corinthian columns of the Library of Hadrian on March 12, 2022.jpg",
+      "description": "Two variations of Roman Corinthian order on the facade of the Library of Hadrian. View from outside the fence of the archaeological site on Areos Street,",
+      "categories": [
+        "Self-published work",
+        "Corinthian columns in Greece",
+        "Corinthian order",
+        "Files with coordinates missing SDC location of creation",
+        "Greece photographs taken on 2022-03-12"
+      ],
+      "auteur": "George E. Koronaios",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_March_12,_2022.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_March_12%2C_2022.jpg/1280px-The_Roman_Corinthian_columns_of_the_Library_of_Hadrian_on_March_12%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3856,
+      "hauteur": 5784
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ottoman khan at al-Uqayr, Saudi Arabia (11) (50620779607).jpg",
+      "description": "Ottoman khan at al-Uqayr, Saudi Arabia (11)",
+      "categories": [
+        "Capitals (architecture)",
+        "Capitals (architecture) in Saudi Arabia",
+        "Uploads by Matlin",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Saudi Arabia photographs taken on 2020-11-14",
+        "Objects with blue sky background",
+        "Uqair fort",
+        "Photographs by Richard Mortel"
+      ],
+      "auteur": "Richard Mortel from Riyadh, Saudi Arabia",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ottoman_khan_at_al-Uqayr,_Saudi_Arabia_(11)_(50620779607).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ottoman_khan_at_al-Uqayr%2C_Saudi_Arabia_%2811%29_%2850620779607%29.jpg/1280px-Ottoman_khan_at_al-Uqayr%2C_Saudi_Arabia_%2811%29_%2850620779607%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

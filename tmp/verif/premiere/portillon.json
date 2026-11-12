@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ne montre pas clairement le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cadre de portillon métallique sommaire en haut d'un escalier de terre, graffitis, végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image désordonnée, portillon en ruine sans battant lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Grand portail métallique à deux vantaux fermé devant une allée et des bâtiments à toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail à deux vantaux, pas un portillon piéton."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gravure d'une ancienne porte fortifiée à Stepney.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Clôture en planches brunes devant un jardin fleuri, maison au toit rouge derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portillon non identifiable dans la clôture."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grille métallique verte à deux battants dans une haie, donnant sur une pelouse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portail à deux battants noyé dans la végétation, pas un portillon net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Clôture en planches brunes avec jardin fleuri et maison blanche à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Portillon non identifiable, quasi-doublon de la 10."
     }
   ]
 }

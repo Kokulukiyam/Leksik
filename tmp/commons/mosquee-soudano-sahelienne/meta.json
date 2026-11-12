@@ -14,7 +14,9 @@
       "toron",
       "banco",
       "crepissage",
-      "minaret"
+      "minaret",
+      "maison-coloniale",
+      "ginna"
     ],
     "categoriesCommons": [
       "Category:Mosques in Mali",
@@ -130,6 +132,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Koro%2C_Mali.jpg/1280px-Koro%2C_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2500,
       "hauteur": 1316
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Grand Mosque, Djenne (6863243).jpg",
+      "description": "another view of the mosque while wandering through the market",
+      "categories": [
+        "Great Mosque of Djenné",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by upyernoz"
+      ],
+      "auteur": "upyernoz from Haverford, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grand_Mosque,_Djenne_(6863243).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Grand_Mosque%2C_Djenne_%286863243%29.jpg/1280px-Grand_Mosque%2C_Djenne_%286863243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2831,
+      "hauteur": 1816
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:La Mosquée verte.jpg",
+      "description": "Ceci est une image en rapport avec le thème \" Santé + Bien-être \" en/au :",
+      "categories": [
+        "Mosques in Mali",
+        "Images from Wiki Loves Africa 2021",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2021 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2021 in Mali"
+      ],
+      "auteur": "Mwangi Kinyua",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Mosqu%C3%A9e_verte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/La_Mosqu%C3%A9e_verte.jpg/1280px-La_Mosqu%C3%A9e_verte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1840,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:GRAY(1825) p321 (MALI) - Dramanet (near the french trading point Fort Saint-Joseph de Galam at the upper Senegal River) Kingdom of Galam - Mosque.jpg",
+      "description": "",
+      "categories": [
+        "Mosques in Mali",
+        "Images from the British Library",
+        "Files with no machine-readable author",
+        "Galam",
+        "PD-old-70-expired",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Images from the British Library Mechanical Curator collection",
+        "CC-PD-Mark",
+        "Travels in Western Africa in the years 1819-21, from the river Gambia to the river Niger (1825) by GRAY",
+        "PD-old missing SDC copyright status",
+        "Uploaded by the British Library",
+        "Fort Saint-Joseph de Galam"
+      ],
+      "auteur": "Inconnu",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:GRAY(1825)_p321_(MALI)_-_Dramanet_(near_the_french_trading_point_Fort_Saint-Joseph_de_Galam_at_the_upper_Senegal_River)_Kingdom_of_Galam_-_Mosque.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/GRAY%281825%29_p321_%28MALI%29_-_Dramanet_%28near_the_french_trading_point_Fort_Saint-Joseph_de_Galam_at_the_upper_Senegal_River%29_Kingdom_of_Galam_-_Mosque.jpg/1280px-GRAY%281825%29_p321_%28MALI%29_-_Dramanet_%28near_the_french_trading_point_Fort_Saint-Joseph_de_Galam_at_the_upper_Senegal_River%29_Kingdom_of_Galam_-_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1971,
+      "hauteur": 1378
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Mosque of Kani Bonzon.jpg",
+      "description": "The Mosque of Kani Bonzon is sorrounded by baobabs and a brick works. Kani Bonzon, Pays Dogon, Mali, 2009.",
+      "categories": [
+        "Mosques in Mali",
+        "Taken with Nikon Coolpix S600",
+        "Kani Bozon",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Marco Bellucci",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosque_of_Kani_Bonzon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mosque_of_Kani_Bonzon.jpg/1280px-Mosque_of_Kani_Bonzon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3512,
+      "hauteur": 2634
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ségou-La Mosquée (AOF).jpg",
+      "description": "*François-Edmond Fortier, Segou. La Mosquée . Afrique Occidentale - Soudan.",
+      "categories": [
+        "Mosques in Mali",
+        "PD-old-70-expired",
+        "CC-PD-Mark",
+        "History of Ségou",
+        "Postcards of mosques in Mali",
+        "PD-old missing SDC copyright status",
+        "Postcards published by François-Edmond Fortier",
+        "Postcards of Ségou Region"
+      ],
+      "auteur": "François-Edmond Fortier (1862-1928)",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:S%C3%A9gou-La_Mosqu%C3%A9e_(AOF).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/S%C3%A9gou-La_Mosqu%C3%A9e_%28AOF%29.jpg/1280px-S%C3%A9gou-La_Mosqu%C3%A9e_%28AOF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1623,
+      "hauteur": 1040
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Djenne ruins ancient mosque - Albert Rousseau.jpg",
+      "description": "Ruins of the ancient mosque of Djenné. The view shows the northern wall of the mosque with the eastern ( qibla ) wall on the left. The photograph was published in: Hugot, Ludovic (1895). \"Notes de voyage d'un officier au Soudan\". À travers le monde (in French). Paris: Librairie Hachette. pp. 214–216 .",
+      "categories": [
+        "Great Mosque of Djenné",
+        "CC-PD-Mark",
+        "PD Old (assumed) expired",
+        "PD-old missing SDC copyright status",
+        "Qibla wall exteriors"
+      ],
+      "auteur": "Albert Rousseau",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg/1280px-Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3566,
+      "hauteur": 2482
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

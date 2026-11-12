@@ -11,7 +11,8 @@
       "push bar emergency exit"
     ],
     "incompatibles": [
-      "porte-coupe-feu"
+      "porte-coupe-feu",
+      "porte-metallique"
     ]
   },
   "candidats": [
@@ -136,6 +137,131 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Panic_bar.jpg/1280px-Panic_bar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2382,
       "hauteur": 1929
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Emergency Exit Doors (49399118683).jpg",
+      "description": "Emergency Exit Doors Walmart, Pics by Mike Mozart, &lt;a href=\" http://instagram.com/MikeMozart \" rel=\"noreferrer nofollow\"&gt;instagram.com/MikeMozart&lt;/a&gt;",
+      "categories": [
+        "Walmart",
+        "Emergency exits",
+        "Push bars",
+        "Cromwell, Connecticut",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "January 2020 in Connecticut"
+      ],
+      "auteur": "Mike Mozart from Funny YouTube, USA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Emergency_Exit_Doors_(49399118683).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Emergency_Exit_Doors_%2849399118683%29.jpg/1280px-Emergency_Exit_Doors_%2849399118683%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Moto Guzzi Ambassador with sidecar and crash bars.jpg",
+      "description": "A vintage Moto Guzzi Ambassador with a sidecar and crash bars. At the Isle of Vashon TT poker run, on Vashon Island, Washington.",
+      "categories": [
+        "Taken with Canon Digital IXUS 500",
+        "Motorcycle forks",
+        "Self-published work",
+        "1969 motorcycles",
+        "Black motorcycles",
+        "Moto Guzzi sidecars",
+        "Motorcycle crash bars",
+        "Moto Guzzi V-twin engines",
+        "Moto Guzzi V7 Ambassador"
+      ],
+      "auteur": "Dbratland",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moto_Guzzi_Ambassador_with_sidecar_and_crash_bars.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Moto_Guzzi_Ambassador_with_sidecar_and_crash_bars.jpg/1280px-Moto_Guzzi_Ambassador_with_sidecar_and_crash_bars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1302,
+      "hauteur": 866
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Macombs Dam Pk td (2019-03-15) 107.jpg",
+      "description": "The inexplicable gates at the entrance to the south end of Macombs Dam Park, above the Ruppert Plaza Garage at East 157th Street and East 153rd Street in Concourse, Bronx.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Push bars",
+        "Self-published work",
+        "Park entrances in New York City",
+        "Files with coordinates missing SDC location of creation",
+        "United States photographs taken on 2019-03-15",
+        "2019 Bronx photographs by Tdorante10",
+        "March 2019 in the Bronx, New York City",
+        "Macombs Dam Park in 2019",
+        "Photographs by Tdorante10 taken on 2019-03-15",
+        "Sports venues in the United States photographed in 2019"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Macombs_Dam_Pk_td_(2019-03-15)_107.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Macombs_Dam_Pk_td_%282019-03-15%29_107.jpg/1280px-Macombs_Dam_Pk_td_%282019-03-15%29_107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Biserica reformată, RO SJ Panic (4).jpg",
+      "description": "Panic, Sălaj county, Romania",
+      "categories": [
+        "Reformed churches in Sălaj County",
+        "Panic, Sălaj",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Țetcu Mircea Rareș",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biserica_reformat%C4%83,_RO_SJ_Panic_(4).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Biserica_reformat%C4%83%2C_RO_SJ_Panic_%284%29.jpg/1280px-Biserica_reformat%C4%83%2C_RO_SJ_Panic_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2420,
+      "hauteur": 3119
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Maniglione antipanico, Milano, Pinacoteca di Brera.jpg",
+      "description": "Maniglione antipanico, Milano, Pinacoteca di Brera",
+      "categories": [
+        "Push bars",
+        "Self-published work",
+        "Italy photographs taken on 2022-11-08",
+        "November 2022 in Milan",
+        "Photographs by User:Nicola Quirico",
+        "Pinacoteca di Brera (Milan) - Interior",
+        "Photographs of Milan by User:Nicola Quirico"
+      ],
+      "auteur": "Nicola Quirico",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Maniglione_antipanico,_Milano,_Pinacoteca_di_Brera.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Maniglione_antipanico%2C_Milano%2C_Pinacoteca_di_Brera.jpg/1280px-Maniglione_antipanico%2C_Milano%2C_Pinacoteca_di_Brera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2085,
+      "hauteur": 4033
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Barra antipánico tempro TM1S.jpg",
+      "description": "Barra antipánico tempro TM1S.",
+      "categories": [
+        "GFDL",
+        "Files with no machine-readable author",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Push bars",
+        "Media lacking author information",
+        "Self-published work"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Barra_antip%C3%A1nico_tempro_TM1S.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Barra_antip%C3%A1nico_tempro_TM1S.jpg/1280px-Barra_antip%C3%A1nico_tempro_TM1S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2330,
+      "hauteur": 1095
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

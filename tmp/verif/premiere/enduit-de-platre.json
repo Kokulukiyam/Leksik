@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Personne dominante, enduit de finition confondable avec l'enduit de lissage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Masque mortuaire en plâtre dans une vitrine sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pittsfield, États-Unis",
+      "note": "Objet moulé, pas un enduit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'un pavillon avec piédestal en plâtre au centre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cliveden, Angleterre",
+      "note": "Ornement et architecture, pas un enduit mural."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Surface de plâtre grattée ou striée en relief, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture d'accroche ou d'altération, nature incertaine."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de façade écaillé bleu et ocre avec une porte bleue en arc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carvoeiro, Portugal",
+      "note": "Enduit extérieur dégradé, pas un enduit de plâtre ; porte dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade à colombages avec panneaux de plâtre en relief décoratif.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pays de Galles",
+      "note": "Décor de plâtre (pargeting), pas un enduit lisse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond projeté de flocage coupe-feu au-dessus de poutres, légende imprimée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sudbury, Canada",
+      "note": "Flocage ignifuge, pas un enduit de plâtre ; texte dans l'image."
     }
   ]
 }

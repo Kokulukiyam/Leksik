@@ -128,6 +128,109 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_Kenya_%2810%29.jpg/1280px-A_Kenya_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2592,
       "hauteur": 1944
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A neglected bathtub displays rust-colored stains and outdated metal fixtures.jpg",
+      "description": "A neglected bathtub displays rust-colored stains and outdated metal fixtures",
+      "categories": [
+        "Bathtubs",
+        "Rust",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_neglected_bathtub_displays_rust-colored_stains_and_outdated_metal_fixtures.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/A_neglected_bathtub_displays_rust-colored_stains_and_outdated_metal_fixtures.jpg/1280px-A_neglected_bathtub_displays_rust-colored_stains_and_outdated_metal_fixtures.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:AKADLAR PASNİYON - panoramio (3).jpg",
+      "description": "AKADLAR PASNİYON",
+      "categories": [
+        "Bathrooms",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Photographs taken on 2009-12-28",
+        "Akadlar Pansiyon - interior"
+      ],
+      "auteur": "AKADLAR",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AKADLAR_PASN%C4%B0YON_-_panoramio_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/AKADLAR_PASN%C4%B0YON_-_panoramio_%283%29.jpg/1280px-AKADLAR_PASN%C4%B0YON_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 4288
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bathtub (8582452905).jpg",
+      "description": "Bathtub",
+      "categories": [
+        "Bathtubs",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "olavXO from Norway",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bathtub_(8582452905).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bathtub_%288582452905%29.jpg/1280px-Bathtub_%288582452905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Badezimmer 02.JPG",
+      "description": "salle de bain Villeroy&Boch début des années 1980",
+      "categories": [
+        "Bathrooms",
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Images by Traumrune",
+        "Villeroy & Boch products"
+      ],
+      "auteur": "Traumrune",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Badezimmer_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Badezimmer_02.JPG/1280px-Badezimmer_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3384,
+      "hauteur": 2320
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:A good lighting in a Bathroom.jpg",
+      "description": "This is a picture who proof a good lighting",
+      "categories": [
+        "Bathrooms",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "PulbyHugo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_good_lighting_in_a_Bathroom.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/A_good_lighting_in_a_Bathroom.jpg/1280px-A_good_lighting_in_a_Bathroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Badewanne Einbau Altbau Modernisierung IMG 1832.jpg",
+      "description": "bath tub installation in an old building",
+      "categories": [
+        "Bathtubs",
+        "Self-published work"
+      ],
+      "auteur": "Ribax",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Badewanne_Einbau_Altbau_Modernisierung_IMG_1832.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Badewanne_Einbau_Altbau_Modernisierung_IMG_1832.jpg/1280px-Badewanne_Einbau_Altbau_Modernisierung_IMG_1832.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

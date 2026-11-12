@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Claire, typique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Double porte noire de sortie de secours avec barres blanches et autocollants Do not block fire exits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cromwell, États-Unis",
+      "note": "Barres petites, textes d'avertissement qui donnent la réponse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Moto Moto Guzzi avec side-car et pare-cylindres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vashon, États-Unis",
+      "note": "Moto, hors sujet."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux portillons grillagés noirs équipés de barres antipanique chromées, devant un stade.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.31,
+        "largeur": 0.21,
+        "hauteur": 0.17
+      },
+      "lieu": "New York, États-Unis",
+      "note": "Barre antipanique nette, cadrée sur le portillon de premier plan."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Église réformée avec clocher dans un village, clôture au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Panic, Roumanie",
+      "note": "Panic est un nom de lieu, aucune barre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Couloir à arcades vu à travers une porte vitrée sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Milan, Italie",
+      "note": "Barre à peine visible dans l'obscurité."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Barre antipanique en inox avec sa têtière, sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Produit isolé, net et sans ambiguïté."
     }
   ]
 }

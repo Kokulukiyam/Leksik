@@ -53,6 +53,35 @@
       "rectangle": null,
       "lieu": "Pikine",
       "note": "Palmes en vrac et feuillage cachent le panneau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panneaux de lattes tressées de roseau ou de rônier formant une clôture de concession sur sable, devant un mur de parpaings.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.41,
+        "largeur": 1.0,
+        "hauteur": 0.25
+      },
+      "lieu": "Pout Diak, Sénégal",
+      "note": "Panneaux tressés en clôture, bien visibles ; rectangle pour exclure le mur en parpaings et la végétation."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Clôture grillagée avec rangée de branchages épineux au pied d'une réserve, acacias derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Réserve de Guembeul, Sénégal",
+      "note": "Grillage et branches, pas de panneau tressé."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Haie vive de jatropha avec fil et branches mortes sur un champ sec.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Katakel, Sénégal",
+      "note": "Haie vive, pas un panneau tressé."
     }
   ]
 }

@@ -11,7 +11,9 @@
       "thermosiphon solar water heater"
     ],
     "incompatibles": [
-      "capteur-solaire-thermique"
+      "capteur-solaire-thermique",
+      "chauffe-eau-electrique",
+      "panneau-photovoltaique"
     ]
   },
   "candidats": [
@@ -121,6 +123,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Calentador_solar_tubes_de_vacio.jpg/1280px-Calentador_solar_tubes_de_vacio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3968,
       "hauteur": 2976
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Solar water heater from Mussoorie.JPG",
+      "description": "Solar water heater from Mussoorie",
+      "categories": [
+        "Taken with Sony DSC-HX7V",
+        "Mussoorie",
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Harshanh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solar_water_heater_from_Mussoorie.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Solar_water_heater_from_Mussoorie.JPG/1280px-Solar_water_heater_from_Mussoorie.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Nagarkot,Bhaktapur (95).JPG",
+      "description": "Ceci est une image d'un site naturel au Népal portant l'identifiant ID",
+      "categories": [
+        "Taken with Canon EOS 70D",
+        "Houses in Nepal",
+        "Nagarkot",
+        "Solar water heating",
+        "Self-published work",
+        "Images from Wiki Loves Earth 2014 in Nepal",
+        "Images from Wiki Loves Earth 2014",
+        "Natural heritage sites in Nepal with known IDs",
+        "Uploaded via Campaign:wle-np",
+        "Images from Wiki Loves Earth missing SDC depicts",
+        "Images from Wiki Loves Earth missing SDC location of creation"
+      ],
+      "auteur": "Brabim Bhandari",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nagarkot,Bhaktapur_(95).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nagarkot%2CBhaktapur_%2895%29.JPG/1280px-Nagarkot%2CBhaktapur_%2895%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 1824
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Solar kettle nepal.jpg",
+      "description": "Solar kettle nepal",
+      "categories": [
+        "Solar water heating",
+        "Self-published work"
+      ],
+      "auteur": "Sgroey",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Solar_kettle_nepal.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Solar_kettle_nepal.jpg/1280px-Solar_kettle_nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dornbirn-Technische Alternative-ESR21-R-01ASD.jpg",
+      "description": "Contrôle solaire Technische Alternative-ESR21 dans un système de chauffage à Montforstraße 21a à Dornbirn, Vorarlberg, Autriche.",
+      "categories": [
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-Technische_Alternative-ESR21-R-01ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Dornbirn-Technische_Alternative-ESR21-R-01ASD.jpg/1280px-Dornbirn-Technische_Alternative-ESR21-R-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2477,
+      "hauteur": 1826
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Dornbirn-damaged Solar water heating system-02ASD.jpg",
+      "description": "Installation de chauffage à l'eau solaire endommagée démantelée à Dornbirn, Vorarlberg, Autriche. Le système thermique solaire ce qui est utilisé pour la production d'eau chaude et le chauffage.",
+      "categories": [
+        "Solar hot water panels",
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Solar heating",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-damaged_Solar_water_heating_system-02ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dornbirn-damaged_Solar_water_heating_system-02ASD.jpg/1280px-Dornbirn-damaged_Solar_water_heating_system-02ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Dornbirn-damaged Solar water heating system-04ASD.jpg",
+      "description": "Installation de chauffage à l'eau solaire endommagée démantelée à Dornbirn, Vorarlberg, Autriche. Le système thermique solaire ce qui est utilisé pour la production d'eau chaude et le chauffage.",
+      "categories": [
+        "Solar hot water panels",
+        "Solar water heating",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Solar heating",
+        "Photographs by Asurnipal-Dornbirn"
+      ],
+      "auteur": "Asurnipal",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dornbirn-damaged_Solar_water_heating_system-04ASD.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Dornbirn-damaged_Solar_water_heating_system-04ASD.jpg/1280px-Dornbirn-damaged_Solar_water_heating_system-04ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

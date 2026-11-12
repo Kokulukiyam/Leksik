@@ -9,6 +9,9 @@
       "cable trunking",
       "goulotte électrique",
       "wall cable duct"
+    ],
+    "incompatibles": [
+      "chemin-de-cables"
     ]
   },
   "candidats": [
@@ -120,6 +123,113 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cabtray_07.jpg/1280px-Cabtray_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3888,
       "hauteur": 2592
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cabtray 04.jpg",
+      "description": "Power sockets (45 × 45 mm)",
+      "categories": [
+        "CC-Zero",
+        "Cable trays",
+        "CEE 7/5",
+        "Self-published work"
+      ],
+      "auteur": "Leotard",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cabtray_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cabtray_04.jpg/1280px-Cabtray_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Inverness - Kessock Bridge - panoramio.jpg",
+      "description": "Inverness - Kessock Bridge",
+      "categories": [
+        "Kessock Bridge",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "United Kingdom photographs taken on 2013-09-13",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "giggel",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Inverness_-_Kessock_Bridge_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Inverness_-_Kessock_Bridge_-_panoramio.jpg/1280px-Inverness_-_Kessock_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3119,
+      "hauteur": 3918
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Blue Grass Chemical Agent-Destruction Pilot Plant Control and Support Building (7637676360).jpg",
+      "description": "A complex network of subflooring and electrical infrastructure is being installed inside the Control and Support Building’s instrument rack rooms at the Blue Grass Chemical Agent-Destruction Pilot Plant.",
+      "categories": [
+        "Cable trays",
+        "Blue Grass Chemical Agent-Destruction Pilot Plant",
+        "Raised floors",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "PEO ACWA",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_(7637676360).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287637676360%29.jpg/1280px-Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Control_and_Support_Building_%287637676360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4288,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Aeschlimann paver (14100077955).jpg",
+      "description": "Specialist paver from Switzerland which runs on rails and covers both lanes of the carriageway at once, ready to start laying the new surface on the Kessock Bridge.",
+      "categories": [
+        "Kessock Bridge",
+        "Pavers (vehicles)",
+        "Slipforms (vehicles)",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Files uploaded by Ultra7",
+        "Ultra7 temp trucks"
+      ],
+      "auteur": "Glen Wallace from Inverness, Scotland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aeschlimann_paver_(14100077955).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Aeschlimann_paver_%2814100077955%29.jpg/1280px-Aeschlimann_paver_%2814100077955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2835,
+      "hauteur": 1403
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Cable tray with cables.jpg",
+      "description": "Chemin de câbles.",
+      "categories": [
+        "Taken with OnePlus 3",
+        "Cable trays",
+        "Photographs taken on 2016-09-13"
+      ],
+      "auteur": "Santeri Viinamäki",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cable_tray_with_cables.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Cable_tray_with_cables.jpg/1280px-Cable_tray_with_cables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 3480
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Carnarc Point and the Kessock Bridge - geograph.org.uk - 8294642.jpg",
+      "description": "Carnarc Point and the Kessock Bridge",
+      "categories": [
+        "Kessock Bridge",
+        "Images from Geograph Britain and Ireland"
+      ],
+      "auteur": "Iain Lees",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carnarc_Point_and_the_Kessock_Bridge_-_geograph.org.uk_-_8294642.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Carnarc_Point_and_the_Kessock_Bridge_-_geograph.org.uk_-_8294642.jpg/1280px-Carnarc_Point_and_the_Kessock_Bridge_-_geograph.org.uk_-_8294642.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5712,
+      "hauteur": 4284
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

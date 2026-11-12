@@ -117,6 +117,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/TW_Coupling_TankWagenkoppeling2.jpg/1280px-TW_Coupling_TankWagenkoppeling2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2176,
       "hauteur": 1692
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Japanese Railway Rolling Stock hose coupling 2 touches.jpg",
+      "description": "日本の鉄道車両のホース連結器 突き当てた状態を斜め上から見る",
+      "categories": [
+        "Self-published work",
+        "Rolling stock coupling systems of Japan",
+        "Train pipe"
+      ],
+      "auteur": "SEMISAYAMASHI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_Railway_Rolling_Stock_hose_coupling_2_touches.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Japanese_Railway_Rolling_Stock_hose_coupling_2_touches.jpg/1280px-Japanese_Railway_Rolling_Stock_hose_coupling_2_touches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Japanese Railway Rolling Stock hose coupling bottom view 2 touches.jpg",
+      "description": "日本の鉄道車両のホース連結器 突き当てた状態を下から見る",
+      "categories": [
+        "Self-published work",
+        "Rolling stock coupling systems of Japan",
+        "Train pipe"
+      ],
+      "auteur": "SEMISAYAMASHI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Japanese_Railway_Rolling_Stock_hose_coupling_bottom_view_2_touches.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Japanese_Railway_Rolling_Stock_hose_coupling_bottom_view_2_touches.jpg/1280px-Japanese_Railway_Rolling_Stock_hose_coupling_bottom_view_2_touches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:TW Coupling TankWagenkoppeling.jpg",
+      "description": "TW Coupling TankWagen hose coupling",
+      "categories": [
+        "Hose connectors",
+        "Self-published work"
+      ],
+      "auteur": "Eebie",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:TW_Coupling_TankWagenkoppeling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/TW_Coupling_TankWagenkoppeling.jpg/1280px-TW_Coupling_TankWagenkoppeling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4160,
+      "hauteur": 3120
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Knaust-kupplungspaar.jpg",
+      "description": "former Knaust-coupling in Austrian-Hungary empire",
+      "categories": [
+        "GFDL",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Fire hose connectors",
+        "Self-published work",
+        "Files by User:Karl Gruber",
+        "History of firefighting in Austria",
+        "Wm. Knaust",
+        "Historical water leading parts for firefighting"
+      ],
+      "auteur": "Karl Gruber",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Knaust-kupplungspaar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Knaust-kupplungspaar.jpg/1280px-Knaust-kupplungspaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1621,
+      "hauteur": 1018
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Seibu railway D16 Shibata automatic coupler and Hose coupling 20251026- MG 0497.jpg",
+      "description": "西武D16ディーゼル機関車 2エンド側の自動連結器とホース連結器 2025-10-26「よこぜ車両基地フェスタ２０２５～お酒とグルメとおまつりと～」にて撮影",
+      "categories": [
+        "Rolling stock of Seibu Railway",
+        "Self-published work",
+        "Rolling stock coupling systems of Japan",
+        "Shibata automatic coupler",
+        "Train pipe"
+      ],
+      "auteur": "SEMISAYAMASHI",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Seibu_railway_D16_Shibata_automatic_coupler_and_Hose_coupling_20251026-_MG_0497.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Seibu_railway_D16_Shibata_automatic_coupler_and_Hose_coupling_20251026-_MG_0497.jpg/1280px-Seibu_railway_D16_Shibata_automatic_coupler_and_Hose_coupling_20251026-_MG_0497.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Hose Coupling - DPLA - 7da20337921877b9787268708930629c (page 1).jpg",
+      "description": "Patent for a hose coupling. This invention is designed to be used with flexible hosing that is damaged. Illustration included.; [1], 4 p. : ill. ; 23 cm.",
+      "categories": [
+        "PD US",
+        "Media contributed by the Digital Public Library of America",
+        "Artworks without Wikidata item",
+        "Media contributed by The Portal to Texas History",
+        "Information field template with formatting",
+        "Digital Public Library of America files missing required SDC statements",
+        "PD-US missing SDC copyright status",
+        "Digital Public Library of America files missing creator",
+        "Media contributed by University of North Texas Libraries"
+      ],
+      "auteur": "Stephens, John H",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hose_Coupling_-_DPLA_-_7da20337921877b9787268708930629c_(page_1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hose_Coupling_-_DPLA_-_7da20337921877b9787268708930629c_%28page_1%29.jpg/1280px-Hose_Coupling_-_DPLA_-_7da20337921877b9787268708930629c_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1500,
+      "hauteur": 2250
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

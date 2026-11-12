@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Hong Kong",
       "note": "Inox brillant très lisible, garde-corps typique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Femme tranchant un doner kebab devant un mur sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sujet culinaire."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bâtiment aux façades courbes revêtues de plaques métalliques grises, arbre à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Las Vegas, États-Unis",
+      "note": "Parement pouvant passer pour zinc, aluminium ou bardage métallique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Urinoir mural en acier dans des toilettes, sol en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sombre, terni, sujet sanitaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Anti-monte-lait : récipient métallique évasé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet domestique, usage non architectural."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ossature d'acier inoxydable pour un ascenseur, avec ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier encombré, sujet peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Auge d'urinoir en acier inoxydable brossé contre un mur de carreaux bleus, sol carrelé jaune.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.17,
+        "largeur": 0.94,
+        "hauteur": 0.7
+      },
+      "lieu": "",
+      "note": "Grande surface d'inox brossé reconnaissable ; rectangle pour exclure les carrelages."
     }
   ]
 }

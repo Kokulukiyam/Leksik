@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pièce peu lisible, pas un coude clair."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coude à 90 degrés de raccord à compression en PE noir et bleu avec écrou et bague posés à côté, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Autres pièces (écrou, bague) qui prêtent à confusion avec raccord."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tas de raccords PVC blancs et gris contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouillis, pas de coude unique."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Flexibles tressés raccordés à un coude PVC gris sur une cuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage encombré, raccord plus visible que le coude."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux coudes à 90 degrés en PVC crème posés sur un fond rouge.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coudes nets et dominants."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Coude à 45 degrés en PVC blanc tenu dans une main.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coude à 45 degrés clair ; code-barres sans valeur de réponse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grand coude de canalisation de chauffage urbain dans une tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Peu lisible, tuyau isolé en vrac."
     }
   ]
 }

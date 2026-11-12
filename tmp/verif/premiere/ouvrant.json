@@ -53,6 +53,59 @@
       },
       "lieu": "Dresde, Allemagne",
       "note": "Le battant ouvert est encadré ; partie mobile bien distincte du dormant fixe."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite fenêtre grillagée dans un mur enduit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun ouvrant identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cottage ancien à toit de tuiles avec plusieurs petites fenêtres blanches, vue de la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres trop petites et fermées."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouverture noire dans un mur ocre avec un trépied de mitrailleuse sur l'appui.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de menuiserie, scène militaire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à deux vantaux à petits-bois sur une façade de brique, le vantail de gauche ouvert vers l'extérieur.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.08,
+        "largeur": 0.3,
+        "hauteur": 0.74
+      },
+      "lieu": "Harlow, Essex, Angleterre",
+      "note": "Le vantail ouvert est la partie mobile par rapport au cadre fixe : ouvrant clairement visible, encadré pour le distinguer du vantail fermé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pile de vieux livres sur un appui de fenêtre, fenêtre en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Livres dominants."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toit de chaume avec deux lucarnes à petites fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres trop petites."
     }
   ]
 }

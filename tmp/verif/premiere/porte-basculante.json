@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Basculante ou sectionnelle, indécidable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Carte postale publicitaire colorisée « avant / après » d'un garage à porte blanche, avec texte et adresse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Glendale, Californie",
+      "note": "Dessin colorisé avec texte publicitaire, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panorama très étroit d'un immeuble des années 1950 avec une rangée de portes de garage au rez-de-chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles, États-Unis",
+      "note": "Portes minuscules, indistinctes, image trop petite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade ombragée d'un immeuble avec volets roulants et grilles, lumière tachetée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Aucune porte de garage basculante lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rideau de lames d'acier d'une entrée de métro fermée, dans un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Rideau métallique à lames, pas une porte basculante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rideau métallique et porte de local technique dans un couloir de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New York, États-Unis",
+      "note": "Rideau métallique, pas une porte basculante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue depuis l'intérieur d'un garage, porte ouverte sur l'allée et une voiture blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ewing, New Jersey",
+      "note": "Porte relevée et invisible, mécanisme non montré."
     }
   ]
 }

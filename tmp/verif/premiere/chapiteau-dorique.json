@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Banja Luka",
       "note": "Chapiteau figuré, pas dorique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur des moulures étagées d'un support.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un chapiteau dorique net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue latérale du Parthénon et de sa colonnade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Chapiteaux trop petits."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Négatif de verre : chapiteau sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Reproduction ancienne, peu fiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Colonnade dorique d'un temple grec vue en contre-plongée sous un ciel bleu : chapiteaux à échine galbée et abaque carré.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.53,
+        "largeur": 0.27,
+        "hauteur": 0.17
+      },
+      "lieu": "Paestum, Italie",
+      "note": "Chapiteaux doriques nets ; rectangle sur l'un d'eux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Colonnes du Parthénon avec grues et baraques de chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Chapiteaux petits et scène encombrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo en noir et blanc de quatre chapiteaux en plâtre sculptés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Moulages gothiques, non doriques."
     }
   ]
 }

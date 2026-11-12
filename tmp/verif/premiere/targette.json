@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Lyon, France",
       "note": "Verrou plat sur platine manoeuvré par un bouton, au premier plan."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Verrou à crochet en métal sur porte en bois, photo en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image désaturée, verrou à tige plutôt que targette."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Barre de fer forgé pivotante sur un portail en bois de cimetière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lanteglos, Royaume-Uni",
+      "note": "Loquet pivotant, pas une targette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte d'église en chêne avec ferrures décoratives, serrure et verrou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Källunge, Suède",
+      "note": "Ensemble chargé de ferrures, plusieurs éléments possibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Verrou plat à platine vissé sur une porte en planches rouillées, avec poignée de manœuvre.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.34,
+        "largeur": 0.67,
+        "hauteur": 0.42
+      },
+      "lieu": "Dromara, Irlande du Nord",
+      "note": "Verrou plat sur platine net, cadré de près."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grosse serrure et verrou en fer sur porte d'église en bois grise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kerimäki, Finlande",
+      "note": "Massive serrure avec verrou, ensemble ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite porte de cachot en bois avec guichet grillagé et verrou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Noyers-sur-Serein, France",
+      "note": "Verrou trop petit dans l'image."
     }
   ]
 }

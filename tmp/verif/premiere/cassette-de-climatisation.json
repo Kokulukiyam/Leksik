@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Turin",
       "note": "Grille murale, pas une cassette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Split mural blanc sur un mur bleu, avec un câble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité murale de type split, pas une cassette."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Couloir de centre commercial avec bouche de diffusion ronde au plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Diffuseur circulaire, pas une cassette."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salle d'attente d'un terminal avec une cassette de climatisation carrée encastrée au plafond, parmi d'autres luminaires et bouches.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.47,
+        "y": 0.07,
+        "largeur": 0.17,
+        "hauteur": 0.1
+      },
+      "lieu": "Kagoshima, Japon",
+      "note": "Cassette nette à quatre côtés de soufflage ; rectangle nécessaire pour la distinguer des plafonniers et bouches."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pompe à chaleur monobloc posée dans un jardin avec flexibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité extérieure, aucun rapport avec la cassette."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan sur une longue grille de soufflage linéaire dans une corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille linéaire murale, pas une cassette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan sur un ventilateur à hélice derrière une grille ronde.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Burdwan, Inde",
+      "note": "Ventilateur, pas une cassette."
     }
   ]
 }

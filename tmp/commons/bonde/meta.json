@@ -13,6 +13,10 @@
     "categoriesCommons": [
       "Category:Sink drains",
       "Category:Drains"
+    ],
+    "incompatibles": [
+      "siphon",
+      "siphon-de-sol"
     ]
   },
   "candidats": [
@@ -124,6 +128,122 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bella_Vista_Street_Drains.jpg/1280px-Bella_Vista_Street_Drains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1828,
       "hauteur": 4160
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Vieux-Mareuil 03-fenetre.jpg",
+      "description": "Fenêtre avec des volets bleus à Vieux Mareuil, Dordogne, France.",
+      "categories": [
+        "Vieux-Mareuil",
+        "Information field template with formatting",
+        "Windows in Dordogne",
+        "Window shutters in Dordogne",
+        "Arch windows in France",
+        "Blue window shutters",
+        "Images by Traumrune",
+        "Sink drains",
+        "Stone sinks in Dordogne"
+      ],
+      "auteur": "Traumrune",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vieux-Mareuil_03-fenetre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Vieux-Mareuil_03-fenetre.jpg/1280px-Vieux-Mareuil_03-fenetre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3756,
+      "hauteur": 2494
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg",
+      "description": "Carillo Puerto Avenue Drain",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg/1280px-Carillo-Puerto-Avenue-Drain-Santa-Elena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2296,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Stainless steel sink drain parts Oct-2011 HK Ip4.jpg",
+      "description": "​ zh:洗滌盤",
+      "categories": [
+        "Stainless steel",
+        "Taken with iPhone 4",
+        "Location withheld",
+        "Sink drain covers",
+        "Self-published work",
+        "Hong Kong photographs taken on 2011-10-24",
+        "October 2011 in King Ming Mansion",
+        "Sink drains"
+      ],
+      "auteur": "Belchers Albert",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Stainless_steel_sink_drain_parts_Oct-2011_HK_Ip4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Stainless_steel_sink_drain_parts_Oct-2011_HK_Ip4.jpg/1280px-Stainless_steel_sink_drain_parts_Oct-2011_HK_Ip4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1936
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Andrew-Street-Drain-Santa-Elena.jpg",
+      "description": "Andrew Steet Drain Santa Elena",
+      "categories": [
+        "CC-Zero",
+        "Drains",
+        "Self-published work",
+        "On OSM",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Irvias",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Andrew-Street-Drain-Santa-Elena.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Andrew-Street-Drain-Santa-Elena.jpg/1280px-Andrew-Street-Drain-Santa-Elena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2296,
+      "hauteur": 4080
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Person fills glass with water at kitchen sink.jpg",
+      "description": "Water flows from faucet as a person fills a clear glass. The setting is a kitchen with a focus on the sink and a hand holding the glass. Sunlight is present.",
+      "categories": [
+        "Drinking water",
+        "Self-published work",
+        "Close-up photographs",
+        "Sink drains"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Person_fills_glass_with_water_at_kitchen_sink.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Person_fills_glass_with_water_at_kitchen_sink.jpg/1280px-Person_fills_glass_with_water_at_kitchen_sink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6048,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A brick built land drain - geograph.org.uk - 1045460.jpg",
+      "description": "A brick built land drain",
+      "categories": [
+        "Drains",
+        "Peasenhall",
+        "Images from Geograph Britain and Ireland",
+        "Images by Adrian Cable",
+        "United Kingdom photographs taken on 2008-11-14"
+      ],
+      "auteur": "Adrian Cable",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg/1280px-A_brick_built_land_drain_-_geograph.org.uk_-_1045460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -14,5 +14,7 @@
       "ossature-de-faux-plafond"
     ]
   },
-  "candidats": []
+  "candidats": [],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Bystrzyca",
       "note": "Petit dans le cadre, pièce mal exposée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Baie à deux lancettes en vitrail figuratif : un saint, le Christ et une mère avec son enfant.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrail éclairé et net, fond sombre sans ambiguïté."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fauteuils rouges dans un chœur, taches de lumière colorée au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le vitrail n'est pas visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Panneau de verre fusionné représentant une gymnaste.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Œuvre d'art en verre, pas un vitrail de baie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Trois baies à vitraux colorés abstraits en forme de flammes dans une église.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitraux abstraits nets sur fond sombre, très lisibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande baie gothique à quatre lancettes et réseau, remplie de vitraux historiés.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Moulins, France",
+      "note": "Vitrail ancien net et complet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Baie cintrée à vitrail moderne dans l'obscurité.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bystrzyca, Pologne",
+      "note": "Petit et quasi-doublon de la photo déjà retenue."
     }
   ]
 }

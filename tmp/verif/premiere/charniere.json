@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Charnières à tonneau démontées ; trop peu typiques."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boîte de bonbons en métal fermée, vue côté charnière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Francfort",
+      "note": "Objet non architectural, charnière minuscule."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arrière d'une voiture break avec hayon et feu arrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Macungie, États-Unis",
+      "note": "Voiture, pas une charnière de porte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Stalle de chœur en bois sombre avec petites charnières peu visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hürth-Efferen, Allemagne",
+      "note": "Charnières trop petites et sombres."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Objet en bronze antique sur un socle de musée, flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Badalona, Espagne",
+      "note": "Pivot antique (poterne), flou, pas une charnière."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Remorque de vélo avec un cycliste, articulation à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, États-Unis",
+      "note": "Pas architectural, élément non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Charnière rouillée sur le coin d'une valise ou étui en bois et cuir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charnière sur un étui, pas sur un vantail ; hors sujet architectural."
     }
   ]
 }
