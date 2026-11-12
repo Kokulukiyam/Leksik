@@ -78,7 +78,7 @@ Derrière un proxy HTTP, préfixer la commande par `NODE_USE_ENV_PROXY=1`. Aprè
 ### Les termes
 
 Environ 1000 termes, classés en 13 catégories et par fréquence sur un chantier (priorité 1 à 3), sont dans
-`scripts/termes-candidats.json` ; seuls ceux qui ont au moins une image doublement vérifiée entrent dans le jeu.
+`scripts/termes-candidats.json` ; seuls ceux qui ont au moins une image doublement vérifiée entrent dans le jeu (environ 500 termes et plus de 1000 images).
 Deux termes qu'une même photo pourrait illustrer (ex. « la fenêtre » et « la fenêtre à soufflet ») sont déclarés
 `incompatibles` et ne sont jamais proposés ensemble. Suivi de la chaîne : `python3 scripts/avancement.py`.
 

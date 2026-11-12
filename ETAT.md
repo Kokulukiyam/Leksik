@@ -1,6 +1,6 @@
 # État d'avancement de Leksik — À LIRE POUR REPRENDRE
 
-Dernière mise à jour : 4 novembre 2026. Branche `claude/leksik`.
+Dernière mise à jour : 13 novembre 2026. Branche `claude/leksik`.
 
 ## Version 1 : terminée
 
@@ -15,11 +15,15 @@ Dernière mise à jour : 4 novembre 2026. Branche `claude/leksik`.
 - Chaîne : recherche Commons (catégories vérifiées, puis plein texte), 1re vérification (agents Sonnet, lots
   p-001 à p-092), contre-vérification (lots v2-001 à v2-023), `integrer.mjs`. Outils : `scripts/avancement.py`.
 
-## Pour aller vers 1000 images (non fait)
+## Version 3 : 1000 images ATTEINT (13 nov. 2026)
 
-- Troisième recherche (`--suite --categories`, 6 candidates de plus) pour les termes de priorité 1 et 2 qui ont
-  0 ou 1 image ; puis 1re vérification (plafond 6 par terme) et contre-vérification.
-- Ou ajouter mes propres photos de chantier via Ajouter.
+- Troisième recherche Commons (`--suite --categories`) sur les termes à 2 images ou moins, par priorité ;
+  1re vérification lots p-093 à p-119, contre-vérification v2-024 à v2-030.
+- **502 termes et 1009 images** doublement vérifiées. Test de bout en bout : 10 791 vérifications, 0 échouée.
+- Recherche arrêtée volontairement après 422 des 590 termes visés (objectif atteint) ; liste dans
+  `tmp/troisieme-ids.txt`, journal `tmp/troisieme.log`. 8 termes ont des candidates téléchargées non vérifiées
+  (`python3 scripts/avancement.py --premiere=20`). Pour reprendre : relancer la même commande (les termes déjà
+  traités sont sautés), puis 1re vérification, `preparer_contre.py --lot=v2-031`, `integrer.mjs`.
 
 ## Rappels
 
