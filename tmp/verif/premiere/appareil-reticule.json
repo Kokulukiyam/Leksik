@@ -1,53 +1,106 @@
 {
- "termId": "appareil-reticule",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Ruines antiques avec citerne bleue au premier plan.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Bulla Regia, Tunisie",
-   "note": "Réticulé invisible à cette distance."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Œil-de-bœuf entouré de briques en rayons sur un mur de briques.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "San Juan Capistrano, USA",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Gros plan de moellons clairs irréguliers noyés dans le mortier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Butrint, Albanie",
-   "note": "Moellons irréguliers (type opus incertum), pas de losanges."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Chantier de coupole en brique avec échafaudages.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Pereslavl, Russie",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Tympan d'arc brisé dont le parement dessine un filet de losanges de petites pierres posées sur la pointe.",
-   "verdict": "validée",
-   "rectangle": null,
-   "lieu": "Castel del Monte, Italie",
-   "note": "Réseau de losanges net sur presque toute l'image, pâle mais lisible."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Porte en brique rouge sur soubassement de pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Saint-Louis, USA",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "appareil-reticule",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Ruines antiques avec citerne bleue au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bulla Regia, Tunisie",
+      "note": "Réticulé invisible à cette distance."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Œil-de-bœuf entouré de briques en rayons sur un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Juan Capistrano, USA",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Gros plan de moellons clairs irréguliers noyés dans le mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Butrint, Albanie",
+      "note": "Moellons irréguliers (type opus incertum), pas de losanges."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Chantier de coupole en brique avec échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pereslavl, Russie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tympan d'arc brisé dont le parement dessine un filet de losanges de petites pierres posées sur la pointe.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Castel del Monte, Italie",
+      "note": "Réseau de losanges net sur presque toute l'image, pâle mais lisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Porte en brique rouge sur soubassement de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Louis, USA",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ruines romaines avec une citerne au premier plan dans un site désertique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue intérieure d'un toit de bois vitré avec colonnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Planche de dessins techniques de maçonnerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur des briques jaunes et du mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade d'église dont de petits cubes de pierre sombre posés sur la pointe dessinent un réseau de losanges dans l'enduit.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.55,
+        "y": 0.58,
+        "largeur": 0.45,
+        "hauteur": 0.38
+      },
+      "lieu": "Trevignano Romano, Italie",
+      "note": "Opus reticulatum lisible en bas à droite du cadre ; reste de la façade en enduit et briques."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de grands blocs de pierre à bossage rustique autour d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bossages carrés posés à plat, pas un réticulé."
+    }
+  ]
 }

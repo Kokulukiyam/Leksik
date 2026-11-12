@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de coupleur."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ferraillage d'une pile de pont avec échafaudage et ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun coupleur discernable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Sanctuaire au sommet d'une montagne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur des barres d'armature nervurées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres seules, pas de manchon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvrier soudant des armatures sur un chantier de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Soudure, pas un coupleur."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Longues barres d'armature liées sur le gravier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres seules."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Machine à plier et couper les barres d'armature.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine, pas un coupleur."
     }
   ]
 }

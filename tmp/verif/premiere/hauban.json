@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "France",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'immeuble en isolation par l'extérieur avec nacelle suspendue et potences au sommet.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le câble de suspension de la nacelle n'est pas un hauban."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Nombreux câbles électriques horizontaux sur un ciel gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câbles de réseau horizontaux, pas des haubans."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan d'une pièce de connexion à quatre branches en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Nœud d'assemblage, pas un câble en oblique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Borne jaune « Tele cable » plantée dans le sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible et sujet sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mât blanc de passerelle du port avec plusieurs câbles tendus en oblique vers le tablier, au crépuscule.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.0,
+        "largeur": 0.5,
+        "hauteur": 0.6
+      },
+      "lieu": "Kaohsiung, Taïwan",
+      "note": "Haubans minces mais nets sur le mât ; rectangle sur le mât et ses câbles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Câble de commande noir avec poignée posé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Câble de commande de capot, aucun rapport."
     }
   ]
 }

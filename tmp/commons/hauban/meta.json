@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Cable-stayed structures",
       "Category:Cables"
+    ],
+    "incompatibles": [
+      "tirant"
     ]
   },
   "candidats": [
@@ -127,6 +130,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/PSE_Insulation_boards_and_plaster_applied_on_a_building_facade.jpg/1280px-PSE_Insulation_boards_and_plaster_applied_on_a_building_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2142,
       "hauteur": 1332
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Insulation boards on a building facade.jpg",
+      "description": "Rénovation énergétique : isolation thermique par l'extérieur (ITE). Application de panneaux isolants en mousse de polystyrène (PSE) à cellules fermées (épaisseur d'un panneau : 20 cm) sur une façade d'immeuble d'habitation.",
+      "categories": [
+        "Exterior insulation finishing system",
+        "Images with annotations",
+        "Platforms",
+        "Self-published work",
+        "Men at work in France",
+        "Residential buildings in Nièvre",
+        "Blue sky in France",
+        "Cable-stayed structures",
+        "Rénovations de bâtiments au quartier Saint-Laurent de Cosne-Cours-sur-Loire",
+        "Insulation boards by Sto",
+        "Insulation boards by Sto by Cjp24",
+        "Rénovations de bâtiments au quartier Saint-Laurent de Cosne-Cours-sur-Loire by Cjp24"
+      ],
+      "auteur": "Cjp24",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Insulation_boards_on_a_building_facade.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Insulation_boards_on_a_building_facade.jpg/1280px-Insulation_boards_on_a_building_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Bucharest communication lines (4017496209).jpg",
+      "description": "at least it is not necessary to digg the streets...",
+      "categories": [
+        "Cables",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Francisco Restivo"
+      ],
+      "auteur": "Francisco Restivo from Porto, Portugal",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bucharest_communication_lines_(4017496209).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bucharest_communication_lines_%284017496209%29.jpg/1280px-Bucharest_communication_lines_%284017496209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2000,
+      "hauteur": 1500
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Friedrichshafen - Moleturm - Details 001.jpg",
+      "description": "Detail (brace) from the mole tower in Friedrichshafen.",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Hafenturm (Friedrichshafen)",
+        "Uploaded with VicuñaUploader",
+        "Pictures by Mummelgrummel",
+        "Cable-stayed structures",
+        "Files with coordinates missing SDC location of creation",
+        "Details of steel constructions"
+      ],
+      "auteur": "Mummelgrummel",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Friedrichshafen_-_Moleturm_-_Details_001.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Friedrichshafen_-_Moleturm_-_Details_001.jpg/1280px-Friedrichshafen_-_Moleturm_-_Details_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A depiction of Tele cable marking.JPG",
+      "description": "This media file was uploaded as a part of the TamilWiki Media Contest .",
+      "categories": [
+        "Taken with Sony DSC-H20",
+        "Cables",
+        "Self-published work",
+        "TamilWiki Media Contest",
+        "Files by User:Thamizhpparithi Maari"
+      ],
+      "auteur": "Thamizhpparithi Maari",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_depiction_of_Tele_cable_marking.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/A_depiction_of_Tele_cable_marking.JPG/1280px-A_depiction_of_Tele_cable_marking.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1080
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Kaohsiung Harbour - KaohsiungHarbour4515.jpg",
+      "description": "The Pier-2 Art Center sail-shaped pavilion and cable-stayed mast on the Kaohsiung waterfront, photographed at dusk with harbour reflections in the foreground.",
+      "categories": [
+        "CC-Zero",
+        "Kaohsiung",
+        "Murals",
+        "Pier-2 Art Center",
+        "Street art",
+        "Waterfronts",
+        "Flickr images missing SDC inception",
+        "Cable-stayed structures",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "lumoplank",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Harbour_-_KaohsiungHarbour4515.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Kaohsiung_Harbour_-_KaohsiungHarbour4515.jpg/1280px-Kaohsiung_Harbour_-_KaohsiungHarbour4515.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5670,
+      "hauteur": 3780
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cable (3863088927).jpg",
+      "description": "Hood release I think",
+      "categories": [
+        "Taken with Canon PowerShot A430",
+        "Cables",
+        "Flickr images reviewed by trusted users"
+      ],
+      "auteur": "dave_7 from Lethbridge, Canada",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cable_(3863088927).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cable_%283863088927%29.jpg/1280px-Cable_%283863088927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1704,
+      "hauteur": 2272
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

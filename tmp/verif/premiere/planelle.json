@@ -1,53 +1,101 @@
 {
- "termId": "planelle",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Passage piéton avec dalles podotactiles rouges sur la chaussée.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Hanover, USA",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Briques de terre crue séchant en tas.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Belo, Cameroun",
-   "note": "Briques de terre, pas une planelle."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Brique antique d'un musée sous ficelle avec étiquette.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Inde",
-   "note": "Texte visible, objet sans rapport."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Fragments de brique cuite dans un lit de rivière.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Colombage avec remplissage de briques en chevrons.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Aarhus, Danemark",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Charrette d'eau devant des piles de briques de terre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Thiès, Sénégal",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "planelle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Passage piéton avec dalles podotactiles rouges sur la chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanover, USA",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Briques de terre crue séchant en tas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belo, Cameroun",
+      "note": "Briques de terre, pas une planelle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Brique antique d'un musée sous ficelle avec étiquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Inde",
+      "note": "Texte visible, objet sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Fragments de brique cuite dans un lit de rivière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Colombage avec remplissage de briques en chevrons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aarhus, Danemark",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Charrette d'eau devant des piles de briques de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Thiès, Sénégal",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tas de briques pleines marquées, empilées devant un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques pleines ordinaires, pas de planelle identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Piles de briques de terre crue (adobe) abritées sous un toit de tôle, avec des cochons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques de terre crue, pas des planelles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rue et bâtiments de briques à Hanovre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune planelle visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Palmiers et briques de terre séchant au sol près d'un four, en Égypte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques de terre crue en vrac, pas de planelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Briques d'argile cuites rangées sur des étagères de séchage en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques en stock, aucune planelle claire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Une brique de terre séchée posée sur du papier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Brique de terre crue isolée, pas une planelle."
+    }
+  ]
 }

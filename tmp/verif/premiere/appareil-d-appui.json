@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Amsterdam, Pays-Bas",
       "note": "Appui ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Appui à rouleaux métalliques entre la poutre en treillis d'un pont et la pile en béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.41,
+        "largeur": 0.29,
+        "hauteur": 0.3
+      },
+      "lieu": "Baja, Hongrie",
+      "note": "Appareil d'appui à rouleaux net, posé sur la pile ; rectangle sur les rouleaux."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poutre en bois lamellé reposant sur un massif béton, rondelle noire sur la face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bohunice, Tchéquie",
+      "note": "Appui en bois, appareil d'appui peu visible et non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Roulement à billes dans une planche tenue à la main.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Roulement mécanique, pas un appareil d'appui."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poutre en treillis de pont vue d'en dessous avec appuis à rouleaux très petits au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baja, Hongrie",
+      "note": "Appui trop petit et lointain."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Appui de passerelle en pot, partiellement dans l'ombre sur un massif béton abîmé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brno, Tchéquie",
+      "note": "Appui mal éclairé, mortier de calage abîmé, peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pièce mécanique circulaire en métal avec règle graduée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de roulement de machine, pas un appareil d'appui de pont."
     }
   ]
 }

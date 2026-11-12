@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier projetant du béton sur une paroi avec treillis soudé, dans une fouille urbaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même scène et même chantier que la 03 déjà dans le jeu : quasi-doublon."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ferraillage en plan d'un grand radier couvert d'un film.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de béton projeté."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Paroi de conglomérat naturel avec végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rocher naturel, pas du béton projeté clair."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Homme descendant un escalier en béton, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de béton projeté lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand hall d'un musée aux parois sculptées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface lisse, pas du béton projeté."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Raccord d'évacuation blanc sous un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

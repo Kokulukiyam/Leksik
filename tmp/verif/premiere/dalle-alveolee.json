@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Thanjavur, Inde",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion transportant un élément préfabriqué sous bâche dans une rue de Singapour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément caché, aucune alvéole visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier avec dalles préfabriquées posées côte à côte sur étais, vues du dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Alvéoles quasiment invisibles aux extrémités ; pourrait illustrer dalle ou plancher."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poteau préfabriqué levé à la grue sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poteau, pas une dalle alvéolée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Coffrages perdus en plastique posés sur armatures avant coulage d'une dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle allégée coulée en place à coffrages perdus, pas une dalle alvéolée préfabriquée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Salle d'exposition d'éléments préfabriqués en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments non identifiables, pas de dalle alvéolée claire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan de coffrages plastique perdus entre armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle allégée à vides coulée en place, pas une dalle alvéolée."
     }
   ]
 }

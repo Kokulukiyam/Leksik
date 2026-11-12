@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Tunisie",
       "note": "Dalle à hourdis, pas une coque."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Homme penché sur une toiture de dalles béton préfabriquées avec chevrons de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles plates de toiture, pas une coque."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Intérieur d'une halle industrielle à voûte mince en béton, vide et encombrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belfort, France",
+      "note": "Voûte à simple courbure ; peut être pris pour une voûte en berceau ; intérieur sombre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Auvent de quai de gare en dalle béton plate, vue depuis une passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amiens, France",
+      "note": "Dalle plate en porte-à-faux, aucune double courbure."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Halle de gare marchandises avec toiture en voûtes minces, vue en plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vichy, France",
+      "note": "Voûtes à simple courbure, vue lointaine."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand atelier ferroviaire aux toitures en voûtes minces, vu de l'extérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gare de La Mouche, France",
+      "note": "Voûtes à simple courbure, pas de coque à double courbure."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Halle de gare marchandises aux toitures voûtées, vue en plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Vichy, France",
+      "note": "Quasi-doublon de 10, voûtes simples."
     }
   ]
 }

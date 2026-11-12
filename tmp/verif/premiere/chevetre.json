@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Colombage, pas de chevêtre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Des volontaires soulèvent un pan de mur à ossature bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature de mur, pas de chevêtre de trémie visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux fenêtres dans une façade à colombage et brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Göttingen, Allemagne",
+      "note": "Aucun chevêtre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pièce en rénovation avec montants de bois et plancher brut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Freshwater, Terre-Neuve, Canada",
+      "note": "Pas de trémie ni de chevêtre identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Magasin d'un coin de rue avec enseigne et toit de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Antonio Pajonal, Salvador",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cage d'escalier en brique avec marches en porte-à-faux en restauration.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Epping, Essex, Angleterre",
+      "note": "Aucun chevêtre identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Cadre en bois à tenons assemblé avec chevilles sur un établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Assemblage de cadre, pas un chevêtre."
     }
   ]
 }

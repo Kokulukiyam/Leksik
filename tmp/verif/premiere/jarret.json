@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Moravská Nová Ves, Tchéquie",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier mesurant une ossature de profilés minces en acier léger sur un immeuble en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature légère à montants, aucun jarret de portique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lettres monumentales « Eu amo Pingo-d'Água » sur un rond-point.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Immeuble de 12 étages en construction avec grue à tour et échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun jarret visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bâtiment de service en bardage métallique avec portes de garage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure cachée par le bardage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble en construction avec échafaudage et grue vu depuis la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun jarret visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue vers le haut d'une structure tubulaire de plateforme pétrolière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillis tubulaire, pas de jarret de portique."
     }
   ]
 }

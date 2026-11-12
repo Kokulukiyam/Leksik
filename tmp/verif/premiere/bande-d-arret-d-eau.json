@@ -1,7 +1,101 @@
-{"termId":"bande-d-arret-d-eau","candidats":[
-{"fichier":"01.jpg","vu":"Membrane d'étanchéité noire remontant contre un panneau de contreplaqué sur un toit.","verdict":"rejetée","rectangle":null,"lieu":"","note":"Relevé d'étanchéité de toiture, pas une bande d'arrêt d'eau dans une reprise de bétonnage."},
-{"fichier":"02.jpg","vu":"Escalator de métro bâché de plastique bleu contre les fuites.","verdict":"rejetée","rectangle":null,"lieu":"Tokyo, Japon","note":"Sans rapport."},
-{"fichier":"03.jpg","vu":"Tableau de résistance à l'eau des montres.","verdict":"rejetée","rectangle":null,"lieu":"","note":"Image non photographique, sans rapport."},
-{"fichier":"04.jpg","vu":"Lavabo encastré dans un plan en granit noir.","verdict":"rejetée","rectangle":null,"lieu":"","note":"Sans rapport."},
-{"fichier":"05.jpg","vu":"Ouvriers dans un tunnel ferroviaire en construction, membrane d'étanchéité sur la voûte.","verdict":"rejetée","rectangle":null,"lieu":"Alishan, Taïwan","note":"Membrane de tunnel, aucune bande d'arrêt d'eau identifiable."},
-{"fichier":"06.jpg","vu":"Escalator de métro avec bâches de protection.","verdict":"rejetée","rectangle":null,"lieu":"Tokyo, Japon","note":"Sans rapport."}]}
+{
+  "termId": "bande-d-arret-d-eau",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Membrane d'étanchéité noire remontant contre un panneau de contreplaqué sur un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Relevé d'étanchéité de toiture, pas une bande d'arrêt d'eau dans une reprise de bétonnage."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Escalator de métro bâché de plastique bleu contre les fuites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Tableau de résistance à l'eau des montres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image non photographique, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lavabo encastré dans un plan en granit noir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvriers dans un tunnel ferroviaire en construction, membrane d'étanchéité sur la voûte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Alishan, Taïwan",
+      "note": "Membrane de tunnel, aucune bande d'arrêt d'eau identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Escalator de métro avec bâches de protection.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tokyo, Japon",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalator de métro japonais avec panneau annonçant une fuite d'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pas de bande d'arrêt d'eau."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Goéland sur un rocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvrier appliquant un mastic sur une toiture de tuiles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une bande d'arrêt d'eau."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Logo d'entreprise d'hydroisolation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Logo, pas une photo de chantier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carnets jaunes étanches posés sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Seau de peinture avec étiquette.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    }
+  ]
+}

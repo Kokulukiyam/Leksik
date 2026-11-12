@@ -12,7 +12,10 @@
     ],
     "incompatibles": [
       "parpaing",
-      "chainage-horizontal"
+      "chainage-horizontal",
+      "bloc-plein",
+      "linteau-coule-en-place",
+      "chainage-vertical"
     ],
     "categoriesCommons": [
       "Category:Concrete blocks",
@@ -137,6 +140,165 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg/1280px-Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:-2021-01-23 Cavity wall construction, Trimingham, Norfolk (1).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Cavity_wall_construction,_Trimingham,_Norfolk_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/-2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG/1280px--2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Rykynčice-church-portal-1788.jpg",
+      "description": "Church in Dolné Rykynčice, (part of Rykynčice) Slovakia",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart M417",
+        "Æ",
+        "Pediments",
+        "Lintels",
+        "License migration redundant",
+        "Self-published work",
+        "Latin inscriptions in Slovakia",
+        "Door pediments",
+        "Church chandeliers in Slovakia",
+        "Chronograms in writing in Slovakia",
+        "Churches in Slovakia photographed in 2010",
+        "1788 architectural dates",
+        "U as V",
+        "1 as J",
+        "Small caps mixed case in Roman numeral chronograms",
+        "Plaques referencing 1788 in Slovakia",
+        "Plaques referencing 1821 in Slovakia",
+        "Black, orange, red, white",
+        "Black and red letter signs",
+        "Two-color text in Roman numeral chronograms",
+        "Photographs of objects with the letter \"Ñ\"",
+        "Photos by User:Pe-Jo",
+        "Church of the Immaculate Conception, Rykynčice",
+        "MDCCCVVVIIIIII (numeral)"
+      ],
+      "auteur": "Pe-Jo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rykyn%C4%8Dice-church-portal-1788.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rykyn%C4%8Dice-church-portal-1788.jpg/1280px-Rykyn%C4%8Dice-church-portal-1788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1952
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:-2021-01-23 Concrete Block wall, Trimingham, Norfolk.JPG",
+      "description": "Construction of a wall with concrete blocks. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Concrete_Block_wall,_Trimingham,_Norfolk.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/-2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG/1280px--2021-01-23_Concrete_Block_wall%2C_Trimingham%2C_Norfolk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Granitsturz.JPG",
+      "description": "Alter Granitsturz unbekannter Herkunft in Leisten, Mecklenburg",
+      "categories": [
+        "GFDL",
+        "Granite",
+        "Lintels",
+        "Karow (Plau am See)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Leisten (Plau am See)",
+        "Leisten by Mehlauge"
+      ],
+      "auteur": "Mehlauge",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Granitsturz.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Granitsturz.JPG/1280px-Granitsturz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:-2021-01-23 Cavity wall construction, Trimingham, Norfolk (2).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Cavity_wall_construction,_Trimingham,_Norfolk_(2).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/-2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%282%29.JPG/1280px--2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Deniliquin Court House 009.JPG",
+      "description": "Court house at en:Deniliquin , New South Wales. Note the anti-bird spikes on the lintel and window ledges",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D60",
+        "Lintels",
+        "License migration redundant",
+        "Self-published work",
+        "Deniliquin Court House",
+        "Photographs by Mattinbgn taken in 2011",
+        "August 2011 in Deniliquin"
+      ],
+      "auteur": "Mattinbgn",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deniliquin_Court_House_009.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Deniliquin_Court_House_009.JPG/1280px-Deniliquin_Court_House_009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

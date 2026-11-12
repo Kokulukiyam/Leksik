@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Parham House, Angleterre",
       "note": "Intrados peu lisible, face avant dominante."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Arcs de pierre en ogive vus d'en haut dans une cour, dans l'ombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rhodes, Grèce",
+      "note": "Arcs d'ensemble en contre-jour ; l'intrados n'est pas isolable sans ambiguïté avec l'arc."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arc brisé en pierre franchissant une ruelle, vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hellín, Espagne",
+      "note": "Arc entier ; intrados visible mais indissociable de l'arc, risque de confusion."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arc commémoratif en pierre sculptée dans un jardin botanique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hobart, Tasmanie",
+      "note": "Arc décoré, l'intrados n'est pas mis en évidence."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande arcade noire en contre-jour, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ancône, Italie",
+      "note": "Image sous-exposée et contrastée, rien de lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur d'une voûte en pierre de taille à plusieurs arcs successifs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Douvres-la-Délivrande, France",
+      "note": "Voûte entière : pourrait illustrer voûte ou arc ; l'intrados n'est pas distingué."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pergola en arcs de métal et piliers de brique alignés dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Turquie",
+      "note": "Structure légère d'arcs, pas un intrados de maçonnerie."
     }
   ]
 }

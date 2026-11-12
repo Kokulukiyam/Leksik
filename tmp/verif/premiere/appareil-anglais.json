@@ -1,53 +1,101 @@
 {
- "termId": "appareil-anglais",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Gros plan d'un mur de briques anciennes où rangs de longues panneresses et rangs de boutisses alternent.",
-   "verdict": "validée",
-   "rectangle": null,
-   "lieu": "Burgum, Pays-Bas",
-   "note": "Alternance nette d'un rang de panneresses et d'un rang de boutisses, appareil anglais lisible malgré l'usure."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Parement de briques sombres graffitées.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Rangs de panneresses uniquement."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Mur de briques courbe au-dessus d'un pavage, avec bandeau de pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Roosendaal, Pays-Bas",
-   "note": "Appareil trop petit et peu lisible pour trancher."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Façade en brique avec fenêtres et passante.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Appareil trop petit, distinction impossible."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Soubassement de brique sous une vitrine portant un panneau.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Castlecomer, Irlande",
-   "note": "Texte visible, zone de brique petite."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Voiture Alfa Romeo devant un mur de brique.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "appareil-anglais",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Gros plan d'un mur de briques anciennes où rangs de longues panneresses et rangs de boutisses alternent.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Burgum, Pays-Bas",
+      "note": "Alternance nette d'un rang de panneresses et d'un rang de boutisses, appareil anglais lisible malgré l'usure."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Parement de briques sombres graffitées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rangs de panneresses uniquement."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de briques courbe au-dessus d'un pavage, avec bandeau de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Roosendaal, Pays-Bas",
+      "note": "Appareil trop petit et peu lisible pour trancher."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Façade en brique avec fenêtres et passante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil trop petit, distinction impossible."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Soubassement de brique sous une vitrine portant un panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Castlecomer, Irlande",
+      "note": "Texte visible, zone de brique petite."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Voiture Alfa Romeo devant un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de briques rouges dont les rangs alternent entre briques posées en longueur et en bout, avec un T peint en noir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dublin, Irlande",
+      "note": "Alternance de rangs de panneresses et de rangs de boutisses : appareil anglais net. Le T peint n'est pas un texte révélateur."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte ancienne ronde couverte de vigne vierge dans un mur de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Végétation dominante, appareil non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de galets avec reprise en briques rouges et oranges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galets et briques, pas un appareil anglais."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Enceinte fortifiée en brique et pierre vue en grand angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil trop petit et déformé."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de carreaux colorés bleutés avec une personne entre deux piliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non reconnaissable, personne et filigrane visibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plante en premier plan devant un mur de briques flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plante dominante, flou."
+    }
+  ]
 }

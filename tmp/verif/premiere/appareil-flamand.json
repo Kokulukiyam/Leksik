@@ -1,53 +1,101 @@
 {
- "termId": "appareil-flamand",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Parement de briques avec des boutisses cerclées de rouge.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "USA",
-   "note": "Image annotée (ellipses dessinées), pas une photo brute."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Voiture Alfa Romeo devant un mur de brique.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Mur de brique irrégulier, gros plan.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Detroit, USA",
-   "note": "Briques en panneresses surtout, appareil flamand non net."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Ruine en brique avec une baie.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Appareil irrégulier, non démonstratif."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Parement de briques avec boutisses cerclées à l'encre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Kentucky, USA",
-   "note": "Image annotée (ellipses dessinées)."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Petit ouvrage en brique sur une pelouse devant des bâtiments.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Szekszárd, Hongrie",
-   "note": "Appareil non lisible."
-  }
- ]
+  "termId": "appareil-flamand",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parement de briques avec des boutisses cerclées de rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "USA",
+      "note": "Image annotée (ellipses dessinées), pas une photo brute."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Voiture Alfa Romeo devant un mur de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Mur de brique irrégulier, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Detroit, USA",
+      "note": "Briques en panneresses surtout, appareil flamand non net."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ruine en brique avec une baie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil irrégulier, non démonstratif."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Parement de briques avec boutisses cerclées à l'encre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kentucky, USA",
+      "note": "Image annotée (ellipses dessinées)."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petit ouvrage en brique sur une pelouse devant des bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Szekszárd, Hongrie",
+      "note": "Appareil non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de briques avec ellipses tracées autour de certaines briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image annotée (ellipses ajoutées), retouchée ; appareil peu net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de briques ancien et dégradé, corniche en haut, mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de briques rouges où briques rouges de face et bouts gris vitrifiés alternent dans chaque rang.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Williamsburg, Virginie, États-Unis",
+      "note": "Appareil flamand net : panneresses et boutisses alternées dans chaque rang, boutisses vitrifiées grises."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Angle de mur de brique voûté très rasant, briques fines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil illisible, vue en forte perspective."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de briques multicolores avec deux traits noirs diagonaux tracés sur l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image annotée (traits ajoutés) ; appareil ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Terrain fleuri devant un bâtiment de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Végétation dominante, pas d'appareil visible."
+    }
+  ]
 }

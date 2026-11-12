@@ -1,0 +1,102 @@
+[
+ {
+  "cle": "paroi-berlinoise/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "palplanche/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-flamand/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-anglais/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-en-epi/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "opus-incertum/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "opus-incertum/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-cyclopeen/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-reticule/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "trou-de-boulin/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "dalle-caissonnee/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ossature-bois/09",
+  "accord": false,
+  "raison": "Pan de bois ancien à décharges obliques sans remplissage : c'est plutôt un colombage dégarni qu'une ossature bois moderne à montants rapprochés."
+ },
+ {
+  "cle": "poutre-vierendeel/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "structure-tridimensionnelle/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ancre/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "ancre/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "hauban/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "appareil-d-appui/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "arc-outrepasse/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ },
+ {
+  "cle": "voute-d-aretes/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+ }
+]

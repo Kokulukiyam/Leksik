@@ -11,7 +11,8 @@
       "cyclopean wall stones"
     ],
     "incompatibles": [
-      "mur-en-pierre-seche"
+      "mur-en-pierre-seche",
+      "opus-incertum"
     ],
     "categoriesCommons": [
       "Category:Cyclopean masonry",
@@ -144,6 +145,131 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sea_wall_at_Salisbury_Dock_Head.jpg/1280px-Sea_wall_at_Salisbury_Dock_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5198,
       "hauteur": 2944
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cyclopean steps at Pier Head.jpg",
+      "description": "Flight of steps from Pier Head, Liverpool, down to the river near the Mersey Ferry Terminal Building. Presumably by Jesse Hartley .",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "Pier Head",
+        "License migration redundant",
+        "Cyclopean masonry",
+        "Self-published work",
+        "September 2021 in Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 3° W)",
+        "Steps in Liverpool"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cyclopean_steps_at_Pier_Head.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cyclopean_steps_at_Pier_Head.jpg/1280px-Cyclopean_steps_at_Pier_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4944,
+      "hauteur": 3189
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:L'Hospitalet Vell in Manacor, Mallorca - 05.jpg",
+      "description": "Les ruines du village talayotique de l’Hospitalet Vell, près de Manacor.",
+      "categories": [
+        "Poblat talaiòtic de l'Hospitalet Vell",
+        "Polygonal masonry",
+        "Akeneo Wikimedia Editathon - Mallorca, October 2022",
+        "Self-published work",
+        "Dry stone walls in Spain",
+        "Dry stone in Mallorca"
+      ],
+      "auteur": "Sukkoria",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:L%27Hospitalet_Vell_in_Manacor,_Mallorca_-_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/L%27Hospitalet_Vell_in_Manacor%2C_Mallorca_-_05.jpg/1280px-L%27Hospitalet_Vell_in_Manacor%2C_Mallorca_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Dock Master's Office, Salisbury Dock.jpg",
+      "description": "Grade II listed dock office of Salisbury Dock from a passing ferry. Also shows the Grade II listed sea wall to the south of the dock entrance.",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "License migration redundant",
+        "Cyclopean masonry",
+        "Self-published work",
+        "Salisbury Dock, Liverpool",
+        "Grade II listed buildings in Liverpool L3",
+        "August 2021 in Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Walls in Liverpool"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dock_Master%27s_Office,_Salisbury_Dock.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Dock_Master%27s_Office%2C_Salisbury_Dock.jpg/1280px-Dock_Master%27s_Office%2C_Salisbury_Dock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4075,
+      "hauteur": 2790
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:San Juan de los Reyes 05.jpg",
+      "description": "Detail of the church of the monastery of San Juan de los Reyes. Toledo, Toledo, Castile-La Mancha, Spain",
+      "categories": [
+        "Polygonal masonry",
+        "Self-published work",
+        "Photographs by LBM1948",
+        "Granite walls",
+        "Chains in architecture",
+        "Exterior of the Church of the Monastery of San Juan de los Reyes (Toledo)",
+        "Granite facades"
+      ],
+      "auteur": "LBM1948",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:San_Juan_de_los_Reyes_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/San_Juan_de_los_Reyes_05.jpg/1280px-San_Juan_de_los_Reyes_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3870,
+      "hauteur": 2646
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bricks-and-mortar.jpg",
+      "description": "Yellow bricks (made of blue clay ) in a construction using mortar .",
+      "categories": [
+        "Masonry",
+        "Self-published work"
+      ],
+      "auteur": "Sten Porse",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bricks-and-mortar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bricks-and-mortar.jpg/1280px-Bricks-and-mortar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1360,
+      "hauteur": 882
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Sea wall north of Salisbury Dock head.jpg",
+      "description": "Grade II listed sea wall in Cyclopean masonrt by Jesse Hartley to the north of Salisbury Dock Head and Victoria Tower .",
+      "categories": [
+        "Rodhullandemu images",
+        "GFDL",
+        "Images with annotations",
+        "License migration redundant",
+        "Cyclopean masonry",
+        "Self-published work",
+        "Salisbury Dock, Liverpool",
+        "Grade II listed buildings in Liverpool L3",
+        "September 2021 in Liverpool",
+        "Files with coordinates missing SDC location of creation (53° N, 4° W)",
+        "Walls in Liverpool"
+      ],
+      "auteur": "Rodhullandemu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sea_wall_north_of_Salisbury_Dock_head.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Sea_wall_north_of_Salisbury_Dock_head.jpg/1280px-Sea_wall_north_of_Salisbury_Dock_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5141,
+      "hauteur": 2708
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

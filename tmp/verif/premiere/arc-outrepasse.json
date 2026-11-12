@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Miniature, pas une photo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade blanche à arcades en fer à cheval aux claveaux alternés, avec voitures devant.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.46,
+        "y": 0.4,
+        "largeur": 0.17,
+        "hauteur": 0.31
+      },
+      "lieu": "Cathédrale de la Sainte-Trinité, Gibraltar",
+      "note": "Arc en fer à cheval net, courbe resserrée à la base ; rectangle sur l'arc central."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de moellons à arcs de décharge ou arcades en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ávila, Espagne",
+      "note": "Arcs en plein cintre ou segmentaires, pas outrepassés."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arc brisé en pierre dans une ruelle ocre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hellín, Espagne",
+      "note": "Arc brisé, pas outrepassé."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Nef d'église avec colonnes et arcs de forme outrepassée, bancs au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gibraltar",
+      "note": "Arcs partiellement cachés, scène encombrée de colonnes et de bancs."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande arcade noire en contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ancône, Italie",
+      "note": "Image sous-exposée, courbe non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Galerie de la mosquée des Omeyyades avec arcades en mosaïque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Damas, Syrie",
+      "note": "Arcs presque en plein cintre, outrepassement trop faible pour lever le doute."
     }
   ]
 }

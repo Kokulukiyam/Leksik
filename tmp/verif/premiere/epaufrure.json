@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Éprouvette cubique de béton en préparation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épaufrure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de béton coffré couvert de mousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épaufrure identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poteau de béton à granulats apparents.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface bouchardée ou lavée, pas un éclat."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Raccord d'évacuation blanc sous un conteneur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier avec harnais au sommet d'un ouvrage, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Moules cubiques pour essais de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épaufrure."
     }
   ]
 }

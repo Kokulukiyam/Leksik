@@ -53,6 +53,64 @@
       "rectangle": null,
       "lieu": "Touraine, France",
       "note": "Ancre et tirant très lisibles, occupe l'image."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de brique en ruine avec une tige métallique qui sort de la maçonnerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce de fer peu lisible, pas d'ancre de façade identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rosace métallique ronde sur un mur crépi, masquant l'extrémité d'un tirant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Québec, Canada",
+      "note": "Rosace ronde non conforme à la forme S, X ou barre ; peu reconnaissable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de soutènement en moellons portant plusieurs ancres en X en fer.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.24,
+        "largeur": 0.11,
+        "hauteur": 0.14
+      },
+      "lieu": "Chamelet, Rhône, France",
+      "note": "Ancre en X nette ; rectangle sur une seule ancre, panneaux sans rapport avec la réponse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade d'immeuble à plusieurs étages, minuscules ancres décoratives entre les fenêtres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanovre, Allemagne",
+      "note": "Ancres trop petites sur la photo."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ancre en X en fer fixée sur un mur crépi orange entre des fenêtres.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.43,
+        "largeur": 0.25,
+        "hauteur": 0.35
+      },
+      "lieu": "Gamla stan, Stockholm, Suède",
+      "note": "Ancre en X claire et dominante, bien encadrée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison de ferme en pierre avec deux esses en fer sur la façade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "L'Assomption, Québec, Canada",
+      "note": "Ancres en S trop petites et lointaines pour un téléphone."
     }
   ]
 }

@@ -1,53 +1,106 @@
 {
- "termId": "appareil-cyclopeen",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Escalier de quai en grès au bord d'un bassin.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Liverpool",
-   "note": "Pierre de taille régulière, pas cyclopéen."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Gravure d'un mur en gros blocs.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Crète",
-   "note": "Gravure, pas une photo."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Bâtiment en construction en parpaings.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Parpaings, sans rapport."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Énorme bloc taillé près du temple de Jupiter, visiteurs au fond.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Baalbek, Liban",
-   "note": "Mégalithe taillé isolé, blocs de l'appareil non lisibles ; doute avec l'appareil à bossage."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Moulure peinte écaillée sur un vieux mur.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Mur de quai lointain devant un phare.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Liverpool",
-   "note": "Trop lointain, appareil non lisible."
-  }
- ]
+  "termId": "appareil-cyclopeen",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Escalier de quai en grès au bord d'un bassin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liverpool",
+      "note": "Pierre de taille régulière, pas cyclopéen."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gravure d'un mur en gros blocs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crète",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment en construction en parpaings.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings, sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Énorme bloc taillé près du temple de Jupiter, visiteurs au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baalbek, Liban",
+      "note": "Mégalithe taillé isolé, blocs de l'appareil non lisibles ; doute avec l'appareil à bossage."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Moulure peinte écaillée sur un vieux mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de quai lointain devant un phare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Liverpool",
+      "note": "Trop lointain, appareil non lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier de quai en grès rouge à Liverpool, ouvrage de dock.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Escalier, pas un mur cyclopéen lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Long mur de très gros blocs de pierre calcaire bruts, ajustés sans mortier, dans un champ.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.42,
+        "largeur": 1.0,
+        "hauteur": 0.3
+      },
+      "lieu": "Hospitalet Vell, Manacor, Majorque, Espagne",
+      "note": "Mur de gros blocs bruts à peine taillés, sans mortier, bien lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de quai de dock vu de loin avec une tour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop loin, détail illisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade en pierre à bossages d'une église avec motifs gothiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre de taille régulière, pas du cyclopéen."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan de briques jaunes et mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques, pas de cyclopéen."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de quai de dock vu de loin au bord de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop loin, illisible."
+    }
+  ]
 }

@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "ferraillage",
-      "cadre-d-armature"
+      "cadre-d-armature",
+      "etrier"
     ],
     "categoriesCommons": [
       "Category:Rebar",
@@ -149,6 +150,128 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg/1280px-2018-06-01_%28026%29_Construction_site_at_Tiefgrabenrotte_in_Frankenfels%2C_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 1836
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chamsin Kehl.jpg",
+      "description": "Tramway de Strasbourg, ligne transfrontalière , chantier du pont",
+      "categories": [
+        "Bridge construction in Germany",
+        "Overcast in Germany",
+        "Beatus Rhenanus Bridge",
+        "Images with annotations",
+        "Rebar",
+        "Buildings in Kehl",
+        "Self-published work",
+        "NoFoP-France",
+        "Bridge construction in France",
+        "Construction sites in Baden-Württemberg",
+        "Construction sites in Alsace",
+        "High-rises in Ortenaukreis",
+        "2015 in bridge construction",
+        "Files with coordinates missing SDC location of creation (48° N, 7° E)",
+        "Chamsin (ship, 2000)"
+      ],
+      "auteur": "Ikar.us",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chamsin_Kehl.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Chamsin_Kehl.jpg/1280px-Chamsin_Kehl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2256,
+      "hauteur": 816
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Aluminum Formwork.JPG",
+      "description": "Multi-store concrete construction in Mexico using aluminum concrete formwork.",
+      "categories": [
+        "Reinforced concrete",
+        "GFDL",
+        "Taken with Olympus u1030SW / S-1030SW",
+        "License migration redundant",
+        "Self-published work",
+        "Aluminium industry in Mexico"
+      ],
+      "auteur": "WTF Formwork http://www.wallties.com",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminum_Formwork.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Aluminum_Formwork.JPG/1280px-Aluminum_Formwork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2892,
+      "hauteur": 2580
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Brückenbau am Haltepunkt Anger-Crottendorf.jpg",
+      "description": "An elaborate steel and wood formwork over Zweinaundorfer Straße was built in order to be able to erect the east of the two railway overpasses at the Leipzig Anger-Crottendorf stop in reinforced concrete construction.",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Nikon D750",
+        "EÜ Zweinaundorfer Straße (Güterring)",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-03-26",
+        "Photographs by Augustgeyler"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg/1280px-Br%C3%BCckenbau_am_Haltepunkt_Anger-Crottendorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5938,
+      "hauteur": 3958
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Bewehrungsstahl Boden Trogbauwerk.jpg",
+      "description": "Standort zwischen Margarete-Kubicka-Brücke und Mathilde-Rathenau-Brücke",
+      "categories": [
+        "Rebar",
+        "Self-published work",
+        "Bundesautobahn 100 (Berlin-Neukölln)"
+      ],
+      "auteur": "FellTiger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bewehrungsstahl_Boden_Trogbauwerk.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bewehrungsstahl_Boden_Trogbauwerk.jpg/1280px-Bewehrungsstahl_Boden_Trogbauwerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Coffrage et ferraillage d'une semelle et d'un prés poteau.JPG",
+      "description": "ferraillage d'une semelle et d'un prés poteau",
+      "categories": [
+        "Reinforced concrete",
+        "Taken with Pentax Optio E65",
+        "Self-published work",
+        "Construction in Tunisia",
+        "Rebar on site",
+        "Wooden formwork"
+      ],
+      "auteur": "Oussama zrafi",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrage_et_ferraillage_d%27une_semelle_et_d%27un_pr%C3%A9s_poteau.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Coffrage_et_ferraillage_d%27une_semelle_et_d%27un_pr%C3%A9s_poteau.JPG/1280px-Coffrage_et_ferraillage_d%27une_semelle_et_d%27un_pr%C3%A9s_poteau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2127
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bring reinforcements^ - geograph.org.uk - 7198904.jpg",
+      "description": "Bring reinforcements!",
+      "categories": [
+        "Rebar",
+        "Images from Geograph Britain and Ireland",
+        "Construction in Bristol",
+        "Cumberland Road, Bristol"
+      ],
+      "auteur": "Anthony O'Neil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg/1280px-Bring_reinforcements%5E_-_geograph.org.uk_-_7198904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2856,
+      "hauteur": 1960
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,58 +1,111 @@
 {
- "termId": "appareil-en-epi",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Mur de pierres plates dont certaines sont inclinées en épi, mêlées à un appareil irrégulier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Rabós, Espagne",
-   "note": "Épi partiel, noyé dans un appareil irrégulier."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Gros plan d'un mur de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre.",
-   "verdict": "validée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Épi (opus spicatum) net et dominant, plein cadre."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Long mur de moellons avec un épi peu visible, lierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Königsbach, Allemagne",
-   "note": "Épi non lisible à cette distance."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Mur de pierres de taille avec deux inserts de briques posées en épi.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.11,
-    "y": 0.29,
-    "largeur": 0.34,
-    "hauteur": 0.3
-   },
-   "lieu": "Gaète, Italie",
-   "note": "Rectangle sur l'insert de gauche, briques en arête de poisson bien visibles."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Façade en brique d'un couvent, vue lointaine.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Cork, Irlande",
-   "note": "Épi hypothétique, invisible."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Mur de pierres avec petits inserts de briques en épi près d'une porte.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Gaète, Italie",
-   "note": "Inserts trop petits et abîmés ; la photo 04 est meilleure."
-  }
- ]
+  "termId": "appareil-en-epi",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de pierres plates dont certaines sont inclinées en épi, mêlées à un appareil irrégulier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rabós, Espagne",
+      "note": "Épi partiel, noyé dans un appareil irrégulier."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Gros plan d'un mur de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Épi (opus spicatum) net et dominant, plein cadre."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Long mur de moellons avec un épi peu visible, lierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Königsbach, Allemagne",
+      "note": "Épi non lisible à cette distance."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de pierres de taille avec deux inserts de briques posées en épi.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.11,
+        "y": 0.29,
+        "largeur": 0.34,
+        "hauteur": 0.3
+      },
+      "lieu": "Gaète, Italie",
+      "note": "Rectangle sur l'insert de gauche, briques en arête de poisson bien visibles."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Façade en brique d'un couvent, vue lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cork, Irlande",
+      "note": "Épi hypothétique, invisible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de pierres avec petits inserts de briques en épi près d'une porte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Gaète, Italie",
+      "note": "Inserts trop petits et abîmés ; la photo 04 est meilleure."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pan de mur en moellons de schiste très irréguliers, haut et épais.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierres posées en tous sens, pas un épi franc."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fond de cheminée ancien en pierres plates posées en oblique, inclinées alternativement en arête de poisson.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.33,
+        "y": 0.39,
+        "largeur": 0.46,
+        "hauteur": 0.32
+      },
+      "lieu": "Château d'Usk, Pays de Galles",
+      "note": "Opus spicatum très net dans le rectangle ; reste du mur en moellons et blocs réguliers."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de schiste en lits de plaques inclinées dans des sens variés, avec mortier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Inclinaisons désordonnées, épi non net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de plaques de pierre dressées en désordre, à côté d'un pilier appareillé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Inclinaison irrégulière, épi non net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Amas de pierres plates sur une pente, végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruine éboulée, rien de lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte monumentale en pierre dans un grand mur de brique et galets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun épi visible."
+    }
+  ]
 }

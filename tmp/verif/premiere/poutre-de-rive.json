@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Rive de dalle pas lisible, trop confus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Photo ancienne en noir et blanc d'ouvriers autour d'une poutre béton levée par une grue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Photo d'archive, poutre isolée, pas en place en rive de plancher."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poutre d'acier jaune signée portant le logo BW.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poutre signée avec texte, hors contexte de plancher."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Lettres lumineuses « HORMIGON » sur des pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enseigne, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pile de poutrelles béton en T livrées sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Angleterre",
+      "note": "Poutrelles de plancher à entrevous, pas une poutre de rive en place."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente en bois d'une jetée avec poteaux et croix de contreventement au-dessus de l'eau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Orono, Minnesota",
+      "note": "Pas de poutre de rive de plancher."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Armatures rouillées sortant d'un béton éclaté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crisbecq, France",
+      "note": "Détail d'armatures, sans rapport."
     }
   ]
 }

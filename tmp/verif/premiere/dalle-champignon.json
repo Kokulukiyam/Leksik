@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Porto Santo, Portugal",
       "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dalle funéraire de béton sur une tombe avec croix de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle de tombe, sans poteau champignon."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite dalle de pierre gravée posée sur la terre rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Stèle, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sol en béton imprimé ocre devant un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dallage, pas une dalle champignon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Militaire lissant une dalle de béton fraîche sous des coffrages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chantier de dalle, pas de champignon."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fondation coulée dans un coffrage de bois en tranchée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Radier en construction, sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plate-forme de voies de tramway avec dalles de béton entre les rails.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

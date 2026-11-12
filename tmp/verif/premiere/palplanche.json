@@ -53,6 +53,59 @@
       },
       "lieu": "La Nouvelle-Orléans, États-Unis",
       "note": "Profilés ondulés emboîtés clairement visibles, photo nette."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangée de palplanches posées sur une plage, avec lettres peintes, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible et composition artistique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Canal asséché de chantier avec rideau de palplanches au fond, loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palplanches trop petites et lointaines."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan flou sur l'emboîtement en serrure d'une palplanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail macro peu lisible, ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur ondulé gris sous un pavage, avec un passage pour la faune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Palplanches en matière plastique recyclée, pas en acier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue aérienne noir et blanc de pontons et de rideaux sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rideau de palplanches en acier rouillé ondulé le long d'une rivière, devant une structure en béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.36,
+        "largeur": 0.72,
+        "hauteur": 0.62
+      },
+      "lieu": "",
+      "note": "Palplanches ondulées bien visibles ; rectangle sur le rideau."
     }
   ]
 }

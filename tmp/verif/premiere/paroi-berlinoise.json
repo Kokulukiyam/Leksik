@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Genève",
       "note": "Paroi peu lisible, les butons dominent."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fouille ferroviaire avec parois en profilés et planches de bois, boîtiers rouges au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même chantier que la 01 déjà validée : quasi-doublon, vue plus encombrée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieux mur de quai en pierre le long d'un chemin au bord d'un fleuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur de pierre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade de brique étayée par des poutres, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étaiement, pas une paroi berlinoise."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Longue paroi de planches de bois horizontales insérées entre des profilés métalliques verticaux en H dépassant en tête, au bord d'une voie ferrée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Breitengüßbach, Allemagne",
+      "note": "Paroi berlinoise typique : profilés verticaux et planches de blindage, bien visible et dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Église échafaudée et étayée après un séisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage, sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vaste fouille avec pelle ; le soutènement n'apparaît qu'au loin à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paroi trop petite et lointaine."
     }
   ]
 }

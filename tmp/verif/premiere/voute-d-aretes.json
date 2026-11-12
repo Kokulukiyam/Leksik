@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Vienne, Autriche",
       "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Couloir d'école voûté vu depuis un escalier, avec lustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Płock, Pologne",
+      "note": "Voûtes d'arêtes peu lisibles, escalier au premier plan."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Schéma de géométrie d'une voûte en berceau, tiré d'un manuel.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Salle de musée voûtée d'arêtes sur piliers de brique, arêtes saillantes bien éclairées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.62
+      },
+      "lieu": "Château royal de Poznań, Pologne",
+      "note": "Voûtes d'arêtes nettes ; rectangle sur la zone voûtée, écartant les visiteurs."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Voûte de brique en ruine des thermes de Caracalla, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Voûte en berceau ou cul-de-four, pas d'arêtes visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Couloir de château voûté, avec bois de cerfs et banc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schloss Bellin, Allemagne",
+      "note": "Voûte peu lisible, nombreux objets distrayants."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vue du Colisée avec arcades et ruines de briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Arcades extérieures, pas de voûte d'arêtes."
     }
   ]
 }

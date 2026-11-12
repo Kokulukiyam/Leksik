@@ -1,53 +1,101 @@
 {
- "termId": "bloc-en-u",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Parpaings creux empilés dans une cour, village avec toits en tôle.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Parpaings empilés, pas de bloc en U visible."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Passage dans un mur de briques surmonté d'un linteau de pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Nalanda, Inde",
-   "note": "Sans bloc en U."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Bâtiment rural et charrette, murs en blocs.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Acaiaca, Brésil",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Entrée d'une grotte avec encadrement en pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Mottola, Italie",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Pile de parpaings devant un bâtiment en briques, deux ouvriers.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Parpaings creux standards, pas de bloc en U identifiable."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Linteau de pierre sculpté d'une synagogue antique.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Chorazin, Israël",
-   "note": "Pierre sculptée, sans rapport."
-  }
- ]
+  "termId": "bloc-en-u",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Parpaings creux empilés dans une cour, village avec toits en tôle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings empilés, pas de bloc en U visible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Passage dans un mur de briques surmonté d'un linteau de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nalanda, Inde",
+      "note": "Sans bloc en U."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Bâtiment rural et charrette, murs en blocs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Acaiaca, Brésil",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Entrée d'une grotte avec encadrement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Mottola, Italie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de parpaings devant un bâtiment en briques, deux ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings creux standards, pas de bloc en U identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Linteau de pierre sculpté d'une synagogue antique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chorazin, Israël",
+      "note": "Pierre sculptée, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur à double paroi en blocs de béton cellulaire et béton avec isolant en laine minérale visible dans la coupe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bloc en U identifiable ; mur creux avec isolant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Linteau et encadrement de porte en pierre avec inscription au-dessus d'un portail d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec un bloc en U ; texte visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de parpaings gris montés en rangs, en chantier, vu en enfilade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Parpaings pleins ou creux, aucun bloc en U visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Long bloc de pierre ancien couché dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Linteau de granit, pas un bloc en U."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Détail d'un mur creux avec laine minérale entre blocs béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun bloc en U identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Encadrement de fenêtres moulurées sur façade orange, avec pics anti-oiseaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport avec le terme."
+    }
+  ]
 }

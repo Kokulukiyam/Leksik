@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "pierre-de-taille",
-      "calcaire"
+      "calcaire",
+      "travertin"
     ],
     "categoriesCommons": [
       "Category:Limestone buildings in France"
@@ -159,6 +160,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg/1280px-Fa%C3%A7ades_sud_et_est_du_ch%C3%A2teau_d%27Azay-le-Rideau_et_son_miroir_d%27eau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 7500,
       "hauteur": 5005
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Vitrac, Dordogne - Montfort - 01.jpg",
+      "description": "Vitrac (Dordogne, France) - Hameau de Montfort - Maisons de calcaire ocre, typiques du Périgord Noir",
+      "categories": [
+        "GFDL",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Limestone buildings in France",
+        "Files with coordinates missing SDC location of creation",
+        "Files by Benjism89",
+        "Nouvelle-Aquitaine photographs taken on 2024-09-19",
+        "Buildings in Vitrac (Dordogne)",
+        "Montfort (Vitrac)"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vitrac,_Dordogne_-_Montfort_-_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Vitrac%2C_Dordogne_-_Montfort_-_01.jpg/1280px-Vitrac%2C_Dordogne_-_Montfort_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6523,
+      "hauteur": 4353
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Beaulieu-ancienne-eglise-St-Pierre.jpg",
+      "description": "Vestiges de l'ancienne église Saint-Pierre de Beaulieu-lès-Loches, 13e siècle. De l'église subsiste à l'est un grand mur avec une arcade de la nef et quelques ouvertures. Une tour cylindrique d'escalier subsiste à un angle. Côté rue, c'est une façade classique d'une maison en tuffeau. Inscrit comme Monument Historique.",
+      "categories": [
+        "Église Saint-Pierre de Beaulieu-lès-Loches"
+      ],
+      "auteur": "Jean-Michel Chedozeau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beaulieu-ancienne-eglise-St-Pierre.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Beaulieu-ancienne-eglise-St-Pierre.jpg/1280px-Beaulieu-ancienne-eglise-St-Pierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Carrière de tuffeau à Bourré, Loir-et-Cher.JPG",
+      "description": "Carrière de tuffeau à Bourré, Loir-et-Cher.",
+      "categories": [
+        "Limestone quarries",
+        "Bourré",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Images from Été des Villes 2015",
+        "Quarries in Loir-et-Cher",
+        "Tufa buildings in France",
+        "Limestone formations in Loir-et-Cher"
+      ],
+      "auteur": "Als33120",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carri%C3%A8re_de_tuffeau_%C3%A0_Bourr%C3%A9,_Loir-et-Cher.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Carri%C3%A8re_de_tuffeau_%C3%A0_Bourr%C3%A9%2C_Loir-et-Cher.JPG/1280px-Carri%C3%A8re_de_tuffeau_%C3%A0_Bourr%C3%A9%2C_Loir-et-Cher.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4620,
+      "hauteur": 3080
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Vitrac, Dordogne - Montfort - 02.jpg",
+      "description": "Vitrac (Dordogne, France) - Hameau de Montfort - Mur et tourelle d'entrée du château de Montfort",
+      "categories": [
+        "GFDL",
+        "Château de Montfort (Vitrac)",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Machicolations in Dordogne",
+        "Limestone buildings in France",
+        "Files by Benjism89",
+        "Nouvelle-Aquitaine photographs taken on 2024-09-19"
+      ],
+      "auteur": "Benjamin Smith",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vitrac,_Dordogne_-_Montfort_-_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Vitrac%2C_Dordogne_-_Montfort_-_02.jpg/1280px-Vitrac%2C_Dordogne_-_Montfort_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4451,
+      "hauteur": 6670
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Chateau des Ducs de Bretagne ViaOuest.jpg",
+      "description": "Dans la Cour intérieure, une vue de la façade en pierre de tuffeau du magnifique château de Nantes en Loire-Atlantique (44) ou résida la duchesse Anne de Bretagne, deux fois reine de France...",
+      "categories": [
+        "Self-published work",
+        "2015 in Nantes",
+        "Files with coordinates missing SDC location of creation",
+        "Taken with Nokia Lumia 930",
+        "Ducal Palace (Château des ducs de Bretagne)"
+      ],
+      "auteur": "Viaouest",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chateau_des_Ducs_de_Bretagne_ViaOuest.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Chateau_des_Ducs_de_Bretagne_ViaOuest.jpg/1280px-Chateau_des_Ducs_de_Bretagne_ViaOuest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5376,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Avon-les-Roches (Indre-et-Loire) (14402523178).jpg",
+      "description": "Ancienne carrière de tuffeau. Le tuffeau blanc, encore appelé tuffeau de Touraine, de Saumur ou de Bourré, a été abondamment employé, pour les constructions tourangelles et angevines. Dès l'époque gallo-romaine, des carrières de tuffeau on été exploitées en Anjou et en Touraine pour l'édification de bâtiments. L'extraction du tuffeau en galeries souterraines a été la technique d'extraction la plus fréquemment utilisée. Le carrier attaquait le front de taille à l'aide d'un pic. Les dalles qu'il abattait avoisinaient les 3 mètres de haut par 2,5 mètres de large sur 0,4 mètres de profondeur. Ces ",
+      "categories": [
+        "Avon-les-Roches",
+        "Quarries in Indre-et-Loire",
+        "Abandoned quarries in France",
+        "Limestone quarries in France",
+        "Geology of Indre-et-Loire",
+        "France photographs taken on 2014-07-03",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Tufa in France",
+        "Photographs by Daniel Jolivet",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Daniel Jolivet",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avon-les-Roches_(Indre-et-Loire)_(14402523178).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Avon-les-Roches_%28Indre-et-Loire%29_%2814402523178%29.jpg/1280px-Avon-les-Roches_%28Indre-et-Loire%29_%2814402523178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4928,
+      "hauteur": 3264
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

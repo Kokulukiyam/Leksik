@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "arc",
-      "linteau"
+      "linteau",
+      "arc-en-plein-cintre"
     ],
     "categoriesCommons": [
       "Category:Arches",
@@ -148,6 +149,138 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lintel_bearing_a_lion_relief_-_IAA_2003-780.jpeg/1280px-Lintel_bearing_a_lion_relief_-_IAA_2003-780.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3264,
       "hauteur": 2448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A (79843191).jpeg",
+      "description": "500px provided description: A []",
+      "categories": [
+        "Arches",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Diego Astrada",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_(79843191).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/A_%2879843191%29.jpeg/1280px-A_%2879843191%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1422,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Ancient Galilee Synagogue Lintel, Chorazin, 4th-6th Century AD (42311255125).jpg",
+      "description": "Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com",
+      "categories": [
+        "CC-Zero",
+        "Lintels",
+        "Collections of the Israel Museum",
+        "Korazim",
+        "Information field template with formatting",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Gary Lee Todd/Israel Museum"
+      ],
+      "auteur": "Gary Todd from Xinzheng, China",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancient_Galilee_Synagogue_Lintel,_Chorazin,_4th-6th_Century_AD_(42311255125).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg/1280px-Ancient_Galilee_Synagogue_Lintel%2C_Chorazin%2C_4th-6th_Century_AD_%2842311255125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - FO232117 - Architettura e mattoni - arco.jpg",
+      "description": "10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy - Photo Paolo Villa - Architettura e mattoni - arco-volta",
+      "categories": [
+        "Baths of Caracalla",
+        "Arches",
+        "Vaults",
+        "Opus lateritium",
+        "Self-published work"
+      ],
+      "auteur": "Paolo Villa",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232117_-_Architettura_e_mattoni_-_arco.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/10_2023_-_Terme_%28Baths_of%29_Caracalla%2C_Arte_Romana%2C_Viale_Guido_Baccelli%2C_Rome%2C_Roma%2C_Lazio%2C_00154%2C_Italy_-_Photo_Paolo_Villa_-_FO232117_-_Architettura_e_mattoni_-_arco.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 4928
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Dva překlady nad sebou.JPG",
+      "description": "Two translations on top of each other. Prague, Czech Republic.",
+      "categories": [
+        "Taken with Canon PowerShot G10",
+        "Lintels",
+        "Self-published work",
+        "Files by Juandev",
+        "Files by Juandev lacking geographic coordinates",
+        "Brick walls in unidentified countries"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Dva_p%C5%99eklady_nad_sebou.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Dva_p%C5%99eklady_nad_sebou.JPG/1280px-Dva_p%C5%99eklady_nad_sebou.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3312,
+      "hauteur": 2220
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Airlock Avshalom Cave Exit.jpg",
+      "description": "מנעל אוויר ב מערת הנטיפים (שורק) הנמצא ביציאה, ומווסת את הלחות. ניתן להבחין ב ספרינקלרים בתקרה.",
+      "categories": [
+        "Arches",
+        "Exits",
+        "Self-published work",
+        "Center-parted stairs",
+        "Right-angled positioning",
+        "Striped walls"
+      ],
+      "auteur": "Eliran t",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Airlock_Avshalom_Cave_Exit.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Airlock_Avshalom_Cave_Exit.jpg/1280px-Airlock_Avshalom_Cave_Exit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Rykynčice-church-portal-1788.jpg",
+      "description": "Church in Dolné Rykynčice, (part of Rykynčice) Slovakia",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart M417",
+        "Æ",
+        "Pediments",
+        "Lintels",
+        "License migration redundant",
+        "Self-published work",
+        "Latin inscriptions in Slovakia",
+        "Door pediments",
+        "Church chandeliers in Slovakia",
+        "Chronograms in writing in Slovakia",
+        "Churches in Slovakia photographed in 2010",
+        "1788 architectural dates",
+        "U as V",
+        "1 as J",
+        "Small caps mixed case in Roman numeral chronograms",
+        "Plaques referencing 1788 in Slovakia",
+        "Plaques referencing 1821 in Slovakia",
+        "Black, orange, red, white",
+        "Black and red letter signs",
+        "Two-color text in Roman numeral chronograms",
+        "Photographs of objects with the letter \"Ñ\"",
+        "Photos by User:Pe-Jo",
+        "Church of the Immaculate Conception, Rykynčice",
+        "MDCCCVVVIIIIII (numeral)"
+      ],
+      "auteur": "Pe-Jo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rykyn%C4%8Dice-church-portal-1788.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rykyn%C4%8Dice-church-portal-1788.jpg/1280px-Rykyn%C4%8Dice-church-portal-1788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1952
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

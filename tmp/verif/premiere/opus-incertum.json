@@ -1,53 +1,101 @@
 {
- "termId": "opus-incertum",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Pile de dalles de pierre claire irrégulières.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Dalles empilées, pas un mur."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Ruelle avec échelle et mur rouge.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Curaçao",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Souterrain d'amphithéâtre aux murs de moellons irréguliers avec bandes de brique.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Durrës, Albanie",
-   "note": "Sombre, moellons mêlés de rangs de brique, lecture ambiguë."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Mur de briques blanches de tailles diverses.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Briques, pas des moellons irréguliers."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Couloir voûté sombre aux murs de moellons irréguliers.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Narbonne, France",
-   "note": "Photo très sombre, teinte sépia."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Chantier de coupole de brique avec échafaudages.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Pereslavl, Russie",
-   "note": "Sans rapport."
-  }
- ]
+  "termId": "opus-incertum",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Pile de dalles de pierre claire irrégulières.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles empilées, pas un mur."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Ruelle avec échelle et mur rouge.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Curaçao",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Souterrain d'amphithéâtre aux murs de moellons irréguliers avec bandes de brique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Durrës, Albanie",
+      "note": "Sombre, moellons mêlés de rangs de brique, lecture ambiguë."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Mur de briques blanches de tailles diverses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques, pas des moellons irréguliers."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Couloir voûté sombre aux murs de moellons irréguliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Narbonne, France",
+      "note": "Photo très sombre, teinte sépia."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Chantier de coupole de brique avec échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pereslavl, Russie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand mur romain à arcatures bâti de petits moellons polygonaux irréguliers sans rangs réglés, avec chaînes de pierres de taille.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Terracine, Latium, Italie",
+      "note": "Moellons irréguliers à joints en tous sens : opus incertum, appareil romain typique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Soubassement de brique couvert de végétation devant un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun opus incertum."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de pierres volcaniques irrégulières, sans rangs, avec trous de poutres en haut, à Pompéi.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pompéi, Italie",
+      "note": "Moellons irréguliers posés sans assises : opus incertum lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Archéologues travaillant sur un chantier de fouille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personnes au premier plan, mur peu visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade de maison à pans et briques, vieille et enduite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'opus incertum."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tour d'église en pierre et brique, grand angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil non lisible."
+    }
+  ]
 }

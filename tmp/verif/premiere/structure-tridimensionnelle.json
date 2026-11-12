@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Taichung, Taïwan",
       "note": "Désordonné, confusion possible avec une poutre treillis."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Charpente en bois d'un manège à chevaux avec un poteau central et des contrefiches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Charpente en bois classique, pas un réseau de barres en pyramides."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Lettres monumentales « Eu amo Timóteo » sur une place.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport avec une structure tridimensionnelle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Auvent d'aéroport couvert d'un réseau tridimensionnel de barres tubulaires et de nœuds, vu depuis le trottoir.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 0.62,
+        "hauteur": 0.62
+      },
+      "lieu": "Aéroport de Taoyuan, Taïwan",
+      "note": "Structure spatiale de barres et nœuds bien lisible ; rectangle sur le réseau, loin des panneaux."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue vers le haut de l'intérieur d'une coupole à ossature métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature de coupole, plus proche de la coupole que d'un réseau en pyramides ; image retouchée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grande couverture d'une gare en construction, ossature métallique sur piliers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure trop lointaine et masquée, non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chantier de tunnel avec grue et échafaudages métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune structure tridimensionnelle identifiable."
     }
   ]
 }

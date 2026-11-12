@@ -1,53 +1,101 @@
 {
- "termId": "bloc-a-bancher",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Murs en blocs de coffrage isolant en polystyrène sur un chantier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Coffrage isolant (ICF) en polystyrène, pas un bloc de béton à bancher."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Équilibre de pierres et d'un parpaing creux empilés.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Brampton, Canada",
-   "note": "Œuvre d'équilibre, sans rapport."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Ouvriers montant un coffrage courbe dans une station de métro.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Moscou",
-   "note": "Coffrage de chantier, pas un bloc à bancher."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Bloc de démonstration en Néopor, coupe d'un mur isolant avec réseaux.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Rendu de démonstration en polystyrène, pas un bloc de béton."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Pile de blocs de béton rainurés en gros plan.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Blocs pleins ou creux indéterminés, grandes alvéoles non visibles."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Montage de quatre vues de sous-sols coulés avec coffrages métalliques.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Béton coulé, pas de blocs à bancher."
-  }
- ]
+  "termId": "bloc-a-bancher",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Murs en blocs de coffrage isolant en polystyrène sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage isolant (ICF) en polystyrène, pas un bloc de béton à bancher."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Équilibre de pierres et d'un parpaing creux empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Brampton, Canada",
+      "note": "Œuvre d'équilibre, sans rapport."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Ouvriers montant un coffrage courbe dans une station de métro.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou",
+      "note": "Coffrage de chantier, pas un bloc à bancher."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Bloc de démonstration en Néopor, coupe d'un mur isolant avec réseaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu de démonstration en polystyrène, pas un bloc de béton."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Pile de blocs de béton rainurés en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs pleins ou creux indéterminés, grandes alvéoles non visibles."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Montage de quatre vues de sous-sols coulés avec coffrages métalliques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton coulé, pas de blocs à bancher."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bâtiment administratif en brique avec toit vert et panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, bloc non montré."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Coupe d'un mur creux avec laine minérale entre blocs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur à double paroi isolé, pas de bloc à bancher."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de logements avec armatures et banches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voiles coffrés, pas de bloc à bancher."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison moderne de nuit en blocs de coffrage isolants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs ICF isolants, non visibles ; photo de nuit."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Heurtoir en béton au bout d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Coffrage autoportant d'une voûte en cours de bétonnage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de voûte, pas de bloc."
+    }
+  ]
 }

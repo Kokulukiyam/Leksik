@@ -11,7 +11,8 @@
       "vierendeel girder"
     ],
     "incompatibles": [
-      "poutre-treillis"
+      "poutre-treillis",
+      "ferme-metallique"
     ],
     "categoriesCommons": [
       "Category:Vierendeel bridges",
@@ -155,6 +156,146 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Brugge_Spoorbrug_Blankenbergse_Steenweg_R01.jpg/1280px-Brugge_Spoorbrug_Blankenbergse_Steenweg_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3860,
       "hauteur": 2571
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Brugge Scheepsdalebrug R01.jpg",
+      "description": "Bruges (Belgique): l'ancien pont de Scheepsdale (démoli en 2009)",
+      "categories": [
+        "N9 (Belgium)",
+        "Taken with Canon PowerShot A620",
+        "Vierendeel bridges",
+        "Self-published work",
+        "Images by MJJR",
+        "Swing bridges in Belgium",
+        "Files with coordinates missing SDC location of creation (51° N, 3° E)",
+        "Scheepsdalebrug (Bruges)"
+      ],
+      "auteur": "Marc Ryckaert",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brugge_Scheepsdalebrug_R01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Brugge_Scheepsdalebrug_R01.jpg/1280px-Brugge_Scheepsdalebrug_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2717,
+      "hauteur": 1671
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Aluminium box trussing at Hatfield Broad Oak, Essex, England 3.jpg",
+      "description": "Aluminium box trussing sections which, when together, is usually used as a temporary hanging system for lights and sound equipment, typically for stage, theatre and music performance, taken in a workshop at Hatfield Broad Oak , Essex , England. Mobile device view : Wikimedia (at August 2019) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Hatfield Broad Oak and this uploader's Various photos. Desktop view : Wikimedia (at August 2019) makes it difficult to immediately view the helpful category links where you can find i",
+      "categories": [
+        "Taken with Samsung Galaxy S7 Edge",
+        "Trusses",
+        "Self-published work",
+        "Summer in Essex",
+        "Summer 2018 in the United Kingdom",
+        "September 2018 in Essex",
+        "United Kingdom photographs taken on 2018-09-19",
+        "Acabashi photos: various",
+        "Files with coordinates missing SDC location of creation (51° N, 0° E)",
+        "Workshops in England",
+        "Cluttered interiors",
+        "Stage lighting fixtures",
+        "Hatfield Park, Essex"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aluminium_box_trussing_at_Hatfield_Broad_Oak,_Essex,_England_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aluminium_box_trussing_at_Hatfield_Broad_Oak%2C_Essex%2C_England_3.jpg/1280px-Aluminium_box_trussing_at_Hatfield_Broad_Oak%2C_Essex%2C_England_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2466,
+      "hauteur": 3698
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Brugge Scheepsdalebrug R02.jpg",
+      "description": "Bruges (Belgique) : l'ancien Pont de Scheepsdale (démoli en 2009)",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Vierendeel bridges",
+        "Self-published work",
+        "Images by MJJR",
+        "Swing bridges in Belgium",
+        "Scheepsdalebrug (Bruges)"
+      ],
+      "auteur": "Marc Ryckaert",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brugge_Scheepsdalebrug_R02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Brugge_Scheepsdalebrug_R02.jpg/1280px-Brugge_Scheepsdalebrug_R02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2840,
+      "hauteur": 1913
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:George Inn, Southwark 1889.jpg",
+      "description": "The George Inn, in High Street at Borough in Southwark , London, England. Photograph from 1889 by the Stereoscopic Company Ltd.",
+      "categories": [
+        "People of London",
+        "1889 in London",
+        "Trusses",
+        "Wooden beams",
+        "PD-old-70-expired",
+        "The George Inn, Southwark",
+        "Listed buildings in England with known IDs",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "People of the United Kingdom in 1889",
+        "Alleys in the London Borough of Southwark",
+        "Restaurants photographed in 1889",
+        "1889 photographs of the United Kingdom",
+        "Balconies in London",
+        "19th-century photographs of London",
+        "London Stereoscopic Company",
+        "Black and white photographs of London in the 1880s",
+        "Sash windows in London",
+        "Historical images uploaded by Acabashi (London)"
+      ],
+      "auteur": "Auteur inconnu Unknown author Published by the London Stereoscopic and Photographic Company. Photographer known.",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:George_Inn,_Southwark_1889.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/George_Inn%2C_Southwark_1889.jpg/1280px-George_Inn%2C_Southwark_1889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1498,
+      "hauteur": 963
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Vierendeelbréck am Hafe vu Léck.jpg",
+      "description": "Vierendeelbréck (Monsinbréck) iwwer de Monsinkanal am Hafe vu Léck. Vierendeelbréck Hafe Léck Vierendeelbréck Hafe Léck",
+      "categories": [
+        "Taken with Canon PowerShot G7",
+        "Bridges in Liège",
+        "Vierendeel bridges",
+        "Canal de Monsin",
+        "Self-published work"
+      ],
+      "auteur": "Les Meloures at lb.wikipedia",
+      "licence": "CC BY-SA 3.0 lu",
+      "lien": "https://commons.wikimedia.org/wiki/File:Vierendeelbr%C3%A9ck_am_Hafe_vu_L%C3%A9ck.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Vierendeelbr%C3%A9ck_am_Hafe_vu_L%C3%A9ck.jpg/1280px-Vierendeelbr%C3%A9ck_am_Hafe_vu_L%C3%A9ck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 1845
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Auckland Harbour Bridge Protest 06.jpg",
+      "description": "Protesters for a walk- and cycleway across the Auckland Harbour Bridge , between Auckland City , and en:North Shore City in New Zealand , shown north of the bridge's central span, with many on their way back to the south at this stage. The protesters swarmed onto the bridge after several individuals made their way around police barriers and walked / cycled onto the motorway, upon which the whole northbound traffic was stopped by police and highway workers, in turn animating the rest of the crowd to join them on the now-closed lanes (with police deciding to abandon the attempt to turn them back",
+      "categories": [
+        "Trusses",
+        "Self-published work",
+        "PD-self",
+        "Crowds in New Zealand",
+        "Files with coordinates missing SDC location of creation",
+        "New Zealand photographs taken on 2009-05-24",
+        "Groups of people in Auckland",
+        "Photos taken by Ingolfson",
+        "Protest for a walk- and cycleway across Auckland Harbour Bridge (2009)"
+      ],
+      "auteur": "Ingolfson",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Auckland_Harbour_Bridge_Protest_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Auckland_Harbour_Bridge_Protest_06.jpg/1280px-Auckland_Harbour_Bridge_Protest_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

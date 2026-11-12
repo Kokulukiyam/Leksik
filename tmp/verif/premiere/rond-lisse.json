@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Profilés, pas des ronds."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bouts de grosses barres rondes d'acier empilées, couleurs très saturées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, barres épaisses et non des armatures."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petit autel au sommet d'une montagne avec un drapeau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Stock de profilés d'acier rouillés sur un quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Profilés, pas des ronds lisses."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gros plan sur des barres d'armature nervurées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres à haute adhérence crénelées, pas lisses."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Conteneurs et rails empilés sur un terrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Botte de barres d'armature à nervures sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Barres nervurées, pas lisses."
     }
   ]
 }

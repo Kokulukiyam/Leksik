@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Williamsburg, États-Unis",
       "note": "Trous trop petits, ambigus."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dôme du Capitole recouvert d'échafaudages, photographie ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage visible, aucun trou de boulin lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tour en pierre avec petite fenêtre cintrée à Karytaina.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trous trop petits, aucun clairement identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plate-forme funéraire sur pieux, photographie en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Paroi rocheuse intérieure d'un musée avec un canapé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand mur ancien de moellons percé de petits trous carrés, trous de boulin du donjon.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.62,
+        "y": 0.35,
+        "largeur": 0.12,
+        "hauteur": 0.11
+      },
+      "lieu": "Château de Cardiff, Pays de Galles",
+      "note": "Plusieurs petits trous alignés dans un mur ancien ; rectangle sur un trou net."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Haut pignon de brique d'un monastère avec petits trous carrés semés et fenêtres étroites.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trous très petits et mêlés aux fenêtres ; doute possible."
     }
   ]
 }

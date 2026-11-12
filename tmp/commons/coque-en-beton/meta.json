@@ -11,7 +11,8 @@
       "concrete shell roof"
     ],
     "incompatibles": [
-      "voute"
+      "voute",
+      "coupole"
     ],
     "categoriesCommons": [
       "Category:Concrete roofs"
@@ -130,6 +131,130 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dalle_pr%C3%A9fabriqu%C3%A9e%2C_vue_du_dessous.jpg/1280px-Dalle_pr%C3%A9fabriqu%C3%A9e%2C_vue_du_dessous.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3408,
       "hauteur": 2272
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Massief met overstek.jpg",
+      "description": "Betonnen elementen van 50 mm met een 24 cm dik naadloos en milieuvriendelijke isolatie. Geen gordingen nodig. Brandwerend, geluidswerend en een hoge isolatiewaarde. Snel en maatvast.",
+      "categories": [
+        "Roof construction",
+        "Self-published work",
+        "Concrete roofs"
+      ],
+      "auteur": "Willem van Asperen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Massief_met_overstek.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Massief_met_overstek.jpg/1280px-Massief_met_overstek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2411,
+      "hauteur": 1792
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2013-12-24 10-05-46 halle-sernam-belfort.jpg",
+      "description": "Ce fichier a été téléversé avec Commonist . Halle Sernam (HDR).",
+      "categories": [
+        "Taken with Nikon D300",
+        "ISO speed rating 200",
+        "Taken with Sigma 10-20mm F4-5.6 EX DC HSM",
+        "Uploaded with Commonist",
+        "Photos by ComputerHotline",
+        "Concrete roofs",
+        "Files with coordinates missing SDC location of creation",
+        "Created with Photomatix",
+        "Tone-mapped HDR images of Belfort",
+        "Interior of the Halle Sernam (Belfort)"
+      ],
+      "auteur": "Thomas Bresson",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2013-12-24_10-05-46_halle-sernam-belfort.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2013-12-24_10-05-46_halle-sernam-belfort.jpg/1280px-2013-12-24_10-05-46_halle-sernam-belfort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4244,
+      "hauteur": 2827
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Amiens Gare (voies vues depuis pont piétons) 1.jpg",
+      "description": "Amiens (Somme, France) - La Gare du Nord : Vue des voies et des quais depuis le pont pour piétons. .",
+      "categories": [
+        "March 2007 in Picardie",
+        "Train station platforms in Hauts-de-France",
+        "Taken with Canon Digital IXUS 40",
+        "Gare du Nord d'Amiens",
+        "Self-published work",
+        "Files by Markus3",
+        "Concrete roofs",
+        "Train station platform roofs in France",
+        "2007 in Amiens",
+        "Train station name signs in Amiens"
+      ],
+      "auteur": "Markus3 (Marc ROUSSEL)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Amiens_Gare_(voies_vues_depuis_pont_pi%C3%A9tons)_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Amiens_Gare_%28voies_vues_depuis_pont_pi%C3%A9tons%29_1.jpg/1280px-Amiens_Gare_%28voies_vues_depuis_pont_pi%C3%A9tons%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2250,
+      "hauteur": 1665
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Gare de marchandises de Vichy, toiture (3).jpg",
+      "description": "Gare de marchandises de Vichy",
+      "categories": [
+        "Gare de marchandises de Vichy",
+        "Self-published work",
+        "Roofs in Allier",
+        "August 2023 in rail transport in France",
+        "Concrete roofs",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Auvergne-Rhône-Alpes photographs taken on 2023-08-23"
+      ],
+      "auteur": "TCY",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gare_de_marchandises_de_Vichy,_toiture_(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Gare_de_marchandises_de_Vichy%2C_toiture_%283%29.jpg/1280px-Gare_de_marchandises_de_Vichy%2C_toiture_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gare de La Mouche - Atelier.jpg",
+      "description": "Atelier.",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Concrete roofs",
+        "Files with coordinates missing SDC location of creation",
+        "Gare de La Mouche"
+      ],
+      "auteur": "Romainbehar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gare_de_La_Mouche_-_Atelier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Gare_de_La_Mouche_-_Atelier.jpg/1280px-Gare_de_La_Mouche_-_Atelier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 3096
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Gare de marchandises de Vichy, toiture (2).jpg",
+      "description": "Gare de marchandises de Vichy, toiture",
+      "categories": [
+        "Gare de marchandises de Vichy",
+        "Self-published work",
+        "Roofs in Allier",
+        "August 2023 in rail transport in France",
+        "Concrete roofs",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Auvergne-Rhône-Alpes photographs taken on 2023-08-23"
+      ],
+      "auteur": "TCY",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gare_de_marchandises_de_Vichy,_toiture_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Gare_de_marchandises_de_Vichy%2C_toiture_%282%29.jpg/1280px-Gare_de_marchandises_de_Vichy%2C_toiture_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

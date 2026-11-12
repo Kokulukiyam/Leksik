@@ -7682,6 +7682,19 @@
     "note": "Vérification : Profilés verticaux et remplissage bois bien visibles. Contre-vérification : Profilés acier verticaux avec planches bois entre eux retenant la fouille : paroi berlinoise typique et dominante."
   },
   {
+    "id": "paroi-berlinoise-10",
+    "termId": "paroi-berlinoise",
+    "fichier": "commons/paroi-berlinoise-10.webp",
+    "rectangle": null,
+    "lieu": "Breitengüßbach, Allemagne",
+    "source": "commons",
+    "auteur": "ermell",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:ICE-Baustelle-Breiteng%C3%BC%C3%9Fbach-130067.jpg",
+    "statut": "validée",
+    "note": "Vérification : Paroi berlinoise typique : profilés verticaux et planches de blindage, bien visible et dominante. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "palplanche-06",
     "termId": "palplanche",
     "fichier": "commons/palplanche-06.webp",
@@ -7698,6 +7711,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:LondonAvFlexifloat3.jpg",
     "statut": "validée",
     "note": "Vérification : Profilés ondulés emboîtés clairement visibles, photo nette. Contre-vérification : Rideau de profilés d'acier ondulés emboîtés verticalement au bord de l'eau, bien cadré : palplanches."
+  },
+  {
+    "id": "palplanche-12",
+    "termId": "palplanche",
+    "fichier": "commons/palplanche-12.webp",
+    "rectangle": {
+      "x": 0.2,
+      "y": 0.36,
+      "largeur": 0.72,
+      "hauteur": 0.62
+    },
+    "lieu": "",
+    "source": "commons",
+    "auteur": "Tigerente",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kraftwerk_Hafeld_20200501.jpg",
+    "statut": "validée",
+    "note": "Vérification : Palplanches ondulées bien visibles ; rectangle sur le rideau. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "ferraillage-02",
@@ -7855,6 +7886,19 @@
     "note": "Vérification : Application de béton projeté et surface typique visibles. Contre-vérification : Ouvrier projetant du béton à la lance sur une paroi de fouille à la surface rugueuse et bosselée : béton projeté sans ambiguïté."
   },
   {
+    "id": "appareil-flamand-09",
+    "termId": "appareil-flamand",
+    "fichier": "commons/appareil-flamand-09.webp",
+    "rectangle": null,
+    "lieu": "Williamsburg, Virginie, États-Unis",
+    "source": "commons",
+    "auteur": "Pbritti",
+    "licence": "CC BY 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Brickwork_on_Ludwell%E2%80%93Paradise_House.jpg",
+    "statut": "validée",
+    "note": "Vérification : Appareil flamand net : panneresses et boutisses alternées dans chaque rang, boutisses vitrifiées grises. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "appareil-anglais-01",
     "termId": "appareil-anglais",
     "fichier": "commons/appareil-anglais-01.webp",
@@ -7866,6 +7910,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:English_bond_on_an_old_building_in_Burgum.jpg",
     "statut": "validée",
     "note": "Vérification : Alternance nette d'un rang de panneresses et d'un rang de boutisses, appareil anglais lisible malgré l'usure. Contre-vérification : Mur de briques où les rangs de panneresses alternent régulièrement avec des rangs de boutisses : appareil anglais lisible."
+  },
+  {
+    "id": "appareil-anglais-07",
+    "termId": "appareil-anglais",
+    "fichier": "commons/appareil-anglais-07.webp",
+    "rectangle": null,
+    "lieu": "Dublin, Irlande",
+    "source": "commons",
+    "auteur": "A.-K. D.",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:English_bond_at_Collins_Barracks.jpg",
+    "statut": "validée",
+    "note": "Vérification : Alternance de rangs de panneresses et de rangs de boutisses : appareil anglais net. Le T peint n'est pas un texte révélateur. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "appareil-en-epi-02",
@@ -7899,6 +7956,68 @@
     "note": "Vérification : Rectangle sur l'insert de gauche, briques en arête de poisson bien visibles. Contre-vérification : Le rectangle cadre un panneau de briques posées en oblique en arête de poisson dans un mur de pierre : appareil en épi."
   },
   {
+    "id": "appareil-en-epi-08",
+    "termId": "appareil-en-epi",
+    "fichier": "commons/appareil-en-epi-08.webp",
+    "rectangle": {
+      "x": 0.33,
+      "y": 0.39,
+      "largeur": 0.46,
+      "hauteur": 0.32
+    },
+    "lieu": "Château d'Usk, Pays de Galles",
+    "source": "commons",
+    "auteur": "Andy Dingley",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Fireplace_with_opus_spicatum_stonework,_Usk_castle.jpg",
+    "statut": "validée",
+    "note": "Vérification : Opus spicatum très net dans le rectangle ; reste du mur en moellons et blocs réguliers. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "opus-incertum-07",
+    "termId": "opus-incertum",
+    "fichier": "commons/opus-incertum-07.webp",
+    "rectangle": null,
+    "lieu": "Terracine, Latium, Italie",
+    "source": "commons",
+    "auteur": "MM",
+    "licence": "Public domain",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:TerracinaTempioGioveAnxur4.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moellons irréguliers à joints en tous sens : opus incertum, appareil romain typique. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "opus-incertum-09",
+    "termId": "opus-incertum",
+    "fichier": "commons/opus-incertum-09.webp",
+    "rectangle": null,
+    "lieu": "Pompéi, Italie",
+    "source": "commons",
+    "auteur": "Wknight94",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Pompeii_building_16.jpg",
+    "statut": "validée",
+    "note": "Vérification : Moellons irréguliers posés sans assises : opus incertum lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "appareil-cyclopeen-08",
+    "termId": "appareil-cyclopeen",
+    "fichier": "commons/appareil-cyclopeen-08.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0.42,
+      "largeur": 1,
+      "hauteur": 0.3
+    },
+    "lieu": "Hospitalet Vell, Manacor, Majorque, Espagne",
+    "source": "commons",
+    "auteur": "Sukkoria",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:L%27Hospitalet_Vell_in_Manacor,_Mallorca_-_05.jpg",
+    "statut": "validée",
+    "note": "Vérification : Mur de gros blocs bruts à peine taillés, sans mortier, bien lisible. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "appareil-reticule-05",
     "termId": "appareil-reticule",
     "fichier": "commons/appareil-reticule-05.webp",
@@ -7910,6 +8029,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:40_Castel_del_Monte_(Andria),_decoraci%C3%B3_d%27opus_reticulatum_en_una_sala_de_la_planta_superior.jpg",
     "statut": "validée",
     "note": "Vérification : Réseau de losanges net sur presque toute l'image, pâle mais lisible. Contre-vérification : Tympan couvert de petites pierres carrées posées sur la pointe formant un filet de losanges, coupé de rangs de pierre : appareil réticulé."
+  },
+  {
+    "id": "appareil-reticule-11",
+    "termId": "appareil-reticule",
+    "fichier": "commons/appareil-reticule-11.webp",
+    "rectangle": {
+      "x": 0.55,
+      "y": 0.58,
+      "largeur": 0.45,
+      "hauteur": 0.38
+    },
+    "lieu": "Trevignano Romano, Italie",
+    "source": "commons",
+    "auteur": "Albarubescens",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Opus_reticulatum,_facciata_della_Chiesa_di_Santa_Caterina.jpg",
+    "statut": "validée",
+    "note": "Vérification : Opus reticulatum lisible en bas à droite du cadre ; reste de la façade en enduit et briques. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "gachage-01",
@@ -7972,6 +8109,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Cardiff_castle_-_Keep_8a_Innenraum_Balkenl%C3%B6cher.jpg",
     "statut": "validée",
     "note": "Vérification : Deux trous de boulin lisibles dans un mur ancien ; rectangle sur eux. Contre-vérification : Mur ancien en moellons avec deux cavités rectangulaires alignées, désignées par le rectangle : trous de boulin plausibles et lisibles."
+  },
+  {
+    "id": "trou-de-boulin-11",
+    "termId": "trou-de-boulin",
+    "fichier": "commons/trou-de-boulin-11.webp",
+    "rectangle": {
+      "x": 0.62,
+      "y": 0.35,
+      "largeur": 0.12,
+      "hauteur": 0.11
+    },
+    "lieu": "Château de Cardiff, Pays de Galles",
+    "source": "commons",
+    "auteur": "Dominic Nelson",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Putlog_holes,_Cardiff_Castle_keep_walls,_Nov_2022.jpg",
+    "statut": "validée",
+    "note": "Vérification : Plusieurs petits trous alignés dans un mur ancien ; rectangle sur un trou net. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "chape-10",
@@ -8076,6 +8231,19 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Gummersbach_-_Sankt_Franziskus_in_02_ies.jpg",
     "statut": "validée",
     "note": "Vérification : Dalle caissonnée en béton, nervures croisées, très claire. Contre-vérification : Sous-face de dalle béton à caissons carrés formés par des nervures croisées, très lisible."
+  },
+  {
+    "id": "dalle-caissonnee-10",
+    "termId": "dalle-caissonnee",
+    "fichier": "commons/dalle-caissonnee-10.webp",
+    "rectangle": null,
+    "lieu": "",
+    "source": "commons",
+    "auteur": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Coffered_Concrete_(29698162611).jpg",
+    "statut": "validée",
+    "note": "Vérification : Réseau de caissons carrés lisible, image un peu sombre mais claire. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "dalle-champignon-03",
@@ -8194,6 +8362,42 @@
     "note": "Vérification : Poutre Vierendeel nette, rectangle sur la poutre de rive. Contre-vérification : Pont à poutre ajourée de membrures et montants verticaux sans diagonales, ouvertures à angles arrondis : poutre Vierendeel bien cadrée."
   },
   {
+    "id": "poutre-vierendeel-11",
+    "termId": "poutre-vierendeel",
+    "fichier": "commons/poutre-vierendeel-11.webp",
+    "rectangle": {
+      "x": 0.05,
+      "y": 0.32,
+      "largeur": 0.9,
+      "hauteur": 0.26
+    },
+    "lieu": "Liège, Belgique",
+    "source": "commons",
+    "auteur": "Les Meloures at lb.wikipedia",
+    "licence": "CC BY-SA 3.0 lu",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Vierendeelbr%C3%A9ck_am_Hafe_vu_L%C3%A9ck.jpg",
+    "statut": "validée",
+    "note": "Vérification : Poutre Vierendeel nette, sans diagonales ; rectangle sur la poutre. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "structure-tridimensionnelle-09",
+    "termId": "structure-tridimensionnelle",
+    "fichier": "commons/structure-tridimensionnelle-09.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 0.62,
+      "hauteur": 0.62
+    },
+    "lieu": "Aéroport de Taoyuan, Taïwan",
+    "source": "commons",
+    "auteur": "Cheng-en Cheng",
+    "licence": "CC BY-SA 2.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:2014-08-31_Taiwan_Taoyuan_International_Airport_Terminal_2.jpg",
+    "statut": "validée",
+    "note": "Vérification : Structure spatiale de barres et nœuds bien lisible ; rectangle sur le réseau, loin des panneaux. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "ancre-02",
     "termId": "ancre",
     "fichier": "commons/ancre-02.webp",
@@ -8223,6 +8427,60 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:Ancre_et_tirant_d%27un_dispositif_de_cha%C3%AEnage.jpg",
     "statut": "validée",
     "note": "Vérification : Ancre et tirant très lisibles, occupe l'image. Contre-vérification : Ancre en X en fer avec l'extrémité filetée du tirant, sur un mur en moellons : très clair."
+  },
+  {
+    "id": "ancre-09",
+    "termId": "ancre",
+    "fichier": "commons/ancre-09.webp",
+    "rectangle": {
+      "x": 0.29,
+      "y": 0.24,
+      "largeur": 0.11,
+      "hauteur": 0.14
+    },
+    "lieu": "Chamelet, Rhône, France",
+    "source": "commons",
+    "auteur": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Chamelet_-_Mur_de_sout%C3%A8nement_place_de_l%27%C3%89glise_avec_ancres_(ao%C3%BBt_2022).jpg",
+    "statut": "validée",
+    "note": "Vérification : Ancre en X nette ; rectangle sur une seule ancre, panneaux sans rapport avec la réponse. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "ancre-11",
+    "termId": "ancre",
+    "fichier": "commons/ancre-11.webp",
+    "rectangle": {
+      "x": 0.19,
+      "y": 0.43,
+      "largeur": 0.25,
+      "hauteur": 0.35
+    },
+    "lieu": "Gamla stan, Stockholm, Suède",
+    "source": "commons",
+    "auteur": "Øyvind Holmstad",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Lyckliga_gatan_i_Gamla_stan_13.jpg",
+    "statut": "validée",
+    "note": "Vérification : Ancre en X claire et dominante, bien encadrée. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
+    "id": "hauban-11",
+    "termId": "hauban",
+    "fichier": "commons/hauban-11.webp",
+    "rectangle": {
+      "x": 0.29,
+      "y": 0,
+      "largeur": 0.5,
+      "hauteur": 0.6
+    },
+    "lieu": "Kaohsiung, Taïwan",
+    "source": "commons",
+    "auteur": "lumoplank",
+    "licence": "CC0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Harbour_-_KaohsiungHarbour4515.jpg",
+    "statut": "validée",
+    "note": "Vérification : Haubans minces mais nets sur le mât ; rectangle sur le mât et ses câbles. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "assemblage-boulonne-04",
@@ -8344,6 +8602,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:20200117_Kawaguchi_Bridge_(Niigata_Prefectural_Road_Route_71)_and_Uonogawa_Bridge_(Iiyama_Line).jpg",
     "statut": "validée",
     "note": "Vérification : Caoutchouc fretté très lisible. Contre-vérification : Appareil d'appui en élastomère fretté sous une poutre métallique, encadré par le rectangle."
+  },
+  {
+    "id": "appareil-d-appui-07",
+    "termId": "appareil-d-appui",
+    "fichier": "commons/appareil-d-appui-07.webp",
+    "rectangle": {
+      "x": 0.36,
+      "y": 0.41,
+      "largeur": 0.29,
+      "hauteur": 0.3
+    },
+    "lieu": "Baja, Hongrie",
+    "source": "commons",
+    "auteur": "Zátonyi Sándor (ifj.), Fizped",
+    "licence": "CC BY 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Bajai_hid_10.jpg",
+    "statut": "validée",
+    "note": "Vérification : Appareil d'appui à rouleaux net, posé sur la pile ; rectangle sur les rouleaux. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "joint-de-dilatation-07",
@@ -8511,6 +8787,24 @@
     "note": "Vérification : Fer à cheval net, courbe dépassant le demi-cercle et se resserrant à la base. Contre-vérification : Arc en fer à cheval mauresque dont la courbe dépasse nettement le demi-cercle, bien encadré."
   },
   {
+    "id": "arc-outrepasse-07",
+    "termId": "arc-outrepasse",
+    "fichier": "commons/arc-outrepasse-07.webp",
+    "rectangle": {
+      "x": 0.46,
+      "y": 0.4,
+      "largeur": 0.17,
+      "hauteur": 0.31
+    },
+    "lieu": "Cathédrale de la Sainte-Trinité, Gibraltar",
+    "source": "commons",
+    "auteur": "Timothy Titus Talk To TT",
+    "licence": "CC BY-SA 3.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Trinity,_Gibraltar.jpg",
+    "statut": "validée",
+    "note": "Vérification : Arc en fer à cheval net, courbe resserrée à la base ; rectangle sur l'arc central. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
+  },
+  {
     "id": "voute-en-berceau-09",
     "termId": "voute-en-berceau",
     "fichier": "commons/voute-en-berceau-09.webp",
@@ -8527,6 +8821,24 @@
     "lienSource": "https://commons.wikimedia.org/wiki/File:The_Oratory_of_Saint_Philip_Birmingham.jpg",
     "statut": "validée",
     "note": "Vérification : Berceau en demi-cercle bien lisible en haut ; rectangle sur la voûte pour écarter coupole et arcs. Contre-vérification : Nef couverte d'une voûte en berceau à caissons peints, rectangle sur la voûte ; courbure claire, terme juste."
+  },
+  {
+    "id": "voute-d-aretes-09",
+    "termId": "voute-d-aretes",
+    "fichier": "commons/voute-d-aretes-09.webp",
+    "rectangle": {
+      "x": 0,
+      "y": 0,
+      "largeur": 1,
+      "hauteur": 0.62
+    },
+    "lieu": "Château royal de Poznań, Pologne",
+    "source": "commons",
+    "auteur": "MOs810",
+    "licence": "CC BY-SA 4.0",
+    "lienSource": "https://commons.wikimedia.org/wiki/File:Royal_Castle_in_Poznan_2016_(4).jpg",
+    "statut": "validée",
+    "note": "Vérification : Voûtes d'arêtes nettes ; rectangle sur la zone voûtée, écartant les visiteurs. Contre-vérification : Élément clair, dominant ou encadré de près ; conforme à la définition, aucun voisin compatible plausible."
   },
   {
     "id": "pendentif-03",

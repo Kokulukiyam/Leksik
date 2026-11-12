@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Matériel, pas la chape elle-même."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lames de parquet posées sur des solives avec outil de pose.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chape."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessous d'un plancher technique surélevé avec câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvrier à genoux lissant une chape à la taloche sur une pièce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape tirée à la main, pas liquide ; ouvrier dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chape grenue étalée sur des tubes de plancher chauffant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chape non autolissante, apparence de mortier pâteux."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tuyau de pompe déversant la chape sur des tubes de chauffage dans une pièce.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pompage visible mais surface non fluide ni lisse ; doute avec chape classique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pose de tubes de chauffage au sol sur plaque à plots.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de chape visible."
     }
   ]
 }

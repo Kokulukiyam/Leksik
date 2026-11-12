@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Parham House, Angleterre",
       "note": "Sommier non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de moellons avec plusieurs arcs en maçonnerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ávila, Espagne",
+      "note": "Arcs d'ensemble, aucune première pierre de départ isolable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arc en plein cintre de brique sur fond d'un arc brisé vitré, en voussoirs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": " Boreham, Essex",
+      "note": "Arc dans son ensemble, sommiers non distincts des claveaux."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arche rustique en moellons moussus dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stourhead, Angleterre",
+      "note": "Arche irrégulière, sommier non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Autel de fête avec arcs et colonnes peints.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport, scène encombrée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Moulage en plâtre d'un voussoir sculpté, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bruxelles, Belgique",
+      "note": "C'est un voussoir sculpté, pas un sommier ; photo de musée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancienne photographie d'un arc de pierre entre des bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Newport, Rhode Island",
+      "note": "Photo ancienne en noir et blanc, sommier non visible."
     }
   ]
 }

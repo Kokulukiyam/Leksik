@@ -134,6 +134,115 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Gatsten_kullersten.jpg/1280px-Gatsten_kullersten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3701,
       "hauteur": 2776
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Beautiful pebbles.jpg",
+      "description": "Beautiful light coloured pebbles with black patterns.",
+      "categories": [
+        "Pebbles",
+        "Self-published work"
+      ],
+      "auteur": "Annatsach",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beautiful_pebbles.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Beautiful_pebbles.jpg/1280px-Beautiful_pebbles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4496,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Église Saint-Laurent de Montagnan 2019 02.jpg",
+      "description": "Le chevet de l'église Saint-Laurent de Montagnan à Barcugnan.",
+      "categories": [
+        "June 2019 in Gers",
+        "Buttresses in Gers",
+        "Église Saint-Laurent de Montagnan",
+        "Chevets in Gers",
+        "Self-published work",
+        "Pebble walls"
+      ],
+      "auteur": "F123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Laurent_de_Montagnan_2019_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%C3%89glise_Saint-Laurent_de_Montagnan_2019_02.jpg/1280px-%C3%89glise_Saint-Laurent_de_Montagnan_2019_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3607,
+      "hauteur": 4810
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Sendero antioqueño la quiebra sto domingo-cisneros.JPG",
+      "description": "sendero de la quiebra antioquia",
+      "categories": [
+        "Taken with Samsung ST500",
+        "Images with watermarks",
+        "Self-published work",
+        "Cobblestones"
+      ],
+      "auteur": "Jimze65",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG/1280px-Sendero_antioque%C3%B1o_la_quiebra_sto_domingo-cisneros.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1152
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Beautiful stones.jpg",
+      "description": "million of beautiful stones in running water ...",
+      "categories": [
+        "Taken with Samsung Galaxy Apollo",
+        "Pebbles",
+        "Self-published work",
+        "Unidentified locations in India"
+      ],
+      "auteur": "Shweta singh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beautiful_stones.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Beautiful_stones.jpg/1280px-Beautiful_stones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Église Saint-André de Montaut 2019 04.jpg",
+      "description": "Le chevet de l'église Saint-André de Montaut dans le Gers.",
+      "categories": [
+        "June 2019 in Gers",
+        "Église Saint-André de Montaut",
+        "Chevets in Gers",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Pebble walls"
+      ],
+      "auteur": "F123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Andr%C3%A9_de_Montaut_2019_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%C3%89glise_Saint-Andr%C3%A9_de_Montaut_2019_04.jpg/1280px-%C3%89glise_Saint-Andr%C3%A9_de_Montaut_2019_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Wustrau 4267.jpg",
+      "description": "Wustrau",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "Wustrau-Altfriesack",
+        "Taken with Canon EF 100mm F2.8L Macro IS USM",
+        "Self-published work",
+        "Cobblestones",
+        "Files with coordinates missing SDC location of creation",
+        "Wikipedianische KulTour BPM Wustrau 2023"
+      ],
+      "auteur": "GodeNehler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Wustrau_4267.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wustrau_4267.jpg/1280px-Wustrau_4267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2178
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

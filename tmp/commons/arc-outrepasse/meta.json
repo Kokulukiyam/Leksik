@@ -130,6 +130,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/B_Facundus_176v.jpg/1280px-B_Facundus_176v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1282,
       "hauteur": 1787
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Cathedral of the Holy Trinity, Gibraltar.jpg",
+      "description": "Gibraltar Cathedral (Anglican)",
+      "categories": [
+        "GFDL",
+        "Horseshoe arches",
+        "Cathedral of the Holy Trinity, Gibraltar",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "Timothy Titus Talk To TT",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Trinity,_Gibraltar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cathedral_of_the_Holy_Trinity%2C_Gibraltar.jpg/1280px-Cathedral_of_the_Holy_Trinity%2C_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Arcos sur de Ávila.jpg",
+      "description": "Avila",
+      "categories": [
+        "Arches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "2026 in the province of Ávila",
+        "Photographs taken on 2026-10-30"
+      ],
+      "auteur": "Xemenendura",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arcos_sur_de_%C3%81vila.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Arcos_sur_de_%C3%81vila.jpg/1280px-Arcos_sur_de_%C3%81vila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Arco del Salvador (Hellín) (41994).jpg",
+      "description": "Arco del Salvador, elemento histórico situado en el casco antiguo de Hellín, en la provincia de Albacete, Castilla-La Mancha.",
+      "categories": [
+        "CC-Zero",
+        "Arches",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Conjunto histórico artístico de Hellín",
+        "Culture of Hellín",
+        "Spain photographs taken on 2026-09-02"
+      ],
+      "auteur": "Hetemacaba",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arco_del_Salvador_(Hell%C3%ADn)_(41994).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Arco_del_Salvador_%28Hell%C3%ADn%29_%2841994%29.jpg/1280px-Arco_del_Salvador_%28Hell%C3%ADn%29_%2841994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Cathedral of the Holy Trinity nave.jpg",
+      "description": "Nave of the Cathedral of the Holy Trinity in Gibraltar",
+      "categories": [
+        "Taken with Canon EOS 450D",
+        "Horseshoe arches",
+        "Interior of the Cathedral of the Holy Trinity, Gibraltar",
+        "Self-published work",
+        "Church benches in the United Kingdom",
+        "Columns in Gibraltar",
+        "Naves in Gibraltar",
+        "Photographs of flags of Gibraltar",
+        "Pipe organs in Gibraltar",
+        "Files with coordinates missing SDC location of creation",
+        "Files by User:Gibmetal77"
+      ],
+      "auteur": "Gibmetal77",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cathedral_of_the_Holy_Trinity_nave.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cathedral_of_the_Holy_Trinity_nave.jpg/1280px-Cathedral_of_the_Holy_Trinity_nave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4113,
+      "hauteur": 2742
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:6528wikii.jpg",
+      "description": "Tenebre dei portici di Ancona in contrasto con la luce solare",
+      "categories": [
+        "Arches",
+        "Self-published work"
+      ],
+      "auteur": "IvoK.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:6528wikii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/6528wikii.jpg/1280px-6528wikii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3558,
+      "hauteur": 5337
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Courtyard4(js).jpg",
+      "description": "The Umayyad Mosque - the courtyard with mosaics, Damascus",
+      "categories": [
+        "GFDL",
+        "Arcades",
+        "Horseshoe arches",
+        "License migration redundant",
+        "Self-published work",
+        "Arches in Syria",
+        "West side of the Umayyad courtyard"
+      ],
+      "auteur": "Jerzy Strzelecki",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Courtyard4(js).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Courtyard4%28js%29.jpg/1280px-Courtyard4%28js%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1920,
+      "hauteur": 1255
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

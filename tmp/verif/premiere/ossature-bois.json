@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Göttingen, Allemagne",
       "note": "Colombage, pas une ossature."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade d'une maison à pans de bois décoratifs et enduit, sous un toit en pointe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colombage rempli et décoratif, pas une ossature nue."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancienne photographie en noir et blanc d'une rue de Simla.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, ossature non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Charpente et ossature de bois d'une maison en restauration, montants, traverses et décharges apparents, sans remplissage.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.06,
+        "y": 0.0,
+        "largeur": 0.74,
+        "hauteur": 0.82
+      },
+      "lieu": "",
+      "note": "Ossature en bois nue, avant remplissage ; rectangle écarte l'échafaudage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maison à colombage blanc et volets rouges dans une rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Colombage rempli et enduit, c'est le terme voisin colombage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade de style Tudor noir et blanc avec oriels.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pans de bois remplis, style colombage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petite maison en adobe avec toit de tôle, entourée de végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en terre, ossature non lisible."
     }
   ]
 }

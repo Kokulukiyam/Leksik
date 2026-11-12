@@ -1,53 +1,101 @@
 {
- "termId": "boutisse",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Mur de brique couvert de graffitis et d'une affichette avec texte.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Texte visible, briques mal lisibles."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Long mur de brique sur soubassement de pierre.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Haselünne, Allemagne",
-   "note": "Boutisses non repérables."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Voiture endommagée par des chutes de briques après un séisme.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Ferrare, Italie",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Parement de briques sombres graffitées, vu de face.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Briques posées en panneresses, pas de boutisse."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Tas de gravats de briques et de sable.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Hockenheim",
-   "note": "Sans rapport."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Mur de brique ancien moussu avec corniche.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Portland, USA",
-   "note": "Peu lisible, boutisses non identifiables."
-  }
- ]
+  "termId": "boutisse",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Mur de brique couvert de graffitis et d'une affichette avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, briques mal lisibles."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Long mur de brique sur soubassement de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Haselünne, Allemagne",
+      "note": "Boutisses non repérables."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Voiture endommagée par des chutes de briques après un séisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ferrare, Italie",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Parement de briques sombres graffitées, vu de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Briques posées en panneresses, pas de boutisse."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Tas de gravats de briques et de sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hockenheim",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Mur de brique ancien moussu avec corniche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portland, USA",
+      "note": "Peu lisible, boutisses non identifiables."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Tour de brique à toit pointu sur un soubassement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune boutisse nettement lisible à cette distance."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ouvrage de brique en voûte dans un parc, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Appareil de brique trop petit pour montrer des boutisses."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur l'alvéole d'une brique creuse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Section d'une brique, pas une boutisse en parement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de clôture en briques ciment avec pilier carré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de boutisse clairement identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Briques creuses alvéolées empilées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de pose en boutisse visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade de brique avec fenêtres et passant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Boutisses non isolées ni lisibles."
+    }
+  ]
 }

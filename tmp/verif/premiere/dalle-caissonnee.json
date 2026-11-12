@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plancher à poutrelles, pas caissonné."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade de cathédrale avec chaire extérieure sculptée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Éléments de prédalles avec armatures en treillis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prédalles, pas de caissons."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plafond de bois décoré de croix bleues et carrés rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond à caissons de bois peint, pas une dalle de béton."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sous-face d'une dalle de béton creusée de caissons carrés séparés par des nervures croisées.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réseau de caissons carrés lisible, image un peu sombre mais claire."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand hall à plafond de bois à solives croisées, avec lustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plafond de bois et d'ambiance, pas une dalle de béton nette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sous-face dégradée d'un plancher avec poutrelles et briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher à entrevous dégradé, pas caissonné."
     }
   ]
 }

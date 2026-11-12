@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Linteau seul, pas d'arc de décharge."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur d'appareil de pierre avec une niche étroite en arc et des joints rayonnants peu visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc de décharge supposé, contraste faible et vue oblique ; terme seulement une hypothèse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Linteau sculpté d'anges sur deux montants, dans un musée en plein air.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chorazin, Israël",
+      "note": "Linteau, pas d'arc de décharge."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand arc en brique des thermes de Caracalla en contre-jour, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rome, Italie",
+      "note": "Arc de grande ouverture, pas un arc de décharge au-dessus d'une baie ; image sombre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Baie percée dans un mur avec linteau métallique et briques au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Prague, Tchéquie",
+      "note": "Chantier, aucun arc de décharge net."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier dans un couloir en tôle ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Portail d'église avec fronton et inscription latine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rykynčice, Slovaquie",
+      "note": "Texte visible, linteau et fronton, pas d'arc de décharge."
     }
   ]
 }

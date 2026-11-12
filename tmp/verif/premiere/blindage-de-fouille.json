@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "France 1918",
       "note": "Tranchée militaire sans blindage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande fouille en ville avec paroi de profilés et planches, butons tubulaires et ouvriers au fond, très encombrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Paroi de type berlinoise et scène confuse ; le blindage de tranchée n'est pas lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fine tranchée dans une pelouse le long d'une maison pour câbles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée non blindée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de bâtiment en briques sur une route de terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun blindage visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de briques d'une maison étayé par des perches en bois, noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Étaiement de façade, pas un blindage de fouille."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tranchée dans une chaussée défoncée pour réparer une canalisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tranchée non blindée, parois nues."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Marins mesurant une poutre en bois dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
     }
   ]
 }

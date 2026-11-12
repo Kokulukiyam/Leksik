@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Pékin",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bâtiment colonial à arcades derrière un mur de soutènement en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur en pierre, pas une paroi moulée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de protection bétonné côtier au bout d'un terrain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mur contre l'érosion, paroi moulée non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Arase de béton avec un fer en attente sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une paroi moulée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de pierre ancien avec niches en arcs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maçonnerie en pierre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rue pavée en pente dans un village.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Escalier de pierre et mur de soutènement ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Soutènement en pierre, pas une paroi moulée."
     }
   ]
 }

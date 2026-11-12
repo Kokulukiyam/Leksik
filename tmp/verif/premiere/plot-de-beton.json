@@ -48,6 +48,46 @@
       "rectangle": null,
       "lieu": "Amsterdam",
       "note": "Hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pile d'autoroute en béton en chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage d'art, pas un plot."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancien pont en béton armé, gravure ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne, pas un plot."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dessous d'un viaduc sur piles en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un plot de fondation."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo d'archive en noir et blanc d'une pile de pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Archive, hors sujet."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Culée de pont en chantier avec semelles et palplanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Semelles d'ouvrage d'art, pas un plot de béton."
     }
   ]
 }

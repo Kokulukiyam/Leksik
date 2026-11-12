@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Shotcrete",
       "Category:Concrete"
+    ],
+    "incompatibles": [
+      "betonnage"
     ]
   },
   "candidats": [
@@ -142,6 +145,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ablution_block_in_a_container_%287208538316%29.jpg/1280px-Ablution_block_in_a_container_%287208538316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3000,
       "hauteur": 4000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bauarbeiten östliches Domumfeld-Kölner Dom-Spritzbeton-8306.jpg",
+      "description": "Köln: Neugestaltung östliche Domumgebung. Ein Bauarbeiter trägt Spritzbeton auf Betonstahlmatten auf",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Shotcrete",
+        "Welded wire mesh",
+        "Self-published work",
+        "Information field template with formatting",
+        "2013 photographs of Cologne",
+        "Men at work in Cologne",
+        "Files by User:Raymond from de.wikipedia/Cologne",
+        "Neugestaltung östliche Domumgebung"
+      ],
+      "auteur": "Raimond Spekking",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8306.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8306.jpg/1280px-Bauarbeiten_%C3%B6stliches_Domumfeld-K%C3%B6lner_Dom-Spritzbeton-8306.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4380,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:2nd Floor Rod Biding in Progress.jpg",
+      "description": "11-4C 1435 CDA Cuttack, Orissa, India",
+      "categories": [
+        "Taken with Sony Ericsson W8",
+        "Concrete",
+        "Self-published work"
+      ],
+      "auteur": "BCSInfo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2nd_Floor_Rod_Biding_in_Progress.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2nd_Floor_Rod_Biding_in_Progress.jpg/1280px-2nd_Floor_Rod_Biding_in_Progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Leitenwälder der Isar 0601.jpg",
+      "description": "Aufschluss von Nagelfluh (rechts) und künstlichhe Stützwand aus Spritzbeton (links) in den Leitenwälder am Isarhang in München, Ostufer, unterhalb von Harlaching. Teil des FFH-Gebiets Oberes Isartal",
+      "categories": [
+        "Retaining walls in Germany",
+        "Shotcrete",
+        "Nagelfluh",
+        "Self-published work",
+        "Supported by Wikimedia Deutschland",
+        "Munich photographs taken on 2019-04-20",
+        "Leitenwälder der Isar"
+      ],
+      "auteur": "Henning Schlottmann (User: H-stt)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Leitenw%C3%A4lder_der_Isar_0601.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leitenw%C3%A4lder_der_Isar_0601.jpg/1280px-Leitenw%C3%A4lder_der_Isar_0601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5760,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:1978 Pierre Debeaux at Villa Pradier.jpg",
+      "description": "Pierre Debeaux Architect descending the stairs of the Villa Pradier",
+      "categories": [
+        "Concrete",
+        "Pierre Debeaux",
+        "Self-published work",
+        "Male architects from France"
+      ],
+      "auteur": "IndicibleEspace",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:1978_Pierre_Debeaux_at_Villa_Pradier.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/1978_Pierre_Debeaux_at_Villa_Pradier.jpg/1280px-1978_Pierre_Debeaux_at_Villa_Pradier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1865,
+      "hauteur": 2686
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Museum of the History of Polish Jews in Warsaw 05.JPG",
+      "description": "Entrance and main hall of the Museum of the History of Polish Jews",
+      "categories": [
+        "Taken with Nikon D5100",
+        "Interior of the Muzeum Historii Żydów Polskich",
+        "Shotcrete",
+        "Self-published work"
+      ],
+      "auteur": "Adrian Grycuk",
+      "licence": "CC BY-SA 3.0 pl",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museum_of_the_History_of_Polish_Jews_in_Warsaw_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_of_the_History_of_Polish_Jews_in_Warsaw_05.JPG/1280px-Museum_of_the_History_of_Polish_Jews_in_Warsaw_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2788,
+      "hauteur": 4550
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ablution block in a container (7208536844).jpg",
+      "description": "Photos taken by Hagen von Bloh in South Africa at 1 March 2012.",
+      "categories": [
+        "Pipes",
+        "Taken with Panasonic Lumix DMC-FS10",
+        "Concrete",
+        "Files created by Sustainable Sanitation Alliance (SuSanA)",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Sanitation in South Africa"
+      ],
+      "auteur": "SuSanA Secretariat",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ablution_block_in_a_container_(7208536844).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ablution_block_in_a_container_%287208536844%29.jpg/1280px-Ablution_block_in_a_container_%287208536844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

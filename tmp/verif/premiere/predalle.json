@@ -1,7 +1,101 @@
-{"termId":"predalle","candidats":[
-{"fichier":"01.jpg","vu":"Piles de dalles alvéolées en béton préfabriquées stockées au bord d'un chemin.","verdict":"rejetée","rectangle":null,"lieu":"","note":"Dalles alvéolées, pas des prédalles ; petit et peu lisible."},
-{"fichier":"02.jpg","vu":"Plafond en béton à caissons (dalle nervurée) avec luminaires.","verdict":"rejetée","rectangle":null,"lieu":"Belém, Brésil","note":"Dalle nervurée coulée, pas une prédalle."},
-{"fichier":"03.jpg","vu":"Détail d'un arc préfabriqué et d'un vitrail dans une église.","verdict":"rejetée","rectangle":null,"lieu":"Seattle, USA","note":"Sans rapport."},
-{"fichier":"04.jpg","vu":"Plaque de pierre sculptée de lamassu posée sur la terre.","verdict":"rejetée","rectangle":null,"lieu":"Tur Abdin","note":"Sans rapport."},
-{"fichier":"05.jpg","vu":"Stand d'exposition d'éléments préfabriqués en béton dans une salle.","verdict":"rejetée","rectangle":null,"lieu":"Erode, Inde","note":"Aucune prédalle identifiable."},
-{"fichier":"06.jpg","vu":"Ferraillage et gaines de précontrainte sur coffrage en bois, avant coulage d'une dalle.","verdict":"rejetée","rectangle":null,"lieu":"","note":"Coffrage bois coulé en place, pas une prédalle préfabriquée."}]}
+{
+  "termId": "predalle",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Piles de dalles alvéolées en béton préfabriquées stockées au bord d'un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalles alvéolées, pas des prédalles ; petit et peu lisible."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Plafond en béton à caissons (dalle nervurée) avec luminaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belém, Brésil",
+      "note": "Dalle nervurée coulée, pas une prédalle."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Détail d'un arc préfabriqué et d'un vitrail dans une église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Seattle, USA",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Plaque de pierre sculptée de lamassu posée sur la terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tur Abdin",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Stand d'exposition d'éléments préfabriqués en béton dans une salle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Erode, Inde",
+      "note": "Aucune prédalle identifiable."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Ferraillage et gaines de précontrainte sur coffrage en bois, avant coulage d'une dalle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage bois coulé en place, pas une prédalle préfabriquée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Détail d'un plafond à solives bois et poutre peinte, vue sous plafond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une prédalle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fond de fouille avec coffrages bois de semelles filantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de fondation, pas de prédalle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Moule de fabrication d'une traverse en béton précontraint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Traverse, pas une prédalle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bac à compost contre un muret.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Regards en béton préfabriqués stockés dehors.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments d'assainissement, pas une prédalle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dalle de béton posée au-dessus d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalle d'ouvrage ferroviaire, pas une prédalle de plancher."
+    }
+  ]
+}

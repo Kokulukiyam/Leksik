@@ -140,6 +140,111 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg/1280px-Sidewalk_in_Thanjavur_Tamil_Nadu_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4096,
       "hauteur": 3072
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Precast concrete being transported in Shenton Way, Singapore 20261031 164536.jpg",
+      "description": "Precast concrete being transported in Shenton Way, Singapore",
+      "categories": [
+        "Precast concrete",
+        "Shenton Way, Singapore",
+        "Creative Commons Attribution-Share Alike missing SDC copyright status",
+        "Self-published work",
+        "Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license",
+        "Pages with local camera coordinates and missing SDC coordinates",
+        "Self-published work missing SDC copyright license",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "ZKang123",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_concrete_being_transported_in_Shenton_Way,_Singapore_20261031_164536.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Precast_concrete_being_transported_in_Shenton_Way%2C_Singapore_20261031_164536.jpg/1280px-Precast_concrete_being_transported_in_Shenton_Way%2C_Singapore_20261031_164536.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Hollow core slab.JPG",
+      "description": "Hollow core slab",
+      "categories": [
+        "Taken with Sony DSC-V1",
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Elie Malti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Hollow_core_slab.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Hollow_core_slab.JPG/1280px-Hollow_core_slab.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Precast Concrete Column Moving.jpg",
+      "description": "Precast concrete column set by crane in Manaus by Platinum Construções",
+      "categories": [
+        "Construction",
+        "Manaus",
+        "Precast concrete",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Bernardobenzecry",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_Concrete_Column_Moving.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Precast_Concrete_Column_Moving.jpg/1280px-Precast_Concrete_Column_Moving.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Voided slab installation.jpg",
+      "description": "A voided slab installation image from a jobsite",
+      "categories": [
+        "Self-published work",
+        "Floor construction"
+      ],
+      "auteur": "Bkurum",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Voided_slab_installation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Voided_slab_installation.jpg/1280px-Voided_slab_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Precast Elements display stall in erode 2.jpg",
+      "description": "Precast Elements display stall",
+      "categories": [
+        "Precast concrete",
+        "Self-published work",
+        "Precast concrete manholes",
+        "Precast concrete element walls"
+      ],
+      "auteur": "Balu Digital Marketing Analyst",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Precast_Elements_display_stall_in_erode_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Precast_Elements_display_stall_in_erode_2.jpg/1280px-Precast_Elements_display_stall_in_erode_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4592,
+      "hauteur": 2576
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Recycled plastic voided slab.JPG",
+      "description": "Recycled plastic voided slab",
+      "categories": [
+        "Taken with Canon Digital IXUS 700",
+        "Concrete slabs",
+        "Self-published work"
+      ],
+      "auteur": "Elie Malti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Recycled_plastic_voided_slab.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Recycled_plastic_voided_slab.JPG/1280px-Recycled_plastic_voided_slab.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

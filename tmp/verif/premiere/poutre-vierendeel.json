@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Bruges, Belgique",
       "note": "Pont en arc avec contreventement, ambigu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pont tournant de Scheepsdale à Bruges, poutre latérale ajourée à arcs, avec voitures et motos.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ajourements en arcs et gousset décoratifs, lecture moins nette ; élément encombré par la circulation."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Éléments de treillis en aluminium dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillis d'éclairage à diagonales, pas une Vierendeel."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Même pont de Scheepsdale vu de l'autre rive avec reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de 07, moins lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Photo ancienne de la cour de la George Inn à Londres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de poutre Vierendeel."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pont en arc à poutre ajourée de béton, montants verticaux et grandes ouvertures sans diagonales, sur le canal de Monsin.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.05,
+        "y": 0.32,
+        "largeur": 0.9,
+        "hauteur": 0.26
+      },
+      "lieu": "Liège, Belgique",
+      "note": "Poutre Vierendeel nette, sans diagonales ; rectangle sur la poutre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Foule sur le pont du port d'Auckland, structure en treillis métallique au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillis à diagonales, personnes au premier plan."
     }
   ]
 }

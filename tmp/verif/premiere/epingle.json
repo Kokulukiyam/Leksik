@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Frankenfels",
       "note": "Épingle non visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pont sur un fleuve avec une pile en construction au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épingle identifiable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Immeuble en construction avec coffrage aluminium.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Épingles non visibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Coffrage en bois et acier sous un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épingle."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cage d'armatures dense avec barres verticales rouillées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Épingles indiscernables dans l'enchevêtrement."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chantier de fondations avec armatures en attente de poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas d'épingle identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bottes de barres d'armature courbées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armatures en stock, pas des épingles."
     }
   ]
 }

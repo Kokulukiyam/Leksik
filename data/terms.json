@@ -2281,6 +2281,17 @@
     ]
   },
   {
+    "id": "appareil-flamand",
+    "terme": "l'appareil flamand",
+    "definition": "Appareil de briques où panneresses et boutisses alternent dans chaque rang.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "appareil-anglais",
+      "maconnerie"
+    ]
+  },
+  {
     "id": "appareil-anglais",
     "terme": "l'appareil anglais",
     "definition": "Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.",
@@ -2298,6 +2309,28 @@
     "priorite": 3,
     "incompatibles": [
       "maconnerie"
+    ]
+  },
+  {
+    "id": "opus-incertum",
+    "terme": "l'opus incertum",
+    "definition": "Appareil de moellons de formes irrégulières assemblés sans rangs, avec des joints en tous sens.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "mur-en-moellons",
+      "moellon"
+    ]
+  },
+  {
+    "id": "appareil-cyclopeen",
+    "terme": "l'appareil cyclopéen",
+    "definition": "Maçonnerie de très gros blocs de pierre bruts ou à peine taillés, ajustés sans mortier.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "priorite": 3,
+    "incompatibles": [
+      "mur-en-pierre-seche",
+      "opus-incertum"
     ]
   },
   {
@@ -2458,9 +2491,26 @@
     ]
   },
   {
+    "id": "structure-tridimensionnelle",
+    "terme": "la structure tridimensionnelle",
+    "definition": "Réseau de barres et de nœuds assemblés en pyramides, qui couvre de grandes surfaces sans appuis intermédiaires.",
+    "categorie": "Structure",
+    "priorite": 3
+  },
+  {
     "id": "ancre",
     "terme": "l'ancre",
     "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "tirant"
+    ]
+  },
+  {
+    "id": "hauban",
+    "terme": "le hauban",
+    "definition": "Câble d'acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -2574,6 +2624,16 @@
     "incompatibles": [
       "voute",
       "voute-nubienne"
+    ]
+  },
+  {
+    "id": "voute-d-aretes",
+    "terme": "la voûte d'arêtes",
+    "definition": "Voûte formée par le croisement de deux voûtes en berceau, dont les intersections dessinent des arêtes saillantes.",
+    "categorie": "Structure",
+    "priorite": 3,
+    "incompatibles": [
+      "voute"
     ]
   },
   {

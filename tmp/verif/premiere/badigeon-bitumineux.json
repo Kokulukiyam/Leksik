@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de badigeon noir visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier soudant au chalumeau une feuille bitumineuse sur une bordure de béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane bitumineuse soudée, pas un badigeon appliqué au pinceau."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carnets jaunes étanches posés sur du bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvrier relevant une membrane bitumineuse au chalumeau sur un relevé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Membrane, pas un badigeon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tableau d'étanchéité de montres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fûts de bitume devant une raffinerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une application sur un mur."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Seau de peinture bitumeuse avec étiquette lisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, pas d'application montrée."
     }
   ]
 }

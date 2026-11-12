@@ -11,7 +11,8 @@
       "pavillon en meulière"
     ],
     "incompatibles": [
-      "moellon"
+      "moellon",
+      "silex"
     ],
     "categoriesCommons": [
       "Category:Meulière"
@@ -148,6 +149,143 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Boullay-les-Troux_2011_21.jpg/1280px-Boullay-les-Troux_2011_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3888,
       "hauteur": 2592
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Avenue du Général Leclerc à Saint-Rémy-lès-Chevreuse le 19 septembre 2015 - 2.jpg",
+      "description": "Maison sur l'avenue du Général Leclerc à Saint Rémy lès Chevreuse en France .",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Portals in Yvelines",
+        "September 2015 in Yvelines",
+        "Photographs taken on 2015-09-19",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Houses in Saint-Rémy-lès-Chevreuse"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avenue_du_G%C3%A9n%C3%A9ral_Leclerc_%C3%A0_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_le_19_septembre_2015_-_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Avenue_du_G%C3%A9n%C3%A9ral_Leclerc_%C3%A0_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_le_19_septembre_2015_-_2.jpg/1280px-Avenue_du_G%C3%A9n%C3%A9ral_Leclerc_%C3%A0_Saint-R%C3%A9my-l%C3%A8s-Chevreuse_le_19_septembre_2015_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chevreuse Porte de Paris street.jpg",
+      "description": "Maisons en meulière sur la rue de la porte de Paris à Chevreuse en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 1000D",
+        "Houses in Yvelines",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Buildings in Chevreuse",
+        "Streets of Chevreuse"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chevreuse_Porte_de_Paris_street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevreuse_Porte_de_Paris_street.jpg/1280px-Chevreuse_Porte_de_Paris_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Ancienne poste de Gazeran en 2013 2.jpg",
+      "description": "Gazeran en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Former post offices in Yvelines",
+        "Files with coordinates missing SDC location of creation (48° N, 1° E)",
+        "Buildings in Gazeran"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancienne_poste_de_Gazeran_en_2013_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Ancienne_poste_de_Gazeran_en_2013_2.jpg/1280px-Ancienne_poste_de_Gazeran_en_2013_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Ancienne poste de Gazeran en 2013 1.jpg",
+      "description": "Gazeran en France",
+      "categories": [
+        "GFDL",
+        "Taken with Canon EOS 600D",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Postes, télégraphes et téléphones (France)",
+        "Self-published work",
+        "Uploaded with Commonist",
+        "Former post offices in Yvelines",
+        "Files with coordinates missing SDC location of creation (48° N, 1° E)",
+        "Buildings in Gazeran"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ancienne_poste_de_Gazeran_en_2013_1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ancienne_poste_de_Gazeran_en_2013_1.jpg/1280px-Ancienne_poste_de_Gazeran_en_2013_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:131 boulevard Maurice-Berteaux Franconville.jpg",
+      "description": "131, boulevard Maurice-Berteaux, Franconville, 95 130.",
+      "categories": [
+        "Meulière",
+        "Self-published work",
+        "Boulevard Maurice-Berteaux (Franconville, Val-d'Oise)",
+        "Buildings in Franconville (Val-d'Oise)"
+      ],
+      "auteur": "CVB",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:131_boulevard_Maurice-Berteaux_Franconville.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/131_boulevard_Maurice-Berteaux_Franconville.jpg/1280px-131_boulevard_Maurice-Berteaux_Franconville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Bassin de Saulx à Saulx-les-Chartreux le 21 août 2015 - 02.jpg",
+      "description": "Cette image a été versée dans le cadre de L'Été des villes 2015 .",
+      "categories": [
+        "Stone arch bridges in Essonne",
+        "GFDL",
+        "FAL",
+        "License migration redundant",
+        "Meulière",
+        "Self-published work",
+        "Uploaded via Campaign:ÉtédesVilles",
+        "Uploaded with Commonist",
+        "Images from Été des Villes 2015",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Bassin de Saulx"
+      ],
+      "auteur": "Lionel Allorge",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bassin_de_Saulx_%C3%A0_Saulx-les-Chartreux_le_21_ao%C3%BBt_2015_-_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bassin_de_Saulx_%C3%A0_Saulx-les-Chartreux_le_21_ao%C3%BBt_2015_-_02.jpg/1280px-Bassin_de_Saulx_%C3%A0_Saulx-les-Chartreux_le_21_ao%C3%BBt_2015_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5071,
+      "hauteur": 3272
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }
