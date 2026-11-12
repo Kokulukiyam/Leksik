@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Crespiano, Italie",
       "note": "Division par une colonnette : confusion colonnette/meneau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre gothique en lancette double d'une église, deux jours vitrés séparés par un montant de pierre central, sous un arc brisé.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.52,
+        "y": 0.27,
+        "largeur": 0.11,
+        "hauteur": 0.64
+      },
+      "lieu": "",
+      "note": "Meneau de pierre bien net, divisant la baie en deux ; rectangle sur le montant central."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Baie d'une ruine en moellons avec un montant vertical de bois croisé par une traverse.",
+      "verdict": "rejetée",
+      "note": "Montant rustique en ruine, croisée de bois peu lisible ; risque de confusion avec linteau/traverse.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Page de livre imprimée avec une illustration de deux vitraux.",
+      "verdict": "rejetée",
+      "note": "Illustration imprimée, pas une photo d'architecture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Campanile roman de Lucques en brique et pierre, avec étages de baies à colonnettes.",
+      "verdict": "rejetée",
+      "note": "Meneaux trop petits et nombreux, élément non identifiable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Baie en plein cintre d'un mur en moellons de ruine, divisée par une colonnette centrale.",
+      "verdict": "rejetée",
+      "note": "Plutôt une baie géminée sur colonnette ; élément partiellement masqué par le feuillage.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre étroite sombre vue de l'intérieur, vitrage en nid d'abeille et petit remplage à la tête.",
+      "verdict": "rejetée",
+      "note": "Contre-jour, quasi-silhouette ; le meneau n'est pas lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

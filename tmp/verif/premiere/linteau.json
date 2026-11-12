@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Deniliquin, Australie",
       "note": "Couronnement mouluré : confusion avec corniche/entablement."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Longue pierre de granit posée dans l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce isolée au sol, pas en place au-dessus d'une baie."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de gros blocs de pierre percé de petites baies cintrées, ruine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baies cintrées taillées dans les blocs ; le linteau n'est pas clairement identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Porte de pierre envahie de lierre, ouvrant sur une cour, avec un haut de baie à intrados cintré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le haut de baie est cintré et lourd : doute avec arc ou plate-bande."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Haut d'un portail à encadrement de pierre sculptée de rosaces avec écu au centre, corniche au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bandeau sculpté à claveaux et clé : plate-bande ou entablement possible, ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pierre commémorative gravée au-dessus d'un linteau de pierre en arc, texte visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, élément cintré et mal cadré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Porte cintrée à encadrement de pierre dans un mur crépi, numéro 5 au-dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Baie en arc, pas un linteau droit."
     }
   ]
 }

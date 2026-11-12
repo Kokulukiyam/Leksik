@@ -53,6 +53,54 @@
       },
       "lieu": "",
       "note": "Rectangle sur l'unité pour lever le doute avec la prise."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit-terrasse couvert de groupes extérieurs de climatisation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unités extérieures vues d'en haut, pas l'unité intérieure."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan flou d'une unité intérieure blanche avec affichage 17.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image floue et basse résolution."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pompe à chaleur de piscine grise posée dans un jardin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Autre appareil."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Unité extérieure de climatiseur sur un support mural, vue en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Unité extérieure seule, ambigu pour ce terme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grue qui hisse un équipement de climatisation sur un immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier, split absent."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Militaire dépannant un climatiseur en intervenant sur un boîtier électrique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne dominante et appareil non lisible."
     }
   ]
 }

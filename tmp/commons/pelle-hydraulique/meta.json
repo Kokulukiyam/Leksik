@@ -11,7 +11,12 @@
       "incategory:\"Excavators\""
     ],
     "incompatibles": [
-      "mini-pelle"
+      "mini-pelle",
+      "tractopelle"
+    ],
+    "categoriesCommons": [
+      "Category:Excavators",
+      "Category:Hydraulic excavators"
     ]
   },
   "candidats": [
@@ -151,6 +156,126 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg/1280px-Drilling_rig_and_a_digger_at_a_construction_site_in_Tuntorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5057,
       "hauteur": 3372
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Builder and excavator.jpg",
+      "description": "Ceci est une image en rapport avec le thème Foyer + Habitat en Africa en/au :",
+      "categories": [
+        "Excavators",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2022",
+        "Nigeria photographs taken on 2021-07-18",
+        "Images from Wiki Loves Africa 2022 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2022 in Nigeria",
+        "Building construction in Nigeria",
+        "Men at work in the 2020s",
+        "Anasskoko best pictures",
+        "NCPUG Wiki Loves Africa 2022",
+        "NCPUG Best Images",
+        "NCPUG Building construction"
+      ],
+      "auteur": "Anasskoko",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Builder_and_excavator.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Builder_and_excavator.jpg/1280px-Builder_and_excavator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 3949
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Brumadinho, Minas Gerais (47021722972).jpg",
+      "description": "Catástrofe socioambiental provocada pelo rompimento de barragem da mineradora Vale em Brumadinho (MG) Foto: Felipe Werneck/Ibama Mais informações: &lt;a href=\" https://www.ibama.gov.br/noticias/730-2019/1881-rompimento-de-barragem-da-vale-em-brumadinho-mg-destruiu-269-84-hectares \" rel=\"noreferrer nofollow\"&gt;Rompimento de barragem da Vale em Brumadinho (MG) destruiu 269,84 hectares&lt;/a&gt; &lt;a href=\" https://www.ibama.gov.br/noticias/730-2019/1879-ibama-multa-vale-em-r-250-milhoes-por-catastrofe-em-brumadinho-mg \" rel=\"noreferrer nofollow\"&gt;Ibama multa Vale em R$ 250 milhões por catást",
+      "categories": [
+        "Brumadinho dam disaster",
+        "Excavators",
+        "Aerial photographs of Minas Gerais",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by IBAMA"
+      ],
+      "auteur": "Ibama from Brasil",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brumadinho,_Minas_Gerais_(47021722972).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Brumadinho%2C_Minas_Gerais_%2847021722972%29.jpg/1280px-Brumadinho%2C_Minas_Gerais_%2847021722972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Beirut Beyrouth 570 (1).jpg",
+      "description": "Ce fichier a été téléversé avec Commonist Beirut, Lebanon. Beyrouth, Liban. بيروت، لبنان.",
+      "categories": [
+        "Excavators",
+        "FAL",
+        "Buildings in Beirut",
+        "Uploaded with Commonist",
+        "2016 in Beirut",
+        "April 2016 in Beirut",
+        "Construction in Beirut",
+        "Mid-rises in Beirut"
+      ],
+      "auteur": "antomoro",
+      "licence": "FAL",
+      "lien": "https://commons.wikimedia.org/wiki/File:Beirut_Beyrouth_570_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Beirut_Beyrouth_570_%281%29.jpg/1280px-Beirut_Beyrouth_570_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:DefPuebloCABA - Cochera Subte H (1).jpg",
+      "description": "Cochera en construcción de la Línea H del Subte de Buenos Aires.",
+      "categories": [
+        "Línea H (Subterráneo Buenos Aires)",
+        "Excavators",
+        "Items with VRTS permission confirmed",
+        "Files provided by the Defensoría del Pueblo de la Ciudad de Buenos Aires"
+      ],
+      "auteur": "Defensoría del Pueblo de la Ciudad de Buenos Aires",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DefPuebloCABA_-_Cochera_Subte_H_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/DefPuebloCABA_-_Cochera_Subte_H_%281%29.jpg/1280px-DefPuebloCABA_-_Cochera_Subte_H_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2992,
+      "hauteur": 2000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:BRNO - Vlastimila Pecha 20191001 152858.jpg",
+      "description": "Rozrůstání Brněské průmyslové zóny v okolí ulice Vlastimila Pecha",
+      "categories": [
+        "Excavators",
+        "CC-Zero",
+        "Case skid-steer loaders",
+        "GALAXY 2018 A7 (Brno-Černovice)",
+        "Caterpillar 315B L"
+      ],
+      "auteur": "GALAXY 2018 A7",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BRNO_-_Vlastimila_Pecha_20191001_152858.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/BRNO_-_Vlastimila_Pecha_20191001_152858.jpg/1280px-BRNO_-_Vlastimila_Pecha_20191001_152858.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5664,
+      "hauteur": 4248
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Big hand on dirt. - Flickr - Michel Filion.jpg",
+      "description": "I wouldn't wrestle with this big boy in an iron arm contest! Prise à Varennes . Highest position on Explorer : #44 on Monday, May 7, 2007",
+      "categories": [
+        "Excavators",
+        "Photographs taken on 2007-04-30",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Michel Filion",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Big_hand_on_dirt._-_Flickr_-_Michel_Filion.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Big_hand_on_dirt._-_Flickr_-_Michel_Filion.jpg/1280px-Big_hand_on_dirt._-_Flickr_-_Michel_Filion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2734,
+      "hauteur": 1973
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

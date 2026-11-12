@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plaques empilées, pas un parement posé."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur une dalle de pierre beige et rousse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texture de roche, pas un parement posé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rue avec muret de pierres, maisons et lampadaire, ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ohrid, Macédoine du Nord",
+      "note": "Muret en moellons, pas un parement de façade."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Main tenant une plaquette de pierre mince avec une règle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillon, pas une façade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tramway jaune dans une rue étroite avec un mur de pierre à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Tramway dominant."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Entrée d'un bâtiment vitré dont les murs et les piliers sont habillés d'un parement de pierre en plaquettes superposées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.4,
+        "largeur": 0.38,
+        "hauteur": 0.28
+      },
+      "lieu": "Toronto, Canada",
+      "note": "Parement en pierre sur façade, rectangle sur le mur de gauche ; panneau explicatif sans donner le terme."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Montage de pierre flexible enroulée et collée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échantillons de produit, pas une façade."
     }
   ]
 }

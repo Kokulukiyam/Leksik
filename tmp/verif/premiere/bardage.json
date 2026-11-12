@@ -101,6 +101,54 @@
       "rectangle": null,
       "lieu": "Buffalo, États-Unis",
       "note": "Panneau de rue lisible, revêtements variés (bardeaux, clins) peu lisibles, bardage non dominant."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Chantier avec camions toupies et ombres de rayures sur le sol.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Ancien cliché sur plaque de verre fissurée d'une voie ferrée et d'un entrepôt.",
+      "verdict": "rejetée",
+      "note": "Photographie ancienne abîmée, bardage non lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Porte d'entrée rouge entourée d'un bardage de bardeaux en écailles roses.",
+      "verdict": "rejetée",
+      "note": "La porte domine ; bardeaux en écailles plutôt que bardage générique, risque de confusion.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Plan technique ancien d'une voie de service ferroviaire.",
+      "verdict": "rejetée",
+      "note": "Plan, pas une photo d'architecture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Bâtiment en construction à grand pan de revêtement beige et vitrage, chantier au premier plan.",
+      "verdict": "rejetée",
+      "note": "Revêtement lisse en plaques peu lisible, chantier encombré.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Planches de bois verticales peintes en rouge à côté d'un montant blanc.",
+      "verdict": "rejetée",
+      "note": "Cadrage minimal, peut passer pour une porte ou un panneau.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -101,6 +101,54 @@
       },
       "lieu": "Teli, pays dogon, Mali",
       "note": "Blocs de banco moulés très lisibles au premier plan ; rectangle pour écarter le grenier aux pièces de bois saillantes (confusion toron/grenier)."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Maison à colombages enduite d'adobe ocre, toit de tuiles, à Castroceniza (Espagne).",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Architecture espagnole en pans de bois, pas du banco ouest-africain."
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Un caillou dans une vitrine de musée avec cartouche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pierre, pas de la terre crue ; texte visible."
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Image fortement stylisée de palmiers au coucher du soleil, filtre pictural.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, sans rapport."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Fragment de mur de terre brune derrière un cadre métallique et des feuillages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément peu lisible et masqué."
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Mur de briques d'adobe avec une petite image de la Vierge, Mexique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Adobe mexicain, pas du banco ouest-africain ; pourrait aussi être une brique de terre."
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Cours d'eau écumeux bordé d'arbres et de contreforts en pierres d'adobe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément peu visible."
     }
   ]
 }

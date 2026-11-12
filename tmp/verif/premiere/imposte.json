@@ -58,6 +58,64 @@
       "rectangle": null,
       "lieu": "Charleston, Caroline du Sud, États-Unis",
       "note": "Imposte trop petite, image dominée par les galeries."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maison de brique à portail entouré d'arbres, avec une petite imposte en demi-lune au-dessus de la porte.",
+      "verdict": "rejetée",
+      "note": "Élément trop petit et distant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Porte sous un linteau enduit vert avec un vitrage cintré au-dessus d'un panneau de bois.",
+      "verdict": "rejetée",
+      "note": "Ensemble lourd, vitrage cintré mêlé à un linteau décoré ; moins net que d'autres.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Imposte en demi-lune à bois rayonnants au-dessus d'une porte brune, sous un arc mouluré blanc et une plaque.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.46,
+        "largeur": 0.78,
+        "hauteur": 0.34
+      },
+      "lieu": "Thessalonique, Grèce",
+      "note": "Vitrage fixe au-dessus de la traverse de la porte ; plaque en arménien sans indice sur le terme."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade rose avec porte cintrée à vitrage supérieur, grille et lampadaire.",
+      "verdict": "rejetée",
+      "note": "Élément petit, loin, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Porte d'entrée en bois sculpté vue en contre-plongée, avec une imposte cintrée vitrée portant le numéro 2 au-dessus d'une traverse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.12,
+        "y": 0.03,
+        "largeur": 0.78,
+        "hauteur": 0.35
+      },
+      "lieu": "León, Espagne",
+      "note": "Imposte vitrée séparée du vantail par une traverse sculptée ; le numéro n'est pas un indice."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Maison à galeries de bois avec lucarnes, vue de rue.",
+      "verdict": "rejetée",
+      "note": "Aucune imposte lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

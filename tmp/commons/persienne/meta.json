@@ -2,11 +2,20 @@
   "terme": {
     "id": "persienne",
     "terme": "la persienne",
-    "categorie": "Façade et ouvertures",
+    "categorie": "Menuiserie et serrurerie",
     "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
     "requetes": [
       "incategory:\"Louvered shutters\"",
       "persiennes"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Louvered shutters",
+      "Category:Shutters",
+      "Category:Window shutters"
+    ],
+    "incompatibles": [
+      "volet-coulissant"
     ]
   },
   "candidats": [
@@ -142,6 +151,123 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Main_Street_Bitola_29.JPG/1280px-Main_Street_Bitola_29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2000,
       "hauteur": 1500
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Rüti - Kloster Rüti - Pfarrhaus IMG 1669.JPG",
+      "description": "Rüti (Switzerland) : Former Rüti Abbey , today the protestant church's rectory .",
+      "categories": [
+        "Taken with Nikon D90",
+        "Pfarrhaus Rüti",
+        "Self-published work",
+        "Corrected with ShiftN",
+        "Windows in the canton of Zürich",
+        "January 2011 Switzerland photographs",
+        "2011 in Rüti ZH",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Roland Fischer",
+        "Green window shutters in Switzerland",
+        "Louvered shutters"
+      ],
+      "auteur": "Roland zh",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:R%C3%BCti_-_Kloster_R%C3%BCti_-_Pfarrhaus_IMG_1669.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/R%C3%BCti_-_Kloster_R%C3%BCti_-_Pfarrhaus_IMG_1669.JPG/1280px-R%C3%BCti_-_Kloster_R%C3%BCti_-_Pfarrhaus_IMG_1669.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2704,
+      "hauteur": 4056
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Chemancheri05665.jpg",
+      "description": "Chemancheri",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Spillways in Kerala"
+      ],
+      "auteur": "Vengolis",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chemancheri05665.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chemancheri05665.jpg/1280px-Chemancheri05665.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4240,
+      "hauteur": 2832
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:BS VerwGericht LS Klappe.JPG",
+      "description": "Protective window shutters at a court building in Brunswick, Germany . During the 1930ies many cellars serving as air raid shelter were equipped with metal hatches and window protections like these as a protection against shrapnel and debris.",
+      "categories": [
+        "Window shutters",
+        "Sozial- und Verwaltungsgericht Braunschweig",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation (52° N, 10° E)",
+        "Window blast shutters in Germany"
+      ],
+      "auteur": "TeWeBs",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BS_VerwGericht_LS_Klappe.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/BS_VerwGericht_LS_Klappe.JPG/1280px-BS_VerwGericht_LS_Klappe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4352,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Mercado do Rato 11.jpg",
+      "description": "Aspecto do Mercado do Rato, Lisboa",
+      "categories": [
+        "Self-published work",
+        "Mansards in Portugal",
+        "Files with coordinates missing SDC location of creation",
+        "Windows in Lisbon",
+        "Corner buildings in Lisbon",
+        "Louvered shutters",
+        "Window roller shutters",
+        "Azulejo friezes",
+        "Mercado do Rato"
+      ],
+      "auteur": "DiogoBaptista",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mercado_do_Rato_11.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Mercado_do_Rato_11.jpg/1280px-Mercado_do_Rato_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Nirappalaka.jpg",
+      "description": "നിരപ്പലക",
+      "categories": [
+        "Shutters",
+        "Self-published work",
+        "Taken with LYF Earth 1"
+      ],
+      "auteur": "Ajamalne",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nirappalaka.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Nirappalaka.jpg/1280px-Nirappalaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2340,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Gwaneumjeon Hall 03.jpg",
+      "description": "Gwaneumjeon Hall au temple Tongdosa, Corée du Sud",
+      "categories": [
+        "CC-Zero",
+        "Window shutters",
+        "Self-published work",
+        "Windows in South Korea",
+        "Files with coordinates missing SDC location of creation",
+        "Gwaneumjeon Hall at Tongdosa Temple"
+      ],
+      "auteur": "Bernard Gagnon",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gwaneumjeon_Hall_03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Gwaneumjeon_Hall_03.jpg/1280px-Gwaneumjeon_Hall_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4450,
+      "hauteur": 2967
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Moins typique, texte « IBB », sale."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit couvercle rond en fonte « Sharkey Church St Dublin » dans un trottoir en granit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dublin, Irlande",
+      "note": "Couvercle de trou à charbon, pas un tampon de regard ; inscription visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chaton devant un grand carton et une trappe carrée dans un dallage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Italie",
+      "note": "Chaton au premier plan, trappe à peine visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros tampon rond en fonte à damier et trous de levage, posé dans l'herbe d'un terrain de jeu.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.01,
+        "y": 0.53,
+        "largeur": 0.97,
+        "hauteur": 0.41
+      },
+      "lieu": "",
+      "note": "Tampon de regard rond en fonte net, bien lisible ; rectangle sur le tampon pour écarter le panier de basket du fond."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux regards ouverts, bords carrés, sans couvercle, dans un dallage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun tampon : on voit les regards ouverts."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Regard préfabriqué rond en béton avec cunette briquetée, vu d'en haut, dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue intérieure d'un regard, pas un tampon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tampon rond en fonte gravé « Telefones da Bahia » dans la chaussée, vu d'en haut.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Salvador de Bahia, Brésil",
+      "note": "Tampon rond de chambre de visite, net et plein cadre ; l'inscription est celle de l'opérateur, pas le terme."
     }
   ]
 }

@@ -53,6 +53,59 @@
       },
       "lieu": "Hampstead, Londres",
       "note": "Potelet classique, rectangle sur lui pour écarter la grille d'avaloir et le bâtiment."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quatre bornes inox tubulaires avec arceaux devant une voiture, sur un trottoir en briques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Diego, États-Unis",
+      "note": "Dispositif range-vélos ou protection ; ce n'est pas un potelet simple, ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Balises flexibles orange et blanches plantées sur une chaussée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Délinéateurs routiers souples, pas des potelets de trottoir."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rangée de potelets recouverts de tricot rouge, blanc et bleu le long d'un trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hedon, Royaume-Uni",
+      "note": "Recouverts de tricot (yarn bombing) : forme masquée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Potelet recouvert de tricot en forme de phare sur un trottoir pavé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Weymouth, Royaume-Uni",
+      "note": "Décor tricoté, ne montre pas le potelet réel."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bornes noires à arceau de stationnement vélo séparant un parking d'une cour d'école.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments petits et loin, fonction range-vélos."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Potelets en fonte à moulures alignés en bordure d'un parking et d'un trottoir ; un potelet au premier plan à gauche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.27,
+        "largeur": 0.11,
+        "hauteur": 0.62
+      },
+      "lieu": "Derbyshire, Royaume-Uni",
+      "note": "Potelet en fonte net au premier plan, encadré pour le distinguer des autres."
     }
   ]
 }

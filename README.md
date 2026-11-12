@@ -95,10 +95,10 @@ npm run e2e                              # dans un second terminal
 
 ## Organisation du code
 
-- `app/` : les trois pages et les routes API (`app/api/images`).
-- `components/` : jeu, formulaire d'ajout, gestion, dessin du rectangle.
+- `app/` : les quatre pages (Jouer, Ajouter, Gérer, Paramètres) et les routes API (`app/api/images`).
+- `components/` : jeu, formulaire d’ajout, gestion, paramètres, dessin du rectangle.
 - `lib/data.ts` : seul module qui lit et écrit les données. Pour passer plus tard à Supabase, c'est le seul fichier à réécrire.
-- `lib/shared.ts` : types et fonctions communes (normalisation, recherche de terme proche).
+- `lib/shared.ts` : types et fonctions communes (normalisation, recherche de terme proche, termes compatibles) ; `lib/parametres.ts` : réglages du joueur.
 - `scripts/` : recherche sur Commons, outils de vérification, intégration.
 
 Les choix faits pendant le développement sont notés dans `DECISIONS.md`.

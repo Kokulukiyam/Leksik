@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Amboise, France",
       "note": "Aciers apparents par éclatement, pas des attentes."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fragments de béton avec ferraille, inscription illisible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton cassé, pas des attentes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Extrémité d'une poutre ou cage d'armature avec barres rouillées en saillie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pourrait être une cage d'armature, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers sur échafaudage devant une cage de ferraillage de mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Scène chargée, ferraillage de mur et pas des attentes clairement identifiées."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Règle à calcul circulaire pour béton armé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Angleterre",
+      "note": "Objet de musée sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue abstraite bleue de lignes rayonnantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Armatures rouillées sous un balcon en béton dégradé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Béton dégradé, pas des attentes."
     }
   ]
 }

@@ -53,6 +53,54 @@
       },
       "lieu": "Cologne, Allemagne",
       "note": "Rectangle sur la rangée d'appliques."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Applique à bougies en corbeille de laiton et feuillage métallique sur un mur rose.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pavlovsk, Russie",
+      "note": "Luminaire mural net et dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Applique en laiton à quatre diffuseurs de verre cannelé fixée à un mur.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaire mural net, bien centré."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bras de lumière doré à putto, tenant une bougie, sur mur blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ornement sculpté plutôt que luminaire, bougie sans lampe."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Deux vasques demi-circulaires en laiton fixées au mur, vues de près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage coupé, proche des appliques déjà retenues."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Applique dorée rocaille à deux bras terminés par des globes sombres, sur marbre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bad Ems, Allemagne",
+      "note": "Applique ornementale nette et dominante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Lanterne octogonale encastrée dans un décor de stuc blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peut passer pour un plafonnier ou un cartouche."
     }
   ]
 }

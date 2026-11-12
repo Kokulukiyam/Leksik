@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de gorge claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plafond gris à retombée courbe éclairée par une gorge, avec diffuseur d'air rond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Même série que les images déjà retenues ; quasi-doublon."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plafond à caissons vitrés richement décoré d'une salle de Capitole.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Salt Lake City, États-Unis",
+      "note": "Corniche dorée et verrière : la gorge lumineuse n'est pas isolable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Faux plafond de hall d'exposition avec spots encastrés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Spots, pas de gorge lumineuse."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Voûte peinte d'une grande salle de monastère, éclairée en bordure.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monastère de l'Escurial, Espagne",
+      "note": "Voûte décorée, effet d'éclairage de bordure peu clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vasques dorées lumineuses en gros plan sur fond sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Luminaires, pas une gorge."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Couloir de métro à plafond voûté, éclairage indirect vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saint-Pétersbourg, Russie",
+      "note": "Éclairage indirect dans une voûte, peu net."
     }
   ]
 }

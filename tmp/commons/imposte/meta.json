@@ -3,11 +3,19 @@
     "id": "imposte",
     "terme": "l'imposte",
     "categorie": "Façade et ouvertures",
-    "definition": "Partie vitrée, fixe ou ouvrante, située au-dessus d'une porte ou d'une fenêtre.",
+    "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.",
     "requetes": [
       "incategory:\"Fanlights\"",
       "incategory:\"Transom windows\"",
       "imposte porte"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chassis-fixe"
+    ],
+    "categoriesCommons": [
+      "Category:Fanlights",
+      "Category:Transom windows"
     ]
   },
   "candidats": [
@@ -147,6 +155,144 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/4_Race.JPG/1280px-4_Race.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2272,
       "hauteur": 1704
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:80 South Battery.JPG",
+      "description": "80 South Battery, Charleston, South Carolina",
+      "categories": [
+        "Taken with Nikon Coolpix S3300",
+        "Fanlights",
+        "Self-published work",
+        "Gable roofs in Charleston, South Carolina",
+        "South Battery, Charleston, South Carolina",
+        "Brick houses in Charleston, South Carolina",
+        "Two-story houses in the United States"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:80_South_Battery.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/80_South_Battery.JPG/1280px-80_South_Battery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Berzsenyi Straße 2, Lünette, 2021 Kaposvár.jpg",
+      "description": "Vidor Mansion (Vidor 'Town Palace') Two storey corner building with listed facade. Built in 1909. Planned by Dezső Himmler. The first onwr was the local prosecutor Ferenc Vidor. - 16 Ady Street / 2 Berzsenyi D. Street, Kaposvár , Somogy County , Hungary .",
+      "categories": [
+        "Transom windows",
+        "Self-published work",
+        "Lunettes in Hungary",
+        "Architectural sculptures in Hungary",
+        "June 2021 Hungary photographs",
+        "Files with coordinates missing SDC location of creation",
+        "2 (house number) in Hungary",
+        "Reliefs in Kaposvár",
+        "2021 in Kaposvár",
+        "Windows in Kaposvár",
+        "Berzsenyi Dániel utca 2 (Kaposvár)"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Berzsenyi_Stra%C3%9Fe_2,_L%C3%BCnette,_2021_Kaposv%C3%A1r.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Berzsenyi_Stra%C3%9Fe_2%2C_L%C3%BCnette%2C_2021_Kaposv%C3%A1r.jpg/1280px-Berzsenyi_Stra%C3%9Fe_2%2C_L%C3%BCnette%2C_2021_Kaposv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 1527
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Armenian Church of Thessaloniki (5).jpg",
+      "description": "Armenian inscription above the door of Armenian Church of Thessaloniki Built in 1903, architect Vitaliano Poselli (1838-1918)",
+      "categories": [
+        "Fanlights",
+        "Self-published work",
+        "Objects with inscriptions in Armenian needing translation",
+        "Doors of Armenian Churches",
+        "Armenian Church, Thessaloniki"
+      ],
+      "auteur": "Armineaghayan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Armenian_Church_of_Thessaloniki_(5).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Armenian_Church_of_Thessaloniki_%285%29.jpg/1280px-Armenian_Church_of_Thessaloniki_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4020,
+      "hauteur": 2709
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Platnéřská 2, křižovnický klášter, vstup.jpg",
+      "description": "Prague - Old Town , the Czech Republic . Platnéřská 191/2, monastery of Knights of the Cross with the Red Star.",
+      "categories": [
+        "Czech Republic photographs taken on 2012-06-05",
+        "Reliefs of garlands in the Czech Republic",
+        "Metal railings in the Czech Republic",
+        "Taken with Kodak EasyShare Z8612 IS",
+        "Transom windows",
+        "Platnéřská",
+        "Self-published work",
+        "Brown doors",
+        "Pink facades",
+        "Files with coordinates missing SDC location of creation",
+        "2 (house number) in the Czech Republic",
+        "Portals in Old Town (Prague)",
+        "Lanterns in Prague",
+        "Railings in Prague",
+        "Arches in Prague",
+        "Prelature Building of Knights of the Cross with the Red Star in Prague"
+      ],
+      "auteur": "ŠJů ( cs:ŠJů )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Platn%C3%A9%C5%99sk%C3%A1_2,_k%C5%99i%C5%BEovnick%C3%BD_kl%C3%A1%C5%A1ter,_vstup.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Platn%C3%A9%C5%99sk%C3%A1_2%2C_k%C5%99i%C5%BEovnick%C3%BD_kl%C3%A1%C5%A1ter%2C_vstup.jpg/1280px-Platn%C3%A9%C5%99sk%C3%A1_2%2C_k%C5%99i%C5%BEovnick%C3%BD_kl%C3%A1%C5%A1ter%2C_vstup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:León - Casa Ciriaco 5.jpg",
+      "description": "Casa Ciriaco (León)",
+      "categories": [
+        "CC-Zero",
+        "Transom windows",
+        "Self-published work",
+        "Arch windows in Spain",
+        "Brown doors in Spain",
+        "2 (house number) in Spain",
+        "Doors in León",
+        "Casa Ciriaco, León"
+      ],
+      "auteur": "Zarateman",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Le%C3%B3n_-_Casa_Ciriaco_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Le%C3%B3n_-_Casa_Ciriaco_5.jpg/1280px-Le%C3%B3n_-_Casa_Ciriaco_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:110 Coming.JPG",
+      "description": "110 Coming Street, Charleston, South Carolina",
+      "categories": [
+        "Fanlights",
+        "Charleston single house",
+        "Brick buildings in the United States",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Quoins (architecture) in South Carolina",
+        "Gable roofs in the United States",
+        "1-story porches",
+        "2.5-story buildings",
+        "Radcliffeborough",
+        "Coming Street, Charleston, South Carolina"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:110_Coming.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/110_Coming.JPG/1280px-110_Coming.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2429,
+      "hauteur": 1798
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Moscou, Russie",
       "note": "Poutres de pont, pas des poutrelles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pile de dalles alvéolées préfabriquées sur un chemin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chine",
+      "note": "Dalles alvéolées et non poutrelles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Camion transportant une grande poutre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Maule, Chili",
+      "note": "Poutre de pont, pas une poutrelle."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Sous-face d'un auvent à caissons en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Saga, Japon",
+      "note": "Dalle à caissons, pas de poutrelles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Publicité ancienne pour un système triangulaire de construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "El Ferrol, Espagne",
+      "note": "Document imprimé, texte visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fresque murale sur pignon d'immeuble.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poutres en béton d'un quai de station vues de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Suffolk Downs, États-Unis",
+      "note": "Grosses poutres et pas des poutrelles de plancher."
     }
   ]
 }

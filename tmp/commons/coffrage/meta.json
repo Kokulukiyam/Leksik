@@ -13,6 +13,9 @@
     "incompatibles": [
       "coffrage-bois",
       "coffrage-metallique"
+    ],
+    "categoriesCommons": [
+      "Category:Formwork"
     ]
   },
   "candidats": [
@@ -130,6 +133,147 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg/1280px-Engineered_Formwork_System_for_cut_and_cover_construction_method._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D1%81%D0%B2%D0%BE%D0%B4%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1920,
       "hauteur": 1280
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:20110627-PontBelAir-3.jpg",
+      "description": "Reconstruction des ponts de l'Île au centre de Genève : bras droit, amont, mise en place du coffrage.",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "TCOB construction (trams in Geneva)",
+        "Ponts de l'Île 2009-2011"
+      ],
+      "auteur": "MHM55",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20110627-PontBelAir-3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/20110627-PontBelAir-3.jpg/1280px-20110627-PontBelAir-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1536,
+      "hauteur": 2048
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Biomasseheizkraftwerk Steyr mit Kletterschalung.jpg",
+      "description": "Mit einer Kletterschalung wird das Biomasseheizkraftwerk Steyr errichtet. Die Schalung klettert dabei an der bereits beonierten Wand mit Unterstützung des Krans hoch.",
+      "categories": [
+        "Taken with Nikon D3100",
+        "Formwork",
+        "Biomasseheizkraftwerk Steyr",
+        "Self-published work",
+        "Liebherr tower cranes",
+        "Files with coordinates missing SDC location of creation",
+        "2012 in construction in Upper Austria",
+        "Construction sites in Steyr"
+      ],
+      "auteur": "Sensenschmied",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biomasseheizkraftwerk_Steyr_mit_Kletterschalung.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Biomasseheizkraftwerk_Steyr_mit_Kletterschalung.jpg/1280px-Biomasseheizkraftwerk_Steyr_mit_Kletterschalung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1399,
+      "hauteur": 1070
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Building construction Moira Close Broadwater Farm Haringey 2025 34.jpg",
+      "description": "Building construction at Moira Close, in the Borough of Haringey in London , England, on 20 May 2025. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Tottenham , this uploader's Buildings in London photos , and 'categories' at the bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera : Canon PowerShot SX60 HS Software : DxO PhotoLab 7 Elite .",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction sites in London",
+        "2025 in the London Borough of Haringey",
+        "May 2025 in London",
+        "London photographs taken on 2025-05-20",
+        "Men at work in London",
+        "Spring in the London Borough of Haringey",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Buildings in the London Borough of Haringey photographed in 2025",
+        "Hard hats in London",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Construction at Broadwater Farm Estate",
+        "Moira Close, Tottenham",
+        "High-visibility clothing in London",
+        "Men wearing hard hats in the United Kingdom",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_34.jpg/1280px-Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:01Mobil tunnel forms Stalform for Moscow metro station. Механизированная опалубка для метро.jpg",
+      "description": "Mobil tunnel forms Stalform for Lesoparkovaya Moscow metro station. The subway construction process. Russia, Moscow, 2013.",
+      "categories": [
+        "Taken with Canon EOS 6D",
+        "Formwork",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Construction of Lesoparkovaya (Moscow Metro)"
+      ],
+      "auteur": "STALFORM Engineering",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:01Mobil_tunnel_forms_Stalform_for_Moscow_metro_station._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/01Mobil_tunnel_forms_Stalform_for_Moscow_metro_station._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE.jpg/1280px-01Mobil_tunnel_forms_Stalform_for_Moscow_metro_station._%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B0%D0%BB%D1%83%D0%B1%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1365
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:20170714 xl P1130512-taz-Die-Tageszeit-Richtfest--Schweiz-Aufrichte--in-der-Friedrichstrasse-20-22.jpg",
+      "description": "Freitag, 14.06.2017, 13:00 Uhr: taz - Die Tageszeit: \"Richtfest\" (Schweiz: \"Aufrichte\") in Berlin, Friedrichstraße 20/22",
+      "categories": [
+        "Formwork",
+        "PERI",
+        "Extendable support beams",
+        "Self-published work",
+        "Photos by User:Molgreen",
+        "Files with coordinates missing SDC location of creation",
+        "Uploads by User:Molgreen",
+        "Richtfest Verlagsgebaeude der TAZ Friedrichstrasse 20-22 Berlin"
+      ],
+      "auteur": "Molgreen",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20170714_xl_P1130512-taz-Die-Tageszeit-Richtfest--Schweiz-Aufrichte--in-der-Friedrichstrasse-20-22.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/20170714_xl_P1130512-taz-Die-Tageszeit-Richtfest--Schweiz-Aufrichte--in-der-Friedrichstrasse-20-22.jpg/1280px-20170714_xl_P1130512-taz-Die-Tageszeit-Richtfest--Schweiz-Aufrichte--in-der-Friedrichstrasse-20-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Building construction Moira Close Broadwater Farm Haringey 2025 33.jpg",
+      "description": "Building construction at Moira Close, in the Borough of Haringey in London , England, on 20 May 2025. Wikimedia (2025) makes it difficult to immediately view photo groups related to this image. To see its most relevant allied photos, click on Tottenham , this uploader's Buildings in London photos , and 'categories' at the bottom of the page. This image is one of a series of date and/or subject allied consecutive photographs kept in progression or location by file name number and/or time marking. Camera : Canon PowerShot SX60 HS Software : DxO PhotoLab 7 Elite .",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction sites in London",
+        "2025 in the London Borough of Haringey",
+        "May 2025 in London",
+        "London photographs taken on 2025-05-20",
+        "Men at work in London",
+        "Spring in the London Borough of Haringey",
+        "Photographs of London by Acabashi",
+        "London N17",
+        "Buildings in the London Borough of Haringey photographed in 2025",
+        "Hard hats in London",
+        "London buildings photos taken with Canon PowerShot SX60 HS",
+        "Construction at Broadwater Farm Estate",
+        "Moira Close, Tottenham",
+        "High-visibility vests in London",
+        "Men wearing hard hats in the United Kingdom",
+        "Acabashi photos: buildings in Haringey"
+      ],
+      "auteur": "Acabashi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_33.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_33.jpg/1280px-Building_construction_Moira_Close_Broadwater_Farm_Haringey_2025_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -8,6 +8,14 @@
       "oeil-de-boeuf window",
       "œil-de-bœuf fenêtre",
       "deepcat:\"Oculi\""
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "lucarne"
+    ],
+    "categoriesCommons": [
+      "Category:Oculi",
+      "Category:Round windows"
     ]
   },
   "candidats": [
@@ -149,6 +157,142 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/One_World_Trade_Center_through_the_Oculus_%2891538%29.jpg/1280px-One_World_Trade_Center_through_the_Oculus_%2891538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3377,
       "hauteur": 2716
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:九曲堂泰芳商會鳳梨罐詰工場20230606-7.jpg",
+      "description": "This is a photo of a monument in Taiwan identified by the ID",
+      "categories": [
+        "Oculi",
+        "Images from Wiki Loves Monuments 2023 in Taiwan",
+        "Taiwan photographs taken on 2023-06-06",
+        "Gables in Taiwan",
+        "Cultural heritage monuments in Taiwan with known IDs",
+        "Taiwan Pineapple Museum",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2023",
+        "Round windows in Taiwan",
+        "Uploaded via Campaign:wlm-tw",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "2023 photographs of Kaohsiung",
+        "Photographs of Kaohsiung by 地下高雄",
+        "Windows in Kaohsiung",
+        "WLM 2023 in Taiwan -",
+        "Half hipped roofs in Taiwan"
+      ],
+      "auteur": "地下高雄",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E6%9B%B2%E5%A0%82%E6%B3%B0%E8%8A%B3%E5%95%86%E6%9C%83%E9%B3%B3%E6%A2%A8%E7%BD%90%E8%A9%B0%E5%B7%A5%E5%A0%B420230606-7.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/%E4%B9%9D%E6%9B%B2%E5%A0%82%E6%B3%B0%E8%8A%B3%E5%95%86%E6%9C%83%E9%B3%B3%E6%A2%A8%E7%BD%90%E8%A9%B0%E5%B7%A5%E5%A0%B420230606-7.jpg/1280px-%E4%B9%9D%E6%9B%B2%E5%A0%82%E6%B3%B0%E8%8A%B3%E5%95%86%E6%9C%83%E9%B3%B3%E6%A2%A8%E7%BD%90%E8%A9%B0%E5%B7%A5%E5%A0%B420230606-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Helms.window.jpg",
+      "description": "Astronaut Susan J. Helms, Expedition Two flight engineer, views the topography of a point on Earth from the nadir window in the U.S. Laboratory / Destiny module of the International Space Station (ISS).",
+      "categories": [
+        "PD NASA",
+        "Susan J. Helms",
+        "ISS Expedition 2",
+        "Interior of Destiny (ISS module)",
+        "Round windows",
+        "ISS Crew Earth Observations",
+        "Files from NASA with known IDs",
+        "Destiny nadir window",
+        "ISS photographs taken on 2001-03-31"
+      ],
+      "auteur": "NASA",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Helms.window.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Helms.window.jpg/1280px-Helms.window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2037,
+      "hauteur": 3060
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Jami Masjid Champaner Open Roof.jpg",
+      "description": "Roof of Jami Masjid Entry, Champaner, Gujarat",
+      "categories": [
+        "Islamic architecture",
+        "Oculi",
+        "Jami Masjid, Champaner",
+        "Architecture of Gujarat",
+        "Self-published work",
+        "Ceilings in India",
+        "Dome interiors in India",
+        "Squinches in India",
+        "Symmetry impressions of ceilings",
+        "Islamic domes"
+      ],
+      "auteur": "Pradeep717",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jami_Masjid_Champaner_Open_Roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jami_Masjid_Champaner_Open_Roof.jpg/1280px-Jami_Masjid_Champaner_Open_Roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1874,
+      "hauteur": 1771
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Anunciación de Alejo Fernández - ventana.jpg",
+      "description": "Ventana circular. Detalle de la Anunciación de Alejo Fernández, hacia 1508. Museo de Bellas Artes de Sevilla.",
+      "categories": [
+        "Round windows",
+        "Self-published work",
+        "Images by Hispalois",
+        "Files with coordinates missing SDC location of creation",
+        "Anunciación (Alejo Fernández)"
+      ],
+      "auteur": "Hispalois",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Anunciaci%C3%B3n_de_Alejo_Fern%C3%A1ndez_-_ventana.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Anunciaci%C3%B3n_de_Alejo_Fern%C3%A1ndez_-_ventana.jpg/1280px-Anunciaci%C3%B3n_de_Alejo_Fern%C3%A1ndez_-_ventana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:FLAMA ETERNA.JPG",
+      "description": "This is a picture of the panamanian cultural heritage monument with the ID",
+      "categories": [
+        "Taken with Canon EOS 500D",
+        "Monumento a los mártires del 9 de enero de 1964",
+        "Oculi",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2013",
+        "Panama photographs taken on 2013-01-07",
+        "Cultural heritage monuments in Panama with known IDs",
+        "Images from Wiki Loves Monuments 2013 in Panama",
+        "WLMPA General",
+        "Eternal flames in Panama",
+        "Uploaded via Campaign:wlm-pa",
+        "Skylights from inside"
+      ],
+      "auteur": "Arito",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:FLAMA_ETERNA.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FLAMA_ETERNA.JPG/1280px-FLAMA_ETERNA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3168,
+      "hauteur": 4752
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:800图(椭圆窗)A6.jpg",
+      "description": "Aluminum round window【from www.jzalu.cn】",
+      "categories": [
+        "Made in China",
+        "Round windows",
+        "Self-published work"
+      ],
+      "auteur": "Px1307",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:800%E5%9B%BE(%E6%A4%AD%E5%9C%86%E7%AA%97)A6.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/800%E5%9B%BE%28%E6%A4%AD%E5%9C%86%E7%AA%97%29A6.jpg/1280px-800%E5%9B%BE%28%E6%A4%AD%E5%9C%86%E7%AA%97%29A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 3000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -1,17 +1,154 @@
 {
   "termId": "croupe",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Maison bourgeoise à volets verts, toit à la Mansart en croupe couvert de neige et garni de nombreuses lucarnes.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Croupe brisée surchargée de lucarnes et de neige ; confusion lucarne / brisis."},
-    {"fichier": "02.jpg", "vu": "Porte d'entrée en bois sculpté avec perron et volets verts.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Aucun toit visible."},
-    {"fichier": "03.jpg", "vu": "Rue enneigée bordée de maisons appenzelloises à pignons sur rue.", "verdict": "rejetée", "rectangle": null, "lieu": "Herisau, Suisse", "note": "Pignons, pas de croupe lisible."},
-    {"fichier": "04.jpg", "vu": "Longue maison jaune à toit de chaume en croupe, avec feux de circulation et voiture au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Adare, Irlande", "note": "Le chaume domine (terme voisin de la même catégorie) ; croupes partiellement cachées."},
-    {"fichier": "05.jpg", "vu": "Maison à colombages et brique, toits de tuiles à plusieurs pans, grande cheminée torsadée, en partie masquée par les arbres.", "verdict": "rejetée", "rectangle": null, "lieu": "Theydon Mount, Essex, Royaume-Uni", "note": "Toiture complexe à pans multiples, croupe peu lisible et masquée par le feuillage."},
-    {"fichier": "06.jpg", "vu": "Petite maison en pierre isolée sur une île, toit en bois à quatre pans dont une croupe triangulaire avec une petite lucarne et une échelle.", "verdict": "rejetée", "rectangle": null, "lieu": "Île Bolchoï Zaïatski, Solovki, Russie", "note": "La croupe existe mais occupe une petite part de l'image ; toit proche du pavillon et lucarne dans le pan : doute, rejet par prudence."},
-    {"fichier": "07.jpg", "vu": "Paysage alpin avec une petite ferme à toit à pans multiples au premier plan.", "verdict": "rejetée", "rectangle": null, "lieu": "Entlebuch, Suisse", "note": "Bâtiment minuscule dans un paysage ; croupe non lisible."},
-    {"fichier": "08.jpg", "vu": "Maison en brique vue de face, toit en tuiles à demi-croupes, derrière des ifs et un portail.", "verdict": "rejetée", "rectangle": null, "lieu": "Nottuln, Allemagne", "note": "Demi-croupes (confusion avec croupe) vues par la tranche ; peu lisibles."},
-    {"fichier": "09.jpg", "vu": "Grande maison en pierre vue de face, toit à croupes avec lucarnes.", "verdict": "rejetée", "rectangle": null, "lieu": "Nottuln, Allemagne", "note": "Les croupes, vues par la tranche depuis la façade, ne se lisent pas clairement."},
-    {"fichier": "10.jpg", "vu": "Grand toit alsacien à pans très pentus et multiples niveaux de lucarnes et de chiens-assis.", "verdict": "rejetée", "rectangle": null, "lieu": "Wissembourg, France", "note": "Toiture complexe (plusieurs croupes, coyaux, demi-niveaux) : élément ambigu ; image retouchée selon Commons."},
-    {"fichier": "11.jpg", "vu": "Maison enduite vue d'angle, toit à long pan avec croupe sur le petit côté, vue en fort raccourci.", "verdict": "rejetée", "rectangle": null, "lieu": "Spire, Allemagne", "note": "Croupe visible seulement en mince bande ; un rectangle mettrait surtout en évidence l'arêtier (confusion)."},
-    {"fichier": "12.jpg", "vu": "Bâtiment jaune vu d'angle avec toit à lucarnes ; extrémité de toit vue en raccourci au-dessus du mur bas à gauche.", "verdict": "rejetée", "rectangle": null, "lieu": "Spire, Allemagne", "note": "Croupe trop en raccourci et peu lisible."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Maison bourgeoise à volets verts, toit à la Mansart en croupe couvert de neige et garni de nombreuses lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Herisau, Suisse",
+      "note": "Croupe brisée surchargée de lucarnes et de neige ; confusion lucarne / brisis."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Porte d'entrée en bois sculpté avec perron et volets verts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Herisau, Suisse",
+      "note": "Aucun toit visible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Rue enneigée bordée de maisons appenzelloises à pignons sur rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Herisau, Suisse",
+      "note": "Pignons, pas de croupe lisible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Longue maison jaune à toit de chaume en croupe, avec feux de circulation et voiture au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Adare, Irlande",
+      "note": "Le chaume domine (terme voisin de la même catégorie) ; croupes partiellement cachées."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Maison à colombages et brique, toits de tuiles à plusieurs pans, grande cheminée torsadée, en partie masquée par les arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Theydon Mount, Essex, Royaume-Uni",
+      "note": "Toiture complexe à pans multiples, croupe peu lisible et masquée par le feuillage."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Petite maison en pierre isolée sur une île, toit en bois à quatre pans dont une croupe triangulaire avec une petite lucarne et une échelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Île Bolchoï Zaïatski, Solovki, Russie",
+      "note": "La croupe existe mais occupe une petite part de l'image ; toit proche du pavillon et lucarne dans le pan : doute, rejet par prudence."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Paysage alpin avec une petite ferme à toit à pans multiples au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Entlebuch, Suisse",
+      "note": "Bâtiment minuscule dans un paysage ; croupe non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison en brique vue de face, toit en tuiles à demi-croupes, derrière des ifs et un portail.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nottuln, Allemagne",
+      "note": "Demi-croupes (confusion avec croupe) vues par la tranche ; peu lisibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grande maison en pierre vue de face, toit à croupes avec lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nottuln, Allemagne",
+      "note": "Les croupes, vues par la tranche depuis la façade, ne se lisent pas clairement."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grand toit alsacien à pans très pentus et multiples niveaux de lucarnes et de chiens-assis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wissembourg, France",
+      "note": "Toiture complexe (plusieurs croupes, coyaux, demi-niveaux) : élément ambigu ; image retouchée selon Commons."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison enduite vue d'angle, toit à long pan avec croupe sur le petit côté, vue en fort raccourci.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Spire, Allemagne",
+      "note": "Croupe visible seulement en mince bande ; un rectangle mettrait surtout en évidence l'arêtier (confusion)."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment jaune vu d'angle avec toit à lucarnes ; extrémité de toit vue en raccourci au-dessus du mur bas à gauche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Spire, Allemagne",
+      "note": "Croupe trop en raccourci et peu lisible."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Poste de sauveteurs sous un toit de chaume arrondi, mâts de pavois.",
+      "verdict": "rejetée",
+      "note": "Toit de chaume arrondi, pas de croupe nette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Auvent lumineux d'un cinéma vu de dessous.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Maison coloniale à galerie, toit de tuiles à quatre pans avec lucarnes ; l'extrémité droite du toit forme une croupe triangulaire.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.63,
+        "y": 0.25,
+        "largeur": 0.26,
+        "hauteur": 0.19
+      },
+      "lieu": "Carthagène, Colombie",
+      "note": "Croupe visible à l'extrémité du toit, entourée du rectangle."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Gros plan sur une couverture en plaques ondulées et son faîtage.",
+      "verdict": "rejetée",
+      "note": "Pas de croupe lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Angle d'un toit à pans en tuiles grises avec gouttière.",
+      "verdict": "rejetée",
+      "note": "Arêtier et pans ambigus, croupe non distinguable.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Petit bâtiment de brique à toit gris et fronton vitré triangulaire.",
+      "verdict": "rejetée",
+      "note": "Pignon, pas de croupe.",
+      "rectangle": null,
+      "lieu": ""
+    }
   ]
 }

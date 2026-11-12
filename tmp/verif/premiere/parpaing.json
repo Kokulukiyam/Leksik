@@ -58,6 +58,59 @@
       },
       "lieu": "Kamakura, Japon",
       "note": "Parpaings de béton nets et caractéristiques ; rectangle sur le mur pour écarter l'affiche et les pierres du soubassement."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Blocs de béton cellulaire et une brique rouge au sol dans un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Matériaux mélangés, béton cellulaire, brique : ambigu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de blocs avec armatures et mortier, chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Blocs cachés par le mortier et l'armature, peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piles de blocs creux de béton au premier plan, case en tôle rouillée au fond.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.165,
+        "y": 0.69,
+        "largeur": 0.42,
+        "hauteur": 0.285
+      },
+      "lieu": "",
+      "note": "Parpaings creux empilés, cadre sur la pile de gauche."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur antibruit en béton moulé le long d'une voie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments préfabriqués à motifs, pas des parpaings."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Morceau d'étiquette sur une surface granuleuse, très zoomé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sans rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de blocs en construction sur coffrages de bois, ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de chantier, blocs sombres et peu lisibles."
     }
   ]
 }

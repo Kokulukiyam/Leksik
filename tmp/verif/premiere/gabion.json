@@ -53,6 +53,64 @@
       },
       "lieu": "",
       "note": "Panneau gabion encadré, net."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cygne sur une berge herbeuse avec enrochement sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Cygne dominant, gabions peu lisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Large rivière et berges sableuses avec de petits murs de gabions lointains.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gabions trop petits et lointains."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rivière canalisée avec berge basse en gabions sous des arbres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Gabions peu distincts, élément petit."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cygne au bord de l'eau, berge en pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Cygne dominant, gabion non lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de soutènement en gabions de pierres grises à maille hexagonale au pied d'un talus engazonné.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.43,
+        "largeur": 0.98,
+        "hauteur": 0.47
+      },
+      "lieu": "",
+      "note": "Maille métallique et pierres visibles, gabion typique en soutènement."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Mur de gabions à maille soudée remplis de pierres plates, contre une façade avec escalier métallique.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.09,
+        "y": 0.24,
+        "largeur": 0.9,
+        "hauteur": 0.74
+      },
+      "lieu": "Luxembourg",
+      "note": "Cages grillagées empilées remplies de pierres, très lisibles."
     }
   ]
 }

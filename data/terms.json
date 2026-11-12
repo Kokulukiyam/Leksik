@@ -2647,6 +2647,18 @@
     ]
   },
   {
+    "id": "parement-en-pierre",
+    "terme": "le parement en pierre",
+    "definition": "Revêtement de façade en plaques ou moellons de pierre collés ou agrafés devant un mur porteur.",
+    "categorie": "Matériaux et revêtements",
+    "priorite": 2,
+    "incompatibles": [
+      "moellon",
+      "pierre-de-taille",
+      "pierre-reconstituee"
+    ]
+  },
+  {
     "id": "bois",
     "terme": "le bois",
     "definition": "Matériau issu du tronc des arbres, débité en pièces ou en planches, utilisé en structure, menuiserie et revêtement.",

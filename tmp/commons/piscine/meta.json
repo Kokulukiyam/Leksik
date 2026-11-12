@@ -12,7 +12,12 @@
     ],
     "incompatibles": [
       "margelle",
-      "plage-de-piscine"
+      "plage-de-piscine",
+      "pediluve"
+    ],
+    "categoriesCommons": [
+      "Category:Swimming pools",
+      "Category:Private swimming pools"
     ]
   },
   "candidats": [
@@ -131,6 +136,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg/1280px-Two_women_in_bikinis_at_loungers_near_a_swimming_pool_in_Villa_del_Palmar%2C_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1963,
       "hauteur": 2949
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:A vibrant blue swimming pool features white metal ladders against a clear sky.jpg",
+      "description": "A vibrant blue swimming pool features white metal ladders against a clear sky. The pool appears empty, suggesting it may be prepped for summer fun and relaxation soon.",
+      "categories": [
+        "Ladders",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg/1280px-A_vibrant_blue_swimming_pool_features_white_metal_ladders_against_a_clear_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6016,
+      "hauteur": 4016
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Une piscine privée dans l'Ain - 2.JPG",
+      "description": "Une piscine privée dans l'Ain.",
+      "categories": [
+        "CC-Zero",
+        "Private swimming pools",
+        "Photographs by Benoît Prieur",
+        "Self-published work",
+        "June 2018 in Ain",
+        "Outdoor swimming pools in France",
+        "Images of Saint-Maurice-de-Beynost by Benoît Prieur",
+        "2018 in Saint-Maurice-de-Beynost",
+        "2018 images by Benoît Prieur",
+        "Auvergne-Rhône-Alpes photographs taken on 2018-06-02",
+        "28 rue des Andrés (Saint-Maurice-de-Beynost) - swimming pool"
+      ],
+      "auteur": "Benoît Prieur",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Une_piscine_priv%C3%A9e_dans_l%27Ain_-_2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Une_piscine_priv%C3%A9e_dans_l%27Ain_-_2.JPG/1280px-Une_piscine_priv%C3%A9e_dans_l%27Ain_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3891,
+      "hauteur": 2730
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Child enjoying a sunny day by the pool in a leisure resort undefined.jpg",
+      "description": "A young child wearing a light blue sun hat stands by a clear swimming pool at a resort. Families are scattered around, some relaxing under umbrellas, while others are in the water.",
+      "categories": [
+        "Children",
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "Shixart1985",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Child_enjoying_a_sunny_day_by_the_pool_in_a_leisure_resort_undefined.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Child_enjoying_a_sunny_day_by_the_pool_in_a_leisure_resort_undefined.jpg/1280px-Child_enjoying_a_sunny_day_by_the_pool_in_a_leisure_resort_undefined.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6240,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Garden with swimming pool.JPG",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Taken with Fujifilm FinePix S5600",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Swimming pools in France",
+        "Private swimming pools",
+        "License migration completed",
+        "Media missing infobox template"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Garden_with_swimming_pool.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Garden_with_swimming_pool.JPG/1280px-Garden_with_swimming_pool.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 1824
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2000 - Casa Osterc.jpg",
+      "description": "Front facade of the Casa Osterc by Sergio Forster",
+      "categories": [
+        "Swimming pools",
+        "Self-published work"
+      ],
+      "auteur": "IanGroMar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2000_-_Casa_Osterc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2000_-_Casa_Osterc.jpg/1280px-2000_-_Casa_Osterc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Swimming pool at Chateau, Barbentane - panoramio.jpg",
+      "description": "Swimming pool at Chateau, Barbentane",
+      "categories": [
+        "Private swimming pools",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Outdoor swimming pools in France",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "France photographs taken on 2015-09-19",
+        "Photos from Panoramio ID 2490701"
+      ],
+      "auteur": "PJMarriott",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Swimming_pool_at_Chateau,_Barbentane_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Swimming_pool_at_Chateau%2C_Barbentane_-_panoramio.jpg/1280px-Swimming_pool_at_Chateau%2C_Barbentane_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 2160
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

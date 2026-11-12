@@ -58,6 +58,54 @@
       },
       "lieu": "Île Bolchoï Zaïatski, Russie",
       "note": "Toit à quatre pans très lisible, sans pignon ; rectangle sur la toiture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit en croupe d'une église couvert de tuiles, surmonté d'un clocheton, vu de côté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nečemice, Tchéquie",
+      "note": "Clocheton et lucarnes dominent ; la forme du toit n'est pas lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Auvent lumineux d'un cinéma, plafond en tôle ornée vu d'en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Randwick, Sydney",
+      "note": "Pas un toit à quatre pans."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Maison de deux étages sous un toit en tuiles dont la croupe fait face, vue de face.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oberhaid, Allemagne",
+      "note": "Vue frontale ambiguë (croupe prise pour un pignon ou un pavillon), et deux images valides déjà en jeu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble à trois lucarnes sous un toit en croupe, façade enduite et balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bratislava, Slovaquie",
+      "note": "Toit masqué par les lucarnes, peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Fragment de façade du GUM avec un toit pyramidal vert à lucarnes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Moscou, Russie",
+      "note": "Toit à lucarnes ressemblant plutôt à un pavillon ou à une toiture mansardée ; ambigu."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment en brique à toitures complexes et pignon à volutes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rendsburg, Allemagne",
+      "note": "Toitures multiples, aucun toit à quatre pans net."
     }
   ]
 }

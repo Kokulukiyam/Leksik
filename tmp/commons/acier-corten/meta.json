@@ -11,7 +11,8 @@
       "acier corten"
     ],
     "incompatibles": [
-      "acier"
+      "acier",
+      "bardage-metallique"
     ]
   },
   "candidats": [
@@ -124,6 +125,121 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2023_Amsterdam%2C_KNSM-eiland%2C_Surinamekade_%2840%29.jpg/1280px-2023_Amsterdam%2C_KNSM-eiland%2C_Surinamekade_%2840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3772,
       "hauteur": 2268
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Брэст. БЦ Цэльсій (02).jpg",
+      "description": "Брэст. БЦ Цэльсій",
+      "categories": [
+        "COR-TEN-Steel",
+        "Uploaded with VicuñaUploader",
+        "Maskoŭskaja Street, Brest"
+      ],
+      "auteur": "Чаховіч Уладзіслаў",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D1%8D%D1%81%D1%82._%D0%91%D0%A6_%D0%A6%D1%8D%D0%BB%D1%8C%D1%81%D1%96%D0%B9_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%91%D1%80%D1%8D%D1%81%D1%82._%D0%91%D0%A6_%D0%A6%D1%8D%D0%BB%D1%8C%D1%81%D1%96%D0%B9_%2802%29.jpg/1280px-%D0%91%D1%80%D1%8D%D1%81%D1%82._%D0%91%D0%A6_%D0%A6%D1%8D%D0%BB%D1%8C%D1%81%D1%96%D0%B9_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Autostrada del Brennero bij Sterzing.JPG",
+      "description": "Brennerautobahn (A22) in nördlicher Richtung, nahe Burg Reifenstein bei Sterzing",
+      "categories": [
+        "GFDL",
+        "Taken with HP PhotoSmart M417",
+        "E45 (Italy)",
+        "COR-TEN-Steel",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Autostrada A22 in Trentino-South Tyrol"
+      ],
+      "auteur": "Tubantia",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Autostrada_del_Brennero_bij_Sterzing.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Autostrada_del_Brennero_bij_Sterzing.JPG/1280px-Autostrada_del_Brennero_bij_Sterzing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2576,
+      "hauteur": 1350
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Sculpture Habitable.jpg",
+      "description": "Sculpture habitable réalisée par Jean-Claude Galland",
+      "categories": [
+        "Sculptures",
+        "COR-TEN-Steel",
+        "Self-published work"
+      ],
+      "auteur": "Raymond Tarrit",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sculpture_Habitable.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Sculpture_Habitable.jpg/1280px-Sculpture_Habitable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Nieuw Den Helder - Duinpark.jpg",
+      "description": "Den Helder - Duinpark neighborhood",
+      "categories": [
+        "COR-TEN-Steel",
+        "Duindreef, Den Helder",
+        "Self-published work",
+        "Houses in Den Helder",
+        "Netherlands photographs taken on 2017-08-22",
+        "2017 in Den Helder"
+      ],
+      "auteur": "Lars van der Heide",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Nieuw_Den_Helder_-_Duinpark.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nieuw_Den_Helder_-_Duinpark.jpg/1280px-Nieuw_Den_Helder_-_Duinpark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4128,
+      "hauteur": 2322
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Museumpark Buildingsite 01.JPG",
+      "description": "buildingsite Museumpark in Rotterdam/The Netherlands",
+      "categories": [
+        "Museumpark Rotterdam",
+        "COR-TEN-Steel",
+        "Self-published work",
+        "PD-self",
+        "2007 in Rotterdam",
+        "Netherlands photographs taken on 2007-07-22",
+        "Parkeergarage Museumpark"
+      ],
+      "auteur": "K. Siereveld",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Museumpark_Buildingsite_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Museumpark_Buildingsite_01.JPG/1280px-Museumpark_Buildingsite_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2112,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Embarcadero en el Muelle de las Mulas.jpg",
+      "description": "El embarcadero o pantanal construido en 2012, bautizado como Muelle de las Mulas",
+      "categories": [
+        "COR-TEN-Steel",
+        "Views of Torre del Oro",
+        "Muelle de las Mulas",
+        "Self-published work",
+        "2013 in water transport in Spain",
+        "October 2013 in Seville",
+        "Views of Giralda in 2013"
+      ],
+      "auteur": "CarlosVdeHabsburgo",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Embarcadero_en_el_Muelle_de_las_Mulas.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Embarcadero_en_el_Muelle_de_las_Mulas.jpg/1280px-Embarcadero_en_el_Muelle_de_las_Mulas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2560,
+      "hauteur": 1920
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

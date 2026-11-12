@@ -3,11 +3,17 @@
     "id": "meneau",
     "terme": "le meneau",
     "categorie": "Façade et ouvertures",
-    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une fenêtre en plusieurs parties.",
+    "definition": "Montant vertical fixe, en pierre ou en bois, qui divise une même fenêtre en plusieurs parties.",
     "requetes": [
       "deepcat:\"Mullioned windows\"",
       "incategory:\"Mullions\"",
       "mullioned window stone"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Mullions",
+      "Category:Mullioned windows",
+      "Category:Tracery windows"
     ]
   },
   "candidats": [
@@ -129,6 +135,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Crespiano_-_Canonica_-_Bifora.jpg/1280px-Crespiano_-_Canonica_-_Bifora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3888,
       "hauteur": 5184
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Windows 2016-09-06 811.jpg",
+      "description": "Windows mullions of the Trinitarian Abbey in Adare, Co. Limerick, Ireland.",
+      "categories": [
+        "Church windows in Ireland",
+        "Churches in Ireland photographed in 2016",
+        "Taken with Canon PowerShot SX500 IS",
+        "Trinitarian Abbey (Adare)",
+        "Mullions",
+        "Self-published work",
+        "Mullions in Ireland",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2016-09-06",
+        "Trinitarian Abbey Image by Chris Light"
+      ],
+      "auteur": "Chris Light",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Windows_2016-09-06_811.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Windows_2016-09-06_811.jpg/1280px-Windows_2016-09-06_811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2176,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Château de Rochetaillée 12.jpg",
+      "description": "Le château de Rochetaillée, Saint-Étienne, Loire, France",
+      "categories": [
+        "Windows in Loire",
+        "Château de Rochetaillée",
+        "Self-published work",
+        "Files by User:Rémih from fr.wikipedia",
+        "Mullioned windows",
+        "November 2025 in Saint-Étienne"
+      ],
+      "auteur": "Rémih",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Rochetaill%C3%A9e_12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ch%C3%A2teau_de_Rochetaill%C3%A9e_12.jpg/1280px-Ch%C3%A2teau_de_Rochetaill%C3%A9e_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Walter Crane 1902 (142035698).jpg",
+      "description": "Adres wydawniczy : Bielefeld ; Leipzig : Velhagen & Klasing, 1902 Opis fizyczny : [4], 151 s. : il. ; 26 cm",
+      "categories": [
+        "Images contributed by the National Library in Warsaw",
+        "PD-old-100-expired",
+        "Tracery windows",
+        "CC-PD-Mark",
+        "Patrimonium 2 (project)",
+        "Files from Polona",
+        "Walter Crane (1902)"
+      ],
+      "auteur": "Otto von Schleinitz",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Walter_Crane_1902_(142035698).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Walter_Crane_1902_%28142035698%29.jpg/1280px-Walter_Crane_1902_%28142035698%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2925,
+      "hauteur": 4294
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Lucca, San Martino, Campanile, 2026.jpg",
+      "description": "Lucca, San Martino, Campanile, 2026",
+      "categories": [
+        "Bell tower of San Martino",
+        "Mullions",
+        "Self-published work"
+      ],
+      "auteur": "Rendor Thuces Al'Nachkar",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lucca,_San_Martino,_Campanile,_2026.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lucca%2C_San_Martino%2C_Campanile%2C_2026.jpg/1280px-Lucca%2C_San_Martino%2C_Campanile%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1503,
+      "hauteur": 2390
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Mayenne - château 29.jpg",
+      "description": "Château de Mayenne (Mayenne, France) : fenêtres dans l'enceinte de la haute-cour",
+      "categories": [
+        "Base Mérimée",
+        "Château de Mayenne",
+        "Self-published work",
+        "Windows in Mayenne",
+        "Mérimée with PA parameter",
+        "Cultural heritage monuments in France with known IDs",
+        "Mérimée without type parameter",
+        "Uploaded via Campaign:wlm-fr",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC inception",
+        "Images from Wiki Loves Monuments missing SDC creator",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC source of file",
+        "Cultural heritage monuments in France missing SDC location of creation",
+        "Cultural heritage monuments in France missing SDC depicts",
+        "Mullioned windows",
+        "Images from Wiki Loves Monuments 2026",
+        "Images from Wiki Loves Monuments with different SDC participant in",
+        "Images from Wiki Loves Monuments 2026 in France"
+      ],
+      "auteur": "Fab5669",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mayenne_-_ch%C3%A2teau_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Mayenne_-_ch%C3%A2teau_29.jpg/1280px-Mayenne_-_ch%C3%A2teau_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Ansamblu Biertan 15.jpg",
+      "description": "Ansamblul bisericii evanghelice",
+      "categories": [
+        "Images from Wiki Loves Monuments 2019 in Romania",
+        "Images from Wiki Loves Monuments 2019",
+        "Self-published work",
+        "Tracery windows",
+        "Church windows in Romania",
+        "Cultural heritage monuments in Romania with known IDs",
+        "Uploaded via Campaign:wlm-ro",
+        "Interior of Biertan Church"
+      ],
+      "auteur": "Nicubunu",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ansamblu_Biertan_15.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ansamblu_Biertan_15.jpg/1280px-Ansamblu_Biertan_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2002,
+      "hauteur": 2861
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

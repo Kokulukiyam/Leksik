@@ -1,63 +1,116 @@
 {
- "termId": "marteau-piqueur",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Marteaux pneumatiques anciens exposés dans un musée minier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Bergisch Gladbach, Allemagne",
-   "note": "Perforateurs de mine anciens, texte de légende ; pas le marteau-piqueur typique."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Photo ancienne en noir et blanc d'un ouvrier perçant la roche.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Oregon, États-Unis",
-   "note": "Foreuse à roche, image d'archive peu lisible."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Sgraffites décoratifs dans une gare.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Bautzen, Allemagne",
-   "note": "Peinture, texte visible."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Ouvrier dans une nacelle devant une tour en démolition.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "Strümpfelbach, Allemagne",
-   "note": "Outil non identifiable."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Ouvrier casqué tenant un marteau-piqueur rouge sur des gravats de démolition.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.45,
-    "y": 0.38,
-    "largeur": 0.2,
-    "hauteur": 0.36
-   },
-   "lieu": "Porto Alegre, Brésil",
-   "note": "Outil bien visible et en action ; rectangle sur le marteau et son pic."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Femme en casque tenant un marteau-piqueur pneumatique planté dans des débris de béton.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.36,
-    "y": 0.41,
-    "largeur": 0.22,
-    "hauteur": 0.42
-   },
-   "lieu": "Oregon, États-Unis",
-   "note": "Marteau-piqueur pneumatique clair, flexible d'air visible ; rectangle sur l'outil."
-  }
- ]
+  "termId": "marteau-piqueur",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Marteaux pneumatiques anciens exposés dans un musée minier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bergisch Gladbach, Allemagne",
+      "note": "Perforateurs de mine anciens, texte de légende ; pas le marteau-piqueur typique."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Photo ancienne en noir et blanc d'un ouvrier perçant la roche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Oregon, États-Unis",
+      "note": "Foreuse à roche, image d'archive peu lisible."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Sgraffites décoratifs dans une gare.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bautzen, Allemagne",
+      "note": "Peinture, texte visible."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Ouvrier dans une nacelle devant une tour en démolition.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Strümpfelbach, Allemagne",
+      "note": "Outil non identifiable."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ouvrier casqué tenant un marteau-piqueur rouge sur des gravats de démolition.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.38,
+        "largeur": 0.2,
+        "hauteur": 0.36
+      },
+      "lieu": "Porto Alegre, Brésil",
+      "note": "Outil bien visible et en action ; rectangle sur le marteau et son pic."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Femme en casque tenant un marteau-piqueur pneumatique planté dans des débris de béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.36,
+        "y": 0.41,
+        "largeur": 0.22,
+        "hauteur": 0.42
+      },
+      "lieu": "Oregon, États-Unis",
+      "note": "Marteau-piqueur pneumatique clair, flexible d'air visible ; rectangle sur l'outil."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier en noir et blanc cassant du béton sous un pont avec un marteau pneumatique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil masqué par l'ouvrier, photo ancienne."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Marteau pneumatique rouillé dressé sur un rocher-mémorial portant une inscription.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, outil figé en monument."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Quatre marteaux de mineur rouillés devant une benne de mine, panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible, outils de mine."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Marin casqué qui casse une dalle de béton avec un brise-béton électrique rouge.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.47,
+        "largeur": 0.43,
+        "hauteur": 0.52
+      },
+      "lieu": "",
+      "note": "Outil en action, nettement visible ; rectangle sur le marteau."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux ouvriers masqués perçant un sol en béton dans un atelier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil petit et peu visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux mineurs en noir et blanc avec perforatrices sur un rocher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo ancienne, perforatrices de mine."
+    }
+  ]
 }

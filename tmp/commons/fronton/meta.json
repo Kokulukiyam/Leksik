@@ -3,10 +3,17 @@
     "id": "fronton",
     "terme": "le fronton",
     "categorie": "Ornement",
-    "definition": "Couronnement triangulaire ou cintré qui surmonte une façade, une porte ou une fenêtre.",
+    "definition": "Couronnement triangulaire ou cintré, bordé de corniches, qui surmonte une façade, une porte ou une fenêtre.",
     "requetes": [
       "incategory:\"Pediments\"",
       "pediment temple facade"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "tympan"
+    ],
+    "categoriesCommons": [
+      "Category:Pediments"
     ]
   },
   "candidats": [
@@ -164,6 +171,119 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rykyn%C4%8Dice-church-portal-1788.jpg/1280px-Rykyn%C4%8Dice-church-portal-1788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2576,
       "hauteur": 1952
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:De Oude Tuffer Efteling.JPG",
+      "description": "The Tin Lizzies ride in the dutch amusementpark Efteling",
+      "categories": [
+        "GFDL",
+        "Taken with Pentax K20D",
+        "Pediments",
+        "License migration redundant",
+        "De Oude Tuffer",
+        "Winged wheels in art",
+        "Self-published work",
+        "Clocks with IV as numeral 4",
+        "Clockfaces with 12 Roman numerals",
+        "Time 03:26",
+        "Amusement parks in 2010",
+        "Gray clockfaces"
+      ],
+      "auteur": "JZ85",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:De_Oude_Tuffer_Efteling.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/De_Oude_Tuffer_Efteling.JPG/1280px-De_Oude_Tuffer_Efteling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4672,
+      "hauteur": 3104
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:CCI Pau.JPG",
+      "description": "CCI de Pau",
+      "categories": [
+        "Pediments",
+        "Buildings in Pau, France",
+        "Self-published work"
+      ],
+      "auteur": "Flo641",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CCI_Pau.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/CCI_Pau.JPG/1280px-CCI_Pau.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3888
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Agde Grau d'Agde station du Christ fronton IMG 2120.jpg",
+      "description": "Agde Grau d'Agde Chemin du Rosaire établi dès 1550 - 10eme station du Christ, Chapelle (\"Capelette\") en basalte restaurée en 1880 par Dr Cauvy actuellement la seule en place au dessous du pont de la route express 1976",
+      "categories": [
+        "Pediments",
+        "Self-published work",
+        "Station 10: Jesus is stripped of His garments in Hérault",
+        "Grau d'Agde"
+      ],
+      "auteur": "Wh160",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Agde_Grau_d%27Agde_station_du_Christ_fronton_IMG_2120.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Agde_Grau_d%27Agde_station_du_Christ_fronton_IMG_2120.jpg/1280px-Agde_Grau_d%27Agde_station_du_Christ_fronton_IMG_2120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3864,
+      "hauteur": 5152
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Pediment of Wat Damnak.jpg",
+      "description": "The pediment of Wat Damnak is seen in all its beauty with a late afternoon sunlight.",
+      "categories": [
+        "Pediments",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Wat Damnak"
+      ],
+      "auteur": "Willuconquer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pediment_of_Wat_Damnak.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pediment_of_Wat_Damnak.jpg/1280px-Pediment_of_Wat_Damnak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pediment lodge from the 1745 Fullarton House, Troon.jpg",
+      "description": "Pediment lodge from the 1745 Fullarton House, Troon.",
+      "categories": [
+        "Pediments",
+        "Self-published work",
+        "Images by Roger Griffith",
+        "Fullarton Estate",
+        "March 2026 in South Ayrshire"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pediment_lodge_from_the_1745_Fullarton_House,_Troon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Pediment_lodge_from_the_1745_Fullarton_House%2C_Troon.jpg/1280px-Pediment_lodge_from_the_1745_Fullarton_House%2C_Troon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2650,
+      "hauteur": 3130
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A Pediment lodge from the 1745 Fullarton House, Troon.jpg",
+      "description": "A Pediment lodge from the 1745 Fullarton House, Troon.",
+      "categories": [
+        "Pediments",
+        "Self-published work",
+        "Images by Roger Griffith",
+        "Fullarton Estate",
+        "March 2026 in South Ayrshire"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Pediment_lodge_from_the_1745_Fullarton_House,_Troon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/A_Pediment_lodge_from_the_1745_Fullarton_House%2C_Troon.jpg/1280px-A_Pediment_lodge_from_the_1745_Fullarton_House%2C_Troon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1537,
+      "hauteur": 3348
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

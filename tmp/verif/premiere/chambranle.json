@@ -96,6 +96,54 @@
       "rectangle": null,
       "lieu": "Paris, France",
       "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Salle de musée avec fenêtre à rideau, œil-de-bœuf et vitrines.",
+      "verdict": "rejetée",
+      "note": "Aucun encadrement mis en évidence.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Cadre de fenêtre en bois brûlé suspendu dans un grenier de musée.",
+      "verdict": "rejetée",
+      "note": "Pièce isolée de musée, cadre de menuiserie sans moulure lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Fillette debout dans une porte à cadre vert.",
+      "verdict": "rejetée",
+      "note": "Sujet humain dominant, cadre peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Paysage de nuit avec pins et un but de football.",
+      "verdict": "rejetée",
+      "note": "Hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Châssis de fenêtre romane en bois isolé sur fond noir, musée.",
+      "verdict": "rejetée",
+      "note": "Objet de musée en bois, pas un chambranle en place.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Mur de pierre avec quatre encadrements médiévaux de fenêtres et de portes bouchées.",
+      "verdict": "rejetée",
+      "note": "Plusieurs encadrements restaurés, ambigu avec encadrement de baie ; pas assez net.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

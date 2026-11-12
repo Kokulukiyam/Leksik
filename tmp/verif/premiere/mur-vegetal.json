@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Mur végétal modulaire, net."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand mur végétal intérieur dans un hall, avec des fauteuils et une personne devant, sous une charpente blanche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.03,
+        "y": 0.37,
+        "largeur": 0.94,
+        "hauteur": 0.43
+      },
+      "lieu": "",
+      "note": "Mur planté vertical très lisible, photo d'architecture réelle ; rectangle sur le mur de plantes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Panneau végétal sur pied avec banc et panneaux solaires au bord d'une piste cyclable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leusden, Pays-Bas",
+      "note": "Mobilier urbain autonome, pas un mur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mur de soutènement en blocs de béton alvéolés plantés, le long d'une voie ferrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Klobenstein, Italie",
+      "note": "Mur de soutènement végétalisé, ambigu avec le mur en blocs ; végétation clairsemée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Comptoir de salon d'aéroport avec lettres PERTH sur fond de feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Perth, Australie",
+      "note": "Texte visible, végétal anecdotique."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan d'un gabion à maille avec mousses entre les pierres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lille, France",
+      "note": "Montre un gabion, confusion avec ce terme."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Masse de plantes d'intérieur devant un mur de brique, éclairage de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Waterloo, Canada",
+      "note": "Ressemble à un massif planté ; support vertical non lisible."
     }
   ]
 }

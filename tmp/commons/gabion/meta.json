@@ -11,7 +11,8 @@
       "incategory:\"Gabions\""
     ],
     "incompatibles": [
-      "mur-de-soutenement"
+      "mur-de-soutenement",
+      "talus"
     ],
     "categoriesCommons": [
       "Category:Gabions"
@@ -121,6 +122,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ogrodzenie_gabionowe_progress.jpg/1280px-Ogrodzenie_gabionowe_progress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2000,
       "hauteur": 1477
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Moscow Oil Refinery, 2012 07.jpg",
+      "description": "Капотня, Московский нефтеперерабатывающий завод, заводской пруд и на нём заводской лебедь.",
+      "categories": [
+        "CC-Zero",
+        "Gabions",
+        "Ponds in Moscow",
+        "Moscow Oil Refinery",
+        "Self-published work",
+        "April 2012 in Moscow",
+        "Cygnus olor (captive)",
+        "Animals taken with Canon EOS 100D",
+        "Photographs by Retired electrician/birds"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow_Oil_Refinery,_2012_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Moscow_Oil_Refinery%2C_2012_07.jpg/1280px-Moscow_Oil_Refinery%2C_2012_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Espigones.jpg",
+      "description": "Espigones construidos con gaviones Autor: Alfredobi Fecha: 1999",
+      "categories": [
+        "Files with no machine-readable source",
+        "Gabions",
+        "Self-published work",
+        "PD-self",
+        "Assumed own work",
+        "Unidentified beaches"
+      ],
+      "auteur": "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Alfredobi (étant donné la revendication de droit d’auteur).",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Espigones.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Espigones.jpg/1280px-Espigones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1379,
+      "hauteur": 1569
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Moscow, Yauza River in Medvedkovo, 2015 (2).jpg",
+      "description": "Valley of Yauza River, Medvedkovo",
+      "categories": [
+        "Medvedkovo",
+        "Gabions",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Russia photographs taken on 2015-05-24",
+        "Valley of Yauza River",
+        "Photos from Panoramio ID 8562316"
+      ],
+      "auteur": "Егор Черняков",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Yauza_River_in_Medvedkovo,_2015_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Moscow%2C_Yauza_River_in_Medvedkovo%2C_2015_%282%29.jpg/1280px-Moscow%2C_Yauza_River_in_Medvedkovo%2C_2015_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Moscow Oil Refinery, 2012 06.jpg",
+      "description": "Капотня, Московский нефтеперерабатывающий завод, заводской пруд и на нём заводской лебедь.",
+      "categories": [
+        "CC-Zero",
+        "Gabions",
+        "Ponds in Moscow",
+        "Moscow Oil Refinery",
+        "Self-published work",
+        "April 2012 in Moscow",
+        "Cygnus olor (captive)",
+        "Animals taken with Canon EOS 100D",
+        "Photographs by Retired electrician/birds"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow_Oil_Refinery,_2012_06.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moscow_Oil_Refinery%2C_2012_06.jpg/1280px-Moscow_Oil_Refinery%2C_2012_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5616,
+      "hauteur": 3744
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gabion2.jpg",
+      "description": "Gabion- corrosion resistant wire containers filled with stone used to built retaining walls, revetments, slope protection, channel linings and other engineering structures. Date:10-04-2006 Author:Eurico Zimbres Free for all use",
+      "categories": [
+        "Taken with Sony DSC-W5",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "Gabions",
+        "Media lacking author information",
+        "Self-published work",
+        "Images without source",
+        "Photographs taken on 2006-04-09",
+        "Houses in unidentified countries"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 2.5",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gabion2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gabion2.jpg/1280px-Gabion2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1727,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Gabioun 04.jpg",
+      "description": "Gabiounen als Gestaltungselement ronderëm d'Haus - Schiefer - Wolz - 30. Mee 2008.",
+      "categories": [
+        "Taken with Canon EOS 30D",
+        "Gabions",
+        "Self-published work",
+        "Files tagged CC-by-sa-old",
+        "Houses in unidentified countries"
+      ],
+      "auteur": "PlayMistyForMe sur Wikipédia luxembourgeois",
+      "licence": "CC BY-SA 1.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gabioun_04.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Gabioun_04.jpg/1280px-Gabioun_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2700,
+      "hauteur": 1800
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

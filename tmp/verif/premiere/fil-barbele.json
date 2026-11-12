@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Fils trop fins pour distinguer des pointes."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Poteau de bois et deux fils de fer barbelés tendus dans une prairie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Danderyd, Suède",
+      "note": "Fils très fins, pointes à peine visibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vache noire et blanche derrière une clôture à fil barbelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cuiabá, Brésil",
+      "note": "Vache au premier plan, fil secondaire."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur un fil barbelé : deux fils torsadés et une pointe à quatre branches, fond flou de végétation.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil de fer torsadé garni de pointes net et dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fils de fer tordus, rouillés et inox, sur fond de neige floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fils flous et emmêlés, pointes non identifiables."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ciel nuageux en noir et blanc au-dessus d'un champ, fil à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fil quasi invisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Deux soldats remplissant des sacs de sable avec un réseau de fil barbelé au fond, diapositive teintée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Aden",
+      "note": "Fil lointain, photo d'archive aux couleurs dénaturées."
     }
   ]
 }

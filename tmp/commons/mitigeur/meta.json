@@ -11,7 +11,8 @@
       "mixer faucet"
     ],
     "incompatibles": [
-      "robinet"
+      "robinet",
+      "vanne-d-arret"
     ]
   },
   "candidats": [
@@ -121,5 +122,7 @@
       "largeur": 3389,
       "hauteur": 3687
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

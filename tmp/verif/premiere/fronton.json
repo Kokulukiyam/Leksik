@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Rykynčice, Slovaquie",
       "note": "Inscription et linteau dominants, fronton aplati et coupé en haut."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Entrée de parc d'attractions au décor baroque de carton-pâte avec horloge ailée et enseigne.",
+      "verdict": "rejetée",
+      "note": "Décor de fantaisie en carton-pâte, enseigne et horloge dominantes.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade classique à fronton triangulaire orné d'un médaillon, au-dessus d'une frise et de fenêtres à garde-corps.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.38,
+        "y": 0.31,
+        "largeur": 0.62,
+        "hauteur": 0.24
+      },
+      "lieu": "Pau, France",
+      "note": "Fronton triangulaire net bordé de corniches ; le texte de la frise ne donne pas la réponse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petit monument de calvaire avec fronton curviligne, croix en couronnement et panneau 'Station du Christ'.",
+      "verdict": "rejetée",
+      "note": "Texte visible, petit élément.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pignon triangulaire d'un temple cambodgien, très décoré, devant le ciel.",
+      "verdict": "rejetée",
+      "note": "Plutôt un pignon de toit khmer, ambigu avec gâble et pignon.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit pavillon de pierre à niche et urne en couronnement dans un parc.",
+      "verdict": "rejetée",
+      "note": "Couronnement peu lisible comme fronton.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Même pavillon de pierre vu de plus près.",
+      "verdict": "rejetée",
+      "note": "Quasi-doublon, fronton peu lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

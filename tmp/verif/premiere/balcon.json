@@ -106,6 +106,59 @@
       },
       "lieu": "Strasbourg, France",
       "note": "Saillie de la plateforme et consoles bien visibles ; le rectangle englobe dalle, consoles et garde-corps (l'ensemble du balcon)."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Pieds d'une personne sur un sol de verre au-dessus du vide.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plancher de verre en observatoire, pas un balcon d'immeuble."
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Façade de brique à balcons maçonnés en saillie sur plusieurs étages, sous un auvent.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.155,
+        "y": 0.51,
+        "largeur": 0.33,
+        "hauteur": 0.22
+      },
+      "lieu": "Vitry-sur-Seine, France",
+      "note": "Balcon en saillie à garde-corps plein, cadré sur un balcon."
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Vue plongeante sur une mosquée avec fidèles et galerie à balustrade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Galerie intérieure, foule, pas un balcon de façade."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Balcons de bois colorés de villas, surexposé, au contre-jour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image surexposée et confuse, balcons peu lisibles."
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Étage en saillie fermé de grandes fenêtres vertes sur une façade ancienne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bow-window fermé, pas un balcon."
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Hôtel de ville avec petit balcon au centre, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balcon minuscule, élément non dominant."
     }
   ]
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Poteau de réseau dominant, luminaire secondaire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Avenue de nuit avec lampadaires ornés de lunes lumineuses.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Riyad, Arabie saoudite",
+      "note": "Lampadaires petits, scène nocturne, lumière éblouissante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Fin mât vert devant un immeuble violet et blanc, parvis dallé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Mât fin et petit, sans luminaire lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Colonne de fonte sur un trottoir pavé avec d'autres lampadaires au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Astana, Kazakhstan",
+      "note": "Sommet du mât coupé : le luminaire n'est pas visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sommet d'un mât turquoise portant trois luminaires coniques, sur fond de ciel nuageux.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bengaluru, Inde",
+      "note": "Luminaires et mât parfaitement lisibles, rien d'autre dans le cadre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Lanterne ancienne sur un mât noir devant les remparts d'un château, avec une caméra fixée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Shkodër, Albanie",
+      "note": "Mât coupé, caméra et fond chargé qui détournent l'attention."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Borne Wi-Fi blanche accrochée à un mât au-dessus d'un luminaire de rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Canberra, Australie",
+      "note": "Image centrée sur l'antenne Wi-Fi, luminaire secondaire."
     }
   ]
 }

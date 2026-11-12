@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "faux-plafond",
-      "staff"
+      "staff",
+      "faux-plafond-en-plaques-de-platre"
     ],
     "categoriesCommons": [
       "Category:Ceiling lighting"
@@ -131,6 +132,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Istanbul_Airport_%28Abril_2019%29_005.jpg/1280px-Istanbul_Airport_%28Abril_2019%29_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4032,
       "hauteur": 2268
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bulkhead.jpg",
+      "description": "interior designing",
+      "categories": [
+        "CC-Zero",
+        "Construction",
+        "Self-published work",
+        "Ceiling lighting"
+      ],
+      "auteur": "Suhail sartaj ahmed shaikh",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bulkhead.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bulkhead.jpg/1280px-Bulkhead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:UT Capitol house ceiling.jpg",
+      "description": "Ceiling of the House of Representatives Chamber in the Utah State Capitol.",
+      "categories": [
+        "Taken with Nikon D80",
+        "Cove lighting (interior lighting)",
+        "Flickr images reviewed by FlickreviewR",
+        "Lighting in the United States",
+        "Ceilings in Utah",
+        "Skylights in the United States",
+        "Files with coordinates missing SDC location of creation",
+        "Transparent roofs in the United States",
+        "Utah State Capitol - House Chamber"
+      ],
+      "auteur": "Mike Renlund",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:UT_Capitol_house_ceiling.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UT_Capitol_house_ceiling.jpg/1280px-UT_Capitol_house_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:HKCL 香港中央圖書館 CWB 舊圖片展覽 old photos exhibition 中華人民共和國 PRChina the 70th year n 五四運動 1919-May-4th May Fourth Movement the 100th year April 2019 SSG 08.jpg",
+      "description": "HKCL zh:香港中央圖書館 CWB 舊圖片展覽 old photos exhibition zh:中華人民共和國 PRChina the 70th year n 五四運動 1919-May-4th May Fourth Movement the 100th year in April 2019",
+      "categories": [
+        "Self-published work",
+        "Photography exhibitions in Hong Kong",
+        "Ceiling light fixtures in Hong Kong",
+        "Photographs by Anonymous Hong Kong Photographer 1",
+        "Ceiling lighting",
+        "1919 May Fourth Movement in Hong Kong",
+        "2019 exhibitions in Causeway Bay",
+        "April 2019 exhibitions in Hong Kong Central Library"
+      ],
+      "auteur": "Zhauong Tsimoad 2019",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:HKCL_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_CWB_%E8%88%8A%E5%9C%96%E7%89%87%E5%B1%95%E8%A6%BD_old_photos_exhibition_%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B_PRChina_the_70th_year_n_%E4%BA%94%E5%9B%9B%E9%81%8B%E5%8B%95_1919-May-4th_May_Fourth_Movement_the_100th_year_April_2019_SSG_08.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/HKCL_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_CWB_%E8%88%8A%E5%9C%96%E7%89%87%E5%B1%95%E8%A6%BD_old_photos_exhibition_%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B_PRChina_the_70th_year_n_%E4%BA%94%E5%9B%9B%E9%81%8B%E5%8B%95_1919-May-4th_May_Fourth_Movement_the_100th_year_April_2019_SSG_08.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Sala Vicarial.jpg",
+      "description": "Sala Vicarial in Monastery of San Lorenzo de El Escorial.",
+      "categories": [
+        "Cove lighting (interior lighting)",
+        "Frescos in the Community of Madrid",
+        "Lighting in Spain",
+        "Pictures by User:Kadellar",
+        "Ceilings in palaces of Spain",
+        "Painted ceilings in the Community of Madrid",
+        "Museum ceilings",
+        "Chapter Houses of the Monastery of San Lorenzo de El Escorial"
+      ],
+      "auteur": "Carlos Delgado",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sala_Vicarial.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Sala_Vicarial.jpg/1280px-Sala_Vicarial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2816,
+      "hauteur": 2112
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:\"phaser\" (5469984955).jpg",
+      "description": "cc creative commons",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "Ceiling lighting",
+        "Files with coordinates missing SDC location of creation (50° N, 8° E)"
+      ],
+      "auteur": "Martin Fisch from Wiesbaden, Germany",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:%22phaser%22_(5469984955).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%22phaser%22_%285469984955%29.jpg/1280px-%22phaser%22_%285469984955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2785,
+      "hauteur": 1855
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Proletarskaya metrostaion-2.JPG",
+      "description": "Перрон станции метро Пролетарская в Санкт-Петербурге",
+      "categories": [
+        "Taken with Pentax Optio M20",
+        "Proletarskaya (Saint Petersburg Metro station)",
+        "Cove lighting (interior lighting)",
+        "Self-published work",
+        "PD-self",
+        "Lighting in Saint Petersburg",
+        "Ceilings of Saint Petersburg Metro"
+      ],
+      "auteur": "Андрей!",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Proletarskaya_metrostaion-2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Proletarskaya_metrostaion-2.JPG/1280px-Proletarskaya_metrostaion-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1571,
+      "hauteur": 1803
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

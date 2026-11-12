@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Reflets et perspective, moins lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Reflets de bâtiments dans une façade en verre noir, vue rasante, quai au bord d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fukuoka, Japon",
+      "note": "Reflets, vue rasante, éléments de structure invisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade courbe à lames horizontales blanches et verre, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Arequipa, Pérou",
+      "note": "Façade à brise-soleil, mur-rideau peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux personnes devant une grande baie vitrée à cadres de bois, en intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Macao",
+      "note": "Vue intérieure d'une baie vitrée avec des personnes, pas une façade."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Grande façade entièrement vitrée à montants verticaux fins, avec une horloge, suspendue au-dessus d'un rez-de-chaussée sur pilotis.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.1,
+        "largeur": 0.94,
+        "hauteur": 0.57
+      },
+      "lieu": "Bâle, Suisse",
+      "note": "Mur-rideau net : montants et traverses sur toute la hauteur, devant la structure ; rectangle sur le verre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Immeuble à façade vitrée dans un angle de rue, à côté d'un bâtiment sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kiel, Allemagne",
+      "note": "Verre peu lisible, éléments de structure noyés dans les reflets."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment bas à façade de verre vert, palmiers et panneau devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Nueva Ecija, Philippines",
+      "note": "Éloigné, palmiers et panneau gênants."
     }
   ]
 }

@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop sombre, détails invisibles."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Panorama brumeux de tours d'habitation, minaret minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Minaret trop petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Minaret conique de pierre sombre sur ciel bleu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Malindi, Kenya",
+      "note": "Valable mais déjà deux images en jeu, non retenu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Minaret ajouré près d'une petite mosquée jaune et d'un puits.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Varela, Guinée-Bissau",
+      "note": "Minaret petit dans l'image, lumière faible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Dôme et minarets rayés d'une mosquée, dont l'un à tourelle ajourée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Damas, Syrie",
+      "note": "Plusieurs éléments proches (dôme, coupoles), ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur de la mosquée nationale avec fidèles et arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dacca, Bangladesh",
+      "note": "Intérieur, pas de minaret visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Minaret blanc octogonal à bandeaux bleus, vu en contre-plongée sur ciel bleu.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Pasir Ris, Singapour",
+      "note": "Minaret net, dominant, sans autre élément concurrent."
     }
   ]
 }

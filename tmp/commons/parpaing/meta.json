@@ -2,12 +2,21 @@
   "terme": {
     "id": "parpaing",
     "terme": "le parpaing",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Bloc de béton moulé, souvent creux, utilisé pour monter des murs.",
+    "categorie": "Gros œuvre et maçonnerie",
+    "definition": "Bloc de béton moulé, généralement creux, utilisé pour monter les murs ; on dit couramment agglo au Sénégal.",
     "requetes": [
       "concrete block wall",
       "cinder block wall",
       "parpaing mur"
+    ],
+    "priorite": 1,
+    "incompatibles": [
+      "bloc-plein",
+      "maconnerie"
+    ],
+    "categoriesCommons": [
+      "Category:Concrete blocks",
+      "Category:Concrete block walls"
     ]
   },
   "candidats": [
@@ -121,6 +130,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Concrete_block_wall_02.jpg/1280px-Concrete_block_wall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3273,
       "hauteur": 2453
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:-2021-01-23 Cavity wall construction, Trimingham, Norfolk (1).JPG",
+      "description": "Construction of a cavity wall in aerated concrete blocks to the inside and concrete blocks for the outer skin. Located on a construction site in the village of Trimingham , Norfolk.",
+      "categories": [
+        "Concrete blocks",
+        "Cavity walls",
+        "Attribution only license",
+        "Construction sites in Norfolk, England",
+        "Images by Kolforn",
+        "United Kingdom photographs taken on 2021-01-23",
+        "January 2021 in Norfolk, England",
+        "Norfolk photos taken with Canon PowerShot SX430 IS",
+        "Norfolk images by Kolforn",
+        "Trimingham images by Kolforn",
+        "Construction materials in Trimingham",
+        "Aerated concrete block",
+        "Concrete block walls in Norfolk, England"
+      ],
+      "auteur": "Kolforn ( Kolforn ) Merci de m'indiquer par courriel (Kolforn@gmail.com) si vous reprenez cette image en dehors d'un projet Wikimédia. Ce fichier est sous la licence Creative Commons Attribution – Par",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:-2021-01-23_Cavity_wall_construction,_Trimingham,_Norfolk_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/-2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG/1280px--2021-01-23_Cavity_wall_construction%2C_Trimingham%2C_Norfolk_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5152,
+      "hauteur": 3864
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Concrete block wall constructed for a three story building in the concourse that will be the future office space for LIRR personnel. (CM014B, 2-13-2018) (40241762042).jpg",
+      "description": "Concrete block wall constructed for a three story building in the concourse that will be the future office space for LIRR personnel. (CM014B, 2-13-2018)",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR 2",
+        "East Side Access construction/2018/02",
+        "Concrete block walls",
+        "Masons with bricks",
+        "Flickr files uploaded by Epicgenius",
+        "Construction of LIRR Concourse (Grand Central Terminal)",
+        "LIRR personnel room at Grand Central"
+      ],
+      "auteur": "MTA Capital Construction Mega Projects",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Concrete_block_wall_constructed_for_a_three_story_building_in_the_concourse_that_will_be_the_future_office_space_for_LIRR_personnel._(CM014B,_2-13-2018)_(40241762042).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Concrete_block_wall_constructed_for_a_three_story_building_in_the_concourse_that_will_be_the_future_office_space_for_LIRR_personnel._%28CM014B%2C_2-13-2018%29_%2840241762042%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:20130612-IMG 2480 (9293831454).jpg",
+      "description": "20130612-IMG_2480",
+      "categories": [
+        "Buildings in Guinea-Bissau",
+        "Taken with Canon Digital IXUS 120 IS",
+        "2013 in Guinea-Bissau",
+        "Concrete blocks",
+        "Bafatá Region",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files from jbdodane Flickr stream",
+        "Huts in Guinea-Bissau",
+        "Files with coordinates missing SDC location of creation",
+        "Corrugated iron roofs in Guinea-Bissau"
+      ],
+      "auteur": "jbdodane",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20130612-IMG_2480_(9293831454).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/20130612-IMG_2480_%289293831454%29.jpg/1280px-20130612-IMG_2480_%289293831454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3241,
+      "hauteur": 2430
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Grand Central Pkwy td (2021-05-26) 33 - Kew Gardens Interchange Phase 4.jpg",
+      "description": "Traveling west on the Grand Central Parkway through the construction for Phase 4 of the Kew Gardens Interchange Project from 141st Street towards Queens Boulevard in Kew Gardens Hills, Queens.. Pictured is a MSE wall section of the new off-ramp leading to westbound Union Turnpike.",
+      "categories": [
+        "Taken with Sony DSC-RX100",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Letter B on objects",
+        "United States photographs taken on 2021-05-26",
+        "Views from automobiles in Queens, New York City",
+        "2021 Queens photographs by Tdorante10",
+        "Mechanically stabilized earth walls at the Kew Gardens Interchange",
+        "May 2021 in Queens, New York City",
+        "Concrete block walls",
+        "Grand Central Parkway at the Kew Gardens Interchange",
+        "Kew Gardens Interchange Project construction in 2021"
+      ],
+      "auteur": "Tdorante10",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grand_Central_Pkwy_td_(2021-05-26)_33_-_Kew_Gardens_Interchange_Phase_4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Grand_Central_Pkwy_td_%282021-05-26%29_33_-_Kew_Gardens_Interchange_Phase_4.jpg/1280px-Grand_Central_Pkwy_td_%282021-05-26%29_33_-_Kew_Gardens_Interchange_Phase_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Broken Cinder Block Label.jpg",
+      "description": "Broken Cinder Block Label",
+      "categories": [
+        "Concrete blocks",
+        "Self-published work",
+        "Taken with Motorola Moto G 5G (2022)"
+      ],
+      "auteur": "Robert Gill",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Broken_Cinder_Block_Label.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Broken_Cinder_Block_Label.jpg/1280px-Broken_Cinder_Block_Label.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Construcciones7.jpg",
+      "description": "algunos de nuestros proyectos",
+      "categories": [
+        "Self-published work",
+        "Concrete block walls"
+      ],
+      "auteur": "CONSTRUPEGA",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Construcciones7.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Construcciones7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

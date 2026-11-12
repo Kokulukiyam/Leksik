@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Claremont, Australie",
       "note": "Voile petite et coupée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Façade Art nouveau étroite avec, tout en haut, de petites voiles de protection solaire à peine visibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Carthagène, Espagne",
+      "note": "Voiles trop petites, façade dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Structure en forme de voiles blanches rigides sur un belvédère au bord de la baie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cardiff, Royaume-Uni",
+      "note": "Sculpture/structure en voiles dressées, pas une toile d'ombrage tendue."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Côte dalmate avec mer et petite barque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dalmatie, Croatie",
+      "note": "Aucune voile d'ombrage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Trois voiles triangulaires ocre tendues au-dessus d'une cour pavée entre des bâtiments classiques.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.08,
+        "largeur": 0.78,
+        "hauteur": 0.32
+      },
+      "lieu": "Zalaegerszeg, Hongrie",
+      "note": "Voiles d'ombrage tendues nettes, rectangle sur les toiles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Place de marché avec voiles tendues sur câbles, éloignées au-dessus des arcades.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Quasi-doublon du lieu de la 01 déjà validée, voiles petites et lointaines."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Aire de jeux avec toboggan sous deux grands auvents turquoise carrés sur poteaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Largo, États-Unis",
+      "note": "Auvents rigides à pans, plus proches d'un parasol que d'une voile tendue."
     }
   ]
 }

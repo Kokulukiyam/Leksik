@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Gâchage à la main, autre cadrage de la scène, lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Homme accroupi malaxant du mortier sur un trottoir, vu de loin avec la rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baliuag, Philippines",
+      "note": "Scène lointaine, même série que la 01 déjà dans le jeu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ruines d'un mur en pierres sèches sur une colline.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Yagala, Sierra Leone",
+      "note": "Sans rapport avec le gâchage."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Homme accroupi mélangeant du ciment avec un seau bleu, banc au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baliuag, Philippines",
+      "note": "Quasi-doublon des images déjà dans le jeu (même scène)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gravure d'une petite maison à colombages dans un livre ancien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gravure, pas une photo."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvrier penché sur un sac de ciment à côté d'un tas de sable rouge et d'une pelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poudre sèche versée, l'eau n'est pas visible : ambigu, le mélange n'est pas montré."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gros plan d'un seau d'eau versée dans du sable.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop ambigu, aucun mélange lisible."
     }
   ]
 }

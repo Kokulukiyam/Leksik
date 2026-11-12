@@ -96,6 +96,54 @@
       "rectangle": null,
       "lieu": "Mbind-Sereer (Fissel), Sénégal",
       "note": "Murs en terre et plan circulaire cachés par la palissade : seul le toit de chaume est lisible (confusion avec « chaume »)."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Case au toit de chaume conique derrière une palissade en roseaux, murs ocre, Sénégal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plan rond non lisible, palissade (crinting) très présente ; doute avec la concession ou la paillote."
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Petite cabane en rondins sous un cerisier en fleurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cabane européenne, pas une case."
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Toit conique de chaume dépassant d'une palissade en roseaux, Ndiaganiao.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Murs entièrement masqués par la clôture ; seul le toit est visible."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Granges alpines éparses sur un versant d'alpage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chalets d'alpage, pas des cases."
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Case au toit de chaume peinte de fresques colorées, sol en terre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décors peints et inscriptions : risque de confusion avec case kassena."
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Paysage vallonné boisé avec une maison lointaine.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Case non visible."
     }
   ]
 }

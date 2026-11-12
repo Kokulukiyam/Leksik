@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "État d'Anambra, Nigeria",
       "note": "Tas de sable net et dominant, matière reconnaissable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Schéma de coupe de dunes sous-marines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin et non photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Chantier de port avec grue et palplanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Sable non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ancienne photographie d'un boulevard parisien.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Paris, France",
+      "note": "Photo ancienne, sable non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sable clair plat marqué de traces de pas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Surface piétinée et non un tas de chantier lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Plage de Wasaga avec pelle mécanique et sable amassé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wasaga Beach, Canada",
+      "note": "Sable de plage et non du sable de chantier, scène lointaine."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ancien chantier de la Leuvesluis en noir et blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rotterdam, Pays-Bas",
+      "note": "Photo ancienne, sable non identifiable."
     }
   ]
 }

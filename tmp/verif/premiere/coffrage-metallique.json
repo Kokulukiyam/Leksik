@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Des Moines, États-Unis",
       "note": "Ouvrage fini, pas de coffrage."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Banches métalliques rouges alignées sur un mur, ouvriers devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'image déjà dans le jeu (même chantier) ; inscription Nord Coffrage visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Banches rouges suspendues à la grue sur le même chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'image déjà dans le jeu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grande banche de coffrage jaune dressée en tour sur un chantier, avec pelle et grue autour.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.31,
+        "y": 0.07,
+        "largeur": 0.33,
+        "hauteur": 0.68
+      },
+      "lieu": "Suisse",
+      "note": "Coffrage de grande dimension clairement lisible ; rectangle pour le séparer des engins."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ouvriers au milieu d'armatures et d'échafaudage tubulaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ouvriers posant des armatures devant un coffrage en bois flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage bois ou non lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grue à tour soulevant une benne à béton au-dessus de banches rouges.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage trop petit au bas de l'image."
     }
   ]
 }

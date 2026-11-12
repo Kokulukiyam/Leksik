@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Fukuoka, Japon",
       "note": "Chaîne de pluie, pas un tuyau ; confusion possible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Longue descente bleue le long d'un pignon en briques, sous une gouttière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Élément fin dans une image étroite ; deux images valides déjà en jeu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Descente grise coudée sous une boîte à eau décorative, au-dessus d'une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kőszeg, Hongrie",
+      "note": "La boîte à eau pourrait désigner un terme voisin ; rejetée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Tas de gravats devant un mur de briques, descente à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zichyújfalu, Hongrie",
+      "note": "Le sujet est le tas de gravats."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Gouttière demi-ronde suspendue sous un toit de tuiles, vue d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Xalapa, Mexique",
+      "note": "Montre une gouttière, pas une descente."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gargouille métallique en dragon qui rejette l'eau sur une grille, au bord d'un toit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cormatin, France",
+      "note": "Gargouille / dauphin, pas une descente."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Coude de descente brun enfoui dans la végétation sous une gouttière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément caché, mal lisible."
     }
   ]
 }

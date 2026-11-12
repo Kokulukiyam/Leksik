@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Passage coupé par le cadre, scène chargée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rue de Chicago avec horloge de façade, passage piéton minuscule en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Chicago, États-Unis",
+      "note": "Passage petit et peu lisible dans une scène chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Bandes blanches en noir et blanc, très serrées, un pied qui entre dans le cadre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image noir et blanc très contrastée, trop stylisée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Poteau de feu piéton avec un homme, bordure rouge au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hanover, Maryland, États-Unis",
+      "note": "Image centrée sur le poteau, pas sur le passage."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Carrefour au crépuscule, passage piéton en bas à gauche, éclairage orangé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Slovaquie",
+      "note": "Passage mal éclairé et peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bandes blanches en gros plan, noir et blanc, jambes d'un piéton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo noir et blanc retouchée : les bandes seules peuvent évoquer un marquage au sol, rejetée par prudence."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Panneau d'avertissement « Caution pedestrian crossing » bilingue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tralee, Irlande",
+      "note": "Panneau avec texte qui donne la réponse, pas un passage."
     }
   ]
 }

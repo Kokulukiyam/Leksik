@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Correct mais fond de vitrine chargé ; non retenu."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plomb de sonde fusiforme en métal posé sur une table, sans fil.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Danemark",
+      "note": "Pas de fil : on voit un poids seul, et l'usage évoqué est la construction navale."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plusieurs pendules suspendus dans un musée, devant une fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Pendules de musée, scène confuse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plomb rouge suspendu dans une vitrine avec vue de Toronto.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto, Canada",
+      "note": "Dispositif d'exposition, le fil et le plomb sont minuscules."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plomb en bronze romain sans fil, sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leyde, Pays-Bas",
+      "note": "Poids seul, sans fil : doute sur le terme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pendule triangulaire en bois noir gradué, de démonstration scolaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bremerhaven, Allemagne",
+      "note": "Instrument d'enseignement (inclinomètre), pas un fil à plomb."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Poids antique en bronze oxydé à anneau, sur fond gris.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet de musée sans fil, usage incertain."
     }
   ]
 }

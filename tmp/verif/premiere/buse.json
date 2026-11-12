@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cadrage trop serré."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros tuyau en béton posé dans une tranchée sur un chantier de rizière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon de l'image déjà dans le jeu, élément petit."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vieux pont de briques au-dessus d'un canal envahi de jacinthes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas une buse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Rangée de tuyaux en béton posés sur l'herbe sous un pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tuyaux au sol, non posés en ouvrage, petits dans la scène."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tuyau en béton couvert de graffitis sur une plage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément cassé, doute sur le terme."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur d'un grand tuyau en béton vu depuis l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue interne ambiguë."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Photo ancienne de tranchée avec un grand tuyau et des ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique en noir et blanc."
     }
   ]
 }

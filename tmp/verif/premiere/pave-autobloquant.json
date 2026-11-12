@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Dalles ajourées, image retravaillée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rue piétonne pavée avec maisons écologiques, banc et passant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Culemborg, Pays-Bas",
+      "note": "Pavés petits et noyés dans une scène large."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Étang avec bâtiment et bord de chaussée dallé, un peu de neige.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jedomělice, Tchéquie",
+      "note": "Pavés à peine visibles."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trottoir en pavés rectangulaires gris et bleutés, usés, en appareil irrégulier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Teplice, Tchéquie",
+      "note": "Pavés rectangulaires simples : pourraient être pris pour des pavés ordinaires, pas d'emboîtement net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chaussée couverte de pavés autobloquants en forme de trèfle à quatre lobes, ornés de fleurs de lys, qui s'emboîtent.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Tiraspol, Moldavie",
+      "note": "Pavés béton à formes emboîtables bien visibles et dominants."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sous le MASP, large sol pavé de petits pavés sombres, avec avenue et passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "São Paulo, Brésil",
+      "note": "Sol pavé en arrière-plan d'une scène large, pavés trop fins et peu lisibles."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Borne de pierre brute coiffée d'un bloc sur le trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Roda, Espagne",
+      "note": "Borne ancienne en pierre, aucun pavé autobloquant mis en avant."
     }
   ]
 }

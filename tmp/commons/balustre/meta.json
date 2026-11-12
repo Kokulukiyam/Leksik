@@ -7,6 +7,15 @@
     "requetes": [
       "incategory:\"Balusters\"",
       "stone balusters"
+    ],
+    "priorite": 1,
+    "incompatibles": [
+      "balustrade"
+    ],
+    "categoriesCommons": [
+      "Category:Balusters",
+      "Category:Balustrades",
+      "Category:Stone balustrades"
     ]
   },
   "candidats": [
@@ -139,6 +148,130 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/GojoOhashi_2105_N4_2.jpg/1280px-GojoOhashi_2105_N4_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4592,
       "hauteur": 3448
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Escalier du ministre (Louvre) (02).jpg",
+      "description": "Escalier du ministre (Louvre)",
+      "categories": [
+        "Escalier du ministre (Louvre)",
+        "Balusters",
+        "Self-published work",
+        "July 2021 in Paris",
+        "Balustrades in Paris"
+      ],
+      "auteur": "Neoclassicism Enthusiast",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Escalier_du_ministre_(Louvre)_(02).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Escalier_du_ministre_%28Louvre%29_%2802%29.jpg/1280px-Escalier_du_ministre_%28Louvre%29_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2939,
+      "hauteur": 4036
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Balustrade arcature.jpg",
+      "description": "Balustrade en arcature",
+      "categories": [
+        "Balustrades",
+        "Self-published work"
+      ],
+      "auteur": "Paul gourmel-rouger",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balustrade_arcature.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Balustrade_arcature.jpg/1280px-Balustrade_arcature.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:LibraryTecCCMDF.JPG",
+      "description": "2nd floor, and stairs of ITESM-CCM library.",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D60",
+        "License migration redundant",
+        "Self-published work",
+        "Stone balustrades",
+        "Stacks (bookshelves)",
+        "Spiral stairs in Mexico",
+        "Interior stair railings",
+        "Interiors of libraries in Mexico",
+        "Library of ITESM Campus CCM"
+      ],
+      "auteur": "Thelmadatter",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:LibraryTecCCMDF.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/LibraryTecCCMDF.JPG/1280px-LibraryTecCCMDF.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Balusters just made in Kaduna.jpg",
+      "description": "Balusters just made in Kaduna, Nigeria.",
+      "categories": [
+        "Ironworks",
+        "Balusters",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2024",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2024 in Nigeria",
+        "Images from Wiki Loves Africa 2024 to check",
+        "Images from Wiki Loves Africa 2024 in the Tyap Wikimedians Community"
+      ],
+      "auteur": "Kambai Akau",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Balusters_just_made_in_Kaduna.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Balusters_just_made_in_Kaduna.jpg/1280px-Balusters_just_made_in_Kaduna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:CARE water jar, Thanh Hoa, Vietnam 2010. Photo- AusAID (10678855314).jpg",
+      "description": "CARE water jar, Thanh Hoa, Vietnam 2010. Photo: AusAID",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-TZ4",
+        "2010 in Vietnam",
+        "Balustrades",
+        "Jars",
+        "Thanh Hoa City",
+        "Photographs by the Australian Department of Foreign Affairs and Trade",
+        "Water-related charities",
+        "Flickr images reviewed by FlickreviewR",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Department of Foreign Affairs and Trade",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:CARE_water_jar,_Thanh_Hoa,_Vietnam_2010._Photo-_AusAID_(10678855314).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/CARE_water_jar%2C_Thanh_Hoa%2C_Vietnam_2010._Photo-_AusAID_%2810678855314%29.jpg/1280px-CARE_water_jar%2C_Thanh_Hoa%2C_Vietnam_2010._Photo-_AusAID_%2810678855314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Igreja da Ordem Terceira de São Domingos Salvador Altar Rail 2018-0234.jpg",
+      "description": "Altar railing, Igreja da Ordem Terceira de São Domingos, Salvador, Bahia, Brazil.",
+      "categories": [
+        "Interior of Igreja da Ordem Terceira de São Domingos",
+        "Taken with Canon EOS 6D Mark II",
+        "Stone balustrades",
+        "Cultural heritage monuments in Brazil with known IDs",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil images by Paul R. Burley",
+        "Altar rails in Brazil",
+        "Photographs taken on 2018-09-29",
+        "Balustrades in Bahia"
+      ],
+      "auteur": "Paul R. Burley",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Igreja_da_Ordem_Terceira_de_S%C3%A3o_Domingos_Salvador_Altar_Rail_2018-0234.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Igreja_da_Ordem_Terceira_de_S%C3%A3o_Domingos_Salvador_Altar_Rail_2018-0234.jpg/1280px-Igreja_da_Ordem_Terceira_de_S%C3%A3o_Domingos_Salvador_Altar_Rail_2018-0234.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4394,
+      "hauteur": 3515
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

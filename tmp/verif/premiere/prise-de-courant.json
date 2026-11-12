@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Lillesand, Norvège",
       "note": "Prises claires, toutes la même réponse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Quatre blocs de prises multiples gris-beige empilés, avec fils noirs branchés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Quasi-doublon des prises déjà retenues et multiprises en saillie confuses."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pièce de bois avec téléviseur ; petite prise blanche minuscule au bas du mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prise trop petite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Prise murale blanche carrée à deux trous et contact de terre, en gros plan.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Danemark",
+      "note": "Prise de courant nette et dominante."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Trois vues d'une prise murale ancienne : face, ouverte et mécanisme.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montage de plusieurs images."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Voiture électrique branchée dans un parking.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Prise non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Boîtier de raccordement dénudé sur un mur de bardage, poteau électrique derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Greenwood, Mississippi",
+      "note": "Boîtier défait, pas une prise."
     }
   ]
 }

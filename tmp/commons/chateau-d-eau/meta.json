@@ -126,6 +126,109 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Water_tunk_at_saadani_National_Park.jpg/1280px-Water_tunk_at_saadani_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 7360,
       "hauteur": 4912
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:El Paso, Illinois North Water Tower and Moon, December 2024.jpg",
+      "description": "The moon over the north water tower in El Paso, Illinois in December 2024.",
+      "categories": [
+        "Water towers",
+        "El Paso, Illinois",
+        "Self-published work",
+        "Moon from Earth"
+      ],
+      "auteur": "HeatherMarieKosur",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:El_Paso,_Illinois_North_Water_Tower_and_Moon,_December_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/El_Paso%2C_Illinois_North_Water_Tower_and_Moon%2C_December_2024.jpg/1280px-El_Paso%2C_Illinois_North_Water_Tower_and_Moon%2C_December_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Copy of RMCAD GALLERY-RMCAD GALLERY-0115.jpg",
+      "description": "Image of the RMCAD water-tower.",
+      "categories": [
+        "Water towers",
+        "Self-published work"
+      ],
+      "auteur": "Jrubald",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Copy_of_RMCAD_GALLERY-RMCAD_GALLERY-0115.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Copy_of_RMCAD_GALLERY-RMCAD_GALLERY-0115.jpg/1280px-Copy_of_RMCAD_GALLERY-RMCAD_GALLERY-0115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2568,
+      "hauteur": 3853
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bromölla Vattentorn, 2026-07-26.jpeg",
+      "description": "Bromölla Vattentorn",
+      "categories": [
+        "CC-Zero",
+        "Water towers",
+        "Self-published work",
+        "Mobile upload",
+        "Files with coordinates missing SDC location of creation",
+        "Uploaded with CommonsFinder"
+      ],
+      "auteur": "Repa40x",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Brom%C3%B6lla_Vattentorn,_2026-07-26.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Brom%C3%B6lla_Vattentorn%2C_2026-07-26.jpeg/1280px-Brom%C3%B6lla_Vattentorn%2C_2026-07-26.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4284,
+      "hauteur": 4284
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Crooks South Dakota Water Tower.jpg",
+      "description": "Water Tower in Crooks, South Dakota",
+      "categories": [
+        "Water towers",
+        "Self-published work",
+        "Crooks, South Dakota"
+      ],
+      "auteur": "BrianHagan",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Crooks_South_Dakota_Water_Tower.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Crooks_South_Dakota_Water_Tower.jpg/1280px-Crooks_South_Dakota_Water_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1816,
+      "hauteur": 2420
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Château d'eau du quartier Madagascar.jpg",
+      "description": "ce château d'eau sert de stockage et distribution d'eau potable dans cette localité",
+      "categories": [
+        "Water towers",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Photographs taken on 2025-09-27",
+        "WikiForHumanRights 2025 in Cameroon"
+      ],
+      "auteur": "ZEBAZE VANELLE",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27eau_du_quartier_Madagascar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ch%C3%A2teau_d%27eau_du_quartier_Madagascar.jpg/1280px-Ch%C3%A2teau_d%27eau_du_quartier_Madagascar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:500px photo (42598390).jpeg",
+      "description": "500px provided description: water tower HDR [#nikon ,#d50 ,#high dynamic range ,#water tower ,#luminance ,#HDR]",
+      "categories": [
+        "Water towers",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Joey Van Amerongen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(42598390).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/500px_photo_%2842598390%29.jpeg/1280px-500px_photo_%2842598390%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1358
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

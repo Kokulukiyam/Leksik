@@ -58,6 +58,64 @@
       "rectangle": null,
       "lieu": "Ueno, Tokyo",
       "note": "Objet d'antiquaire, pancarte avec texte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cuvette à la turque blanche au sol d'un cabinet carrelé, avec seau et robinet.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.39,
+        "y": 0.65,
+        "largeur": 0.21,
+        "hauteur": 0.28
+      },
+      "lieu": "",
+      "note": "Cuvette à repose-pieds posée au sol ; rectangle pour l'isoler du décor."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Cloisons d'urinoirs extérieurs jaunâtres envahies d'herbes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Urinoirs, pas un WC à la turque."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Orifice noir dans un sol de carreaux de mosaïque vert et blanc, porte en bois à droite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image peu claire : trou dans le sol sans repose-pieds visibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cuvette suspendue en inox avec abattant dans un WC de train adapté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "WC à l'européenne."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Cabinet carrelé rose avec réservoir de chasse haut et cuvette à la turque à repose-pieds au sol.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.32,
+        "y": 0.79,
+        "largeur": 0.39,
+        "hauteur": 0.18
+      },
+      "lieu": "Varenna, Italie",
+      "note": "Cuvette à deux repose-pieds bien visible ; rectangle sur la cuvette."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bonde ronde en inox dans un sol carrelé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Simple siphon de sol."
     }
   ]
 }

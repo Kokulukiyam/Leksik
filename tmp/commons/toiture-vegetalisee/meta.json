@@ -12,7 +12,9 @@
     ],
     "incompatibles": [
       "toiture-terrasse",
-      "toiture"
+      "toiture",
+      "terrasse-accessible",
+      "membrane-bitumineuse"
     ],
     "categoriesCommons": [
       "Category:Sod roofs",
@@ -129,6 +131,137 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Jardin_de_Berchigranges_%282%29.jpg/1280px-Jardin_de_Berchigranges_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3648,
       "hauteur": 2736
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Grass-covered roof.jpg",
+      "description": "Grass-covered roof",
+      "categories": [
+        "Sod roofs",
+        "Horniman Museum",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Ben Sutherland",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Grass-covered_roof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Grass-covered_roof.jpg/1280px-Grass-covered_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2136
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:DirkvdM casa grande roof terrace.jpg",
+      "description": "",
+      "categories": [
+        "Gardens in Cuba",
+        "GFDL",
+        "Taken with Canon Digital IXUS 400",
+        "Roof gardens",
+        "Files with no machine-readable author",
+        "Files with no machine-readable source",
+        "License migration completed",
+        "Catedral Nuestra Señora de la Asunción (Santiago de Cuba)",
+        "Media missing infobox template",
+        "Hotel Casa Granda",
+        "Roofs in Cuba",
+        "2003 in Santiago de Cuba",
+        "Files with coordinates missing SDC location of creation",
+        "Roof terraces in Cuba"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DirkvdM_casa_grande_roof_terrace.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/DirkvdM_casa_grande_roof_terrace.jpg/1280px-DirkvdM_casa_grande_roof_terrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Lucerne 20080809 193130.jpg",
+      "description": "A building with grass on the roof, Lucerne, Switzerland.",
+      "categories": [
+        "Sod roofs",
+        "Houses in Switzerland",
+        "Buildings in Lucerne",
+        "Self-published work",
+        "Green roofs (sustainability) in Switzerland",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Ka23 13",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lucerne_20080809_193130.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lucerne_20080809_193130.jpg/1280px-Lucerne_20080809_193130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 1728
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Centro do Rio de Janeiro (4099619732).jpg",
+      "description": "O Centro é um bairro da Região Central da cidade do Rio de Janeiro, representando o coração financeiro da cidade, e o ponto nevrálgico da Região Central. Apesar de ainda possuir grande número de residências, o bairro é eminentemente comercial, sendo sua parte mais valorizada o chamado Micro-Centro, representado pelo perímetro entre a Avenida Presidente Antônio Carlos e a Avenida Rio Branco, entre a Avenida Nilo Peçanha e a Rua do Ouvidor. Lá podemos encontrar desde os prédios históricos a modernos Arranha-Céus, como é o caso dos Edifícios De Paoli, Avenida Central, Lineu de Paula Machado e Tor",
+      "categories": [
+        "Taken with Sony DSC-H9",
+        "Roof gardens",
+        "Views of Rio de Janeiro",
+        "Flickr images reviewed by FlickreviewR",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil photographs taken on 2009-10-30",
+        "Photographs by Rodrigo Soldon"
+      ],
+      "auteur": "Rodrigo Soldon from Rio de Janeiro, Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro_(4099619732).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Centro_do_Rio_de_Janeiro_%284099619732%29.jpg/1280px-Centro_do_Rio_de_Janeiro_%284099619732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gift Shop, Chapel in the Hills.jpg",
+      "description": "Stabbur, Gift shop for Chapel in the Hills in Rapid City, South Dakota",
+      "categories": [
+        "Chapel in the Hills, Rapid City",
+        "Taken with Canon EOS 450D",
+        "Sod roofs",
+        "Self-published work",
+        "Gift shops in South Dakota",
+        "July 2010 in South Dakota",
+        "Buildings in the United States photographed in 2010",
+        "United States photographs taken on 2010-07-26",
+        "Shops in the United States photographed in 2010",
+        "Stabbur in the United States"
+      ],
+      "auteur": "Tbennert",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gift_Shop,_Chapel_in_the_Hills.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Gift_Shop%2C_Chapel_in_the_Hills.jpg/1280px-Gift_Shop%2C_Chapel_in_the_Hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4272,
+      "hauteur": 2848
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Lisboa DSC03497a (23435886802).jpg",
+      "description": "Lisboa.",
+      "categories": [
+        "Roof gardens",
+        "Flickr images reviewed by FlickreviewR",
+        "November 2015 Portugal photographs",
+        "Photographs taken on 2015-11-22",
+        "Files with coordinates missing SDC location of creation",
+        "November 2015 in Lisbon",
+        "Balconies in Lisbon",
+        "Views of Basílica da Estrela",
+        "Windows in Lisbon",
+        "Rua dos Navegantes (Lisbon)",
+        "Tram overhead lines in Lisbon"
+      ],
+      "auteur": "Olga Khomitsevich",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Lisboa_DSC03497a_(23435886802).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Lisboa_DSC03497a_%2823435886802%29.jpg/1280px-Lisboa_DSC03497a_%2823435886802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 2592
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

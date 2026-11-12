@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Hong Kong",
       "note": "Bambou : illustre l'échafaudage en bambou, voisin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mosquée en travaux avec échafaudage devant la partie basse.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage partiel et masqué par la façade et le bâtiment."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Villa américaine avec petit échafaudage devant une cheminée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage trop petit."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Échafaudage en noir et blanc devant un mur de brique, ouvriers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage serré en noir et blanc, peu lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "École à façade couverte d'un échafaudage tubulaire à plusieurs niveaux de planchers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.29,
+        "y": 0.15,
+        "largeur": 0.33,
+        "hauteur": 0.75
+      },
+      "lieu": "Ząbkowice Śląskie, Pologne",
+      "note": "Échafaudage dressé contre la façade, bien visible ; cadre sur la volée principale."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Tour d'habitation recouverte de bâches rouges sur échafaudage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Échafaudage caché par les bâches."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Angle de magasin en échafaudage sous les lumières, passants, enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène de nuit chargée, enseignes lisibles."
     }
   ]
 }

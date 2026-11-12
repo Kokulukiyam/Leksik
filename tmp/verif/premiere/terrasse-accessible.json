@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Toit-terrasse aménagé pour le séjour, clair."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue sur la ville de Tbilissi avec une petite terrasse en toit au milieu.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tbilissi, Géorgie",
+      "note": "Terrasse minuscule dans un panorama."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Place de café en terrasse au pied d'un escalator, Monaco.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Monaco",
+      "note": "Terrasse de café au sol, pas une toiture-terrasse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bouton de lotus rose en gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fleur, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Haut d'un immeuble avec garde-corps vitré et plantes, vu d'en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amsterdam, Pays-Bas",
+      "note": "Terrasse à peine visible depuis la rue."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Parcelle agricole verte sur terrasse de culture entourée de murs de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Amran, Yémen",
+      "note": "Terrasse agricole, autre sens."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Toiture-terrasse aménagée en platelage bois avec tables, bancs, bacs plantés et acrotère, bâtiment en acier Corten à droite.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.52,
+        "largeur": 1.0,
+        "hauteur": 0.48
+      },
+      "lieu": "Zwolle, Pays-Bas",
+      "note": "Toiture-terrasse accessible avec revêtement de sol et garde-corps/acrotère, rectangle sur le platelage."
     }
   ]
 }

@@ -13,6 +13,11 @@
       "hip roof",
       "hipped roof farmhouse",
       "toit à croupes"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Hipped roofs",
+      "Category:Roofs"
     ]
   },
   "candidats": [
@@ -363,7 +368,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Speyer_Stuhlbrudergasse_5_007_2021_02_26.jpg/1280px-Speyer_Stuhlbrudergasse_5_007_2021_02_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2549,
       "hauteur": 2353
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:DLRG, Wustrow ( 1080219).jpg",
+      "description": "Strandgalopprennen Wustrow 2018",
+      "categories": [
+        "Brick buildings",
+        "Hipped roofs",
+        "White buildings",
+        "Thatched roofs in Mecklenburg-Vorpommern",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Files with coordinates missing SDC location of creation",
+        "Pictures by MB-one rejected",
+        "DLRG stations",
+        "ICS flag dressing",
+        "Architecture of Wustrow (Fischland)",
+        "Taken with Panasonic Lumix DMC-GH1 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DLRG,_Wustrow_(_1080219).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/DLRG%2C_Wustrow_%28_1080219%29.jpg/1280px-DLRG%2C_Wustrow_%28_1080219%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:(1)Ritz-98.jpg",
+      "description": "The Ritz, Randwick, Sydney",
+      "categories": [
+        "Lighting",
+        "Roofs",
+        "The Ritz Cinema",
+        "Self-published work",
+        "5 people"
+      ],
+      "auteur": "Sardaka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:(1)Ritz-98.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/%281%29Ritz-98.jpg/1280px-%281%29Ritz-98.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2456,
+      "hauteur": 3680
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Casa de Rafael Nunez.JPG",
+      "description": "Casa Museo de Rafael Núñez, barrio El Cabrero (Cartagena de Indias, Colombia)",
+      "categories": [
+        "Taken with Kodak EasyShare C613",
+        "Hipped roofs",
+        "Self-published work",
+        "Casa Museo Rafael Núñez, Cartagena"
+      ],
+      "auteur": "Baiji",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Casa_de_Rafael_Nunez.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Casa_de_Rafael_Nunez.JPG/1280px-Casa_de_Rafael_Nunez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2848,
+      "hauteur": 2134
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Roof (2113555685).jpg",
+      "description": "Roof",
+      "categories": [
+        "Hipped roofs",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Fibre cement roofs"
+      ],
+      "auteur": "Anderson Mancini from Sao Paulo, Brazil",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roof_(2113555685).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Roof_%282113555685%29.jpg/1280px-Roof_%282113555685%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1549,
+      "hauteur": 1010
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Noorboom.jpg",
+      "description": "noorboom",
+      "categories": [
+        "Taken with Nikon Coolpix 4300",
+        "Hipped roofs",
+        "Self-published work",
+        "Black roofs"
+      ],
+      "auteur": "Rudy FV Marquet",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Noorboom.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Noorboom.jpg/1280px-Noorboom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:BSH WEst P1010017 (1).JPG",
+      "description": "Photo taken by M.Eyre, 21st April 2007",
+      "categories": [
+        "PD-user",
+        "Hipped roofs",
+        "Taken with Olympus u700 / S-700",
+        "Red brick buildings",
+        "Bedhampton Community Centre",
+        "Files moved from en.wikipedia to Commons requiring review as of 8 January 2012"
+      ],
+      "auteur": "Bashereyre at en.wikipedia",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:BSH_WEst_P1010017_(1).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/BSH_WEst_P1010017_%281%29.JPG/1280px-BSH_WEst_P1010017_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

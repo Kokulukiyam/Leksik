@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Durham, États-Unis",
       "note": "Galerie ouverte desservant les chambres, claire."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Maisons de village avec escaliers extérieurs et petits balcons de bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Stolvizza, Italie",
+      "note": "Balcons d'accès partiels, petits, non clairs."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carte postale ancienne colorisée d'un bord de lac et d'un sentier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Buckeye Lake, États-Unis",
+      "note": "Carte postale, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Foule sur un trottoir roulant dans une galerie vitrée d'aéroport.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Schiphol, Pays-Bas",
+      "note": "Passerelle intérieure, pas une coursive de logements."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit immeuble d'habitation de deux étages avec escaliers extérieurs et galerie d'accès.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Los Angeles, États-Unis",
+      "note": "Galerie peu visible, élément petit."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Passerelle piétonne sinueuse sur un rocher en bord de mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Atlanterhavsveien, Norvège",
+      "note": "Passerelle de promenade, pas une coursive."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Immeuble blanc vu derrière une palissade et un arbre, galeries presque invisibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Newburn Flats, Australie",
+      "note": "Coursives trop petites et cachées."
     }
   ]
 }

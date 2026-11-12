@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Soukhoumi, Abkhazie",
       "note": "Allée de jardin nette et centrale."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Allée de jardin dallée bordée de massifs de feuillage rouge, sous les arbres.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin aménagé en dalles, clair et dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Étroit sentier de terre envahi par la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sentier sauvage, pas une allée aménagée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cour d'immeubles en enrobé abîmé avec voitures garées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Voie de circulation, pas une allée de jardin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chemin étroit en enrobé dans un parc arboré.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible et sentier plutôt que allée aménagée."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Sentier de terre menant à une passerelle en bois au-dessus d'un ruisseau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chemin naturel."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Étroit passage entre deux murs de bâtiments.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ruelle, pas une allée de jardin."
     }
   ]
 }

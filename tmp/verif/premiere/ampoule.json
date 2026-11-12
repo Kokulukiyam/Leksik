@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Amasra, Turquie",
       "note": "Ampoule minuscule."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux ampoules opales blanches posées parmi des notices AIRAM et un voltmètre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, texte visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ampoule à incandescence tenue dans une main, sur fond noir.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Jaipur, Inde",
+      "note": "Ampoule claire, filament visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Lanterne solaire ajourée posée sur une table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lanterne, pas une ampoule."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ampoule à filament transparente, en noir et blanc, sur culot.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Guilherand-Granges, France",
+      "note": "Ampoule nette, filament et culot visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ampoule sombre sur fond noir, éclairée de façon dramatique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop sombre et peu lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bateau de pêche chargé de lampes dans un port.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ampoules trop petites."
     }
   ]
 }

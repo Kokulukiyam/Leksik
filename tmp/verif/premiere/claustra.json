@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Los Gómez, île de Margarita, Venezuela",
       "note": "Claustras trop petits ; texte peint et fresque distraient."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan sur un élément ajouré en pierre en forme d'étoile.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Un seul bloc en gros plan, paroi non lisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petite maison jaune dont les ouvertures sont fermées par deux parois ajourées bleues en blocs de béton.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.605,
+        "y": 0.35,
+        "largeur": 0.13,
+        "hauteur": 0.235
+      },
+      "lieu": "Île de Margarita, Venezuela",
+      "note": "Paroi ajourée de blocs de béton ; cadre sur celle de droite."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre à meneaux et vitraux losangés d'un cloître.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre vitrée, pas un claustra."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur gris percé de petits jours décoratifs, vue rapprochée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peu lisible, mal éclairé et ambigu."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Carreau chinois vernissé ajouré à motif de svastika devant des feuilles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Élément de musée isolé, pas une paroi."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Paroi intérieure en béton à alvéoles percées de petits carrés de lumière verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre et floue, paroi mal comprise."
     }
   ]
 }

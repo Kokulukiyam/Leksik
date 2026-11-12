@@ -111,6 +111,54 @@
       "rectangle": null,
       "lieu": "Kołobrzeg, Pologne",
       "note": "Cordons fortement moulurés et en saillie (confusion corniche/cordon) ; panneau explicatif visible."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Bandeau de tête ancien en tissu décoré, objet de musée.",
+      "verdict": "rejetée",
+      "note": "Accessoire vestimentaire, pas d'architecture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Statue féminine devant un mur de brique et des pilastres.",
+      "verdict": "rejetée",
+      "note": "Sculpture, pas un bandeau d'architecture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Statue féminine et lanterne devant un mur de brique.",
+      "verdict": "rejetée",
+      "note": "Sculpture, pas un bandeau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Serre-tête en tissu sur un mannequin.",
+      "verdict": "rejetée",
+      "note": "Accessoire, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Relief funéraire d'un buste féminin voilé de Palmyre.",
+      "verdict": "rejetée",
+      "note": "Sculpture, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Gravure en noir et blanc de deux femmes qui se chuchotent.",
+      "verdict": "rejetée",
+      "note": "Gravure, hors sujet.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

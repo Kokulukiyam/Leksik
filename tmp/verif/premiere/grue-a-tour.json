@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Plusieurs grues de types différents, confusion possible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Vue sur Istanbul avec une grue minuscule au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue trop petite."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ciel rose au crépuscule, grue à peine visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue invisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Monument arménien et grue à droite sur un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue partielle, scène chargée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Prairie, camion et grues minuscules au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grues trop petites."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Deux grues à tour jaunes dressées devant un bâtiment en béton en construction.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.22,
+        "y": 0.0,
+        "largeur": 0.48,
+        "hauteur": 0.95
+      },
+      "lieu": "Gaborone, Botswana",
+      "note": "Deux grues à tour nettes et dominantes ; rectangle sur les grues."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grue à tour au-dessus d'une gare et d'un chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grue petite dans une scène chargée."
     }
   ]
 }

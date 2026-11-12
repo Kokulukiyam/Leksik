@@ -13,6 +13,9 @@
     "categoriesCommons": [
       "Category:Bus shelters",
       "Category:Bus stops"
+    ],
+    "incompatibles": [
+      "pergola"
     ]
   },
   "candidats": [
@@ -131,6 +134,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chung_Chi_Teaching_Blocks_bus_stop_05-05-2015%283%29.jpg/1280px-Chung_Chi_Teaching_Blocks_bus_stop_05-05-2015%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2448,
       "hauteur": 3264
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Post service Montpellier 2025.jpg",
+      "description": "Distributie post in Montpellier met een leuk voertuigje",
+      "categories": [
+        "Bus shelters",
+        "Postal vehicles of France",
+        "Self-published work",
+        "February 2025 in Montpellier",
+        "Occitanie photographs taken on 2025-02-01",
+        "Ligier Quadéo",
+        "Bus stops in Montpellier",
+        "Bicycles in Montpellier",
+        "White zebra crossings in France"
+      ],
+      "auteur": "Smiley.toerist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Post_service_Montpellier_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Post_service_Montpellier_2025.jpg/1280px-Post_service_Montpellier_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5472,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Arrêt Benoît Malon.jpg",
+      "description": "arrêt Benoît Malon",
+      "categories": [
+        "Bus stops",
+        "Self-published work",
+        "Taken on missing SDC inception",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Île-de-France photographs taken on 2026-02-25"
+      ],
+      "auteur": "Nexinor",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arr%C3%AAt_Beno%C3%AEt_Malon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Arr%C3%AAt_Beno%C3%AEt_Malon.jpg/1280px-Arr%C3%AAt_Beno%C3%AEt_Malon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3472,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Bus Shelter at Vincent Massey Park Ottawa Canada.jpg",
+      "description": "Bus Shelter; Vincent Massey Park",
+      "categories": [
+        "Bus shelters",
+        "Cultural heritage monuments in Ottawa",
+        "Vincent Massey Park",
+        "Self-published work",
+        "Heritage properties in Canada with known IDs",
+        "Images from Wiki Loves Monuments 2024",
+        "Uploaded via Campaign:wlm-ca",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Heritage properties in Canada missing SDC location of creation",
+        "Heritage properties in Canada missing SDC depicts",
+        "Images from Wiki Loves Monuments 2024 in Canada"
+      ],
+      "auteur": "Cbuske46",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bus_Shelter_at_Vincent_Massey_Park_Ottawa_Canada.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bus_Shelter_at_Vincent_Massey_Park_Ottawa_Canada.jpg/1280px-Bus_Shelter_at_Vincent_Massey_Park_Ottawa_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3730,
+      "hauteur": 2053
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:DBTSL 18 bus stop 01-08-2021.jpg",
+      "description": "​這張照片在愉景灣拍攝。",
+      "categories": [
+        "Bus stops",
+        "Self-published work"
+      ],
+      "auteur": "LN9267",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:DBTSL_18_bus_stop_01-08-2021.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/DBTSL_18_bus_stop_01-08-2021.jpg/1280px-DBTSL_18_bus_stop_01-08-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Roslin, Hotel (13428380525).jpg",
+      "description": "Roslin, Hotel",
+      "categories": [
+        "Bus shelters",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by Ultra7",
+        "Ultra7 temp TAS",
+        "Flickr images missing SDC Flickr photo ID",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "The TAS Partnership Ltd from Preston, United Kingdom",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Roslin,_Hotel_(13428380525).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Roslin%2C_Hotel_%2813428380525%29.jpg/1280px-Roslin%2C_Hotel_%2813428380525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Arrêt Général Leclerc.jpg",
+      "description": "arrêt Général Leclerc (arrêt de bus RATP Général Leclerc situé 1118 rue Yves Kermen - 92012)",
+      "categories": [
+        "Bus stops",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "Photographs taken on 2025-04-27"
+      ],
+      "auteur": "Chamois",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arr%C3%AAt_G%C3%A9n%C3%A9ral_Leclerc.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Arr%C3%AAt_G%C3%A9n%C3%A9ral_Leclerc.jpg/1280px-Arr%C3%AAt_G%C3%A9n%C3%A9ral_Leclerc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4080,
+      "hauteur": 2296
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

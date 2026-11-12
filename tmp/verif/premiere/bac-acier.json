@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ancienne grange en pierre sous une tôle ondulée rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dingle, Irlande",
+      "note": "Tôle ondulée ancienne, pas un bac acier à grandes ondes trapézoïdales."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan sur un toit métallique à joints debout, ciel sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Joints debout, pas un bac acier nervuré trapézoïdal."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chalet en rondins en chantier, toit couvert de profilés métalliques bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plisce, Ukraine",
+      "note": "Photo de chantier brumeuse, profil peu lisible, élément non dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Hangar de front de mer sous une tôle ondulée rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tenakee Springs, Alaska",
+      "note": "Tôle ondulée vétuste, pas un bac acier."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand abri lointain à toit de tôle, au bout d'une esplanade.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Manipur, Inde",
+      "note": "Toit trop petit et lointain."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chalet en rondins en chantier, versant couvert de profilés bleus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Plisce, Ukraine",
+      "note": "Profil peu lisible, bâtiment inachevé."
     }
   ]
 }

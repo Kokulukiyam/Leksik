@@ -3,11 +3,16 @@
     "id": "toron",
     "terme": "le toron",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Pièce de bois fichée dans les murs des mosquées soudano-sahéliennes, servant d'appui lors du recrépissage.",
+    "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage annuel.",
     "requetes": [
       "Great Mosque of Djenné",
       "toron mosque Mali",
       "Djinguereber mosque"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Great Mosque of Djenné",
+      "Category:Mosques in Mali"
     ]
   },
   "candidats": [
@@ -122,6 +127,125 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._%2832931594225%29.jpg/1280px-The_Great_Mosque_of_Djenn%C3%A9_in_Mali_is_the_largest_mud_brick_building_in_the_world._%2832931594225%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3008,
       "hauteur": 2000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Koro, Mali.jpg",
+      "description": "City of Koro in Mali, West Africa",
+      "categories": [
+        "Mosques in Mali",
+        "Groups of people",
+        "Self-published work",
+        "Mud buildings in Mali",
+        "Files with coordinates missing SDC location of creation",
+        "Koro, Mali"
+      ],
+      "auteur": "Dr. Ondřej Havelka (cestovatel)",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Koro,_Mali.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Koro%2C_Mali.jpg/1280px-Koro%2C_Mali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2500,
+      "hauteur": 1316
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:ASC Leiden - van Achterberg Collection - 05 - 92 - Une tour dans le mur extérieur de la Grande Mosquée - Djenné, Mali - Novembre-décembre 1993.jpg",
+      "description": "Une tour dans le mur extérieur de la Grande Mosquée avec neuf couches horizontales de bâtons de bois en saillie et un haut-parleur dans le mur de boue.",
+      "categories": [
+        "GFDL",
+        "Great Mosque of Djenné",
+        "Images from the African Studies Centre (Leiden)",
+        "1993 in Mali",
+        "Uploaded with pattypan",
+        "License migration redundant",
+        "Items with VRTS permission confirmed",
+        "A. A. van Achterberg Collection Achterberg-05",
+        "Images donated by A. A. van Achterberg"
+      ],
+      "auteur": "Angeline A. van Achterberg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_92_-_Une_tour_dans_le_mur_ext%C3%A9rieur_de_la_Grande_Mosqu%C3%A9e_-_Djenn%C3%A9,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_92_-_Une_tour_dans_le_mur_ext%C3%A9rieur_de_la_Grande_Mosqu%C3%A9e_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/1280px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_92_-_Une_tour_dans_le_mur_ext%C3%A9rieur_de_la_Grande_Mosqu%C3%A9e_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6933,
+      "hauteur": 4532
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:La Mosquée verte.jpg",
+      "description": "Ceci est une image en rapport avec le thème \" Santé + Bien-être \" en/au :",
+      "categories": [
+        "Mosques in Mali",
+        "Images from Wiki Loves Africa 2021",
+        "Self-published work",
+        "Images from Wiki Loves Africa 2021 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Images from Wiki Loves Africa 2021 in Mali"
+      ],
+      "auteur": "Mwangi Kinyua",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:La_Mosqu%C3%A9e_verte.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/La_Mosqu%C3%A9e_verte.jpg/1280px-La_Mosqu%C3%A9e_verte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1840,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:BamakoDjenné 01.JPG",
+      "description": "Maquette de la Grande mosquée de Djenné au musée National de Bamako (Mali)",
+      "categories": [
+        "Taken with Olympus SP-510UZ",
+        "Great Mosque of Djenné",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Collections of the Musée national du Mali"
+      ],
+      "auteur": "BluesyPete",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:BamakoDjenn%C3%A9_01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/BamakoDjenn%C3%A9_01.JPG/1280px-BamakoDjenn%C3%A9_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3072,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Mosque of Kani Bonzon.jpg",
+      "description": "The Mosque of Kani Bonzon is sorrounded by baobabs and a brick works. Kani Bonzon, Pays Dogon, Mali, 2009.",
+      "categories": [
+        "Mosques in Mali",
+        "Taken with Nikon Coolpix S600",
+        "Kani Bozon",
+        "Flickr images uploaded by Flickr upload bot"
+      ],
+      "auteur": "Marco Bellucci",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mosque_of_Kani_Bonzon.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mosque_of_Kani_Bonzon.jpg/1280px-Mosque_of_Kani_Bonzon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3512,
+      "hauteur": 2634
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:ASC Leiden - van Achterberg Collection - 05 - 68 - Un groupe d'enfants mange dans la rue - Djenné, Mali - Novembre-décembre 1993.jpg",
+      "description": "Un groupe d'enfants mange dans la rue devant une paillote et des maisons en terre en face de l'ancienne Grande Mosquée. Un arbre et des pinacles de limon.",
+      "categories": [
+        "GFDL",
+        "Great Mosque of Djenné",
+        "Images from the African Studies Centre (Leiden)",
+        "1993 in Mali",
+        "Uploaded with pattypan",
+        "License migration redundant",
+        "Items with VRTS permission confirmed",
+        "A. A. van Achterberg Collection Achterberg-05",
+        "Images donated by A. A. van Achterberg"
+      ],
+      "auteur": "Angeline A. van Achterberg",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_05_-_68_-_Un_groupe_d%27enfants_mange_dans_la_rue_-_Djenn%C3%A9,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ASC_Leiden_-_van_Achterberg_Collection_-_05_-_68_-_Un_groupe_d%27enfants_mange_dans_la_rue_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/1280px-ASC_Leiden_-_van_Achterberg_Collection_-_05_-_68_-_Un_groupe_d%27enfants_mange_dans_la_rue_-_Djenn%C3%A9%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6756,
+      "hauteur": 4450
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

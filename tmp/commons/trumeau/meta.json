@@ -3,11 +3,16 @@
     "id": "trumeau",
     "terme": "le trumeau",
     "categorie": "Façade et ouvertures",
-    "definition": "Pan de mur compris entre deux baies voisines ; dans un portail, pilier central qui en divise l'ouverture.",
+    "definition": "Pan de mur plein compris entre deux baies voisines d'un même niveau.",
     "requetes": [
       "deepcat:\"Trumeaux\"",
       "trumeau portail",
       "trumeau portal"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Trumeaux",
+      "Category:Portals"
     ]
   },
   "candidats": [
@@ -260,6 +265,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/M%C3%BCnster%2C_St.-Lamberti-Kirche%2C_Portal_--_2020_--_6748.jpg/1280px-M%C3%BCnster%2C_St.-Lamberti-Kirche%2C_Portal_--_2020_--_6748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4480,
       "hauteur": 5973
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Oiartzun Eliza kanpoaldea 637.jpg",
+      "description": "Oiartzungo elizako eliz atari nagusia, erreja, pontea eta mainela",
+      "categories": [
+        "Trumeaux",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Portal of the Church of San Esteban, Oiartzun"
+      ],
+      "auteur": "Luistxo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Oiartzun_Eliza_kanpoaldea_637.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Oiartzun_Eliza_kanpoaldea_637.jpg/1280px-Oiartzun_Eliza_kanpoaldea_637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Kazimierz Dolny July 2013 153.JPG",
+      "description": "Kazimierz Dolny July 2013.",
+      "categories": [
+        "21 Senatorska Street in Kazimierz Dolny",
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ18",
+        "Portals",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work"
+      ],
+      "auteur": "myself ( User:Piotrus )",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kazimierz_Dolny_July_2013_153.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Kazimierz_Dolny_July_2013_153.JPG/1280px-Kazimierz_Dolny_July_2013_153.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2448,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Deba eliz ataria 01.jpg",
+      "description": "Deba, eliz ataria, mainela Kristo salbatzailearekin, doseletea bere gainean",
+      "categories": [
+        "Trumeaux",
+        "Self-published work",
+        "Images with extracted images",
+        "Files with coordinates missing SDC location of creation",
+        "Portal of the Church of Santa María, Deba",
+        "Gothic architectural canopies",
+        "Dossale"
+      ],
+      "auteur": "Luistxo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Deba_eliz_ataria_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Deba_eliz_ataria_01.jpg/1280px-Deba_eliz_ataria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Old Door - Historian Door.jpg",
+      "description": "Alte historische Tür, Holzportal",
+      "categories": [
+        "Doors in Germany",
+        "Unidentified locations in Germany",
+        "Portals",
+        "Self-published work"
+      ],
+      "auteur": "Sascha Grosser",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Old_Door_-_Historian_Door.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Old_Door_-_Historian_Door.jpg/1280px-Old_Door_-_Historian_Door.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Aizarnako eliza 3.jpg",
+      "description": "Aizarnako eliz ataria",
+      "categories": [
+        "Trumeaux",
+        "Church of Santa María de la Asunción, Aizarna",
+        "Self-published work",
+        "Church portals in Gipuzkoa",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Luistxo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Aizarnako_eliza_3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Aizarnako_eliza_3.jpg/1280px-Aizarnako_eliza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Fachada de la casa natal de Simón Bolívar.jpg",
+      "description": "Casa natal de El Libertador Simón Bolívar en Caracas",
+      "categories": [
+        "Taken with Samsung Galaxy Y",
+        "Portals",
+        "Casa Natal del Libertador",
+        "Self-published work",
+        "Facades in Venezuela"
+      ],
+      "auteur": "Fhaidel Dominguez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fachada_de_la_casa_natal_de_Sim%C3%B3n_Bol%C3%ADvar.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Fachada_de_la_casa_natal_de_Sim%C3%B3n_Bol%C3%ADvar.jpg/1280px-Fachada_de_la_casa_natal_de_Sim%C3%B3n_Bol%C3%ADvar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

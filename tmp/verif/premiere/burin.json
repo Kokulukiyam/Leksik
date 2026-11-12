@@ -1,58 +1,106 @@
 {
- "termId": "burin",
- "candidats": [
-  {
-   "fichier": "01.jpg",
-   "vu": "Photo ancienne en noir et blanc d'une collection d'outils de cambrioleur disposés en panneau.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Fouillis d'outils, aucun burin identifiable."
-  },
-  {
-   "fichier": "02.jpg",
-   "vu": "Main gantée tenant une longue tige métallique au-dessus d'un évier.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Objet non identifiable comme burin."
-  },
-  {
-   "fichier": "03.jpg",
-   "vu": "Deux ciseaux à froid posés sur une table en bois : l'un à pointe conique, l'autre à bout plat.",
-   "verdict": "validée",
-   "rectangle": {
-    "x": 0.1,
-    "y": 0.6,
-    "largeur": 0.86,
-    "hauteur": 0.23
-   },
-   "lieu": "",
-   "note": "Burin à bout plat tranchant encadré ; l'autre est une pointe, donc rectangle nécessaire."
-  },
-  {
-   "fichier": "04.jpg",
-   "vu": "Petit ciseau de pierre poli, vert, avec inscription de musée.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Outil préhistorique, pas un burin de maçon."
-  },
-  {
-   "fichier": "05.jpg",
-   "vu": "Ciseau à froid à bout plat tranchant, revenu bleu, sur fond blanc.",
-   "verdict": "validée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Burin clair, isolé, bout plat visible."
-  },
-  {
-   "fichier": "06.jpg",
-   "vu": "Outil ancien corrodé et abîmé sur fond blanc.",
-   "verdict": "rejetée",
-   "rectangle": null,
-   "lieu": "",
-   "note": "Objet dégradé, forme douteuse."
-  }
- ]
+  "termId": "burin",
+  "candidats": [
+    {
+      "fichier": "01.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une collection d'outils de cambrioleur disposés en panneau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fouillis d'outils, aucun burin identifiable."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Main gantée tenant une longue tige métallique au-dessus d'un évier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet non identifiable comme burin."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Deux ciseaux à froid posés sur une table en bois : l'un à pointe conique, l'autre à bout plat.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.6,
+        "largeur": 0.86,
+        "hauteur": 0.23
+      },
+      "lieu": "",
+      "note": "Burin à bout plat tranchant encadré ; l'autre est une pointe, donc rectangle nécessaire."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Petit ciseau de pierre poli, vert, avec inscription de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil préhistorique, pas un burin de maçon."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Ciseau à froid à bout plat tranchant, revenu bleu, sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Burin clair, isolé, bout plat visible."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Outil ancien corrodé et abîmé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Objet dégradé, forme douteuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Main tenant un marteau et un ciseau contre le mur de Berlin couvert de graffitis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil à peine lisible, mal éclairé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Monument vandalisé avec un marteau et un outil posés dessus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil minuscule, texte visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ciseau à bois à manche bleu et pied-de-biche sur un sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ciseau à bois, pas un burin de maçon."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit objet en pierre verte avec échelle, pièce de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas un burin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ciseau en fer romain rouillé sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pièce archéologique, pas un burin de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois ciseaux à bois à manche en bois sur une planche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ciseaux à bois, pas des burins."
+    }
+  ]
 }

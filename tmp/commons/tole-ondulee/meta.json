@@ -13,6 +13,15 @@
       "corrugated iron roof Africa",
       "corrugated galvanized iron sheet",
       "tôle ondulée toit"
+    ],
+    "incompatibles": [
+      "bardage",
+      "acier-galvanise"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Corrugated iron roofs",
+      "Category:Corrugated iron"
     ]
   },
   "candidats": [
@@ -269,7 +278,124 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bissau_life_%2819361784259%29.jpg/1280px-Bissau_life_%2819361784259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5184,
       "hauteur": 3456
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Bananen (6693733711).jpg",
+      "description": "Bananen Zanzibar, Tanzania",
+      "categories": [
+        "People of Zanzibar",
+        "Flickr images reviewed by FlickreviewR",
+        "Corrugated iron roofs",
+        "Headcarrying in Zanzibar",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Martijn.Munneke from Netherlands",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bananen_(6693733711).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bananen_%286693733711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1280,
+      "hauteur": 960
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:Citroen hy sst.jpg",
+      "description": "Citroen HY",
+      "categories": [
+        "GFDL",
+        "Taken with Canon Digital IXUS",
+        "Citroën HY",
+        "Corrugated iron",
+        "License migration completed"
+      ],
+      "auteur": "Sven Storbeck",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Citroen_hy_sst.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Citroen_hy_sst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1024,
+      "hauteur": 768
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Bellco chalk factory.jpg",
+      "description": "The Bellco Chalk Factory at Inneston, South Australia.",
+      "categories": [
+        "Taken with Sony DSC-HX1",
+        "Chalk",
+        "Inneston, South Australia",
+        "Self-published work",
+        "Factories in South Australia",
+        "Signs in South Australia",
+        "Stone buildings in South Australia",
+        "Corrugated iron roofs",
+        "Former factories in Australia"
+      ],
+      "auteur": "Peterdownunder",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bellco_chalk_factory.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bellco_chalk_factory.jpg/1280px-Bellco_chalk_factory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Corrugated iron (AM 2016.25.1-6).jpg",
+      "description": "Rectangle of roofing iron removed from a house in Cambridge in 2014; top side painted up to underlap; underside unpainted with maker's mark",
+      "categories": [
+        "Corrugated iron",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Images from Auckland Museum",
+        "Unsupported object",
+        "Artworks with known accession number"
+      ],
+      "auteur": "Southern Cross Galvanized Iron Manufacturing Company (Limited)",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corrugated_iron_(AM_2016.25.1-6).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Corrugated_iron_%28AM_2016.25.1-6%29.jpg/1280px-Corrugated_iron_%28AM_2016.25.1-6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3559,
+      "hauteur": 2307
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Bahay Kubo Iao Valley Maui Hawaii.jpg",
+      "description": "Interpretive sign: \"The Bahay Kubo, or Nipa Hut represents a Filipino range house. The Filipino farmer lives and rests within such a dwelling near his rice fields during preparation, planting and harvesting seasons. The Bahay Kubo offers a welcome refuge from the hot sun and frequent thunderstorms. In the Philippines, the Bahay Kubo is made of bamboo, with sturdy oak trees as posts, and nipa leaves as roofing. A creek runs nearby, bringing water for domestic and irrigation uses, and supporting fish as a food source. Ornamental plants surround the house and fruit trees grow on the hillside.\" Lo",
+      "categories": [
+        "GFDL",
+        "Nipa huts",
+        "License migration redundant",
+        "Self-published work",
+        "Corrugated iron roofs",
+        "Kepaniwai Heritage Gardens"
+      ],
+      "auteur": "Viriditas",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bahay_Kubo_Iao_Valley_Maui_Hawaii.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bahay_Kubo_Iao_Valley_Maui_Hawaii.jpg/1280px-Bahay_Kubo_Iao_Valley_Maui_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4060,
+      "hauteur": 2760
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Ministry of Information Second World War Press Agency Print Collection HU103329.jpg",
+      "description": "Ministry of Information Second World War Press Agency Print Collection",
+      "categories": [
+        "Corrugated iron",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "UK Government artistic works",
+        "PD-scan (PD-UKGov)",
+        "Ministry of Information Second World War Press Agency Print Collection",
+        "Royal Observer Corps in World War II"
+      ],
+      "auteur": "Press Agency photographer",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ministry_of_Information_Second_World_War_Press_Agency_Print_Collection_HU103329.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ministry_of_Information_Second_World_War_Press_Agency_Print_Collection_HU103329.jpg/1280px-Ministry_of_Information_Second_World_War_Press_Agency_Print_Collection_HU103329.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1300,
+      "hauteur": 911
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

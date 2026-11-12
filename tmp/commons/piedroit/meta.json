@@ -13,6 +13,14 @@
       "romanesque portal jambs",
       "stone door jambs medieval doorway",
       "embrasure portail piédroits"
+    ],
+    "incompatibles": [
+      "trumeau",
+      "linteau"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Doorways"
     ]
   },
   "candidats": [
@@ -251,7 +259,118 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG/1280px-Mittelheim-Langhaus_Giebelseite_West-Romanisches_Portal_mit_abgetrepptem_Gew%C3%A4nde-06042012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2592,
       "hauteur": 1944
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Baku 20170508 122610.jpg",
+      "description": "Ичери-шехер",
+      "categories": [
+        "Fortress of Baku",
+        "Self-published work",
+        "Doorways"
+      ],
+      "auteur": "Bogdanov-62",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baku_20170508_122610.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Baku_20170508_122610.jpg/1280px-Baku_20170508_122610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3120,
+      "hauteur": 4160
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:500px photo (101133055).jpeg",
+      "description": "500px provided description: Happy International Womens Day [#portrait ,#people ,#street ,#womensday]",
+      "categories": [
+        "Doorways",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Anjan Roy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(101133055).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/500px_photo_%28101133055%29.jpeg/1280px-500px_photo_%28101133055%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1856,
+      "hauteur": 1104
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:2023-10-12 Templemartin Church doorway outside in.jpg",
+      "description": "Doorway at Templemartin Church looking in",
+      "categories": [
+        "Self-published work",
+        "Doorways",
+        "Files with coordinates missing SDC location of creation",
+        "Saint Martin's Church (Templemartin)"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-10-12_Templemartin_Church_doorway_outside_in.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2023-10-12_Templemartin_Church_doorway_outside_in.jpg/1280px-2023-10-12_Templemartin_Church_doorway_outside_in.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2016,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:A Doorway.jpg",
+      "description": "A Doorway at Janki Temple, Janakpur, Nepal.",
+      "categories": [
+        "Doors",
+        "Temples",
+        "Self-published work",
+        "Doorways",
+        "Media needing category review as of 15 June 2020",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Gaurav Dhwaj Khadka",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Doorway.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/A_Doorway.jpg/1280px-A_Doorway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:578 Meeting (2024).jpg",
+      "description": "578 Meeting Street, Charleston, South Carolina",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Doorways",
+        "578 (house number)",
+        "Files with coordinates missing SDC location of creation",
+        "March 2024 in South Carolina",
+        "2024 in Charleston, South Carolina",
+        "Brick buildings in Charleston, South Carolina",
+        "Eastside",
+        "Doors in Charleston, South Carolina",
+        "578 Meeting Street, Charleston, South Carolina"
+      ],
+      "auteur": "ProfReader",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:578_Meeting_(2024).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/578_Meeting_%282024%29.jpg/1280px-578_Meeting_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2649,
+      "hauteur": 2891
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:2023-10-12 Templemartin Church doorway punchdressing.jpg",
+      "description": "Punch-dressed top of the doorway at Templemartin Church looking from the outside inside the church. The inside part is worked roughly and was probably once met by a symmetrical pair of arched stones on the inside, one of which is lying on the ground inside the church, not far from the doorway.",
+      "categories": [
+        "Stonemasonry",
+        "Self-published work",
+        "Doorways",
+        "Files with coordinates missing SDC location of creation",
+        "Saint Martin's Church (Templemartin)"
+      ],
+      "auteur": "A.-K. D.",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2023-10-12_Templemartin_Church_doorway_punchdressing.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2023-10-12_Templemartin_Church_doorway_punchdressing.jpg/1280px-2023-10-12_Templemartin_Church_doorway_punchdressing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 2016
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

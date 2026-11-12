@@ -1,0 +1,92 @@
+[
+ {
+  "cle": "balcon/14",
+  "accord": true,
+  "raison": "Balcon en saillie à parapet de brique, bien encadré parmi les autres."
+ },
+ {
+  "cle": "claustra/08",
+  "accord": true,
+  "raison": "Panneaux de blocs de béton ajourés formant une paroi ventilée : claustra net, rectangle sur l'un d'eux."
+ },
+ {
+  "cle": "pignon/12",
+  "accord": false,
+  "raison": "Le rectangle prend toute la façade d'église (porte, verrière) : « la façade » serait aussi une réponse plausible."
+ },
+ {
+  "cle": "mur-rideau/10",
+  "accord": true,
+  "raison": "Grande façade vitrée à montants et traverses suspendue au-dessus de l'entrée : mur-rideau clair."
+ },
+ {
+  "cle": "persienne/07",
+  "accord": true,
+  "raison": "Volet à lames inclinées, encadré ; les volets battants sont incompatibles donc pas d'ambiguïté."
+ },
+ {
+  "cle": "balustre/12",
+  "accord": true,
+  "raison": "Balustrade de marbre, un balustre renflé encadré de près."
+ },
+ {
+  "cle": "parpaing/09",
+  "accord": true,
+  "raison": "Piles de blocs de béton creux au premier plan, bien lisibles."
+ },
+ {
+  "cle": "echafaudage/10",
+  "accord": true,
+  "raison": "Échafaudage tubulaire sur toute une façade, élément dominant encadré."
+ },
+ {
+  "cle": "camion-toupie/07",
+  "accord": true,
+  "raison": "Camion-toupie complet, cuve rotative bien visible."
+ },
+ {
+  "cle": "marteau/09",
+  "accord": true,
+  "raison": "Marteau à panne fendue sur fond neutre, sans ambiguïté."
+ },
+ {
+  "cle": "niveau-a-bulle/10",
+  "accord": true,
+  "raison": "Niveau en bois avec fioles visibles, objet seul."
+ },
+ {
+  "cle": "pave-autobloquant/10",
+  "accord": true,
+  "raison": "Pavage en béton à formes emboîtées, plein cadre."
+ },
+ {
+  "cle": "tampon-de-regard/09",
+  "accord": true,
+  "raison": "Tampon en fonte au sol, encadré."
+ },
+ {
+  "cle": "tampon-de-regard/12",
+  "accord": true,
+  "raison": "Tampon en fonte en gros plan dans la chaussée ; l'inscription ne donne pas la réponse."
+ },
+ {
+  "cle": "lampadaire/10",
+  "accord": true,
+  "raison": "Mât à trois luminaires, lampadaire évident."
+ },
+ {
+  "cle": "fil-barbele/09",
+  "accord": true,
+  "raison": "Gros plan d'un fil torsadé avec ses pointes."
+ },
+ {
+  "cle": "piscine/11",
+  "accord": true,
+  "raison": "Bassin carrelé devant une villa, encadré."
+ },
+ {
+  "cle": "minaret/12",
+  "accord": true,
+  "raison": "Tour élancée à balcons de mosquée, minaret évident."
+ }
+]

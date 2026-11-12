@@ -13,6 +13,10 @@
     "incompatibles": [
       "facade",
       "meneau"
+    ],
+    "categoriesCommons": [
+      "Category:Curtain walls",
+      "Category:Glass facades"
     ]
   },
   "candidats": [
@@ -140,6 +144,135 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hallidie_Building_04.jpg/1280px-Hallidie_Building_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Kami-kawabata Bldg the SW curtain walls 10-255 Kami-kawabatamachi Hakata-ku Fukuoka 20231204.jpg",
+      "description": "Kami-kawabata Building, the southwest curtain walls (Address: 10-255, Kami-kawabatamachi, Hakata-ku, Fukuoka City 8120026, Japan)",
+      "categories": [
+        "Curtain walls",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Kami-kawabata Building"
+      ],
+      "auteur": "Hirho",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kami-kawabata_Bldg_the_SW_curtain_walls_10-255_Kami-kawabatamachi_Hakata-ku_Fukuoka_20231204.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kami-kawabata_Bldg_the_SW_curtain_walls_10-255_Kami-kawabatamachi_Hakata-ku_Fukuoka_20231204.jpg/1280px-Kami-kawabata_Bldg_the_SW_curtain_walls_10-255_Kami-kawabatamachi_Hakata-ku_Fukuoka_20231204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2880,
+      "hauteur": 3840
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Avenida Emmel, Arequipa.JPG",
+      "description": "Emmel Avenue",
+      "categories": [
+        "Taken with Casio Exilim EX-H20G",
+        "Glass facades",
+        "Self-published work",
+        "Attribution metadata from licensed image",
+        "Buildings in Arequipa",
+        "Ambiguous location in EXIF"
+      ],
+      "auteur": "Cmonzonc",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Avenida_Emmel,_Arequipa.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Avenida_Emmel%2C_Arequipa.JPG/1280px-Avenida_Emmel%2C_Arequipa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1847,
+      "hauteur": 2816
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:MC 澳門 Macau 路氹 Cotai 君悅酒店 Grand Hyatt Hotel curtain window view 永利皇宮 Wynn Palace 澳門體育館大馬路 Avenida da Nave Desportiva night November 2023 R12S 01.jpg",
+      "description": "MC 澳門 Macau 路氹 Cotai 君悅酒店 Grand Hyatt Hotel curtain window view 永利皇宮 Wynn Palace 澳門體育館大馬路 Avenida da Nave Desportiva night in November 2023",
+      "categories": [
+        "CC-Zero",
+        "Exterior of Wynn Palace",
+        "Curtain walls",
+        "Self-published work",
+        "Windows in Macau",
+        "Macau photographs taken on 2023-11-17",
+        "November 2023 in Cotai",
+        "Files with coordinates missing SDC location of creation",
+        "Avenida da Nave Desportiva, Macau",
+        "Visitors in Cotai",
+        "Night in Wynn Palace",
+        "2023 in Wynn Palace",
+        "2023 in Grand Hyatt Macau",
+        "2023 in Avenida da Nave Desportiva, Macau"
+      ],
+      "auteur": "Bita RmJohnson Liuosa",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97_Grand_Hyatt_Hotel_curtain_window_view_%E6%B0%B8%E5%88%A9%E7%9A%87%E5%AE%AE_Wynn_Palace_%E6%BE%B3%E9%96%80%E9%AB%94%E8%82%B2%E9%A4%A8%E5%A4%A7%E9%A6%AC%E8%B7%AF_Avenida_da_Nave_Desportiva_night_November_2023_R12S_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97_Grand_Hyatt_Hotel_curtain_window_view_%E6%B0%B8%E5%88%A9%E7%9A%87%E5%AE%AE_Wynn_Palace_%E6%BE%B3%E9%96%80%E9%AB%94%E8%82%B2%E9%A4%A8%E5%A4%A7%E9%A6%AC%E8%B7%AF_Avenida_da_Nave_Desportiva_night_November_2023_R12S_01.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:BaselMessehalle2 6749.jpg",
+      "description": "Front view of hall 2 of Messezentrum Basel, in Basel , Switzerland.",
+      "categories": [
+        "Taken with Canon PowerShot A620",
+        "Glass facades",
+        "Rundhofgebäude der Schweizerischen Mustermesse",
+        "Exhibition halls",
+        "Self-published work",
+        "Images uploaded by Túrelio",
+        "Information field template with formatting",
+        "Glass facades in Switzerland",
+        "Reflections on structures in Switzerland",
+        "Time 04:00",
+        "Facade clocks in Switzerland",
+        "Files with coordinates missing SDC location of creation",
+        "Photos by Túrelio with creditline",
+        "Plain clock faces"
+      ],
+      "auteur": "Túrelio",
+      "licence": "CC BY-SA 3.0 de",
+      "lien": "https://commons.wikimedia.org/wiki/File:BaselMessehalle2_6749.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/BaselMessehalle2_6749.jpg/1280px-BaselMessehalle2_6749.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1462,
+      "hauteur": 1020
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Rathausstraße (04) (37881976145).jpg",
+      "description": "Eckhaus Kleiner Kuhberg 44, Ecke Rathausstraße in Kiel-Vorstadt, gesehen vn dem Exerzierplatz.",
+      "categories": [
+        "Exerzierplatz (Kiel)",
+        "Curtain walls",
+        "Kleiner Kuhberg (Kiel)",
+        "Rathausstraße (Kiel)",
+        "Buildings in Vorstadt (Kiel)",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Glass facades in Kiel"
+      ],
+      "auteur": "Rüdiger Stehn from Kiel, Deutschland",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Rathausstra%C3%9Fe_(04)_(37881976145).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Rathausstra%C3%9Fe_%2804%29_%2837881976145%29.jpg/1280px-Rathausstra%C3%9Fe_%2804%29_%2837881976145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:09263jfPhilippine Rice Research Institute Creeks Muñoz Nueva Ecijafvf 05.JPG",
+      "description": "Philippine Rice Research Institute , PhilRice , (is a government corporate entity attached to the Department of Agriculture , created through Executive Order 1061 on 5 November 1985 (as amended), Irrigated Rice Research Consortium , and International Rice Research Institute ; located in Barangay , Maligaya , Muñoz , Nueva Ecija , in front of its Barangay Hall and Chapel along the Pan-Philippine Highway , also known as the Maharlika \"Nobility/freeman\" Highway or Asian Highway 26, in Cagayan Valley Road; or Category:Maharlika Highway (Cagayan Valley Road, Talavera-Santo Domingo-Quezon-Science Ci",
+      "categories": [
+        "Glass facades",
+        "Self-published work",
+        "Philippine Rice Research Institute"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG/1280px-09263jfPhilippine_Rice_Research_Institute_Creeks_Mu%C3%B1oz_Nueva_Ecijafvf_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

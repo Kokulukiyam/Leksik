@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "pave",
-      "trottoir"
+      "trottoir",
+      "allee"
     ]
   },
   "candidats": [
@@ -135,6 +136,142 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Interlocking_concrete_pavers_diff_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg/1280px-Interlocking_concrete_pavers_diff_16k_%28Amal_Kumar_via_Poly_Haven%29_JPG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 16384,
       "hauteur": 16384
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:E.V.A. LanxmeerStreet2009.jpg",
+      "description": "Exemple de maison (aménageable en bureau) semi-public du quartier E.V.A. Lanxmeer (écoquartier construit près de la gare de Culemborg (Pays-Bas, sud-est d'Utrecht). C'est un projet semi-public d'environ 250 maisons écologiques (à vendre ou à louer en habitat social à loyer modéré), incluant aussi plusieurs immeubles de bureaux et d'une ferme urbaine. Le projet est basé sur la participation constante de représentants des habitants et de leur association (BEL). Il vise une implantation soutenable à faible empreinte écologique et fortes mesures compensatoires et conservatoires, combinant dans l'e",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ30",
+        "Interlocking stones",
+        "EVA Lanxmeer",
+        "License migration redundant",
+        "CC-BY-SA-4.0,3.0,2.5,2.0,1.0",
+        "Self-published work",
+        "Paths in the Netherlands",
+        "Sustainable construction materials"
+      ],
+      "auteur": "Lamiot",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:E.V.A._LanxmeerStreet2009.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/E.V.A._LanxmeerStreet2009.jpg/1280px-E.V.A._LanxmeerStreet2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2510,
+      "hauteur": 1560
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Jedomělice, rybník a požární zbrojnice.JPG",
+      "description": "Pond and fire department in Jedomělice village, Kladno District, Czech Republic.",
+      "categories": [
+        "Czech Republic photographs taken on 2012-01-15",
+        "Taken with Canon PowerShot G10",
+        "Ponds in Kladno District",
+        "Snow covers",
+        "Warning sirens",
+        "Interlocking stones",
+        "Mediagrant",
+        "Mediagrant:Foto českých obcí",
+        "Jedomělice",
+        "Files by Juandev",
+        "Files with coordinates missing SDC location of creation",
+        "Fire stations in Kladno District",
+        "Mediagrant:GPS zařízení"
+      ],
+      "auteur": "Juandev",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Jedom%C4%9Blice,_rybn%C3%ADk_a_po%C5%BE%C3%A1rn%C3%AD_zbrojnice.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Jedom%C4%9Blice%2C_rybn%C3%ADk_a_po%C5%BE%C3%A1rn%C3%AD_zbrojnice.JPG/1280px-Jedom%C4%9Blice%2C_rybn%C3%ADk_a_po%C5%BE%C3%A1rn%C3%AD_zbrojnice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4416,
+      "hauteur": 3312
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:IS20220908 174813.jpg",
+      "description": "Chodník byl relativně rychle opraven. Překvapující.",
+      "categories": [
+        "CC-Zero",
+        "Interlocking stones",
+        "Unidentified locations in Teplice"
+      ],
+      "auteur": "01x07x2022000",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:IS20220908_174813.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/IS20220908_174813.jpg/1280px-IS20220908_174813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5664,
+      "hauteur": 4248
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Pavement detail, Tiraspol - panoramio.jpg",
+      "description": "Pavement detail, Tiraspol",
+      "categories": [
+        "Tiraspol",
+        "Interlocking stones",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Moldova photographs taken on 2012-01-18",
+        "Photos from Panoramio ID 74349"
+      ],
+      "auteur": "Keith Ruffles",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pavement_detail,_Tiraspol_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pavement_detail%2C_Tiraspol_-_panoramio.jpg/1280px-Pavement_detail%2C_Tiraspol_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2223,
+      "hauteur": 3091
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Pateo sob o MASP com a vista à Av Paulista - panoramio.jpg",
+      "description": "Peteo por de baixo do MASP com a Vista a Av Paulista",
+      "categories": [
+        "Museu de Arte de São Paulo",
+        "Images with watermarks",
+        "Interlocking stones",
+        "October 2009 in São Paulo",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Traffic bollards in Brazil",
+        "Files with coordinates missing SDC location of creation",
+        "Brazil photographs taken on 2009-10-24",
+        "Avenida Paulista from the north",
+        "Pavements in São Paulo (city)",
+        "Photos from Panoramio ID 960931"
+      ],
+      "auteur": "Paulo Humberto",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pateo_sob_o_MASP_com_a_vista_%C3%A0_Av_Paulista_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Pateo_sob_o_MASP_com_a_vista_%C3%A0_Av_Paulista_-_panoramio.jpg/1280px-Pateo_sob_o_MASP_com_a_vista_%C3%A0_Av_Paulista_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 1224
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Milaria (La Roda).jpg",
+      "description": "Milestone in La Roda, Spain.",
+      "categories": [
+        "Taken with Canon EOS 400D",
+        "La Roda",
+        "Interlocking stones",
+        "Self-published work",
+        "Files by User:Tamorlan",
+        "Ancient Roman columns in Spain",
+        "Miliaria in Spain",
+        "Pavements in Castile-La Mancha",
+        "April 2009 in the province of Albacete",
+        "Spain photographs taken on 2009-04-11"
+      ],
+      "auteur": "Tamorlan",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Milaria_(La_Roda).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Milaria_%28La_Roda%29.jpg/1280px-Milaria_%28La_Roda%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 3888
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

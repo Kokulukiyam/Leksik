@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Poteau, pas un abri."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petit véhicule de la poste jaune au premier plan, arrêt de bus lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Montpellier, France",
+      "note": "Abribus petit et lointain, véhicule dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade d'immeuble avec un poteau d'arrêt de bus et des bornes sur le trottoir.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "France",
+      "note": "Simple poteau d'arrêt, pas d'abri."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Auvent plat sur poteaux devant deux murs de blocs blancs avec bancs, dans un parc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ottawa, Canada",
+      "note": "Abri ouvert ambigu (préau, pergola), non clairement un abribus."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poteau d'arrêt de bus avec panneau et affichage d'horaires.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hong Kong",
+      "note": "Poteau et panneau, pas d'abri."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Abri vitré à toit plat au bord d'un trottoir, avec une personne qui attend ; autre abri à gauche, route et hôtel.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.45,
+        "y": 0.22,
+        "largeur": 0.29,
+        "hauteur": 0.62
+      },
+      "lieu": "Roslin, Écosse",
+      "note": "Abribus vitré typique avec banc ; rectangle sur l'abri de droite pour lever le doute avec celui de gauche."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue devant un centre commercial, abribus minuscule au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Île-de-France",
+      "note": "Élément trop petit."
     }
   ]
 }

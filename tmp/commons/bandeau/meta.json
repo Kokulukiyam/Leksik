@@ -12,7 +12,12 @@
       "string course brick facade",
       "bandeau façade pierre",
       "belt course stone building"
-    ]
+    ],
+    "incompatibles": [
+      "corniche",
+      "chapiteau-ionique"
+    ],
+    "priorite": 2
   },
   "candidats": [
     {
@@ -264,7 +269,149 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Schlieffen_Tenement_House_in_Ko%C5%82obrzeg%2C_2023.jpg/1280px-Schlieffen_Tenement_House_in_Ko%C5%82obrzeg%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Chimú - Headband - Walters 572308 - Detail A.jpg",
+      "description": "",
+      "categories": [
+        "GFDL",
+        "Author died more than 100 years ago public domain images",
+        "Headbands",
+        "License migration redundant",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Items with VRTS permission confirmed",
+        "Media contributed by the Walters Art Museum",
+        "Media contributed by the Walters Art Museum: needs category review",
+        "CC-PD-Mark",
+        "Unsupported period",
+        "Pre-Columbian art in the Walters Art Museum",
+        "Media contributed by the Walters Art Museum without wikidata item",
+        "Chimú metalwork"
+      ],
+      "auteur": "Anonyme (Chimú) Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chim%C3%BA_-_Headband_-_Walters_572308_-_Detail_A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chim%C3%BA_-_Headband_-_Walters_572308_-_Detail_A.jpg/1280px-Chim%C3%BA_-_Headband_-_Walters_572308_-_Detail_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1798,
+      "hauteur": 658
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:18.2 Weibliche Figur Heinrichsflügel Neues Palais Sanssouci Steffen Heilfort.JPG",
+      "description": "Weibliche Figur mit Gewand und Stirnband vor Sarkophag Heinrichsflügel Neues Palais Sanssouci",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Headbands",
+        "Self-published work",
+        "Statues of Greek mythology",
+        "Statues of Neues Palais (Potsdam)",
+        "Neues Palais Potsdam, Heinrichflügel"
+      ],
+      "auteur": "Steffenheilfort",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:18.2_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/18.2_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG/1280px-18.2_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:18.1 Weibliche Figur Heinrichsflügel Neues Palais Sanssouci Steffen Heilfort.JPG",
+      "description": "Weibliche Figur mit Gewand und Stirnband vor Sarkophag Heinrichsflügel Neues Palais Sanssouci",
+      "categories": [
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Headbands",
+        "Self-published work",
+        "Statues of Greek mythology",
+        "Statues of Neues Palais (Potsdam)",
+        "Neues Palais Potsdam, Heinrichflügel"
+      ],
+      "auteur": "Steffenheilfort",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:18.1_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/18.1_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG/1280px-18.1_Weibliche_Figur_Heinrichsfl%C3%BCgel_Neues_Palais_Sanssouci_Steffen_Heilfort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2736,
+      "hauteur": 3648
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Headband Home Mad Wax.jpg",
+      "description": "Headband fait en wax par la créatrice française Home Mad Wax",
+      "categories": [
+        "Headbands",
+        "African waxprints",
+        "Self-published work"
+      ],
+      "auteur": "HomeMadWax",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Headband_Home_Mad_Wax.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Headband_Home_Mad_Wax.jpg/1280px-Headband_Home_Mad_Wax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3888,
+      "hauteur": 5184
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Relief Palmyra Petit Palais ADUT01909.jpg",
+      "description": "Bas-relief funéraire de Palmyre. Pierre, début du IIe siècle ap. J.-C.",
+      "categories": [
+        "Taken with Nikon D70",
+        "Dutuit collection",
+        "Headbands",
+        "Artworks without Wikidata item",
+        "Self-published work",
+        "PD-self",
+        "Artworks with known accession number",
+        "Stone reliefs",
+        "Ancient Roman art in the Musée des beaux-arts de la ville de Paris",
+        "Grave sculptures in France",
+        "Grave reliefs in France",
+        "Template Unknown (artist)",
+        "2nd-century reliefs in France",
+        "Funerary reliefs from Palmyra in France",
+        "Ancient Roman reliefs in Paris",
+        "Turbans in art",
+        "Funerary relief of a Palmyrene woman (Petit Palais)",
+        "Grave reliefs of women"
+      ],
+      "auteur": "Artiste inconnu Unknown artist",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Relief_Palmyra_Petit_Palais_ADUT01909.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Relief_Palmyra_Petit_Palais_ADUT01909.jpg/1280px-Relief_Palmyra_Petit_Palais_ADUT01909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1940,
+      "hauteur": 2370
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Ein süßes Geheimnis von Adolf Hering, 1892.jpg",
+      "description": "The Sweet Secret by Adolf Hering, 1892.",
+      "categories": [
+        "Retouched pictures",
+        "Empire silhouette",
+        "Adolf Hering",
+        "Headbands",
+        "PD-old-80-expired",
+        "Gartenlaube (1892)",
+        "Derivative versions",
+        "CC-PD-Mark",
+        "Fans in art",
+        "Uploaded with derivativeFX",
+        "Regency revival genre paintings",
+        "People in conversation in art",
+        "2 women in art",
+        "PD-old missing SDC copyright status",
+        "Secrecy in art",
+        "Women in black and white art"
+      ],
+      "auteur": "Die_Gartenlaube_(1892)_081.jpg : Adolf Hering derivative work: Electron ツ ➧ ☎",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ein_s%C3%BC%C3%9Fes_Geheimnis_von_Adolf_Hering,_1892.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ein_s%C3%BC%C3%9Fes_Geheimnis_von_Adolf_Hering%2C_1892.jpg/1280px-Ein_s%C3%BC%C3%9Fes_Geheimnis_von_Adolf_Hering%2C_1892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2324,
+      "hauteur": 2940
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

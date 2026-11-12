@@ -101,6 +101,54 @@
       "rectangle": null,
       "lieu": "Monmouth, Pays de Galles",
       "note": "Support d'éclairage, pas une console architecturale."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Console de bois sculptée d'une sirène, pièce de musée sur fond blanc, noir et blanc.",
+      "verdict": "rejetée",
+      "note": "Pièce isolée de musée hors contexte, plutôt cul-de-lampe.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Haut d'une tour de château à créneaux sur corbeaux, vue d'en dessous.",
+      "verdict": "rejetée",
+      "note": "Corbeaux de mâchicoulis, petits et peu lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Fragment sculpté d'un visage de pierre sur fond blanc.",
+      "verdict": "rejetée",
+      "note": "Fragment de musée sans contexte.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Console de pierre à buste et feuilles d'acanthe, exposée contre un mur de brique.",
+      "verdict": "rejetée",
+      "note": "Pièce de musée sortie de son contexte, sculpture plus que support.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Support de pierre à tête grotesque barbue sous un pilier d'église.",
+      "verdict": "rejetée",
+      "note": "Plutôt cul-de-lampe ou corbeau sculpté, non galbé en S.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Même buste sculpté sur son support de feuilles, autre prise de vue.",
+      "verdict": "rejetée",
+      "note": "Quasi-doublon de 16, même réserve.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

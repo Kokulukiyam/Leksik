@@ -13,7 +13,12 @@
       "fichier": "02.jpg",
       "vu": "Façade étroite en pierre et brique à Tournai : trois fenêtres à l'étage au-dessus d'un panneau de brique, puis une vitrine de restaurant au rez-de-chaussée.",
       "verdict": "validée",
-      "rectangle": { "x": 0.455, "y": 0.53, "largeur": 0.13, "hauteur": 0.075 },
+      "rectangle": {
+        "x": 0.455,
+        "y": 0.53,
+        "largeur": 0.13,
+        "hauteur": 0.075
+      },
       "lieu": "Tournai, Belgique",
       "note": "Panneau de brique sous la fenêtre centrale, entre l'appui et le bandeau du plancher : allège nette ; le rectangle exclut l'appui et le bandeau."
     },
@@ -21,7 +26,12 @@
       "fichier": "03.jpg",
       "vu": "Intérieur d'une chambre : fenêtre à deux vantaux avec tablette, et sous elle un pan de mur nu où se trouve un radiateur.",
       "verdict": "validée",
-      "rectangle": { "x": 0.395, "y": 0.755, "largeur": 0.485, "hauteur": 0.245 },
+      "rectangle": {
+        "x": 0.395,
+        "y": 0.755,
+        "largeur": 0.485,
+        "hauteur": 0.245
+      },
       "lieu": "Liverpool, Royaume-Uni",
       "note": "Allège vue de l'intérieur, entre la tablette et le sol, avec le radiateur typique ; le rectangle exclut la tablette (appui). Image un peu sombre mais lisible."
     },
@@ -56,6 +66,54 @@
       "rectangle": null,
       "lieu": "Norwich, Royaume-Uni",
       "note": "Allèges peu lisibles (bande de brique très mince sous les fenêtres du premier étage, confondue avec le mur courant) ; rien de dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Appui de fenêtre en bois avec bibelots devant une fenêtre grillagée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un appui de fenêtre, pas l'allège."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cadre triangulaire doré contenant une peinture turquoise.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture encadrée, sans rapport avec une allège."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quatre fenêtres à petits carreaux en noir et blanc, très sombre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image sombre, allège non identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Appui de fenêtre en bois sombre dans une cuisine moderne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Montre l'appui, pas le mur d'allège ; confusion avec appui de fenêtre."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Piédestal de pierre sombre avec médaillon sculpté.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Panneau de piédestal, pas une allège de fenêtre."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Façade d'immeuble sous un arbre en noir et blanc sépia, avec filigrane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtres minuscules, allèges illisibles, image retouchée."
     }
   ]
 }

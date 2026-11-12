@@ -53,6 +53,64 @@
       },
       "lieu": "Lille, France",
       "note": "Devanture complète avec vitrines, entrée et bandeau."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Boutique de beignets de nuit, enseigne néon et grosse voiture au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Francisco, États-Unis",
+      "note": "Photo de nuit, véhicule masquant, enseigne néon dominante."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison à étage dont le rez-de-chaussée comporte une devanture de boulangerie bordeaux avec vitrine, porte et bandeau.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.54,
+        "y": 0.59,
+        "largeur": 0.25,
+        "hauteur": 0.31
+      },
+      "lieu": "Fleury-la-Vallée, France",
+      "note": "Devanture de boutique typique, encadrée de près."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Trottoir animé devant des boutiques sombres surchargées d'enseignes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Johannesburg, Afrique du Sud",
+      "note": "Scène confuse, enseignes multiples."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade de quincaillerie peinte en bleu avec vitrine, porte d'entrée et grand bandeau d'enseigne, articles exposés au sol.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.02,
+        "y": 0.06,
+        "largeur": 0.96,
+        "hauteur": 0.88
+      },
+      "lieu": "Le Château-d'Oléron, France",
+      "note": "Devanture complète très lisible (vitrines, entrée, bandeau)."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Boutique de téléphonie dans un centre commercial, grand bandeau rouge avec marque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte de marque dominant, cadre de galerie commerciale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Entrée excentrique d'un musée avec cheval mécanique, porte rouge et panneau Air-Conditioned.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Abita Springs, États-Unis",
+      "note": "Entrée de musée fantaisiste, pas une devanture claire."
     }
   ]
 }

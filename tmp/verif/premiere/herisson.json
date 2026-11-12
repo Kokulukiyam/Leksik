@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pierres de schiste éparses dans l'herbe, gros plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol naturel, pas un hérisson sous dallage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tas de gravier gris dans une carrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Klöch, Autriche",
+      "note": "Tas de granulat, pas un hérisson en place."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Galet orné d'un visage de démon, retouché.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée, sans rapport."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Terril de pierres concassées en friche industrielle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dortmund, Allemagne",
+      "note": "Pas un hérisson sous dallage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Chemin goudronné traversant une friche de pierres concassées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Dortmund, Allemagne",
+      "note": "Pas un hérisson sous dallage."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Gravier ratissé de jardin sec en motifs concentriques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kew, Angleterre",
+      "note": "Jardin de gravier décoratif, pas un hérisson."
     }
   ]
 }

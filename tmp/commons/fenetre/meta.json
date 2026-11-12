@@ -13,6 +13,10 @@
     "categoriesCommons": [
       "Category:Windows",
       "Category:Window frames"
+    ],
+    "incompatibles": [
+      "ouvrant",
+      "huisserie"
     ]
   },
   "candidats": [
@@ -156,6 +160,142 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Frame_-_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg/1280px-Frame_-_17c_-_Palace_of_Tsar_Alexey_Romanov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3142,
       "hauteur": 4348
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:500px photo (247983863).jpeg",
+      "description": "500px provided description: Untitled []",
+      "categories": [
+        "Windows",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Nuno Borges",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(247983863).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/500px_photo_%28247983863%29.jpeg/1280px-500px_photo_%28247983863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:GER Wuppertal Wittensteinstraße 17.jpg",
+      "description": "In Wuppertal.",
+      "categories": [
+        "Window frames",
+        "Wittensteinstraße 320",
+        "Self-published work",
+        "Columns in Wuppertal",
+        "Garages in Wuppertal",
+        "2018 photographs of Wuppertal",
+        "Open doors in North Rhine-Westphalia",
+        "Photos by User:-wuppertaler (Germany)",
+        "Photos by User:-wuppertaler (Wuppertal)"
+      ],
+      "auteur": "-wuppertaler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:GER_Wuppertal_Wittensteinstra%C3%9Fe_17.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/GER_Wuppertal_Wittensteinstra%C3%9Fe_17.jpg/1280px-GER_Wuppertal_Wittensteinstra%C3%9Fe_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Kusen Museum Bahari 20250105 105938.jpg",
+      "description": "An original piece of window frame from Jakarta's Maritime Museum , burned due to the 2018 fire accident",
+      "categories": [
+        "Jakarta Maritime Museum",
+        "Window frames",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2025 in Jakarta",
+        "Jelajah Jakarta Tempo Dulu"
+      ],
+      "auteur": "Swarabakti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kusen_Museum_Bahari_20250105_105938.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kusen_Museum_Bahari_20250105_105938.jpg/1280px-Kusen_Museum_Bahari_20250105_105938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5970,
+      "hauteur": 8109
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:A window to the outside.jpg",
+      "description": "A window In my school",
+      "categories": [
+        "Windows",
+        "Self-published work"
+      ],
+      "auteur": "Monsieur_mahdi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_window_to_the_outside.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/A_window_to_the_outside.jpg/1280px-A_window_to_the_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3903,
+      "hauteur": 3947
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Sign-1120036, Wainuiomata, Wellington, New Zealand.jpg",
+      "description": "Bilingual English-Māori police station sign in the town, in which 'Aotearoa' means 'New Zealand' in Māori.",
+      "categories": [
+        "Window frames",
+        "Wainuiomata",
+        ".nz",
+        "Herringbone patterns",
+        "Self-published work",
+        "NZ letter combinations",
+        "Police stations in New Zealand",
+        "New Zealand photographs taken on 2023-11-21",
+        "Green windows",
+        "White number 105",
+        "White number 111",
+        "White letters with blue background",
+        "White numerals on blue rectangles",
+        "White numerals on red rectangles",
+        "Blue, red, white rectangular signs",
+        "Chevrons in art",
+        "Bilingual English-Maori signs",
+        "Emergency (text)",
+        "Māori-language words and phrases",
+        "Rectangular signs (horizontal)",
+        "Big and small letter signs",
+        "Numbers on signs",
+        "In case of emergency signs",
+        "Police station signs",
+        "Number 111 on signs",
+        "Number 105 on signs",
+        "Community policing",
+        "Rectangular signs in New Zealand",
+        "2023 in Lower Hutt City"
+      ],
+      "auteur": "Wainuio",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sign-1120036,_Wainuiomata,_Wellington,_New_Zealand.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sign-1120036%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg/1280px-Sign-1120036%2C_Wainuiomata%2C_Wellington%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 3672
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:20121018011DR Dresden-Südvorstadt Hübnerstraße 16A.jpg",
+      "description": "17.10.2012 01187 Dresden-Südvorstadt: Blick aus dem Erdgeschoß-Badfenster Hübnerstraße 16A (GMP: 51.032580,13.723535) nach Westen. Wohnungsgenossenschaft &gt;Glückauf&lt; Süd Dresden. [SAM2279.JPG]20121018011DR.JPG(c)Blobelt",
+      "categories": [
+        "Windows",
+        "Hübnerstraße, Dresden",
+        "Self-published work",
+        "Windows in Dresden",
+        "Files by Jörg Blobelt",
+        "Files with coordinates missing SDC location of creation",
+        "Dresden photographs taken on 2012-10-17"
+      ],
+      "auteur": "Jörg Blobelt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg/1280px-20121018011DR_Dresden-S%C3%BCdvorstadt_H%C3%BCbnerstra%C3%9Fe_16A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2363,
+      "hauteur": 1806
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

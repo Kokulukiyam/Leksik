@@ -13,6 +13,17 @@
       "round hut thatched roof Senegal",
       "case ronde Sénégal",
       "traditional round house thatched Mali village"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "chaume",
+      "case-kassena",
+      "case-a-etage",
+      "ginna"
+    ],
+    "categoriesCommons": [
+      "Category:Huts in Senegal",
+      "Category:Huts"
     ]
   },
   "candidats": [
@@ -245,7 +256,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_07.jpg/1280px-Habitation_faite_avec_du_grenier_%C3%A0_Mbind-Sereer_%28Fissel%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3024,
       "hauteur": 4032
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Case traditionnelle sérère à Ndiandiaye.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Huts in Senegal",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check",
+        "Ndiandiaye"
+      ],
+      "auteur": "CelmaKoumba",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_traditionnelle_s%C3%A9r%C3%A8re_%C3%A0_Ndiandiaye.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Case_traditionnelle_s%C3%A9r%C3%A8re_%C3%A0_Ndiandiaye.jpg/1280px-Case_traditionnelle_s%C3%A9r%C3%A8re_%C3%A0_Ndiandiaye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:A little hut near Przegybek - panoramio.jpg",
+      "description": "A little hut near Przegybek",
+      "categories": [
+        "Huts",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Nature of Silesian Voivodeship",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Andrej Krivulčík",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_little_hut_near_Przegybek_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/A_little_hut_near_Przegybek_-_panoramio.jpg/1280px-A_little_hut_near_Przegybek_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1504,
+      "hauteur": 1000
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Case traditionnelle à Ndiaganiao, Sénégal 01.jpg",
+      "description": "Case traditionnelle située à Ndiaganiao, au Sénégal. Construite avec des matériaux locaux, elle représente l’architecture rurale typique et les savoir-faire traditionnels adaptés aux conditions climatiques locales",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Huts in Senegal"
+      ],
+      "auteur": "Kabkia",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Case_traditionnelle_%C3%A0_Ndiaganiao,_S%C3%A9n%C3%A9gal_01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Case_traditionnelle_%C3%A0_Ndiaganiao%2C_S%C3%A9n%C3%A9gal_01.jpg/1280px-Case_traditionnelle_%C3%A0_Ndiaganiao%2C_S%C3%A9n%C3%A9gal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3048,
+      "hauteur": 4064
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Almhütten bei Nauders.jpg",
+      "description": "Huts near Nauders",
+      "categories": [
+        "Huts",
+        "Nauders",
+        "Self-published work",
+        "Alpine pastures in Tyrol (state)"
+      ],
+      "auteur": "Otto Domes",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Almh%C3%BCtten_bei_Nauders.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Almh%C3%BCtten_bei_Nauders.jpg/1280px-Almh%C3%BCtten_bei_Nauders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5284,
+      "hauteur": 3523
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Paillote décorée de fresques artistiques.jpg",
+      "description": "Ceci est une image en rapport avec le thème Rites et rituels en/au :",
+      "categories": [
+        "Self-published work",
+        "Uploaded via Campaign:wlafrica",
+        "Huts in Senegal",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Africa 2026",
+        "Images from Wiki Loves Africa 2026 in Senegal",
+        "Images from Wiki Loves Africa 2026 to check"
+      ],
+      "auteur": "CelmaKoumba",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paillote_d%C3%A9cor%C3%A9e_de_fresques_artistiques.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Paillote_d%C3%A9cor%C3%A9e_de_fresques_artistiques.jpg/1280px-Paillote_d%C3%A9cor%C3%A9e_de_fresques_artistiques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2268,
+      "hauteur": 4032
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:A distant house in the hills.jpg",
+      "description": "Mystical hut in the distance",
+      "categories": [
+        "Taken with Canon XC10",
+        "Hills of India",
+        "Huts",
+        "Self-published work",
+        "Unidentified buildings in India",
+        "Unidentified forests in India"
+      ],
+      "auteur": "Patiala.singh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_distant_house_in_the_hills.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_distant_house_in_the_hills.jpg/1280px-A_distant_house_in_the_hills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

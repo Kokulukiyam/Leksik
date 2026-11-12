@@ -5,7 +5,12 @@
       "fichier": "01.jpg",
       "vu": "Grande halle avec charpente métallique : fermes triangulées en treillis successives sous un lanterneau vitré, arc en fond de halle.",
       "verdict": "validée",
-      "rectangle": { "x": 0.0, "y": 0.0, "largeur": 1.0, "hauteur": 0.62 },
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.62
+      },
       "lieu": "Abattoirs (Slakthusområdet), Stockholm, Suède",
       "note": "Fermes métalliques répétées bien visibles ; rectangle sur la charpente pour écarter l'arc du fond."
     },
@@ -37,7 +42,12 @@
       "fichier": "05.jpg",
       "vu": "Halle aux fermes métalliques triangulées avec lanterneau, utilitaires garés au sol.",
       "verdict": "validée",
-      "rectangle": { "x": 0.0, "y": 0.0, "largeur": 1.0, "hauteur": 0.62 },
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.0,
+        "largeur": 1.0,
+        "hauteur": 0.62
+      },
       "lieu": "Stockholm, Suède",
       "note": "Fermes nettes en partie haute, sans arc parasite ; rectangle pour écarter les véhicules."
     },
@@ -48,6 +58,54 @@
       "rectangle": null,
       "lieu": "St Stephen, West Bowling, Bradford, Royaume-Uni",
       "note": "Image retouchée (désaturation partielle) et arc de pierre dominant, risque de confusion avec arc."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande halle industrielle dont le toit est porté par un maillage dense de fermes métalliques, avec lanterneau central.",
+      "verdict": "rejetée",
+      "note": "Treillis métallique dense et enchevêtré : aucune ferme isolable, confusion avec poutre treillis et charpente métallique.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Charpente en bois vue de dessous, avec entraits, poinçons et chevrons, éclairée par des spots.",
+      "verdict": "rejetée",
+      "note": "Plusieurs fermes superposées, spots et gaines qui encombrent ; la triangulation n'est pas lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ossature de toit en bois neuf en construction, vue contre le ciel, avec pannes et chevrons.",
+      "verdict": "rejetée",
+      "note": "Pannes et chevrons d'un toit à croupes ; pas de ferme triangulée nette.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Charpente en berceau de bois d'une grande salle monastique, arcs de bois en série.",
+      "verdict": "rejetée",
+      "note": "Charpente en carène à arcs courbes, pas un assemblage triangulé.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Vue nocturne en contre-plongée d'une structure d'acier en croix, pont ou tour.",
+      "verdict": "rejetée",
+      "note": "Pas une ferme de toit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bâtiment partiellement effondré, toit écroulé, poutres cassées.",
+      "verdict": "rejetée",
+      "note": "Ruine confuse, aucune ferme lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

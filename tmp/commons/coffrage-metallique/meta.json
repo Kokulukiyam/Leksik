@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "coffrage",
-      "banche"
+      "banche",
+      "coffrage-de-dalle"
     ]
   },
   "candidats": [
@@ -121,6 +122,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg/1280px-FEMA_-_22421_-_Photograph_by_Iowa_Homeland_Security_and_Emergency_Management_Division_taken_on_07-28-2004_in_Iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2048,
       "hauteur": 1536
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Coffrages métalliques (106).jpg",
+      "description": "Coffrage d'un mur en béton",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction in Ain",
+        "People at work in Ain",
+        "Images by Classiccardinal"
+      ],
+      "auteur": "Cocollector",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrages_m%C3%A9talliques_(106).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Coffrages_m%C3%A9talliques_%28106%29.jpg/1280px-Coffrages_m%C3%A9talliques_%28106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4896,
+      "hauteur": 2752
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Coffrages métalliques (108).jpg",
+      "description": "Coffrage d'un mur en béton",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Crane hooks",
+        "Construction in Ain",
+        "People at work in Ain",
+        "Images by Classiccardinal"
+      ],
+      "auteur": "Cocollector",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrages_m%C3%A9talliques_(108).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Coffrages_m%C3%A9talliques_%28108%29.jpg/1280px-Coffrages_m%C3%A9talliques_%28108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2752,
+      "hauteur": 4896
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Banche métallique Maxi-Form - Cotub jaune.jpg",
+      "description": "Coffrage de fabrication suisse - Cotub - résistance à 100kN/m2 constant pour un béton de type 4.1",
+      "categories": [
+        "Construction",
+        "Self-published work"
+      ],
+      "auteur": "Loïc",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Banche_m%C3%A9tallique_Maxi-Form_-_Cotub_jaune.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Banche_m%C3%A9tallique_Maxi-Form_-_Cotub_jaune.jpg/1280px-Banche_m%C3%A9tallique_Maxi-Form_-_Cotub_jaune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3528,
+      "hauteur": 2376
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Behind the Scenes- Communications Facility at Osan Air Base (9593413).jpg",
+      "description": "During a concrete placement at the new Communications Facility at Osan Air Base on Feb. 12, 2026, U.S. Army Corps of Engineers – Far East District (USACE FED) personnel and contractor teams visit project sites to ensure all work meets strict project standards such as inspecting the contractor placing concrete in real-time and watching the rebar panels being installed to reinforce structural walls, install welded tube steel and plywood forms, and secure formwork to prevent failure under pressure. (U.S. Army photo by Monique Freemon)",
+      "categories": [
+        "PD US Army",
+        "Osan Air Base",
+        "Files created by the United States Army with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, South Korea (review needed)",
+        "South Korea photographs taken on 2026-02-11"
+      ],
+      "auteur": "U.S. Army photo by Monique Freemon",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_(9593413).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_%289593413%29.jpg/1280px-Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_%289593413%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Behind the Scenes- Communications Facility at Osan Air Base (9593415).jpg",
+      "description": "During a concrete placement at the new Communications Facility at Osan Air Base, Feb. 12, 2026, the U.S. Army Corps of Engineers – Far East District (USACE FED) and contractors’ teams carefully inspect plans to ensure everything meets strict project standards. Crews are also placing rebar panels to reinforce structural walls, installing welded tube steel and plywood forms and ensuring formwork is secure to prevent failure under pressure. (U.S. Army photo by Monique Freemon)",
+      "categories": [
+        "PD US Army",
+        "Osan Air Base",
+        "Files created by the United States Army with known IDs",
+        "DVIDS files uploaded by OptimusPrimeBot",
+        "Milimedia files, South Korea (review needed)",
+        "South Korea photographs taken on 2026-02-11"
+      ],
+      "auteur": "U.S. Army photo by Monique Freemon",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_(9593415).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_%289593415%29.jpg/1280px-Behind_the_Scenes-_Communications_Facility_at_Osan_Air_Base_%289593415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6720,
+      "hauteur": 4480
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Coffrages rouges (14).jpg",
+      "description": "Coulage du béton dans coffrages métalliques",
+      "categories": [
+        "Formwork",
+        "Self-published work",
+        "Construction in Ain",
+        "People at work in Ain",
+        "Images by Classiccardinal",
+        "Tower cranes in Saint-Rambert-en-Bugey"
+      ],
+      "auteur": "Cocollector",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Coffrages_rouges_(14).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Coffrages_rouges_%2814%29.jpg/1280px-Coffrages_rouges_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2712,
+      "hauteur": 4648
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Japon",
       "note": "Dessin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plaque vibrante rouge à moteur diesel posée sur du gravier, au salon, avec d'autres plaques floues.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.3,
+        "largeur": 0.78,
+        "hauteur": 0.65
+      },
+      "lieu": "",
+      "note": "Machine en gros plan, très reconnaissable ; rectangle sur la plaque rouge."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poubelles de rue devant un bus scolaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier de voie avec rouleau compresseur lointain.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Plaque vibrante jaune à moteur thermique, vue de profil sur du gravier.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine entière, nette et dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Déchets devant un compacteur à ordures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compacteur de déchets, pas une plaque vibrante."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plaque compactrice montée sur un bras de pelle, ouvriers autour.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque d'excavatrice, pas une plaque vibrante manuelle."
     }
   ]
 }

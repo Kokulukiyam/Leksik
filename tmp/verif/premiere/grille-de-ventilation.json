@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "Calder Grove, Angleterre",
       "note": "Petite et masquée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mur de pont couvert de graffitis avec orifices en losange grillagés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Orifices peu lisibles sous les graffitis."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Hall de métro à colonnes dorées et lustres.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille absente."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Villa thaïlandaise à deux niveaux avec petites ouvertures sous le plancher.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grilles trop petites."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quai de métro à colonnes ornées et lustres, rame floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Grille absente."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Théâtre illuminé la nuit, avec enseigne Mamma Mia.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de Londres sous des guirlandes de Noël.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Hors sujet."
     }
   ]
 }

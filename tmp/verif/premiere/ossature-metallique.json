@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Trop petit et ancien ; moins lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Hall à poteaux et fermes métalliques bleus, maison au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ossature de hangar, plutôt charpente métallique ; deux images valides déjà en jeu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Débris d'un bâtiment détruit par une tornade, voiture écrasée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lužice, Tchéquie",
+      "note": "Sinistre, structure illisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Entrée de métro avec escalator.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Haye, Pays-Bas",
+      "note": "Pas une ossature métallique lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Immeuble en chantier avec ossature légère et échafaudages.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Portland, États-Unis",
+      "note": "Ossature légère en profilés minces, chargée d'échafaudages."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Intérieur d'une coupole métallique de la basilique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Charpente de dôme, pas une ossature de bâtiment."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit immeuble à ossature métallique en construction, voiture devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Taichung, Taïwan",
+      "note": "Structure partiellement masquée et peu nette."
     }
   ]
 }

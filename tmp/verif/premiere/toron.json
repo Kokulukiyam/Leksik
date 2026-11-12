@@ -21,7 +21,12 @@
       "fichier": "03.jpg",
       "vu": "Façade principale de la Grande Mosquée de Djenné, tours hérissées de pièces de bois saillantes, homme à vélo au premier plan.",
       "verdict": "validée",
-      "rectangle": { "x": 0.375, "y": 0.30, "largeur": 0.12, "hauteur": 0.12 },
+      "rectangle": {
+        "x": 0.375,
+        "y": 0.3,
+        "largeur": 0.12,
+        "hauteur": 0.12
+      },
       "lieu": "Djenné, Mali",
       "note": "Rangées de torons nettes avec leurs ombres portées ; le rectangle isole un groupe de torons sur la tour centrale (et non le bâtiment)."
     },
@@ -29,7 +34,12 @@
       "fichier": "04.jpg",
       "vu": "Toit de la Grande Mosquée de Djenné : pinacles en banco dont émergent de grosses pièces de bois saillantes, vues de près.",
       "verdict": "validée",
-      "rectangle": { "x": 0.78, "y": 0.35, "largeur": 0.21, "hauteur": 0.06 },
+      "rectangle": {
+        "x": 0.78,
+        "y": 0.35,
+        "largeur": 0.21,
+        "hauteur": 0.06
+      },
       "lieu": "Djenné, Mali",
       "note": "Meilleure vue rapprochée : trois torons bien visibles en saillie du mur, encadrés de près."
     },
@@ -48,6 +58,59 @@
       "rectangle": null,
       "lieu": "Djenné, Mali",
       "note": "Prise de loin, torons peu nombreux et petits ; c'est la mosquée qui est montrée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grande mosquée en banco aux nombreux torons, devant une foule dense.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les torons sont petits et noyés dans la foule ; la mosquée dominerait comme réponse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une tour de mosquée en banco dont la façade est hérissée de rangées de bâtons de bois en saillie.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.58,
+        "largeur": 0.22,
+        "hauteur": 0.22
+      },
+      "lieu": "Djenné, Mali",
+      "note": "Torons bien visibles, rectangle sur une rangée de torons pour lever le doute avec la mosquée, les pinacles ou le minaret."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Mosquée blanche et verte moderne avec palmier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de banco ni de torons."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Maquette de la grande mosquée de Djenné au musée de Bamako.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Maquette, pas un ouvrage réel."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mosquée en banco lointaine entre deux baobabs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Torons illisibles, trop petits."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de Djenné, murs de banco et paillote, enfants qui mangent.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Torons non visibles."
     }
   ]
 }

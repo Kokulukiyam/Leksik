@@ -111,6 +111,54 @@
       "rectangle": null,
       "lieu": "Bissau, Guinée-Bissau",
       "note": "Tôle secondaire et lointaine, scène dominée par la foule."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Rue de village devant un bâtiment rose avec toit de tôle en bande étroite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tôle réduite à une bande en haut, passants au premier plan."
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Camionnette Citroën HY à carrosserie ondulée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Véhicule, pas un élément de construction."
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Grange de pierre à toit rouge ondulé et portes vertes, panneau devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ondulations trop fines à l'écran et texte de panneau visible."
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Plaque de tôle grise claire sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ondulations quasi invisibles, taches de peinture."
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Case de style philippin au toit métallique parmi des palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Toit lointain et caché."
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Deux soldats derrière un mur de tôle ondulée, noir et blanc, ancienne photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique en noir et blanc, tôle en fond."
     }
   ]
 }

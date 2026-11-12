@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Botswana",
       "note": "Animal, pas de contexte."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lavabo blanc suspendu à un mur vert, à côté d'une baignoire, avec robinet mitigeur pivotant.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.22,
+        "largeur": 0.45,
+        "hauteur": 0.35
+      },
+      "lieu": "",
+      "note": "Lavabo mural clair ; rectangle pour le distinguer de la baignoire voisine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Salle de lavage collective en noir et blanc avec longs auges et robinets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lavabo collectif en auge, noir et blanc, peu lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cuve métallique de lavabo de sous-marin avec pancarte « Officer's Washroom ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Diego, États-Unis",
+      "note": "Texte visible et objet atypique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit lavabo ancien dans un coin, avec miroir, horloge et poubelle, vu de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Lavabo petit et noyé dans la scène."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand lavabo double en porcelaine sur colonnes tournées, devant un mur de marbre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Casa Loma, Toronto, Canada",
+      "note": "Lavabo ancien à deux vasques net et dominant."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Vasque ronde posée sur une tablette en bois avec robinetterie murale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plutôt une vasque à poser ; risque de confusion."
     }
   ]
 }

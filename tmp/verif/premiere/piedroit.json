@@ -101,6 +101,54 @@
       },
       "lieu": "Mittelheim, Allemagne",
       "note": "Photo nette et frontale ; le rectangle isole le montant droit de la baie (avec ses ressauts) qui porte l'arc et le linteau du tympan."
+    },
+    {
+      "fichier": "13.jpg",
+      "vu": "Porte étroite en arc brisé à lobes dans un mur de pierre sculpté.",
+      "verdict": "rejetée",
+      "note": "Pas de piédroit isolable, élément ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "14.jpg",
+      "vu": "Fillette debout dans une porte à cadre vert, mur à pilastres.",
+      "verdict": "rejetée",
+      "note": "Sujet humain, cadre de porte (chambranle) et non piédroit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "15.jpg",
+      "vu": "Arc en pierre ruiné couvert de lierre, ouvert sur un jardin.",
+      "verdict": "rejetée",
+      "note": "Piédroits noyés dans la végétation, peu lisibles.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "16.jpg",
+      "vu": "Passage en arc polylobé donnant sur un temple, silhouette d'un homme au premier plan.",
+      "verdict": "rejetée",
+      "note": "Contre-jour, élément ambigu.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "17.jpg",
+      "vu": "Porte vitrée dans un cadre métallique à pilastres et corniche, mur de brique.",
+      "verdict": "rejetée",
+      "note": "Encadrement de type chambranle, pas un piédroit.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "18.jpg",
+      "vu": "Gros plan sur des claveaux de pierre d'un arc fendu.",
+      "verdict": "rejetée",
+      "note": "Claveaux d'un arc, pas de piédroit.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

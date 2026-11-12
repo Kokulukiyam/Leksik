@@ -14,6 +14,10 @@
       "Category:Light bulbs",
       "Category:Incandescent light bulbs",
       "Category:LED lamps"
+    ],
+    "incompatibles": [
+      "suspension",
+      "applique"
     ]
   },
   "candidats": [
@@ -130,6 +134,113 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Amasra_1260674_nevit.jpg/1280px-Amasra_1260674_nevit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3072,
       "hauteur": 2304
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:AIRAM Tapio Wirkkala.jpg",
+      "description": "WIR lightbulbs designed by Tapio Wirkkala in 1959 for Finnish company AIRAM.",
+      "categories": [
+        "Tapio Wirkkala",
+        "Light bulbs",
+        "Self-published work",
+        "Glass lighting devices"
+      ],
+      "auteur": "Cl3phact0",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:AIRAM_Tapio_Wirkkala.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/AIRAM_Tapio_Wirkkala.jpg/1280px-AIRAM_Tapio_Wirkkala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:A bulb in a hand (2017).jpg",
+      "description": "Incandescent light bulb in hand",
+      "categories": [
+        "Incandescent light bulbs",
+        "Self-published work",
+        "2017 in Jaipur",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2017-12-11",
+        "December 2017 in Rajasthan"
+      ],
+      "auteur": "akshatsgi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_bulb_in_a_hand_(2017).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/A_bulb_in_a_hand_%282017%29.jpg/1280px-A_bulb_in_a_hand_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Ein Licht für Vanda.jpg",
+      "description": "Gedenklicht für Vanda Vieira-Schmidt",
+      "categories": [
+        "CC-Zero",
+        "LED lamps",
+        "Self-published work",
+        "Table lanterns"
+      ],
+      "auteur": "Armin Pangerl",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ein_Licht_f%C3%BCr_Vanda.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Ein_Licht_f%C3%BCr_Vanda.jpg/1280px-Ein_Licht_f%C3%BCr_Vanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2250,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Ampoule à Guilherand-Granges (32075694734).jpg",
+      "description": "Projet 365-3 - 165/365",
+      "categories": [
+        "Light bulbs",
+        "Guilherand-Granges",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from Nicolas Buffler Flickr stream"
+      ],
+      "auteur": "Nicolas Buffler from Guilherand Granges, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ampoule_%C3%A0_Guilherand-Granges_(32075694734).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Ampoule_%C3%A0_Guilherand-Granges_%2832075694734%29.jpg/1280px-Ampoule_%C3%A0_Guilherand-Granges_%2832075694734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1632,
+      "hauteur": 2464
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:500px photo (176013019).jpeg",
+      "description": "500px provided description: []",
+      "categories": [
+        "Incandescent light bulbs",
+        "CC-Zero",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "I Am Svoboda",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(176013019).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/500px_photo_%28176013019%29.jpeg/1280px-500px_photo_%28176013019%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1488,
+      "hauteur": 992
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:2010-12-30 Fishing ship at Yeliu Fishing Port.jpg",
+      "description": "Fishing ship at Yeliu Fishing Port",
+      "categories": [
+        "Light bulbs",
+        "Yeliu Fishing Port",
+        "Fishing ships of Taiwan",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "Bernard McManus",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2010-12-30_Fishing_ship_at_Yeliu_Fishing_Port.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2010-12-30_Fishing_ship_at_Yeliu_Fishing_Port.jpg/1280px-2010-12-30_Fishing_ship_at_Yeliu_Fishing_Port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

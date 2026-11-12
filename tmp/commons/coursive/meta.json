@@ -11,7 +11,8 @@
       "deck access housing walkway"
     ],
     "incompatibles": [
-      "garde-corps"
+      "garde-corps",
+      "balcon-filant"
     ],
     "categoriesCommons": [
       "Category:Access balconies",
@@ -138,6 +139,133 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2008-08-19_Duke_Tower_Hotel_and_Condominiums.jpg/1280px-2008-08-19_Duke_Tower_Hotel_and_Condominiums.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2592,
       "hauteur": 3888
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Resiatal Stolvizza Kikej 02.JPG",
+      "description": "Houses in Stolvizza (district Kikej) in the back Resia valley, a tributary valley of Canal del Ferro / Friuli-Venezia Giulia / Italy / EU . The most houses have access balconies.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G9",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Access balconies",
+        "License migration redundant",
+        "Stolvizza",
+        "Self-published work",
+        "Balconies in Italy",
+        "Files by User:Joadl",
+        "Files with coordinates missing SDC location of creation",
+        "Italy photographs taken on 2008-10-05"
+      ],
+      "auteur": "Joadl",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Resiatal_Stolvizza_Kikej_02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Resiatal_Stolvizza_Kikej_02.JPG/1280px-Resiatal_Stolvizza_Kikej_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:At the Water's Edge, Buckeye Lake, O. (14090928895).jpg",
+      "description": "Persistent URL: digital.lib.miamioh.edu/cdm/ref/collection/postcards/id/4264 Subject (TGM): Lakes ponds; Walkways; Ohio--Buckeye Lake",
+      "categories": [
+        "Walkways",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Files from Flickr's 'The Commons'",
+        "Files from Miami University Libraries - Digital Collections",
+        "Bowden Postcard Collection",
+        "Postcards of Buckeye Lake, Ohio"
+      ],
+      "auteur": "Miami U. Libraries - Digital Collections",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:At_the_Water%27s_Edge,_Buckeye_Lake,_O._(14090928895).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/At_the_Water%27s_Edge%2C_Buckeye_Lake%2C_O._%2814090928895%29.jpg/1280px-At_the_Water%27s_Edge%2C_Buckeye_Lake%2C_O._%2814090928895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2059,
+      "hauteur": 3234
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:After Wikimania 2018, Haarlemmermeer (P1060107).jpg",
+      "description": "After Wikimania 2018",
+      "categories": [
+        "Walkways",
+        "2018 at Amsterdam Airport Schiphol",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Wikimania 2018 by MB-one",
+        "Netherlands photographs taken on 2018-07-24",
+        "F-number f/1.8",
+        "Pictures by MB-one rejected",
+        "Lens focal length 25 mm",
+        "Taken with Panasonic DMC-GH1 and LEICA DG SUMMILUX 25/F1.4",
+        "Wikimania 2018 - aftermath"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:After_Wikimania_2018,_Haarlemmermeer_(P1060107).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/After_Wikimania_2018%2C_Haarlemmermeer_%28P1060107%29.jpg/1280px-After_Wikimania_2018%2C_Haarlemmermeer_%28P1060107%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Green and white Los Angeles apartments.jpg",
+      "description": "Typical apartment building of the older neighborhoods in the City of Los Angeles. San Vicente at Pico Boulevard, at the north edge of the en:Mid-City, Los Angeles neighborhood.",
+      "categories": [
+        "GFDL",
+        "Taken with Canon PowerShot G10",
+        "Access balconies",
+        "Apartment buildings in Los Angeles",
+        "License migration redundant",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Buildings in Mid-City, Los Angeles"
+      ],
+      "auteur": "Downtowngal",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_and_white_Los_Angeles_apartments.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Green_and_white_Los_Angeles_apartments.jpg/1280px-Green_and_white_Los_Angeles_apartments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3844,
+      "hauteur": 2919
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Atlanterhavsveien, Norway 20170531 140459.jpg",
+      "description": "Atlanterhavsveien, Norway",
+      "categories": [
+        "Walkways",
+        "Lyngholmen (Averøy)",
+        "Files from dconvertini Flickr stream",
+        "Files with coordinates missing SDC location of creation",
+        "Norway photographs taken on 2017-05-31",
+        "Flickr images reviewed by FlickreviewR 2"
+      ],
+      "auteur": "dconvertini",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Atlanterhavsveien,_Norway_20170531_140459.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Atlanterhavsveien%2C_Norway_20170531_140459.jpg/1280px-Atlanterhavsveien%2C_Norway_20170531_140459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5943,
+      "hauteur": 3962
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Newburn Flats rear.jpg",
+      "description": "Newburn Flats access balconies on south rear elevation in 2019.",
+      "categories": [
+        "Access balconies",
+        "Newburn Flats",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Rohanstorey",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Newburn_Flats_rear.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Newburn_Flats_rear.jpg/1280px-Newburn_Flats_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

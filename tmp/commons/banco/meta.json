@@ -3,7 +3,7 @@
     "id": "banco",
     "terme": "le banco",
     "categorie": "Afrique de l'Ouest",
-    "definition": "Terre argileuse mêlée de paille, moulée en briques ou appliquée en enduit dans la construction traditionnelle.",
+    "definition": "Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.",
     "requetes": [
       "banco Mali",
       "mud brick Mali building",
@@ -14,6 +14,16 @@
       "adobe wall Djenné",
       "banco Burkina Faso maison",
       "mud architecture Mali wall"
+    ],
+    "incompatibles": [
+      "grenier-dogon",
+      "case",
+      "voute-nubienne",
+      "case-a-impluvium"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Adobe"
     ]
   },
   "candidats": [
@@ -256,7 +266,109 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/ASC_Leiden_-_van_Achterberg_Collection_-_06_-_25_-_Cinq_entrep%C3%B4ts_derri%C3%A8re_des_murs_bas_en_briques_crues_-_Teli%2C_pays_Dogon%2C_Mali_-_Nov.-d%C3%A9c._1983.jpg/1280px-ASC_Leiden_-_van_Achterberg_Collection_-_06_-_25_-_Cinq_entrep%C3%B4ts_derri%C3%A8re_des_murs_bas_en_briques_crues_-_Teli%2C_pays_Dogon%2C_Mali_-_Nov.-d%C3%A9c._1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6933,
       "hauteur": 4532
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Arquitectura popular en Castroceniza (Burgos).jpg",
+      "description": "Arquitectura popular en Castroceniza (Burgos) construida en adobe y estructura de madera vista muy común en todo el Valle del Arlanza",
+      "categories": [
+        "Adobe",
+        "Castroceniza",
+        "Self-published work"
+      ],
+      "auteur": "Andres.bustillo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arquitectura_popular_en_Castroceniza_(Burgos).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Arquitectura_popular_en_Castroceniza_%28Burgos%29.jpg/1280px-Arquitectura_popular_en_Castroceniza_%28Burgos%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4000,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:The Museo El Deposito San Juan 26.jpg",
+      "description": "Museo El Deposito of El Deposito is made of volcanic tuff, built as part of the Carriedo Waterworks (named after Francisco Carriedo Francisco Carriedo y Peredo November 7, 1690 – September 1743) designed by Genaro Palacios Y Guerra (1839, an architect and engineer from Zaragosa, Aragon, Spain) located in Pinaglabanan Shrine San Juan, Metro Manila site of Battle of San Juan del Monte Diwa ng 1896 (Battle of Pinaglabanan - Battle Ground, August 30, 1896: 153 Katipunero Martyrs, Andrés Bonifacio Andrés Bonifacio y de Castro).",
+      "categories": [
+        "Adobe",
+        "Self-published work",
+        "Museo El Deposito"
+      ],
+      "auteur": "SwarmCheng",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_Museo_El_Deposito_San_Juan_26.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Museo_El_Deposito_San_Juan_26.jpg/1280px-The_Museo_El_Deposito_San_Juan_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3283
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Paradise Now (50190373266).jpg",
+      "description": "Hipstamatic to Adobe PaintCan Florida Keys",
+      "categories": [
+        "Adobe",
+        "Flickr images reviewed by FlickreviewR 2",
+        "PD-author-FlickrPDM",
+        "Files from GR Flickr stream"
+      ],
+      "auteur": "GR from Key Largo",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Paradise_Now_(50190373266).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Paradise_Now_%2850190373266%29.jpg/1280px-Paradise_Now_%2850190373266%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1526,
+      "hauteur": 1539
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Arquitetura em terra 07.jpg",
+      "description": "arquitetura em terra",
+      "categories": [
+        "Adobe",
+        "Self-published work",
+        "Taipa (Architecture)"
+      ],
+      "auteur": "Sintegrity",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Arquitetura_em_terra_07.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Arquitetura_em_terra_07.jpg/1280px-Arquitetura_em_terra_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3468,
+      "hauteur": 4624
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Pared de adobe I.jpg",
+      "description": "Pared de adobe con una pequeña imagen de la virgen de Guadalupe. Zona rural cerca de Dolores Hidalgo, México.",
+      "categories": [
+        "Adobe",
+        "Self-published work",
+        "Adobe buildings in Mexico",
+        "Adobe walls"
+      ],
+      "auteur": "Juan Carlos Fonseca Mata",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Pared_de_adobe_I.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pared_de_adobe_I.jpg/1280px-Pared_de_adobe_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5179,
+      "hauteur": 6471
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Adobe retaining wall beside the Zapote River.jpg",
+      "description": "Series of buttresses made out of adobe stones",
+      "categories": [
+        "Adobe",
+        "Zapote River",
+        "Prinza Dam",
+        "Self-published work",
+        "Philippines photographs taken on 2014-05-13",
+        "Philippine Cultural Heritage Mapping Project content"
+      ],
+      "auteur": "Charles Boris Manez",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Adobe_retaining_wall_beside_the_Zapote_River.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Adobe_retaining_wall_beside_the_Zapote_River.jpg/1280px-Adobe_retaining_wall_beside_the_Zapote_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2592,
+      "hauteur": 1944
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

@@ -11,7 +11,13 @@
       "incategory:\"Zebra crossings\""
     ],
     "incompatibles": [
-      "marquage-au-sol"
+      "marquage-au-sol",
+      "chaussee",
+      "enrobe"
+    ],
+    "categoriesCommons": [
+      "Category:Pedestrian crossings",
+      "Category:Zebra crossings"
     ]
   },
   "candidats": [
@@ -139,6 +145,164 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg/1280px-Zebra_crossing_on_Freeman_Street_-_geograph.org.uk_-_8147294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2000,
       "hauteur": 1500
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Chicago (2692999072).jpg",
+      "description": "57 North state street, crosswalk over 1 West Washington street, in Chicago, USA.",
+      "categories": [
+        "Marshall Field & Company Building",
+        "Pedestrian crossings",
+        "Flickr images reviewed by FlickreviewR",
+        "Traffic signals in Chicago",
+        "Crosswalks in Chicago",
+        "November 2006 in Chicago",
+        "Street lights in Chicago",
+        "Christmas 2006 in the United States",
+        "Continental crosswalks in Illinois",
+        "State and Madison",
+        "United States photographs taken on 2006-11-18",
+        "Street clocks in Chicago",
+        "Construction of 108 North State Street",
+        "Shops in the United States photographed in 2006",
+        "Photographs by Tony Webster",
+        "Flickr images missing SDC published in"
+      ],
+      "auteur": "Tony Webster from Portland, Oregon, United States",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Chicago_(2692999072).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Chicago_%282692999072%29.jpg/1280px-Chicago_%282692999072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 2304
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:23901765136 - Flickr - Thomas Leuthard.jpg",
+      "description": "",
+      "categories": [
+        "Media lacking a description",
+        "Zebra crossings",
+        "Photographs taken on 2015-12-17",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Flickr files uploaded by Red panda bot",
+        "Photos in Flickr Explore"
+      ],
+      "auteur": "Thomas Leuthard from Zug, Switzerland",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:23901765136_-_Flickr_-_Thomas_Leuthard.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/23901765136_-_Flickr_-_Thomas_Leuthard.jpg/1280px-23901765136_-_Flickr_-_Thomas_Leuthard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4430
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2009 06 09 - 6776 - Hanover - OoTS Ped Amenity Testing (3615256632).jpg",
+      "description": "Various pedestrian amenities undergoing testing at the Office of Traffic and Safety in Hanover, MD.",
+      "categories": [
+        "Maryland State Highway Administration",
+        "Pedestrians",
+        "Taken with Canon PowerShot A650 IS",
+        "Pedestrian crossings",
+        "Flickr images reviewed by File Upload Bot (Magnus Manske)",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by Andrew Bossi"
+      ],
+      "auteur": "thisisbossi from Washington, DC, USA",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2009_06_09_-_6776_-_Hanover_-_OoTS_Ped_Amenity_Testing_(3615256632).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2009_06_09_-_6776_-_Hanover_-_OoTS_Ped_Amenity_Testing_%283615256632%29.jpg/1280px-2009_06_09_-_6776_-_Hanover_-_OoTS_Ped_Amenity_Testing_%283615256632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Martin, Škultétyho (2).jpg",
+      "description": "Martin , Slovakia.",
+      "categories": [
+        "Zebra crossings",
+        "Self-published work",
+        "Zebra crossings in Slovakia",
+        "Street lights in Slovakia",
+        "Lamp posts in Slovakia",
+        "Night in Martin",
+        "Škultétyho (Martin)"
+      ],
+      "auteur": "Palickap",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Martin,_%C5%A0kult%C3%A9tyho_(2).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Martin%2C_%C5%A0kult%C3%A9tyho_%282%29.jpg/1280px-Martin%2C_%C5%A0kult%C3%A9tyho_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Bipède (15435470679).jpg",
+      "description": "Bipède",
+      "categories": [
+        "Black and white photographs",
+        "Pedestrian crossings",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Files from madras91 Flickr stream"
+      ],
+      "auteur": "madras91",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bip%C3%A8de_(15435470679).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bip%C3%A8de_%2815435470679%29.jpg/1280px-Bip%C3%A8de_%2815435470679%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4468,
+      "hauteur": 2979
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Sign-1070271, Tralee, Co. Kerry, Ireland.jpg",
+      "description": "Bilingual Irish-English pedestrian crossing sign with 'Aire' being the Irish for 'Caution'.",
+      "categories": [
+        "Pedestrian crossing warning road signs in Ireland",
+        "Zebra crossings",
+        "Metal signs in Ireland",
+        "Bilingual English-Irish signs in Ireland",
+        "Round corner rectangles",
+        "Republic of Ireland photographs taken on 2023-08-01",
+        "Self-published work",
+        "Silhouettes of people",
+        "Irish-language road signs",
+        "Gray and yellow road signs",
+        "Round corner squares",
+        "Tricolor background signs",
+        "Black, white, yellow rectangular road signs",
+        "Four-color rectangular road signs",
+        "Black on gray",
+        "Black letters with white background",
+        "Bilingual warning signs in Ireland",
+        "Bilingual road signs in County Kerry",
+        "Photographs of signs of Ireland",
+        "Black, gray, white, yellow signs",
+        "Black and white in color photography",
+        "Photographs of black on white",
+        "Signs with borders",
+        "5 rows signs",
+        "Signs with illustrations",
+        "Weathered road signs",
+        "English-language warning signs",
+        "Rectangular road signs (vertically)",
+        "Dirty signs",
+        "Black and yellow diamond-shaped road signs",
+        "Crossing guard signs",
+        "Pedestrian crossing icons",
+        "Insular I",
+        "Amber, black, white",
+        "Warning road signs by inscription – Aire",
+        "Gray rectangular warning road signs",
+        "People on signs",
+        "Rhombic pedestrian crossing signs"
+      ],
+      "auteur": "Mucklagh",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sign-1070271,_Tralee,_Co._Kerry,_Ireland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sign-1070271%2C_Tralee%2C_Co._Kerry%2C_Ireland.jpg/1280px-Sign-1070271%2C_Tralee%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3672,
+      "hauteur": 4896
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Peinture."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rochers rougeâtres au bord de la mer.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Goa, Inde",
+      "note": "Roche côtière, nature peu lisible ; deux images valides déjà en jeu."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une paroi ocre alvéolée fissurée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Son Tay, Vietnam",
+      "note": "Matière alvéolée sans contexte, pourrait être de la pierre de latérite ou autre."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Colline de granit et manguiers au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Karnataka, Inde",
+      "note": "Granite, pas de la latérite."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Échantillon de bauxite rouge à stratification.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Fria, Guinée",
+      "note": "Échantillon géologique de bauxite."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Mur de blocs sombres alvéolés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sukhothai, Thaïlande",
+      "note": "Pierre grise ressemblant à du basalte, ambiguë avec la pierre de latérite."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Sol rouge ravinée portant des arbustes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sol érodé sans contexte, ambigu avec la piste latéritique ; déjà deux images en jeu."
     }
   ]
 }

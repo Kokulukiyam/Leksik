@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Bitola, Macédoine du Nord",
       "note": "Image chargée : balcon, porte cintrée, imposte concurrents ; persiennes petites."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Fenêtre dont les deux volets verts à lames inclinées sont ouverts contre une façade blanche.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.07,
+        "y": 0.01,
+        "largeur": 0.26,
+        "hauteur": 0.42
+      },
+      "lieu": "Rüti, Suisse",
+      "note": "Volets à lames inclinées bien visibles ; cadre sur le volet de gauche."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Végétation au bord d'une étendue d'eau, cadre en béton.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport avec une persienne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fenêtre grillagée à volets pleins gris ouverts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volets pleins, sans lames."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Façade rouge d'angle avec une fenêtre à persiennes fermées, petite.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Persienne petite dans la scène, avec volets roulants voisins."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau de planches de bois sombre, très flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Volet de planches, aucune lame inclinée."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre de temple coréen à treillis blanc dans un cadre peint.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Treillis de papier, pas une persienne."
     }
   ]
 }

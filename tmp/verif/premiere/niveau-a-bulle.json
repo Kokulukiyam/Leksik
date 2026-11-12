@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Jeu de mots, hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Niveau ancien rouillé en gros plan, très flou et en perspective rasante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Flou, fioles illisibles."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan d'une fiole à bulle jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seule la fiole est montrée, pas le niveau entier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan en bois d'un niveau ancien, coupé aux deux bouts.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadré trop serré, l'outil n'est pas reconnaissable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Niveau à bulle ancien en bois, avec fiole latérale et fiole circulaire, posé sur fond blanc.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil entier, net ; deux fioles visibles, sans ambiguïté."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Appareil photo avec niveau électronique à l'écran.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Niveau électronique d'appareil photo, pas l'outil de chantier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit niveau à bulle transparent monté sur la griffe d'un appareil photo.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Accessoire photo, pas le niveau à bulle de maçon."
     }
   ]
 }

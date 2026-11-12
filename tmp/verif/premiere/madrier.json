@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sport, sans rapport."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Salle ancienne à plafond de poutres peintes et murs de gros bois empilés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Larvik, Norvège",
+      "note": "Poutres et rondins mêlés, madrier non isolé."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Militaires faisant des pompes dans un hangar de porte-avions.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sport, sans rapport."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plancher du beffroi d'une église vu d'en dessous, avec solives.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ellingham, Royaume-Uni",
+      "note": "Solives blanchies, rôle de madrier non distinguable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Soldats en file faisant un gainage sur l'herbe.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sport, sans rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Charpente d'une maison en ruine vue d'en dessous avec ciel visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Xàbia, Espagne",
+      "note": "Chevrons et poutres variés, pas un madrier identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Soldats en séance de gainage dans un gymnase.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Belgique",
+      "note": "Sport, sans rapport."
     }
   ]
 }

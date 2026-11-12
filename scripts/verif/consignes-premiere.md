@@ -78,3 +78,14 @@ Ouvre les fichiers produits avec l'outil Read pour les regarder.
 Plusieurs agents travaillent en même temps : si tu écris des scripts ou fichiers temporaires, mets-les dans un dossier
 à toi, `tmp/verif/agents/<nom-de-ton-lot>/` (jamais dans un dossier partagé ni sous un nom générique). Écris chaque
 `tmp/verif/premiere/<id>.json` dès qu'un terme est fini, et vérifie à la fin qu'ils existent tous.
+
+## Termes déjà vérifiés (nouvelle recherche)
+
+Si `tmp/verif/premiere/<termId>.json` existe déjà, le terme a été vérifié lors d'une recherche précédente et de
+nouvelles candidates ont été ajoutées à la suite dans `meta.json` :
+
+- Ne juge que les candidates de `meta.json` absentes de ce fichier. Les anciennes photos ne sont souvent plus sur le
+  disque : c'est normal, ne les cherche pas.
+- Garde toutes les entrées existantes telles quelles et ajoute les nouvelles à la fin du tableau `candidats`.
+- Les images déjà dans le jeu sont `public/images/commons/<termId>-<NN>.webp` : regarde-les, n'en valide pas de
+  quasi-doublon, et compte-les dans le maximum de 6 images validées par terme.

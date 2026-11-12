@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Scène confuse."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Route au premier plan, camions rail-route et, très loin, une tractopelle minuscule sur remorque.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wildwood, Floride, États-Unis",
+      "note": "Engin trop petit et lointain, indiscernable."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tractopelle Bobcat blanche et rouge sur un salon, partiellement masquée par deux panneaux, d'autres engins derrière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bauma, Munich, Allemagne",
+      "note": "Godet coupé par un panneau, fond encombré d'autres engins : trop de doute."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieux tracteur bleu Fordson avec une pelle rétro arrière et une citerne rouillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hankasalmi, Finlande",
+      "note": "Tracteur agricole équipé d'une pelle, sans chargeur frontal : ce n'est pas une tractopelle typique."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vaste paysage de glacier et de moraines, un engin minuscule au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Champagny-en-Vanoise, France",
+      "note": "Engin invisible à l'échelle de l'image."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Paysage de glacier et de moraines, un engin minuscule au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Champagny-en-Vanoise, France",
+      "note": "Engin invisible à l'échelle de l'image."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tractopelle orange au loin devant un paquebot, partiellement cachée par une palissade et un panneau avec texte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Funchal, Madère",
+      "note": "Engin petit, partiellement masqué, panneau avec texte."
     }
   ]
 }

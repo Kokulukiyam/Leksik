@@ -13,6 +13,15 @@
       "chambranle mouluré",
       "moulded window surround stone",
       "door architrave surround classical facade"
+    ],
+    "priorite": 2,
+    "categoriesCommons": [
+      "Category:Door frames",
+      "Category:Window frames",
+      "Category:Doorways"
+    ],
+    "incompatibles": [
+      "linteau"
     ]
   },
   "candidats": [
@@ -275,7 +284,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%281_of_2%29.jpg/1280px-Chambranle_des_crois%C3%A9es_et_portes_d%27armoires_-_dessin_-_Jean-Jacques_Lequeu_-_btv1b7703563r_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3072,
       "hauteur": 2023
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:20140418 corfu210.JPG",
+      "description": "Vue du musée de Palaiopolis, dans la villa \"Mon Repos\" à Corfou.",
+      "categories": [
+        "Door frames",
+        "Paleopolis Archaeological Museum (Corfu)",
+        "Self-published work",
+        "2014 in Corfu",
+        "Oculi in Corfu",
+        "Greece photographs taken on 2014-04-18",
+        "2014 photos by user Jean Housen",
+        "Photos of Greece by user Jean Housen"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20140418_corfu210.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/20140418_corfu210.JPG/1280px-20140418_corfu210.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:Kusen Museum Bahari 20250105 105938.jpg",
+      "description": "An original piece of window frame from Jakarta's Maritime Museum , burned due to the 2018 fire accident",
+      "categories": [
+        "Jakarta Maritime Museum",
+        "Window frames",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "2025 in Jakarta",
+        "Jelajah Jakarta Tempo Dulu"
+      ],
+      "auteur": "Swarabakti",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Kusen_Museum_Bahari_20250105_105938.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kusen_Museum_Bahari_20250105_105938.jpg/1280px-Kusen_Museum_Bahari_20250105_105938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5970,
+      "hauteur": 8109
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:500px photo (101133055).jpeg",
+      "description": "500px provided description: Happy International Womens Day [#portrait ,#people ,#street ,#womensday]",
+      "categories": [
+        "Doorways",
+        "Photos imported with import-500px",
+        "Files from 500px.com with bad file names"
+      ],
+      "auteur": "Anjan Roy",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:500px_photo_(101133055).jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/500px_photo_%28101133055%29.jpeg/1280px-500px_photo_%28101133055%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1856,
+      "hauteur": 1104
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Cliff with doorframe in Har Nof.jpg",
+      "description": "A fenced-in edge of a cliff in Har Nof, Jerusalem, with a single empty doorframe leading into blackness",
+      "categories": [
+        "Cliffs",
+        "Door frames",
+        "Liminal spaces",
+        "Self-published work",
+        "Walkways in Israel"
+      ],
+      "auteur": "Yitzilitt",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cliff_with_doorframe_in_Har_Nof.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Cliff_with_doorframe_in_Har_Nof.jpg/1280px-Cliff_with_doorframe_in_Har_Nof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Châssis de fenêtre-Abbaye de Walbourg.jpg",
+      "description": "Musée historique de Haguenau (Bas-Rhin) : châssis de fenêtre de l'abbaye de Walbourg, bois, première moitié du XIIe siècle. Une analyse dendrochronologique de la partie supérieure du châssis, taillé dans une planche unique, a montré qu'il provenait d'un arbre abattu vers 1110, au terme d'une croissance d'environ 300 ans.",
+      "categories": [
+        "Window frames",
+        "Interior of Église Sainte-Walburge, Walbourg",
+        "Self-published work",
+        "June 2015 in Bas-Rhin",
+        "Collections of Musée historique de Haguenau"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2ssis_de_fen%C3%AAtre-Abbaye_de_Walbourg.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ch%C3%A2ssis_de_fen%C3%AAtre-Abbaye_de_Walbourg.jpg/1280px-Ch%C3%A2ssis_de_fen%C3%AAtre-Abbaye_de_Walbourg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3240,
+      "hauteur": 4320
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Castle Hill, Medieval window and door frames, Buda Royal Palace.JPG",
+      "description": "Középkori ablak és ajtókeretek, Budavári Királyi Palota keleti udvarában",
+      "categories": [
+        "Blind windows",
+        "Door frames",
+        "Self-published work",
+        "Exterior of the Budapest Historical Museum (Buda Castle)",
+        "March 2015 in Budapest",
+        "Medieval windows",
+        "South Yards of Buda Castle"
+      ],
+      "auteur": "Globetrotter19",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Castle_Hill,_Medieval_window_and_door_frames,_Buda_Royal_Palace.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Castle_Hill%2C_Medieval_window_and_door_frames%2C_Buda_Royal_Palace.JPG/1280px-Castle_Hill%2C_Medieval_window_and_door_frames%2C_Buda_Royal_Palace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

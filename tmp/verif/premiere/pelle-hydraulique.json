@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Foreuse, pas une pelle."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ouvrier dans une tranchée devant un godet de pelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seul le godet est visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vue aérienne d'un site minier avec une petite pelle perdue au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin minuscule."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Bras et godet de pelle Cat dans une fouille, engin coupé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin incomplet, cadré seulement en partie."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mini-pelle vue d'en haut dans une tranchée avec son conducteur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vue plongeante confuse, mini-pelle."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Pelle sur pneus de type tractopelle devant un entrepôt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Confusion avec tractopelle, engin partiellement caché."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pelle rouge sur chenilles, godet au premier plan, image HDR.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée en HDR, trop dramatique."
     }
   ]
 }

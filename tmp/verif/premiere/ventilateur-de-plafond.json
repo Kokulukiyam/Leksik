@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Net et dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gravure de dictionnaire montrant un ventilateur de plafond et un ventilateur de table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ventilateur à quatre pales brunes au plafond blanc, vu d'en dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur de plafond clair et dominant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Grand ventilateur à huit pales de bois suspendu à une tige longue.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur de plafond net, pales bien visibles."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Ventilateur à pales de bois clair avec trois verres, vu en contre-plongée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pales coupées, angle déformé ; doublon des mieux cadrées."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Boutique de vêtements brodés, ventilateur minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur trop petit."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ventilateur à cinq pales brunes avec luminaire central allumé, vu d'en dessous.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ventilateur de plafond net, éclairage central."
     }
   ]
 }

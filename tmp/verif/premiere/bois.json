@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ancienne, peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier au Nigeria avec coffrages en perches de bois et escalier de fortune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaduna, Nigeria",
+      "note": "Montre un coffrage, pas le matériau bois net."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Entrepôt de bois à façade de planches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bâtiment plutôt que matériau, lecture ambiguë."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Chantier au Nigeria avec coffrages en perches de bois et passerelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaduna, Nigeria",
+      "note": "Coffrage, pas le matériau bois."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Planches de réemploi peintes dressées contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Planches usées, lecture peu claire."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Piles de bois de grande section estampillées SNCF sur un quai.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "La Pallice, France",
+      "note": "Texte visible, traverses de chemin de fer."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Chasseurs buvant lors d'une fête.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kaduna, Nigeria",
+      "note": "Sans rapport."
     }
   ]
 }

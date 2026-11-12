@@ -58,6 +58,59 @@
       },
       "lieu": "Nigeria",
       "note": "Haie taillée nette, bien encadrée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Gros plan flou sur le feuillage vert d'une haie taillée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bangladesh",
+      "note": "Gros plan sans contexte, ne montre pas la haie comme clôture végétale."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Haie basse taillée en arrondi devant un bâtiment en brique, bordée de fleurs orange.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.04,
+        "y": 0.7,
+        "largeur": 0.72,
+        "hauteur": 0.27
+      },
+      "lieu": "Boston, États-Unis",
+      "note": "Haie taillée nette et dominante ; rectangle sur la haie."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Kiosque de jardin avec colonne, bordé de deux haies basses le long d'une allée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Bushey, Royaume-Uni",
+      "note": "Kiosque dominant, haies en second plan."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cour de terre battue avec maison au loin et végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Zambie",
+      "note": "Haie à peine visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Jardin clos avec arbres fruitiers, serre et haies basses en avant-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berrington Hall, Royaume-Uni",
+      "note": "Scène chargée, haie noyée parmi arbres et massifs."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Allée dallée d'un square avec petites haies et pergola métallique.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Douchanbé, Tadjikistan",
+      "note": "Haies petites et secondaires, décor distrayant."
     }
   ]
 }

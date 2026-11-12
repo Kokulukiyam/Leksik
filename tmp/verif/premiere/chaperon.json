@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Couronnement trop petit pour être lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dessin de décor de théâtre, ruelle médiévale.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Dessin au crayon d'un intérieur d'église.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Aquarelle d'un décor de théâtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Peinture, pas une photo."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pierres de couronnement disjointes et lichen, fleuries de lierre, au sommet d'un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Corsham, Angleterre",
+      "note": "Pierres cassées et en désordre, couronnement peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Scie à chantourner sur une planche en bois.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Outil, rien à voir avec un chaperon."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Dessus d'un parapet de pont couvert de mousse, vu de très près.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Hatfield Heath, Angleterre",
+      "note": "Cadrage trop serré, pente non lisible, pourrait être une simple dalle de dessus."
     }
   ]
 }

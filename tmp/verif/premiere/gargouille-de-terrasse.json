@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Dalot de pont de navire vu de l'intérieur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot de navire, pas une gargouille de terrasse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gargouille sculptée sur une chapelle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "San Juan, Porto Rico",
+      "note": "Gargouille sculptée d'église, pas une gargouille de terrasse."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Dalot en tôle sur la coque d'un navire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Navire."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Statue de gargouille ou chimère contre un mur.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Sculpture, pas l'ouvrage d'évacuation."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit oiseau noir sur un support de fer forgé contre un mur flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Pierres sculptées en forme de tête de félin servant de gargouilles, exposées au musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Axoum, Éthiopie",
+      "note": "Gargouilles sculptées de musée, hors contexte de terrasse."
     }
   ]
 }

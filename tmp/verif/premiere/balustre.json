@@ -1,11 +1,111 @@
 {
   "termId": "balustre",
   "candidats": [
-    {"fichier": "01.jpg", "vu": "Pont vénitien en arc dont le parapet est une balustrade de balustres blancs, au-dessus d'un canal.", "verdict": "rejetée", "rectangle": null, "lieu": "Venise, Italie", "note": "Balustres très petits à l'échelle de la photo (environ 2 % de largeur chacun), peu lisibles sur téléphone ; candidates 04 et 05 meilleures."},
-    {"fichier": "02.jpg", "vu": "Élément ajouré en céramique dorée à motifs géométriques, logé dans une ouverture d'un parapet de pierre.", "verdict": "rejetée", "rectangle": null, "lieu": "Cité impériale, Huế, Viêt Nam", "note": "Motif ajouré plat, pas une petite colonne renflée : ce n'est pas un balustre au sens français."},
-    {"fichier": "03.jpg", "vu": "Entrée de métro parisienne entourée d'une balustrade de pierre, avec mât « Passage public Métro », vitrines et rue.", "verdict": "rejetée", "rectangle": null, "lieu": "Place de la Madeleine, Paris, France", "note": "Scène encombrée (enseignes, mât, vitrines), balustres secondaires et petits."},
-    {"fichier": "04.jpg", "vu": "Lampadaire à trois feux du pont Alexandre III au-dessus d'un garde-corps à balustres blancs aux bagues dorées.", "verdict": "validée", "rectangle": {"x": 0.70, "y": 0.76, "largeur": 0.30, "hauteur": 0.13}, "lieu": "Pont Alexandre III, Paris, France", "note": "Balustres renflés bien nets ; le rectangle isole la série de droite pour écarter le lampadaire et le socle."},
-    {"fichier": "05.jpg", "vu": "Gros plan d'un balustre neuf en grès à panse renflée, posé entre une main courante et un socle, à côté de balustres anciens noircis.", "verdict": "validée", "rectangle": null, "lieu": "", "note": "Balustre unique, net et dominant ; forme renflée parfaitement lisible, aucun élément concurrent."},
-    {"fichier": "06.jpg", "vu": "Gros plan d'un pommeau de bronze (giboshi) gravé de caractères japonais sur un parapet de pont.", "verdict": "rejetée", "rectangle": null, "lieu": "Pont Gojō Ōhashi, Kyoto, Japon", "note": "Pommeau ornemental, pas un balustre ; texte visible."}
+    {
+      "fichier": "01.jpg",
+      "vu": "Pont vénitien en arc dont le parapet est une balustrade de balustres blancs, au-dessus d'un canal.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Venise, Italie",
+      "note": "Balustres très petits à l'échelle de la photo (environ 2 % de largeur chacun), peu lisibles sur téléphone ; candidates 04 et 05 meilleures."
+    },
+    {
+      "fichier": "02.jpg",
+      "vu": "Élément ajouré en céramique dorée à motifs géométriques, logé dans une ouverture d'un parapet de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cité impériale, Huế, Viêt Nam",
+      "note": "Motif ajouré plat, pas une petite colonne renflée : ce n'est pas un balustre au sens français."
+    },
+    {
+      "fichier": "03.jpg",
+      "vu": "Entrée de métro parisienne entourée d'une balustrade de pierre, avec mât « Passage public Métro », vitrines et rue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Place de la Madeleine, Paris, France",
+      "note": "Scène encombrée (enseignes, mât, vitrines), balustres secondaires et petits."
+    },
+    {
+      "fichier": "04.jpg",
+      "vu": "Lampadaire à trois feux du pont Alexandre III au-dessus d'un garde-corps à balustres blancs aux bagues dorées.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.7,
+        "y": 0.76,
+        "largeur": 0.3,
+        "hauteur": 0.13
+      },
+      "lieu": "Pont Alexandre III, Paris, France",
+      "note": "Balustres renflés bien nets ; le rectangle isole la série de droite pour écarter le lampadaire et le socle."
+    },
+    {
+      "fichier": "05.jpg",
+      "vu": "Gros plan d'un balustre neuf en grès à panse renflée, posé entre une main courante et un socle, à côté de balustres anciens noircis.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustre unique, net et dominant ; forme renflée parfaitement lisible, aucun élément concurrent."
+    },
+    {
+      "fichier": "06.jpg",
+      "vu": "Gros plan d'un pommeau de bronze (giboshi) gravé de caractères japonais sur un parapet de pont.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Pont Gojō Ōhashi, Kyoto, Japon",
+      "note": "Pommeau ornemental, pas un balustre ; texte visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier d'honneur à rampe en fer forgé doré, pilastre de pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rampe en fer forgé, pas des balustres."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Soubassement de pierre à trois niches cintrées vitrées.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arcature, pas de balustres."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Escalier de bibliothèque avec balustrade de pierre, plafond et panneaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Balustres petits dans une scène d'intérieur chargée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pièces de fer forgé à volutes jetées au sol.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Éléments de ferronnerie, pas des balustres."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Jarre de pierre et balustrade en pierre abîmée, mot gravé visible.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible et balustres cachés."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Balustrade de marbre de chœur d'église dont les balustres renflés à feuilles sont bien visibles.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.42,
+        "y": 0.185,
+        "largeur": 0.095,
+        "hauteur": 0.425
+      },
+      "lieu": "Salvador de Bahia, Brésil",
+      "note": "Colonnettes renflées en série sous une tablette ; rectangle sur un balustre."
+    }
   ]
 }

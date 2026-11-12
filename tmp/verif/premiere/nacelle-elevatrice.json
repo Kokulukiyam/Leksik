@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Moteur, pas l'engin."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion rail-route jaune avec nacelle élévatrice sur une voie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin hybride rail-route, ne montre pas une nacelle élévatrice classique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Nacelle araignée rouge dans une église en restauration.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Machine rognée en haut, scène sombre et chargée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Photo ancienne en noir et blanc d'une plateforme de bois tractée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo historique, pas une nacelle élévatrice."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Nacelle articulée bleue, bras déployé et panier en haut, sur une place en travaux.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.15,
+        "y": 0.04,
+        "largeur": 0.64,
+        "hauteur": 0.64
+      },
+      "lieu": "Lisburn, Irlande du Nord",
+      "note": "Machine entière et bien lisible ; rectangle sur l'engin."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gros plan d'un capteur sur un montant jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail illisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plateforme élévatrice jaune dans un tunnel en construction.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin petit et lointain, scène sombre."
     }
   ]
 }

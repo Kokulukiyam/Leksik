@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Personnes au premier plan, piscine absente."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Coin de bassin bleu vide, avec deux montants d'échelle inox au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "L'échelle domine : pourrait illustrer l'échelle de piscine."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Surface d'eau turquoise d'un bassin, reflets de lumière, volet au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage sur l'eau seule, sans bords ni contexte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Fillette au chapeau vert de dos devant un grand bassin d'hôtel flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Enfant au premier plan, bassin flou."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit bassin en forme de haricot dans un jardin, table blanche au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Bassin petit et masqué par la table."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison moderne et, au premier plan, un bassin rectangulaire à bords en carrelage vert d'eau sur la pelouse.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.7,
+        "largeur": 0.9,
+        "hauteur": 0.22
+      },
+      "lieu": "",
+      "note": "Piscine bien lisible ; rectangle sur le bassin pour écarter la maison au fond."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Jardin avec cyprès et pelouse, bassin étroit au loin devant un pavillon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Barbentane, France",
+      "note": "Bassin petit et lointain."
     }
   ]
 }

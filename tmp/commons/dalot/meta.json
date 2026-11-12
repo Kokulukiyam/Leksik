@@ -11,7 +11,9 @@
       "box culvert concrete"
     ],
     "incompatibles": [
-      "buse"
+      "buse",
+      "canal-d-eaux-pluviales",
+      "caniveau"
     ],
     "categoriesCommons": [
       "Category:Box culverts",
@@ -126,6 +128,117 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/A1c055_Concrete_box_culvert_sections_%2828440436347%29.jpg/1280px-A1c055_Concrete_box_culvert_sections_%2828440436347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2536,
       "hauteur": 1704
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:09419jfCandaba Santa Ana National Road Pasig Pansul Box Culvert Pampangafvf 10.jpg",
+      "description": "Santa Ana-Candaba, Pampanga National Road Pansul Box Culvert (National Road, Pasig, Candaba, Pampanga) K0072+496 Scenic Town proper of Candaba, Pampanga ; Candaba Riverside District (Lanang, Pasig, Mandasig and Pansinao, Candaba, Pampanga) in Candaba, Pampanga Barangays Pasig 15°6'4\"N 120°48'16\"E Buas 15°5'47\"N 120°49'27\"E Buas (Poblacion) , Paralaya (Poblacion) , beside San Agustin (Poblacion) , Lanang beside Mandasig , Candaba, Pampanga (all, at the foot of Mount Arayat , Pampanga, Scenery, Landscape of Paddy fields Irrigation; accessed from and along Barangays Tangos and Bagong Nayon , Bali",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Santa Ana-Candaba, Pampanga National Road",
+        "Box culverts"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_10.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_10.jpg/1280px-09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Culvert headwall at the old Ljubelj road.jpg",
+      "description": "Stonewater culvert at theold road to the Ljubelj pass",
+      "categories": [
+        "Loiblpass/Ljubelj",
+        "CC-Zero",
+        "Culverts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cultural monuments of Slovenia with known IDs"
+      ],
+      "auteur": "Ajznponar",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Culvert_headwall_at_the_old_Ljubelj_road.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Culvert_headwall_at_the_old_Ljubelj_road.jpg/1280px-Culvert_headwall_at_the_old_Ljubelj_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4640,
+      "hauteur": 3472
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:09419jfCandaba Santa Ana National Road Pasig Pansul Box Culvert Pampangafvf 14.jpg",
+      "description": "Santa Ana-Candaba, Pampanga National Road Pansul Box Culvert (National Road, Pasig, Candaba, Pampanga) K0072+496 Scenic Town proper of Candaba, Pampanga ; Candaba Riverside District (Lanang, Pasig, Mandasig and Pansinao, Candaba, Pampanga) in Candaba, Pampanga Barangays Pasig 15°6'4\"N 120°48'16\"E Buas 15°5'47\"N 120°49'27\"E Buas (Poblacion) , Paralaya (Poblacion) , beside San Agustin (Poblacion) , Lanang beside Mandasig , Candaba, Pampanga (all, at the foot of Mount Arayat , Pampanga, Scenery, Landscape of Paddy fields Irrigation; accessed from and along Barangays Tangos and Bagong Nayon , Bali",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Santa Ana-Candaba, Pampanga National Road",
+        "Box culverts"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_14.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_14.jpg/1280px-09419jfCandaba_Santa_Ana_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:2 OR 140 installing box culvert (52271961117).jpg",
+      "description": "Crews set the first of several new box culverts in place over Willow Creek. The box will be capped and the new roadway will be built on the first half during the Aug 19-22 full weekend closure. Aug. 8, 2022",
+      "categories": [
+        "Oregon Route 140",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs by the Oregon Department of Transportation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Box culverts"
+      ],
+      "auteur": "Oregon Department of Transportation",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2_OR_140_installing_box_culvert_(52271961117).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2_OR_140_installing_box_culvert_%2852271961117%29.jpg/1280px-2_OR_140_installing_box_culvert_%2852271961117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4056,
+      "hauteur": 3040
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:09353jfCandaba Municipal Infirmary National Road Pasig Pansul Box Culvert Pampangafvf 28.jpg",
+      "description": "Candaba Municipal Infirmary (National Road, Pasig, Candaba, Pampanga) Pansul Box Culvert (National Road, Pasig, Candaba, Pampanga) K0072+496 Scenic Town proper of Candaba, Pampanga ; Candaba Riverside District (Lanang, Pasig, Mandasig and Pansinao, Candaba, Pampanga) in Candaba, Pampanga Barangays Pasig 15°6'4\"N 120°48'16\"E Buas 15°5'47\"N 120°49'27\"E Buas (Poblacion) , Paralaya (Poblacion) , beside San Agustin (Poblacion) , Lanang beside Mandasig , Candaba, Pampanga (all, at the foot of Mount Arayat , Pampanga, Scenery, Landscape of Paddy fields Irrigation; accessed from and along Barangays Ta",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Santa Ana-Candaba, Pampanga National Road",
+        "Box culverts"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_28.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_28.jpg/1280px-09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:09353jfCandaba Municipal Infirmary National Road Pasig Pansul Box Culvert Pampangafvf 29.jpg",
+      "description": "Candaba Municipal Infirmary (National Road, Pasig, Candaba, Pampanga) Pansul Box Culvert (National Road, Pasig, Candaba, Pampanga) K0072+496 Scenic Town proper of Candaba, Pampanga ; Candaba Riverside District (Lanang, Pasig, Mandasig and Pansinao, Candaba, Pampanga) in Candaba, Pampanga Barangays Pasig 15°6'4\"N 120°48'16\"E Buas 15°5'47\"N 120°49'27\"E Buas (Poblacion) , Paralaya (Poblacion) , beside San Agustin (Poblacion) , Lanang beside Mandasig , Candaba, Pampanga (all, at the foot of Mount Arayat , Pampanga, Scenery, Landscape of Paddy fields Irrigation; accessed from and along Barangays Ta",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Santa Ana-Candaba, Pampanga National Road",
+        "Box culverts"
+      ],
+      "auteur": "Judgefloro",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_29.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_29.jpg/1280px-09353jfCandaba_Municipal_Infirmary_National_Road_Pasig_Pansul_Box_Culvert_Pampangafvf_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

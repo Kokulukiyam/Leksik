@@ -53,6 +53,54 @@
       },
       "lieu": "Campeche, Mexique",
       "note": "Rectangle sur le compteur seul ; câbles et coffret alentour."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Armoires électriques grises extérieures près d'un talus.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Armoires de distribution, pas des compteurs."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Distributeur de billets avec abri et compteur minuscule au fond.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compteur non lisible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Façade orange avec niche contenant coffrets, disjoncteurs et compteurs.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Tableau de branchement multiple : ambigu."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petit boîtier bleu-gris avec fenêtre de lecture sur un mur de béton, au-dessus d'un grillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Sent Macari, Gironde",
+      "note": "Compteur trop petit dans l'image et boîtier mixte (compteur et disjoncteur)."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Planche en bois portant plusieurs vieux compteurs et fusibles.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plusieurs appareils dispersés, vieux tableau confus."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Petit bâtiment dans une clairière de pins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Compteur absent."
     }
   ]
 }

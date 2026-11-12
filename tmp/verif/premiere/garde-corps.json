@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Hanovre, Allemagne",
       "note": "Image confuse et chargée (escaliers, rayons, plafonds) ; garde-corps peu lisible sur téléphone."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Escalier et mezzanine de verre avec rampes à lisses horizontales et mains courantes en bois, affiches sur un poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, affiches avec texte, main courante et lisses ambiguës."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Façade d'immeuble à galeries et balcons en fonte blanche.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps minuscules dans un ensemble de façade."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Orateur dans un kiosque à musique devant une balustrade en fonte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Personne au premier plan, garde-corps ornemental peu clair."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Rambarde métallique à barreaux fins, très floue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image floue, peu lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Escalier de pierre avec rambarde rustique en rondins, filigrane de site.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Filigrane et rambarde rustique peu typique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Immeubles blancs au bord d'une plage, petits garde-corps de balcons.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Garde-corps trop petits, scène de plage."
     }
   ]
 }

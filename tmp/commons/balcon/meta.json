@@ -12,6 +12,17 @@
       "wrought iron balcony facade",
       "balcon fer forgé",
       "stone balcony console facade"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "balustre",
+      "garde-corps-a-cables",
+      "garde-corps-a-lisses"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Balconies",
+      "Category:Balconies in France"
     ]
   },
   "candidats": [
@@ -262,7 +273,129 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Riverside_facade_of_Palais_Rohan%2C_Strasbourg_DSC00688_%2846985621941%29.jpg/1280px-Riverside_facade_of_Palais_Rohan%2C_Strasbourg_DSC00688_%2846985621941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4000,
       "hauteur": 3000
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Abyss - Flickr - Stiller Beobachter (1).jpg",
+      "description": "abyss",
+      "categories": [
+        "Balconies",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Stiller Beobachter",
+        "Human legs and feet"
+      ],
+      "auteur": "Stiller Beobachter from Ansbach, Germany",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abyss_-_Flickr_-_Stiller_Beobachter_(1).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg/1280px-Abyss_-_Flickr_-_Stiller_Beobachter_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4898,
+      "hauteur": 3265
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:Habitations Bon Marché Albert Thomas - Vitry-sur-Seine (FR94) - 2021-03-11 - 5.jpg",
+      "description": "Habitations à Bon Marché Albert Thomas, Vitry-sur-Seine.",
+      "categories": [
+        "Habitations à bon marché Albert-Thomas (Vitry-sur-Seine)",
+        "Self-published work",
+        "Balconies in France",
+        "Brickworks with relief patterns",
+        "Images by Chabe01 taken with iPhone XS",
+        "Île-de-France photographs taken on 2021-03-11",
+        "Files with coordinates missing SDC location of creation (48° N, 2° E)",
+        "March 2021 in Vitry-sur-Seine",
+        "Images of Vitry-sur-Seine by Chabe01"
+      ],
+      "auteur": "Chabe01",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Habitations_Bon_March%C3%A9_Albert_Thomas_-_Vitry-sur-Seine_(FR94)_-_2021-03-11_-_5.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Habitations_Bon_March%C3%A9_Albert_Thomas_-_Vitry-sur-Seine_%28FR94%29_-_2021-03-11_-_5.jpg/1280px-Habitations_Bon_March%C3%A9_Albert_Thomas_-_Vitry-sur-Seine_%28FR94%29_-_2021-03-11_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4032,
+      "hauteur": 3024
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Baitul Mokarram Mosque 112.jpg",
+      "description": "National Mosque of Bangladesh",
+      "categories": [
+        "Balconies",
+        "Self-published work",
+        "Mosque interiors",
+        "Project Korikath-All images",
+        "People praying",
+        "Muslim men",
+        "Images from Wiki Loves Folklore 2026",
+        "Images from Wiki Loves Folklore 2026 in Bangladesh",
+        "Uploaded via Campaign:wlf bd 2026",
+        "Islamic prayer"
+      ],
+      "auteur": "Frameofashik",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Baitul_Mokarram_Mosque_112.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Baitul_Mokarram_Mosque_112.jpg/1280px-Baitul_Mokarram_Mosque_112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4624,
+      "hauteur": 3468
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:2019-07-10 - Balcons à Mers-les-Bains.jpg",
+      "description": "Balcons à Mers-les-Bains",
+      "categories": [
+        "Mers-les-Bains",
+        "Wooden structures",
+        "Self-published work",
+        "Balconies in France",
+        "Images by Paul.schrepfer"
+      ],
+      "auteur": "Paul.schrepfer",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2019-07-10_-_Balcons_%C3%A0_Mers-les-Bains.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/2019-07-10_-_Balcons_%C3%A0_Mers-les-Bains.jpg/1280px-2019-07-10_-_Balcons_%C3%A0_Mers-les-Bains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Acre Balcony - panoramio.jpg",
+      "description": "Acre Balcony",
+      "categories": [
+        "Balconies",
+        "Old City of Acre",
+        "Panoramio files uploaded by Panoramio upload bot",
+        "Panoramio images reviewed by trusted users",
+        "Photos from Panoramio",
+        "Files with coordinates missing SDC location of creation",
+        "Photos from Panoramio ID 328581"
+      ],
+      "auteur": "ekeidar",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Acre_Balcony_-_panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Acre_Balcony_-_panoramio.jpg/1280px-Acre_Balcony_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Saint-Fargeau-Ponthierry-Mairie-IMG 4427.jpg",
+      "description": "Hôtel de ville de Saint-Fargeau-Ponthierry, Saint-Fargeau-Ponthierry, Seine-et-Marne, France",
+      "categories": [
+        "Taken with Canon EOS 60D",
+        "Balconies in France",
+        "Files uploaded by Poudou99",
+        "Arch windows in France",
+        "France photographs taken on 2012-06-09",
+        "Sloped windows in France",
+        "Ancien hôtel de ville de Saint-Fargeau-Ponthierry"
+      ],
+      "auteur": "Poudou99",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg/1280px-Saint-Fargeau-Ponthierry-Mairie-IMG_4427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4535,
+      "hauteur": 3023
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

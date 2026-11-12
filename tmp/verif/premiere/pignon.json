@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Seis am Schlern, Tyrol du Sud, Italie",
       "note": "Le triangle est surtout occupé par le balcon et les décors bois ; lecture ambiguë (balcon, rive, ferme débordante)."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand panneau peint de masques accroché dans un musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pignon cérémoniel exposé en musée, pas lisible comme pignon."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Angle d'un toit contre le ciel bleu, vu d'en dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Seule une pointe de toit est visible, pas un mur pignon."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur le sommet d'un pignon bardé de bardeaux, avec rives blanches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Détail de rives, ambigu (rampants, bandeau)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Usine de brique en noir et blanc, vue d'angle.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image ancienne en noir et blanc, pignon peu clair."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Schéma 3D d'un toit à pignons surligné en jaune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dessin, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade d'une église de brique en triangle, à grande baie vitrée cintrée, vue de face.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.1,
+        "y": 0.125,
+        "largeur": 0.74,
+        "hauteur": 0.67
+      },
+      "lieu": "Rendsburg, Allemagne",
+      "note": "Mur pignon triangulaire net, de face ; rectangle sur le pignon."
     }
   ]
 }

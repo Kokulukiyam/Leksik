@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Acre, Israël",
       "note": "Tous les objets sont des cadenas, sans ambiguïté."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Cadenas à anse en laiton massif, vu de face sur fond blanc (photo de produit).",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadenas typique, net et dominant."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Petit cadenas en laiton avec deux clés sur papier millimétré.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadenas net et dominant, anse en U visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vieux cadenas rouillé avec chaîne devant une pancarte « Lock from Bamberger Railroad ».",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Texte visible qui donne la réponse ; exposition de musée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Chaîne rouillée enroulée autour de barreaux d'une grille.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Le cadenas n'est pas visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Serrure à trou de clé sur une porte en fer rouillé ; un cadenas laiton à peine visible en bas.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "C'est un trou de serrure, cadenas en périphérie."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Trois cadenas de modèles différents posés sur une planche, avec leurs clés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo valable mais redondante avec les cadenas validés ; mise en scène de collection."
     }
   ]
 }

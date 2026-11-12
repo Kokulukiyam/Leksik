@@ -12,7 +12,8 @@
     ],
     "incompatibles": [
       "vitrine",
-      "rideau-metallique"
+      "rideau-metallique",
+      "store-banne"
     ],
     "categoriesCommons": [
       "Category:Shopfronts",
@@ -174,6 +175,155 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Lille_Et%C3%A92016_Maison_Meert.jpg/1280px-Lille_Et%C3%A92016_Maison_Meert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3564,
       "hauteur": 2936
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Bob's Donuts storefront, 2025.jpg",
+      "description": "Storefront of Bob's Donuts at its 1720 Polk Street, San Francisco location. The location was open 24 hours in 2025.",
+      "categories": [
+        "CC-Zero",
+        "Shopfronts",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Bob's Donuts"
+      ],
+      "auteur": "PacificDepths",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Bob%27s_Donuts_storefront,_2025.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bob%27s_Donuts_storefront%2C_2025.jpg/1280px-Bob%27s_Donuts_storefront%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Fleury-la-Vallée-FR-89-A-10.JPG",
+      "description": "Fleury-la-Vallée (Yonne, France), boulangerie-pâtisserie",
+      "categories": [
+        "Taken with Olympus E-520",
+        "Houses in Yonne",
+        "Self-published work",
+        "Shops in Yonne",
+        "Bakeries in Yonne",
+        "2013 in Yonne",
+        "Brick buildings in Yonne",
+        "Window shutters in Yonne",
+        "Cake shops in France",
+        "Shop signs in Yonne",
+        "Shopfronts in France",
+        "Two-story buildings in France",
+        "Wicket gates in France",
+        "Red shops in France",
+        "Shops in France photographed in 2013",
+        "Buildings in Fleury-la-Vallée"
+      ],
+      "auteur": "François GOGLINS",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fleury-la-Vall%C3%A9e-FR-89-A-10.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Fleury-la-Vall%C3%A9e-FR-89-A-10.JPG/1280px-Fleury-la-Vall%C3%A9e-FR-89-A-10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3280,
+      "hauteur": 2444
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Busy sidewalk in Johannesburg, South Africa.jpg",
+      "description": "Ceci est une image en rapport avec le thème \" Afrique et Transport \" en/au : Afrique du Sud",
+      "categories": [
+        "Green",
+        "Taken with Fujifilm X-T100",
+        "Blue",
+        "Johannesburg",
+        "Gauteng",
+        "Shopfronts",
+        "Images from Wiki Loves Africa 2020",
+        "Self-published work",
+        "Facades in South Africa",
+        "Advertisements in South Africa",
+        "Images from Wiki Loves Africa 2020 to check",
+        "Uploaded via Campaign:wlafrica",
+        "Maintenance for Wiki Loves Africa 2020",
+        "Images from Wiki Loves Africa 2020 in South Africa",
+        "People walking on sidewalks"
+      ],
+      "auteur": "Gsalamander",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Busy_sidewalk_in_Johannesburg,_South_Africa.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Busy_sidewalk_in_Johannesburg%2C_South_Africa.jpg/1280px-Busy_sidewalk_in_Johannesburg%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5081,
+      "hauteur": 3388
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Quincaillerie.jpg",
+      "description": "Une quincaillerie en Charente-Maritime (France)",
+      "categories": [
+        "Watering cans",
+        "GFDL",
+        "Taken with Olympus E-400",
+        "Le Château-d'Oléron",
+        "Fishing in France",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Self-published work",
+        "Shops in Charente-Maritime",
+        "Wicker baskets",
+        "2009 in Charente-Maritime",
+        "Hardware stores in Nouvelle-Aquitaine",
+        "Baskets of France",
+        "Shops in France photographed in 2009",
+        "Ironmongers shops in France",
+        "France photographs taken on 2009-04-22",
+        "Files with coordinates missing SDC location of creation",
+        "Shopfronts in France",
+        "Blue shops in France",
+        "Bait and tackle shops",
+        "Tools in Charente-Maritime"
+      ],
+      "auteur": "Myrabella",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Quincaillerie.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Quincaillerie.jpg/1280px-Quincaillerie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3648,
+      "hauteur": 2736
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:AxiomMOE.jpg",
+      "description": "Axiom Telecom showroom www.axiomtelecom.com",
+      "categories": [
+        "Taken with Canon PowerShot A520",
+        "PD-user",
+        "Shopfronts"
+      ],
+      "auteur": "Alaa2scorp sur Wikipédia anglais",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:AxiomMOE.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/AxiomMOE.jpg/1280px-AxiomMOE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1600,
+      "hauteur": 1200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Abita Springs Mystery House by John Preble.jpg",
+      "description": "The front entrance to a self-guided tour at the Abita Springs Mystery House Museum was created by a Louisiana artist known as John Preble.",
+      "categories": [
+        "Entrances",
+        "Abita Mystery House",
+        "Shopfronts",
+        "Self-published work",
+        "January 2023 in Louisiana",
+        "Accessibility in Louisiana",
+        "Files with coordinates missing SDC location of creation",
+        "2023 in Saint Tammany Parish, Louisiana",
+        "Red doors in Louisiana"
+      ],
+      "auteur": "Stockstill, Tiffany",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Abita_Springs_Mystery_House_by_John_Preble.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Abita_Springs_Mystery_House_by_John_Preble.jpg/1280px-Abita_Springs_Mystery_House_by_John_Preble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 4032
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

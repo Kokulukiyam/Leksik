@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ancienne, non pertinente."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Camion Iveco Trakker orange à cuve malaxeuse blanche, vu de trois quarts avant, sur une route en forêt.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Camion-toupie complet, net et dominant, rien d'autre qui prête à confusion (pompe, benne)."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo noir et blanc d'archive : un grand ensemble et, très petit au fond, un camion toupie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Budapest, Hongrie",
+      "note": "Ancien cliché, camion minuscule."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Manifestants masqués assis sur la cabine d'un camion à cuve.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Venezuela",
+      "note": "Foule au premier plan, la cuve n'est pas lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Soldat casqué actionnant des manettes sur le panneau de commande d'un malaxeur militaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "New Jersey, États-Unis",
+      "note": "Gros plan sur des commandes, pas un camion-toupie identifiable."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Centrale à béton avec silos et plusieurs camions garés au pied.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Unterengstringen, Suisse",
+      "note": "Les camions sont minuscules ; l'image montre surtout la centrale."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Camion jaune portant une machine Mikamate à trémie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Malaxeur-pompe mobile à trémie, pas un camion-toupie à cuve inclinée."
     }
   ]
 }

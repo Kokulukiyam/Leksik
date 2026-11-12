@@ -14,7 +14,9 @@
       "bardage",
       "tole-ondulee",
       "panneau-sandwich",
-      "bac-acier"
+      "bac-acier",
+      "panneau-composite-aluminium",
+      "acier-galvanise"
     ],
     "categoriesCommons": [
       "Category:Metal facades"
@@ -145,6 +147,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg/1280px-Bike_and_cladding_Tr%C3%A6_Sydhavnen_Tr%C3%A6_office_block_Southern_Harbour_Aarhus_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 4080,
       "hauteur": 2296
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden julesvernex2-3.jpg",
+      "description": "Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden",
+      "categories": [
+        "Taken with Fujifilm X-T3",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Sweden images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Metal facades",
+        "Buildings in Segeltorp",
+        "Favourite images by Julesvernex2",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Fujifilm XF 70-300mm f4-5.6 R LM OIS WR (X-mount) images by Julesvernex2",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-3.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-3.jpg/1280px-Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 6203,
+      "hauteur": 3670
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Blockheizkraftwerk Leipzig Möckern – Nordfassade mit Detail.jpg",
+      "description": "The combined heat and power plant (CHP) in Leipzig Möckern was commissioned by the Leipziger Stadtwerke on Wednesday, 24 March 2021. In the same year another CHP of this type went into operation in the district of Lausen. The design of the facade cladding made of metal by the architectural office thoma architekten won the German Facade Award 2022 for suspended ventilated facades. The German Fassadenpreis is an architectural prize awarded annually by Brillux since 1991.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Retouched pictures",
+        "Rainscreen cladding",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-04-08",
+        "Photographs by Augustgeyler",
+        "Blockheizkraftwerk Leipzig Nord-West"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Detail.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Detail.jpg/1280px-Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5531,
+      "hauteur": 3951
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Moscow, Foriver buildings (May 2025) shining 05.jpg",
+      "description": "Moscow, Foriver buildings, construction of the embankment and adjacent Foriver Residences site",
+      "categories": [
+        "CC-Zero",
+        "Self-published work",
+        "Foriver (residential complex)",
+        "Moscow photographs taken on 2025-05-23",
+        "Metal facades",
+        "Photographs by Retired electrician/newconstruction"
+      ],
+      "auteur": "Retired electrician",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Moscow,_Foriver_buildings_(May_2025)_shining_05.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Moscow%2C_Foriver_buildings_%28May_2025%29_shining_05.jpg/1280px-Moscow%2C_Foriver_buildings_%28May_2025%29_shining_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5184,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Blockheizkraftwerk Leipzig Möckern – Nordfassade mit Esse.jpg",
+      "description": "The combined heat and power plant (CHP) in Leipzig Möckern was commissioned by the Leipziger Stadtwerke on Wednesday, 24 March 2021. In the same year another CHP of this type went into operation in the district of Lausen. The design of the facade cladding made of metal by the architectural office thoma architekten won the German Facade Award 2022 for suspended ventilated facades. The German Fassadenpreis is an architectural prize awarded annually by Brillux since 1991.",
+      "categories": [
+        "Taken with Nikon D750",
+        "Retouched pictures",
+        "Rainscreen cladding",
+        "Self-published work",
+        "Information field template with formatting",
+        "Files with coordinates missing SDC location of creation",
+        "Leipzig photographs taken on 2023-04-08",
+        "Photographs by Augustgeyler",
+        "Blockheizkraftwerk Leipzig Nord-West"
+      ],
+      "auteur": "August Geyler",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Esse.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Esse.jpg/1280px-Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade_mit_Esse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3904,
+      "hauteur": 5466
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden julesvernex2-2.jpg",
+      "description": "Façade detail of the Land Rover Segeltorp dealership, Stockholm, Sweden",
+      "categories": [
+        "Taken with Fujifilm X-T3",
+        "Uploaded with LrMediaWiki",
+        "Files with coordinates missing SDC location of creation",
+        "Images by User:Julesvernex2",
+        "Sweden images by Julesvernex2",
+        "PPL1 images by Julesvernex2",
+        "Metal facades",
+        "Buildings in Segeltorp",
+        "Architecture images by Julesvernex2",
+        "Abstract(ish) images by Julesvernex2",
+        "Panorama images by Julesvernex2",
+        "Fujifilm XF 70-300mm f4-5.6 R LM OIS WR (X-mount) images by Julesvernex2",
+        "Taken with Fujinon XF70-300mm F4-5.6 R LM OIS WR"
+      ],
+      "auteur": "Jules Verne Times Two",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership,_Stockholm,_Sweden_julesvernex2-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-2.jpg/1280px-Fa%C3%A7ade_detail_of_the_Land_Rover_Segeltorp_dealership%2C_Stockholm%2C_Sweden_julesvernex2-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5632,
+      "hauteur": 5300
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Metal WMC 02.jpg",
+      "description": "Sheet steel cladding, Wales Millennium Centre, Cardiff, Wales",
+      "categories": [
+        "PD-user",
+        "Wales Millennium Centre",
+        "March 2008 in Cardiff",
+        "Steel facades"
+      ],
+      "auteur": "Seth Whales",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Metal_WMC_02.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Metal_WMC_02.jpg/1280px-Metal_WMC_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1831,
+      "hauteur": 1356
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

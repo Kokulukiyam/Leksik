@@ -13,6 +13,14 @@
       "baroque console balcony",
       "scroll bracket facade",
       "console sculptée façade"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "corbeau",
+      "modillon"
+    ],
+    "categoriesCommons": [
+      "Category:Corbels"
     ]
   },
   "candidats": [
@@ -263,7 +271,127 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg/1280px-Savoy_Theatre_-_Church_Street%2C_Monmouth_-_lantern_%2818535373294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 3216,
       "hauteur": 4288
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Carved cobles. Wellcome M0005716.jpg",
+      "description": "Carved cobles. Various designs and shades. Wellcome Images Keywords: Architecture; Architecture as Topic",
+      "categories": [
+        "Corbels",
+        "Files with no machine-readable author",
+        "Images uploaded by Fæ",
+        "Artworks without Wikidata item",
+        "Files from Wellcome Images (check needed)",
+        "Files from Wellcome Images"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Carved_cobles._Wellcome_M0005716.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Carved_cobles._Wellcome_M0005716.jpg/1280px-Carved_cobles._Wellcome_M0005716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3142,
+      "hauteur": 3353
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:Mearns Castle tower corbels, East Renfrewshire, Scotland.jpg",
+      "description": "Mearns Castle tower corbels, East Renfrewshire, Scotland.",
+      "categories": [
+        "Corbels",
+        "Mearns Castle",
+        "Self-published work",
+        "Images by Roger Griffith"
+      ],
+      "auteur": "Rosser1954",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mearns_Castle_tower_corbels,_East_Renfrewshire,_Scotland.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Mearns_Castle_tower_corbels%2C_East_Renfrewshire%2C_Scotland.jpg/1280px-Mearns_Castle_tower_corbels%2C_East_Renfrewshire%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3272,
+      "hauteur": 2145
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:Green Man, inv.nr. 9414.jpg",
+      "description": "Hoekkraagsteen in kalksteen met een voorstelling van 'de Groene Man', ofwel 'the Green Man'. De hoekige staart heeft een prismatisch profiel met tussenin halfrond profiel. Er is mogelijks een steenhouwersteken in de vorm van een 'V' op de zijde van de staart aangebracht.",
+      "categories": [
+        "Middle Ages",
+        "Archaeology",
+        "Stone sculptures",
+        "Corbels",
+        "Ten Duinen",
+        "Self-published work"
+      ],
+      "auteur": "Abbey Museum of the Dunes",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Green_Man,_inv.nr._9414.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Green_Man%2C_inv.nr._9414.jpg/1280px-Green_Man%2C_inv.nr._9414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2545,
+      "hauteur": 3187
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Corbel with Human Bust and Acanthus Leaves MET sf10-176-41s2.jpg",
+      "description": "Corbel; Sculpture",
+      "categories": [
+        "CC-Zero",
+        "Corbels",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of Islamic Art, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Acanthus leaves in art",
+        "Rogers Fund - Sculptures",
+        "Architectural sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s2.jpg/1280px-Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1903,
+      "hauteur": 2217
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:East Hagbourne, St. Andrew's Church, Lion chancel arch corbel - geograph.org.uk - 4975090.jpg",
+      "description": "East Hagbourne, St. Andrew's Church: Lion chancel arch corbel",
+      "categories": [
+        "Corbels",
+        "Images from Geograph Britain and Ireland",
+        "St Andrew's Church, East Hagbourne (interior)"
+      ],
+      "auteur": "Michael Garlick",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:East_Hagbourne,_St._Andrew%27s_Church,_Lion_chancel_arch_corbel_-_geograph.org.uk_-_4975090.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/East_Hagbourne%2C_St._Andrew%27s_Church%2C_Lion_chancel_arch_corbel_-_geograph.org.uk_-_4975090.jpg/1280px-East_Hagbourne%2C_St._Andrew%27s_Church%2C_Lion_chancel_arch_corbel_-_geograph.org.uk_-_4975090.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4879,
+      "hauteur": 3221
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Corbel with Human Bust and Acanthus Leaves MET sf10-176-41s1.jpg",
+      "description": "Corbel; Sculpture",
+      "categories": [
+        "CC-Zero",
+        "Corbels",
+        "Files with no machine-readable author",
+        "Artworks without Wikidata item",
+        "Artworks with known accession number",
+        "Department of Islamic Art, Metropolitan Museum of Art",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Acanthus leaves in art",
+        "Rogers Fund - Sculptures",
+        "Architectural sculptures in the Metropolitan Museum of Art"
+      ],
+      "auteur": "Inconnu",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg/1280px-Corbel_with_Human_Bust_and_Acanthus_Leaves_MET_sf10-176-41s1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1948,
+      "hauteur": 2300
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

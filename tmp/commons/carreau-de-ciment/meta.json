@@ -2,12 +2,22 @@
   "terme": {
     "id": "carreau-de-ciment",
     "terme": "le carreau de ciment",
-    "categorie": "Matériaux et revêtements",
-    "definition": "Carreau décoratif fait de ciment coloré pressé et séché, sans cuisson.",
+    "categorie": "Second œuvre et finitions",
+    "definition": "Carreau de sol épais en ciment, aux motifs colorés incrustés dans la masse, pressé et séché sans cuisson ; fréquent dans les maisons anciennes.",
     "requetes": [
       "carreaux de ciment",
       "encaustic cement tiles floor",
       "cement tiles"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "carrelage",
+      "carreau-hexagonal",
+      "tomette"
+    ],
+    "categoriesCommons": [
+      "Category:Cement tiles",
+      "Category:Encaustic tiles"
     ]
   },
   "candidats": [
@@ -109,6 +119,120 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Carreaux_de_ciment_des_escaliers_de_l%27h%C3%B4tel_Vial%C3%A8tes_de_Mortarieu.jpg/1280px-Carreaux_de_ciment_des_escaliers_de_l%27h%C3%B4tel_Vial%C3%A8tes_de_Mortarieu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 1444,
       "hauteur": 1446
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Raffi kojian-hoi an-152418488.jpg",
+      "description": "Cement tile floor in Hoi An",
+      "categories": [
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cement tiles"
+      ],
+      "auteur": "RaffiKojian",
+      "licence": "CC BY 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Raffi_kojian-hoi_an-152418488.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Raffi_kojian-hoi_an-152418488.jpg/1280px-Raffi_kojian-hoi_an-152418488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:All Souls', Haley Hill, Halifax (2856191775).jpg",
+      "description": "Tiling on the floor of the choir",
+      "categories": [
+        "All Souls' Church, Haley Hill, Halifax",
+        "Flickr images reviewed by FlickreviewR",
+        "Files uploaded by INeverCry",
+        "Encaustic tiles",
+        "Files with coordinates missing SDC location of creation (53° N, 2° W)"
+      ],
+      "auteur": "Tim Green from Bradford",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:All_Souls%27,_Haley_Hill,_Halifax_(2856191775).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/All_Souls%27%2C_Haley_Hill%2C_Halifax_%282856191775%29.jpg/1280px-All_Souls%27%2C_Haley_Hill%2C_Halifax_%282856191775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1957,
+      "hauteur": 1815
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Les carreaux de ciment coloré de Chettinad (Inde) (13928983777).jpg",
+      "description": "Dans le Chettinad, on fabrique de manière artisanale des carreaux de ciment très brillants décorés de motifs variés (appelés \"Athangudi Tiles\" du nom du village du Chettinad qui a développé le procédé) Ces carreaux ont été très utilisés dans les maisons de la communauté Chettiar. Les dalles sont faites à partir d’argile que l’on trouve localement. Les couleurs sont mélangées à du ciment blanc et versées dans un moule sur une base de verre, ce qui permet de donne à la tuile une surface lisse et brillante. Après sa conception, la dalle est séchée au soleil puis plongée dans l’eau pendant quelque",
+      "categories": [
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Jean-Pierre Dalbéra",
+        "Files with coordinates missing SDC location of creation",
+        "Athangudi Tiles"
+      ],
+      "auteur": "Jean-Pierre Dalbéra from Paris, France",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Les_carreaux_de_ciment_color%C3%A9_de_Chettinad_(Inde)_(13928983777).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Les_carreaux_de_ciment_color%C3%A9_de_Chettinad_%28Inde%29_%2813928983777%29.jpg/1280px-Les_carreaux_de_ciment_color%C3%A9_de_Chettinad_%28Inde%29_%2813928983777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1638,
+      "hauteur": 1167
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Ladrilho da igrejinha de balneário rincão.jpg",
+      "description": "Ladrilho hidráulico da antiga Igreja de Nossa Senhora dos Navegantes",
+      "categories": [
+        "CC-Zero",
+        "Balneário Rincão",
+        "Self-published work",
+        "Files with coordinates missing SDC location of creation",
+        "Cement tiles"
+      ],
+      "auteur": "Elizênio",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ladrilho_da_igrejinha_de_balne%C3%A1rio_rinc%C3%A3o.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ladrilho_da_igrejinha_de_balne%C3%A1rio_rinc%C3%A3o.jpg/1280px-Ladrilho_da_igrejinha_de_balne%C3%A1rio_rinc%C3%A3o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 2997
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:W.T. Pike Contemporary Biographies Sussex 1910 (54a).JPG",
+      "description": "Contemporary Biographies , by W.T. Pike, including \"Sussex at the opening of the Twentieth Century\". (Pike's New Century Series, un-numbered). Published in 1910 by W.T. Pike & Co., 19 Grand Parade, Brighton. In this copy of the book, the last few pages, including the indexes, are damaged, with some content missing. The volumes in this series each contain an illustrated section about the county, followed by a long list of short biographies (each with a photographic portrait) of men of the county who were alive at the time of publication (plus a few who had recently died). Each volume has an ind",
+      "categories": [
+        "Keymer",
+        "PD-old-70-expired",
+        "Template Unknown (author)",
+        "CC-PD-Mark",
+        "Encaustic tiles",
+        "PD-old missing SDC copyright status",
+        "W.T. Pike Contemporary Biographies (Sussex), illustrations"
+      ],
+      "auteur": "Auteur inconnu Unknown author",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:W.T._Pike_Contemporary_Biographies_Sussex_1910_(54a).JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/W.T._Pike_Contemporary_Biographies_Sussex_1910_%2854a%29.JPG/1280px-W.T._Pike_Contemporary_Biographies_Sussex_1910_%2854a%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3620,
+      "hauteur": 2080
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Encaustic Tile MET 239077.jpg",
+      "description": "American; Encaustic tile; Ceramics",
+      "categories": [
+        "CC-Zero",
+        "Artworks without Wikidata item",
+        "Encaustic floor tiles",
+        "American Encaustic Tiling Company",
+        "Artworks with known accession number",
+        "Images from Metropolitan Museum of Art",
+        "GWToolset Batch Upload",
+        "Gallery 774, Metropolitan Museum of Art",
+        "Ceramics in the Metropolitan Museum of Art (American Decorative Arts)",
+        "American Encaustic Tile Company"
+      ],
+      "auteur": "Creator:American Encaustic Tile Company",
+      "licence": "CC0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Encaustic_Tile_MET_239077.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Encaustic_Tile_MET_239077.jpg/1280px-Encaustic_Tile_MET_239077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2100,
+      "hauteur": 1732
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

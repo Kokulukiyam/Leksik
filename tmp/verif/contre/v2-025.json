@@ -1,0 +1,277 @@
+[
+ {
+  "cle": "meneau/07",
+  "accord": true,
+  "raison": "Montant de pierre qui divise la baie gothique, encadré."
+ },
+ {
+  "cle": "trumeau/11",
+  "accord": false,
+  "raison": "Pilier central d'un portail (trumeau au sens de la sculpture romane), pas un pan de mur entre deux baies comme le dit la définition."
+ },
+ {
+  "cle": "oeil-de-boeuf/07",
+  "accord": true,
+  "raison": "Petite baie ronde dans le pignon, encadrée."
+ },
+ {
+  "cle": "imposte/09",
+  "accord": true,
+  "raison": "Partie haute vitrée en éventail au-dessus de la porte."
+ },
+ {
+  "cle": "imposte/11",
+  "accord": true,
+  "raison": "Imposte vitrée cintrée au-dessus d'une porte en bois."
+ },
+ {
+  "cle": "voile-d-ombrage/10",
+  "accord": true,
+  "raison": "Voiles tendues au-dessus d'une cour."
+ },
+ {
+  "cle": "mur-vegetal/07",
+  "accord": true,
+  "raison": "Grand mur planté intérieur (photo réelle, Jason O'Rear)."
+ },
+ {
+  "cle": "devanture/08",
+  "accord": true,
+  "raison": "Devanture de boulangerie encadrée au rez-de-chaussée."
+ },
+ {
+  "cle": "devanture/10",
+  "accord": true,
+  "raison": "Façade de boutique complète avec vitrines et enseigne."
+ },
+ {
+  "cle": "croupe/15",
+  "accord": false,
+  "raison": "Croupe petite et lointaine, et le rectangle englobe surtout une lucarne : « la lucarne » serait une réponse plausible."
+ },
+ {
+  "cle": "terrasse-accessible/12",
+  "accord": true,
+  "raison": "Toiture-terrasse en bois aménagée avec tables et bacs."
+ },
+ {
+  "cle": "toiture-vegetalisee/09",
+  "accord": true,
+  "raison": "Toit plat planté vu d'en haut."
+ },
+ {
+  "cle": "toiture-vegetalisee/11",
+  "accord": true,
+  "raison": "Toit en herbe sur un chalet en rondins."
+ },
+ {
+  "cle": "arc/11",
+  "accord": true,
+  "raison": "Arc de pierre clairement dessiné sur le ciel."
+ },
+ {
+  "cle": "fronton/08",
+  "accord": true,
+  "raison": "Fronton triangulaire mouluré, légèrement coupé mais reconnaissable."
+ },
+ {
+  "cle": "moellon/07",
+  "accord": true,
+  "raison": "Murets en moellons bruts, bien lisibles."
+ },
+ {
+  "cle": "parement-en-pierre/11",
+  "accord": true,
+  "raison": "Parement en plaquettes de pierre devant le mur d'entrée."
+ },
+ {
+  "cle": "carreau-de-ciment/09",
+  "accord": true,
+  "raison": "Carreaux de ciment à motifs incrustés."
+ },
+ {
+  "cle": "carreau-de-ciment/10",
+  "accord": true,
+  "raison": "Sol en carreaux de ciment à motif d'étoiles."
+ },
+ {
+  "cle": "toron/08",
+  "accord": true,
+  "raison": "Rangées de torons en saillie sur la tour de la mosquée en banco."
+ },
+ {
+  "cle": "benne-a-gravats/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "nacelle-elevatrice/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "coffrage-metallique/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "bulldozer/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "plaque-vibrante/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "plaque-vibrante/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "grue-a-tour/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "marteau-piqueur/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "cle-serre-tube/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "allee/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "potelet/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "abribus/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "haie/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "gabion/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "gabion/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "fenetre/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "poignee-de-fenetre/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "cadenas/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "cadenas/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "lavabo/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "lavabo/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "wc-a-la-turque/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "wc-a-la-turque/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "chateau-d-eau/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "chateau-d-eau/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "prise-de-courant/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "ampoule/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "ampoule/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "applique/07",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "applique/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "applique/11",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "ventilateur-de-plafond/08",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "ventilateur-de-plafond/09",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "ventilateur-de-plafond/12",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ },
+ {
+  "cle": "extincteur/10",
+  "accord": true,
+  "raison": "Élément clair, dominant ou encadré de près ; aucun terme voisin plausible."
+ }
+]

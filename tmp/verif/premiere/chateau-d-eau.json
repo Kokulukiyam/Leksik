@@ -58,6 +58,54 @@
       },
       "lieu": "Saadani, Tanzanie",
       "note": "Château d'eau sur fût, net et dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Réservoir sphérique blanc sur fût, portant « EL PASO », sur ciel bleu avec la lune.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "El Paso, Illinois, États-Unis",
+      "note": "Réservoir en partie coupé et nom de ville dominant ; image moins nette que d'autres."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Château d'eau métallique à cuve cylindrique grise sur pylône d'acier, vu en contre-plongée.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Colorado, États-Unis",
+      "note": "Cuve sur pylône, bien identifiable malgré le feuillage flou."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Château d'eau à cuve sphérique blanche sur un fût bleu évasé, au milieu de pins.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Bromölla, Suède",
+      "note": "Réservoir surélevé sur fût, net et dominant."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Cuve de château d'eau portant « CROOKS » au-dessus des arbres, ciel couvert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Crooks, Dakota du Sud, États-Unis",
+      "note": "Fût caché et nom en grand ; cadrage serré."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Grand réservoir cylindrique au sol sur une colline habitée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Réservoir posé au sol, pas surélevé."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Tour d'eau en brique en HDR sous un ciel chargé, avec filigrane.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image retouchée (HDR), tour petite."
     }
   ]
 }

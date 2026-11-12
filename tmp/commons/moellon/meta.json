@@ -7,6 +7,15 @@
     "requetes": [
       "rubble masonry wall",
       "mur en moellons"
+    ],
+    "priorite": 2,
+    "incompatibles": [
+      "mur-en-moellons",
+      "opus-incertum",
+      "pierre-de-taille"
+    ],
+    "categoriesCommons": [
+      "Category:Stone walls"
     ]
   },
   "candidats": [
@@ -141,6 +150,141 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Masonry_revetments_along_the_foot_of_the_cliff_face%2C_Citadel%2C_Victoria_Gozo_03.jpg/1280px-Masonry_revetments_along_the_foot_of_the_cliff_face%2C_Citadel%2C_Victoria_Gozo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6666,
       "hauteur": 4545
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:20100927 aqaba024.JPG",
+      "description": "Aqaba : environs du fort, sur le boulevard côtier.",
+      "categories": [
+        "Walls in Jordan",
+        "GFDL",
+        "Stone walls",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Aqaba Fort",
+        "License migration redundant",
+        "Self-published work",
+        "September 2010 in Jordan",
+        "Squares in Aqaba",
+        "Streets in Aqaba",
+        "2010 in Aqaba",
+        "Jordan photographs taken on 2010-09-27",
+        "2010 photos by user Jean Housen",
+        "Photos of Jordan by user Jean Housen",
+        "Stairs in Aqaba",
+        "Office buildings in Aqaba"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100927_aqaba024.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/20100927_aqaba024.JPG/1280px-20100927_aqaba024.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Artistic wall architecture.jpg",
+      "description": "Image title: Artistic wall architecture Image from Public domain images website, http://www.public-domain-image.com/full-image/architecture-public-domain-images-pictures/walls-public-domain-images-pictures/artistic-wall-architecture.jpg.html",
+      "categories": [
+        "PD-author",
+        "Stone walls",
+        "Images uploaded by Fæ",
+        "Public-domain-image.com",
+        "Public-domain-image.com (check needed)"
+      ],
+      "auteur": "Georges Grondin",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Artistic_wall_architecture.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Artistic_wall_architecture.jpg/1280px-Artistic_wall_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2048,
+      "hauteur": 1536
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:2011-365-224 Who Left the Front Door Open? (6037727584).jpg",
+      "description": "There are so many photogenic old barns and silos along highway 16 between Edmonton and Saskatoon....",
+      "categories": [
+        "Stone walls",
+        "Canadian Prairies",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Photographs by Alan Levine"
+      ],
+      "auteur": "cogdogblog",
+      "licence": "CC BY 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2011-365-224_Who_Left_the_Front_Door_Open%3F_(6037727584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg/1280px-2011-365-224_Who_Left_the_Front_Door_Open%3F_%286037727584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4752,
+      "hauteur": 3168
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:20100927 aqaba026.JPG",
+      "description": "La forteresse d'Aqaba — Jordan.",
+      "categories": [
+        "Walls in Jordan",
+        "Stone walls",
+        "Aqaba Fort",
+        "Self-published work",
+        "Stone buildings in Jordan",
+        "September 2010 in Jordan",
+        "2010 in Aqaba",
+        "Jordan photographs taken on 2010-09-27",
+        "2010 photos by user Jean Housen",
+        "Photos of Jordan by user Jean Housen",
+        "Gates in Aqaba"
+      ],
+      "auteur": "Jean Housen",
+      "licence": "CC BY 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:20100927_aqaba026.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/20100927_aqaba026.JPG/1280px-20100927_aqaba026.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2592
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:2012-03-05-Hurghada-12.jpg",
+      "description": "The Turtle House on the Golf course El Gouna near Hurghada , Egypt",
+      "categories": [
+        "Taken with iPhone 4",
+        "Stone walls",
+        "Images with annotations",
+        "Sunshades",
+        "2000s architecture",
+        "Self-published work",
+        "Photos by R. Engelhardt (Golf)",
+        "Egypt photographs taken on 2012-02-21",
+        "Files with coordinates missing SDC location of creation",
+        "Golf course El Gouna (Egypt)",
+        "Turtle house (el-Gouna)",
+        "Turtle house donkey (Egypt)"
+      ],
+      "auteur": "R-E-AL ( talk | contribs | Gallery ) (German Wikipedia)",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:2012-03-05-Hurghada-12.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2012-03-05-Hurghada-12.jpg/1280px-2012-03-05-Hurghada-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2590,
+      "hauteur": 1934
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:A Stone House With a Stone Wall.jpg",
+      "description": "This house in Lamu has been redesigned with modern stone architecture which is appealing to the residents.",
+      "categories": [
+        "Stone buildings",
+        "Stone walls",
+        "Houses in Kenya",
+        "Self-published work",
+        "Walls in Kenya",
+        "Buildings in Lamu"
+      ],
+      "auteur": "Naima Idris",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:A_Stone_House_With_a_Stone_Wall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/A_Stone_House_With_a_Stone_Wall.jpg/1280px-A_Stone_House_With_a_Stone_Wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 4000
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

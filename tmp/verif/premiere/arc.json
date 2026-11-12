@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "Temple Tongdosa, Corée du Sud",
       "note": "Arches surbaissées vues de biais, intrados visible (voûte) ; moins nette que 02 et 05."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Grand arc de brique d'une ruine romaine, très sombre, avec une tour au loin.",
+      "verdict": "rejetée",
+      "note": "Sous-exposée, ruine peu lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Arche gonflable bleue d'une course de parapente, avec une famille devant.",
+      "verdict": "rejetée",
+      "note": "Structure gonflable avec publicité.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Image floue en pose longue d'une façade à arcs et escaliers.",
+      "verdict": "rejetée",
+      "note": "Floue.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Tunnels de verdure en arceaux le long d'un chemin enneigé.",
+      "verdict": "rejetée",
+      "note": "Treillis végétal, pas d'architecture maçonnée.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Arc de pierre de granite en ruine, vu d'en dessous sur un ciel bleu, avec du lierre.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Arc appareillé clair et dominant ; photo un peu sombre mais lisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Galerie abandonnée à arcades le long d'un mur, perspective profonde.",
+      "verdict": "rejetée",
+      "note": "Plutôt arcade ou galerie, plusieurs arcs.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

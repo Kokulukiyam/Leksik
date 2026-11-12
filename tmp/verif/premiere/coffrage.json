@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Moscou, Russie",
       "note": "Moule de voûte béton clair ; coffrage métallique incompatible donc acceptable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Plateaux de coffrage de voûte en chantier, platines boulonnées au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure complexe, ambigu avec étaiement."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Deux grues et tours de béton coffrées, vues de loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrages minuscules."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Ouvriers devant des poteaux de béton et un coffrage de poteau, feuillage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, coffrage peu net."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Coffrage de voûte de tunnel métallique noir vu d'en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffrage de tunnel spécialisé, peu typique, texte visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Dalle coffrée sur étais métalliques avec solives de bois, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Les étais dominent : confusion avec étai ; marque visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvrier devant des coffrages de poteaux et de voile avec armatures.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Scène encombrée, marque lisible, coffrage peu clair."
     }
   ]
 }

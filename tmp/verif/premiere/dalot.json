@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Louisville, États-Unis",
       "note": "Dalot rectangulaire net et dominant."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Route droite bordée de palmiers, Philippines.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot invisible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Mur de pierre bas au bord d'un chemin forestier, ouvrage d'eau en pierre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Ouvrage maçonné en pierre, pas un dalot en béton."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Route droite avec enseignes et palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot invisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue aérienne d'un chantier routier avec grue et bennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot minuscule et incertain."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Route avec palmiers et lampadaire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot invisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Route droite bordée de palmiers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Dalot invisible."
     }
   ]
 }

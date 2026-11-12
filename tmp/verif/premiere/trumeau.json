@@ -58,6 +58,59 @@
       "rectangle": null,
       "lieu": "Münster, Allemagne",
       "note": "Trumeau trop petit dans l'image ; doublon de 01."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Portail d'église gothique sous une grande voussure, fermé par une grille en fer forgé.",
+      "verdict": "rejetée",
+      "note": "Grille qui masque le portail, pas de trumeau net.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Maison à toit de tuiles avec porte centrale encadrée de deux grosses colonnes blanches.",
+      "verdict": "rejetée",
+      "note": "Pas de pan de mur net entre deux baies.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Gros plan sur le côté d'un portail gothique : pilier orné d'une statue et portes de bois.",
+      "verdict": "rejetée",
+      "note": "Gros plan sur la statue et son dais, cadrage trop serré ; mêmes motifs rejetés avant.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Petite porte en arc surbaissé en bois ferré dans un mur de pierres irrégulières.",
+      "verdict": "rejetée",
+      "note": "Une seule baie, pas de trumeau.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Portail à deux portes cintrées sous une grande voussure, séparées par un pilier central portant une petite statue.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.43,
+        "y": 0.35,
+        "largeur": 0.13,
+        "hauteur": 0.51
+      },
+      "lieu": "",
+      "note": "Pilier central entre les deux portes, nettement isolé par le rectangle."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Façade coloniale à bossages avec porte au centre et fenêtres grillagées.",
+      "verdict": "rejetée",
+      "note": "Murs pleins mais sans trumeau clairement identifiable entre deux baies.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "Montauban, France",
       "note": "Collage de plusieurs photos (image retouchée), pas une photo unique."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Table de café en bois dont le plateau est garni de quatre carreaux décorés.",
+      "verdict": "rejetée",
+      "note": "Réemploi en plateau de table, pas de pose en sol, verre et serviette au premier plan.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Pavement d'église en carreaux de céramique vernissée avec écusson héraldique.",
+      "verdict": "rejetée",
+      "note": "Carreaux de terre cuite encaustiques, pas des carreaux de ciment.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Carreaux de ciment colorés à motifs floraux et frises disposés au sol, fabrication artisanale.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Chettinad, Inde",
+      "note": "Carreaux de ciment décorés bien lisibles (Athangudi) ; plusieurs motifs, aucune ambiguïté."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sol couvert de carreaux hydrauliques à motif d'étoiles et de cubes en perspective, ocre et brun.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Balneário Rincão, Brésil",
+      "note": "Pavement de carreaux de ciment à motifs géométriques, plein cadre."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Gravure de deux carreaux médiévaux à profils humains.",
+      "verdict": "rejetée",
+      "note": "Gravure ancienne, carreaux de terre cuite.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Carreau décoratif carré à motif floral posé sur fond gris, photo noir et blanc.",
+      "verdict": "rejetée",
+      "note": "Carreau encaustique de musée, noir et blanc.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

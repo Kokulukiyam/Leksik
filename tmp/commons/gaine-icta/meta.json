@@ -16,5 +16,7 @@
       "chemin-de-cables"
     ]
   },
-  "candidats": []
+  "candidats": [],
+  "suite": true,
+  "suiteCategories": true
 }

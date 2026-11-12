@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Chaînage non identifiable."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Chantier de pont ferroviaire avec coffrage bois et acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Leipzig, Allemagne",
+      "note": "Pas un chaînage."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Tour moderne à façade béton avec lignes de bandeaux.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Angleterre",
+      "note": "Chaînage non identifiable."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Soubassement de brique d'un vieux bâtiment, dans la végétation.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Chaînage non visible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Mur de béton fissuré par la corrosion de l'acier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Port Elizabeth, Afrique du Sud",
+      "note": "Désordre du béton, pas un chaînage."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Façade en briques avec porte à arc brisé.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lüneburg, Allemagne",
+      "note": "Chaînage non identifiable."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvriers assemblant une cage d'armature de poteau.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cage d'armature, pas un chaînage dans une maçonnerie."
     }
   ]
 }

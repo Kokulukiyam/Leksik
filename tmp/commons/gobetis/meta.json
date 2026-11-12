@@ -14,5 +14,7 @@
       "enduit"
     ]
   },
-  "candidats": []
+  "candidats": [],
+  "suite": true,
+  "suiteCategories": true
 }

@@ -48,6 +48,59 @@
       "rectangle": null,
       "lieu": "Wyoming, États-Unis",
       "note": "Chenilles et lame bien visibles, engin dominant malgré la fumée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Lame d'un bulldozer devant des maisons détruites avec deux passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image militante, engin tronqué."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Photo ancienne noir et blanc d'un bulldozer en forêt.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vieille photo, engin masqué par l'ouvrier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Piste de terre au bulldozer, incendie au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin minuscule."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Bulldozer au fond avec des hommes au premier plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin lointain et masqué."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bulldozer à chenilles jaune, lame à gauche, posé sur un tas de gravats.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.2,
+        "y": 0.22,
+        "largeur": 0.6,
+        "hauteur": 0.47
+      },
+      "lieu": "Indonésie",
+      "note": "Engin entier de profil, lisible ; rectangle sur la machine pour écarter l'enseigne et le décor."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Bulldozer militaire suspendu à un portique de levage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Engin en l'air, vue atypique."
     }
   ]
 }

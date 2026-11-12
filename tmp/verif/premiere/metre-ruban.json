@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Ruban de couture souple, pas un mètre ruban de chantier."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Ruban à mesurer ancien en boîtier de cuir, étiquette de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Décamètre ancien en boîtier de cuir avec numéro de collection visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Compteurs de rangs de tricot colorés avec un mètre de couturière.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mètre de couturière, pas un mètre ruban de chantier."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plongeur sous l'eau dans une eau verte.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Puget Sound, États-Unis",
+      "note": "Le ruban n'est pas identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Sculpture géante d'un dé à coudre et d'un ruban de couture peinte sur une place.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Toronto, Canada",
+      "note": "Œuvre d'art urbaine, ruban gradué de couturière."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Ruban de couturière souple en papier blanc et rouge, replié.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Mètre de couturier, pas un ruban métallique enroulé dans un boîtier."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Atelier de fourreur avec une règle graduée sur la table.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Kastoria, Grèce",
+      "note": "Ruban absent ou minuscule."
     }
   ]
 }

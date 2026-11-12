@@ -7,6 +7,10 @@
     "requetes": [
       "incategory:\"Gables\"",
       "pignon maison"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Gables"
     ]
   },
   "candidats": [
@@ -146,6 +150,147 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Villa_Bergfried_Seis_Giebel.jpg/1280px-Villa_Bergfried_Seis_Giebel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 6384,
       "hauteur": 4912
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Giebelwand eines Zeremonial-Giebelhauses der Abelam in Kinbangwa.JPG",
+      "description": "Giebelwand eines Zeremonial-Giebelhauses der Abelam in Kinbangwa, Nord-Guinea (Exponat im Staatlichen Museum für Völkerkunde München, aus der Sammlung Adolf J. Schuster, Neuendettelsau, erworben 1975)",
+      "categories": [
+        "Germany photographs taken on 2007-11-25",
+        "Culture of Papua New Guinea",
+        "Taken with Fujifilm FinePix S5700",
+        "Gables",
+        "Dance in paintings",
+        "Abelam people",
+        "Self-published work",
+        "PD-self",
+        "Museum Fünf Kontinente – Dauerausstellung Ozeanien",
+        "User:Mattes/Contributions/Topics/Arts",
+        "Work by Mattes 2007",
+        "User:Mattes/Contributions/Topics/Germany/München",
+        "File uploads by User:Mattes (flat)",
+        "Paintings of ghosts",
+        "Kinbangwa"
+      ],
+      "auteur": "User:Mattes",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Giebelwand_eines_Zeremonial-Giebelhauses_der_Abelam_in_Kinbangwa.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Giebelwand_eines_Zeremonial-Giebelhauses_der_Abelam_in_Kinbangwa.JPG/1280px-Giebelwand_eines_Zeremonial-Giebelhauses_der_Abelam_in_Kinbangwa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2304,
+      "hauteur": 3072
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:Empena Dupla.jpg",
+      "description": "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, sob o azul do céu paulistano.",
+      "categories": [
+        "Taken with Sony DSC-WX9",
+        "Gables",
+        "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2016",
+        "Uploaded via Campaign:wlm-br",
+        "Images from Wiki Loves Monuments 2016 in Brazil",
+        "Files with coordinates missing SDC location of creation",
+        "Images from Wiki Loves Monuments 2016 in Brazil - São Paulo",
+        "Brazil photographs taken on 2015-08-10",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Obviously ineligible submissions for WLM 2016 in Brazil"
+      ],
+      "auteur": "Andre Enrico Cassettari Zanolla",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Empena_Dupla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Empena_Dupla.jpg/1280px-Empena_Dupla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4608,
+      "hauteur": 3456
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Gable - Pignon (417204254).jpg",
+      "description": "Gable - Pignon",
+      "categories": [
+        "Gables",
+        "Files with coordinates missing SDC location of creation",
+        "Flickr images reviewed by FlickreviewR 2",
+        "Photographs by Daniel Paquet",
+        "Architectural elements in Regina",
+        "March 2007 in Regina, Saskatchewan"
+      ],
+      "auteur": "Daniel Paquet from Regina, Canada",
+      "licence": "CC BY-SA 2.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gable_-_Pignon_(417204254).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Gable_-_Pignon_%28417204254%29.jpg/1280px-Gable_-_Pignon_%28417204254%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3504,
+      "hauteur": 2336
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:From the Charles A. Farrell Photo Collection, PhC.9, State Archives of North Carolina, Raleigh, NC. (19120770381).jpg",
+      "description": "From the Charles A. Farrell Photo Collection, PhC.9, State Archives of North Carolina, Raleigh, NC.",
+      "categories": [
+        "Gables",
+        "Photos uploaded from Flickr by Fæ using a script",
+        "Flickr images reviewed by FlickreviewR",
+        "Black and white photographs of buildings",
+        "Files from Flickr's 'The Commons'",
+        "Unidentified buildings in the United States",
+        "Media from the North Carolina Department of Cultural Resources",
+        "Images from the State Archives of North Carolina"
+      ],
+      "auteur": "State Archives of North Carolina",
+      "licence": "No restrictions",
+      "lien": "https://commons.wikimedia.org/wiki/File:From_the_Charles_A._Farrell_Photo_Collection,_PhC.9,_State_Archives_of_North_Carolina,_Raleigh,_NC._(19120770381).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/From_the_Charles_A._Farrell_Photo_Collection%2C_PhC.9%2C_State_Archives_of_North_Carolina%2C_Raleigh%2C_NC._%2819120770381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 1000,
+      "hauteur": 618
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Gables.jpg",
+      "description": "A 3-D diagram of a single-story house with a cross-gabled roof. Areas highlighted in yellow are the actual gables.",
+      "categories": [
+        "Architectural diagrams",
+        "Gables",
+        "ArchiCAD",
+        "Gable roofs",
+        "Self-published work",
+        "3D architectural drawings",
+        "Illustrations of roof forms",
+        "Cross gables"
+      ],
+      "auteur": "KDS444",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Gables.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Gables.jpg/1280px-Gables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1394,
+      "hauteur": 928
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Church, Rendsburg (P1100584).jpg",
+      "description": "New apostolic church in Rendsburg",
+      "categories": [
+        "Images from Wiki Loves Monuments 2020 in Germany",
+        "GFDL",
+        "Gables",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Images from Wiki Loves Monuments 2020",
+        "Taken with Panasonic Lumix DMC-GH1 and Panasonic Lumix G Vario HD 14-140mm F4.0-5.8 Asph Mega OIS",
+        "Neuapostolische Kirche (Rendsburg, 1960-2019)"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Church,_Rendsburg_(P1100584).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Church%2C_Rendsburg_%28P1100584%29.jpg/1280px-Church%2C_Rendsburg_%28P1100584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3000,
+      "hauteur": 3330
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

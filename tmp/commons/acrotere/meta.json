@@ -12,6 +12,15 @@
       "parapet flat roof building",
       "toiture-terrasse acrotère",
       "modernist building flat roof parapet"
+    ],
+    "incompatibles": [
+      "garde-corps",
+      "garde-corps-maconne"
+    ],
+    "priorite": 1,
+    "categoriesCommons": [
+      "Category:Parapets",
+      "Category:Roof parapets"
     ]
   },
   "candidats": [
@@ -229,7 +238,141 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg/1280px-Jewelry_Store_206_Forest_Ave_Great_Bend_Central_Business_District_Barton_Co_KS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 2200,
       "hauteur": 3300
+    },
+    {
+      "fichier": "13.jpg",
+      "titre": "File:Parapet Tanka Masjid, Dholka 08.jpg",
+      "description": "Parapet Tanka Masjid, Dholka",
+      "categories": [
+        "PD US",
+        "PD India",
+        "Pages with non-numeric formatnum arguments",
+        "Parapets",
+        "Author died more than 100 years ago public domain images",
+        "CC-PD-Mark",
+        "Tanka Masjid",
+        "PD-old missing SDC copyright status",
+        "PD-US missing SDC copyright status"
+      ],
+      "auteur": "James Burgess, Henry Cousens",
+      "licence": "Public domain",
+      "lien": "https://commons.wikimedia.org/wiki/File:Parapet_Tanka_Masjid,_Dholka_08.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Parapet_Tanka_Masjid%2C_Dholka_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "largeur": 963,
+      "hauteur": 731
+    },
+    {
+      "fichier": "14.jpg",
+      "titre": "File:Mauvages-Lavoir(3).jpg",
+      "description": "Fontaine-lavoir à Mauvages (Meuse)",
+      "categories": [
+        "GFDL",
+        "Taken with Panasonic Lumix DMC-FZ28",
+        "Vases",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "Fontaine-lavoir du Déo",
+        "License migration redundant",
+        "Roof parapets",
+        "Attics (architecture)",
+        "Self-published work",
+        "Urn shaped roof finials"
+      ],
+      "auteur": "Ji-Elle",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Mauvages-Lavoir(3).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mauvages-Lavoir%283%29.jpg/1280px-Mauvages-Lavoir%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2431,
+      "hauteur": 1668
+    },
+    {
+      "fichier": "15.jpg",
+      "titre": "File:QueenstownStation.jpg",
+      "description": "Queenstown Police Station under snow.",
+      "categories": [
+        "Taken with Canon PowerShot S45",
+        "Parapets",
+        "Self-published work",
+        "Road bridges in New Zealand",
+        "Snow in Queenstown, New Zealand",
+        "Queenstown Police Station"
+      ],
+      "auteur": "Sean Drader",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:QueenstownStation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/QueenstownStation.jpg/1280px-QueenstownStation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2272,
+      "hauteur": 1704
+    },
+    {
+      "fichier": "16.jpg",
+      "titre": "File:Biblioteca marciana Venezia nudo maschile balaustra2.jpg",
+      "description": "Detail de la fassade de la Biblioteca Marciana à Venise .",
+      "categories": [
+        "GFDL",
+        "Taken with Nikon D800",
+        "CC-BY-SA-3.0,2.5,2.0,1.0",
+        "License migration redundant",
+        "Roof parapets",
+        "Self-published work",
+        "Moroder/Venice",
+        "Photos by Moroder",
+        "Statues of Apollo",
+        "Parapets in Italy",
+        "Files with coordinates missing SDC location of creation",
+        "Libreria Marciana (Venice) - Statues of the Roof Terrace",
+        "Nude male people in art"
+      ],
+      "auteur": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright",
+      "licence": "CC BY-SA 3.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Biblioteca_marciana_Venezia_nudo_maschile_balaustra2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Biblioteca_marciana_Venezia_nudo_maschile_balaustra2.jpg/1280px-Biblioteca_marciana_Venezia_nudo_maschile_balaustra2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 5948,
+      "hauteur": 4469
+    },
+    {
+      "fichier": "17.jpg",
+      "titre": "File:Frombork 2023 30 Castle Parapets.jpg",
+      "description": "Frombork is a town in northern Poland, situated on the Vistula Lagoon in Braniewo County , within Warmian-Masurian Voivodeship . The town was first mentioned in a 13th-century document. In the early 16th century it was the residence of the astronomer Nicolaus Copernicus , who used it as a site for several of his observations. Frombork is known as “The Jewel of Warmia ” because of its many historical sites. The Scotch Mist Gallery contains many photographs of historic buildings, monuments and memorials of Poland.",
+      "categories": [
+        "Taken with Nikon D3200",
+        "Parapets",
+        "Cathedral Hill in Frombork",
+        "West Gate in Frombork",
+        "Radziejowski Tower in Frombork",
+        "Self-published work",
+        "Poland photographs taken on 2023-09-14",
+        "September 2023 in Warmian-Masurian Voivodeship",
+        "Files with coordinates missing SDC location of creation"
+      ],
+      "auteur": "Scotch Mist",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Frombork_2023_30_Castle_Parapets.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Frombork_2023_30_Castle_Parapets.jpg/1280px-Frombork_2023_30_Castle_Parapets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4512,
+      "hauteur": 3000
+    },
+    {
+      "fichier": "18.jpg",
+      "titre": "File:Columbia River Washington temple front.jpg",
+      "description": "Columbia River Washington temple from neighbor stake center",
+      "categories": [
+        "Columbia River Washington Temple",
+        "Roof parapets",
+        "Church towers in Washington (state)",
+        "Blue sky in Washington (state)",
+        "Self-published work",
+        "Uploaded with Mobile/Android",
+        "Files with coordinates missing SDC location of creation",
+        "Photographs taken on 2025-09-27"
+      ],
+      "auteur": "Bobjgalindo",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Columbia_River_Washington_temple_front.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Columbia_River_Washington_temple_front.jpg/1280px-Columbia_River_Washington_temple_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3024,
+      "hauteur": 2891
     }
   ],
-  "suite": true
+  "suite": true,
+  "suiteCategories": true
 }

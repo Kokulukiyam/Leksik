@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas de retombée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Toit de piscine à poutres préfabriquées en double té.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Structure de toiture, pas une retombée sous dalle."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Poutre en acier jaune signée avec le logo BW.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Berea, États-Unis",
+      "note": "Texte visible, hors contexte."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Plancher nervuré avec entrevous en brique avant bétonnage.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tunisie",
+      "note": "Hourdis et nervures, pas une retombée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Pile de poutrelles en T en béton livrées sur chantier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trimingham, Angleterre",
+      "note": "Poutrelles empilées."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Poutre de viaduc en chantier au-dessus d'une voie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Perth, Australie",
+      "note": "Poutre de pont."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Plafond à poutrelles et entrevous d'une maison ancienne, vue de dessous.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Ebnit, Autriche",
+      "note": "Plancher à poutrelles, retombée non identifiable."
     }
   ]
 }

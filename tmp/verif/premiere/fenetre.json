@@ -58,6 +58,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Cadre de musée, pas une fenêtre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Petite fenêtre étroite à grille de défense dans un mur crépi sombre, au-dessus d'un larmier.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Fenêtre minuscule, grillagée, peu lisible ; confusion possible avec la grille de défense."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Ancienne station-service abandonnée avec large auvent champignon.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucune fenêtre mise en avant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Cadre de menuiserie en bois noirci, sans vitrage, suspendu dans un grenier de musée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Jakarta, Indonésie",
+      "note": "Cadre seul sans vitrage ni ouvrant : n'évoque pas clairement une fenêtre."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fenêtre à trois vantaux à petits carreaux vue de l'intérieur, très éclairée dans une pièce noire.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Image trop sombre et contrastée, peu lisible sur téléphone."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Panneau de police bilingue à côté d'une fenêtre à cadre vert.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Wainuiomata, Nouvelle-Zélande",
+      "note": "Texte et panneau dominants ; la fenêtre est secondaire."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre à un vantail ouvert, cadre blanc, donnant sur un jardin, dans un mur carrelé.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "Dresde, Allemagne",
+      "note": "Fenêtre claire et dominante, ouvrant visible."
     }
   ]
 }

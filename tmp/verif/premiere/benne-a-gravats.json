@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec une benne."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Benne galvanisée à couvercle grillagé, de nuit.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Photo trop sombre, couvercle grillagé peu typique."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Vélo pliant attaché à un arbre, poubelle en arrière-plan.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de benne."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Deux grandes bennes bleues pleines de déchets de chantier devant un bâtiment en construction.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.52,
+        "largeur": 0.6,
+        "hauteur": 0.48
+      },
+      "lieu": "Fort 8, Cracovie",
+      "note": "Benne de chantier au premier plan, clairement identifiable ; rectangle sur la benne."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Quatre vues en noir et blanc de rues de banlieue.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Aucun rapport."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Maison avec une petite benne verte au coin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Benne trop petite en bord d'image."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Grange avec déchets, câbles et matériel entassés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Pas de benne."
     }
   ]
 }

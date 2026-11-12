@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Sans rapport avec le terme."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Extracteur posé sur une toiture en tôle d'un centre commercial.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Warwick, Australie",
+      "note": "Pas de relevé visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Carport à toiture végétalisée devant un bâtiment.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Tauberbischofsheim, Allemagne",
+      "note": "Relevé non visible."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit-terrasse avec pergola et linge, vue sur l'agora.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Athènes, Grèce",
+      "note": "Relevé non identifiable."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Abri bus à toit plat débordant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Löderburg, Allemagne",
+      "note": "Relevé non visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit abri de gare à toit plat.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Trumau, Autriche",
+      "note": "Relevé non visible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ouvriers sur une toiture-terrasse équipée d'antennes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Angleterre",
+      "note": "Relevé non identifiable, scène chargée."
     }
   ]
 }

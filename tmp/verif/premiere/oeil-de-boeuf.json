@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "New York, États-Unis",
       "note": "Verrière linéaire, pas une fenêtre ronde ; hors sujet."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Pignon de brique d'un bâtiment à toit de tuiles grises, percé d'une petite fenêtre ronde à entourage de pierre à clés en croix.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.4,
+        "y": 0.44,
+        "largeur": 0.2,
+        "hauteur": 0.3
+      },
+      "lieu": "Kaohsiung, Taïwan",
+      "note": "Fenêtre ronde nette dans un mur, typique de l'œil-de-bœuf."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Astronaute regardant par un hublot circulaire dans une station spatiale.",
+      "verdict": "rejetée",
+      "note": "Hublot de vaisseau, pas d'architecture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Vue en contre-plongée d'une ouverture ronde au sommet d'un plafond sculpté, avec ciel.",
+      "verdict": "rejetée",
+      "note": "Oculus de coupole, pas une fenêtre de mur.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Détail d'un tableau avec une petite fenêtre ovale dans un décor peint.",
+      "verdict": "rejetée",
+      "note": "Peinture.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Homme devant une flamme sous un lanterneau circulaire de rotonde.",
+      "verdict": "rejetée",
+      "note": "Ouverture zénithale, sujet humain.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Fenêtre ovale en aluminium pivotante posée au sol devant un mur de brique.",
+      "verdict": "rejetée",
+      "note": "Produit posé hors contexte, non installé.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }

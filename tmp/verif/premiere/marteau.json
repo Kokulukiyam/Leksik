@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Marque et texte très visibles ; doublon des autres."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Moteur de quadricoptère maintenu par une pince multiprise, un marteau à manche rouge en bas de l'image.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau à peine visible, scène de bricolage confuse."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Outil à tête de pierre sur une meule : bilhamer à manche court.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau de piqueur de meule, outil spécialisé qui n'est pas le marteau courant."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Marteau de charpentier à tête et panne fendue chromées, manche tubulaire noir et gris, sur fond gris.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau à panne fendue net, isolé, dominant ; ne peut être pris pour masse ni burin."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vitrine de musée avec cuillères, épingles et petits objets archéologiques.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Novgorod, Russie",
+      "note": "Objets minuscules dans une vitrine, rien de lisible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Photo ancienne sépia d'un garçon fabriquant des paniers, marteau minuscule sur l'établi.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Evansville, Indiana, États-Unis",
+      "note": "Archive sépia, marteau presque invisible."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Marteau ancien d'armurier à manche court sur fond blanc.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Marteau de métier ancien, forme inhabituelle, pas le marteau courant."
     }
   ]
 }

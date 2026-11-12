@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Désordre, composition peu lisible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Rangée d'extincteurs rouges vus de près, au premier plan coupés.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Cadrage coupé et groupe confus."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Plaque verte « Fire extinguisher » devant des chariots de sucrerie.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Plaque trompeuse, aucun extincteur."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Extincteur rouge fixé à un mur blanc entouré d'affiches.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petit et noyé dans le décor."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Extincteur rouge à tuyau et diffuseur noir, fixé contre un mur beige.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Extincteur net et dominant, tuyau et poignée visibles."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Canon à eau argenté sous une charpente en treillis.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Canon à eau, pas un extincteur."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Coffret rouge « Fire hose reel » et « Fire extinguisher » devant un arbre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Coffret avec texte, extincteurs non visibles."
     }
   ]
 }

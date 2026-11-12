@@ -12,6 +12,9 @@
     ],
     "incompatibles": [
       "lampadaire-solaire"
+    ],
+    "categoriesCommons": [
+      "Category:Street lights"
     ]
   },
   "candidats": [
@@ -136,6 +139,140 @@
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_utility_pole_in_a_street_in_Klaten.jpg/1280px-A_utility_pole_in_a_street_in_Klaten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "largeur": 5152,
       "hauteur": 3864
+    },
+    {
+      "fichier": "07.jpg",
+      "titre": "File:Road to luxury.jpg",
+      "description": "Ritz-Carlton, Riyadh - Road to luxury",
+      "categories": [
+        "Street lights",
+        "Ritz-Carlton, Riyadh",
+        "Self-published work",
+        "Night in Riyadh"
+      ],
+      "auteur": "Mesho lonly",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Road_to_luxury.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Road_to_luxury.jpg/1280px-Road_to_luxury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3264,
+      "hauteur": 2448
+    },
+    {
+      "fichier": "08.jpg",
+      "titre": "File:The light pole in front of Kau Yan College.jpg",
+      "description": "The light pole in front of Kau Yan College. It was erected by the Hong Kong Housing Authority. By now, it is the main object of the \"Pole of Repeating\" legend within the school. According to this oral tradition, every student who hit this light pole will be asked to repeat in the next academic year.",
+      "categories": [
+        "Street lights in China",
+        "Kau Yan College",
+        "Torch-style street lights",
+        "Self-published work",
+        "Light poles",
+        "Street lights in Hong Kong"
+      ],
+      "auteur": "筆和擦膠必有用",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:The_light_pole_in_front_of_Kau_Yan_College.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/The_light_pole_in_front_of_Kau_Yan_College.jpg/1280px-The_light_pole_in_front_of_Kau_Yan_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 1836,
+      "hauteur": 3264
+    },
+    {
+      "fichier": "09.jpg",
+      "titre": "File:Sarkaya District, Astana (P1190765).jpg",
+      "description": "Sarkaya District of Astana",
+      "categories": [
+        "GFDL",
+        "Street lights",
+        "License migration redundant",
+        "Self-published work",
+        "CC-BY-SA-2.0+",
+        "Exterior lighting in Kazakhstan",
+        "Uploaded with LrMediaWiki",
+        "User MB-one supported by Wikimedia Deutschland/Lightroom",
+        "Files with coordinates missing SDC location of creation",
+        "Saryarka District",
+        "Taken with Panasonic Lumix DMC-G5 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0",
+        "Astana photographs taken on 2024-08-19"
+      ],
+      "auteur": "Matti Blume",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Sarkaya_District,_Astana_(P1190765).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sarkaya_District%2C_Astana_%28P1190765%29.jpg/1280px-Sarkaya_District%2C_Astana_%28P1190765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3456,
+      "hauteur": 4608
+    },
+    {
+      "fichier": "10.jpg",
+      "titre": "File:Light pole, Vidhana Soudha garden, Bengaluru (01).jpg",
+      "description": "Light pole, Vidhana Soudha garden, Bengaluru , Karnataka , India .",
+      "categories": [
+        "Taken with Nikon D80",
+        "Attribution only license",
+        "Self-published work",
+        "Information field template with formatting",
+        "Photographs by Moheen Reeyad",
+        "Files with coordinates missing SDC location of creation",
+        "India photographs taken on 2019-06-22",
+        "Supported by Chattogram Wikimedia Community",
+        "Light poles in India",
+        "Vidhana Soudha gardens",
+        "Photographs of locations by Moheen Reeyad",
+        "Images of India by Moheen Reeyad",
+        "Taken with Tamron 18-200mm F/3.5-6.3 Di II VC B018N",
+        "June 2019 in Bengaluru"
+      ],
+      "auteur": "Moheen Reeyad",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Light_pole,_Vidhana_Soudha_garden,_Bengaluru_(01).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Light_pole%2C_Vidhana_Soudha_garden%2C_Bengaluru_%2801%29.jpg/1280px-Light_pole%2C_Vidhana_Soudha_garden%2C_Bengaluru_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 3872,
+      "hauteur": 2574
+    },
+    {
+      "fichier": "11.jpg",
+      "titre": "File:Ndriqmi modern tek Kalaja e lashtë.jpg",
+      "description": "Kalaja e Shkodres",
+      "categories": [
+        "Taken with Nexus 5",
+        "Street lights",
+        "Self-published work",
+        "Images from Wiki Loves Monuments 2014",
+        "Images from Wiki Loves Monuments 2014 in Albania",
+        "Uploaded via Campaign:wlm-al",
+        "Albania photographs taken on 2014-05-11",
+        "Images from Wiki Loves Monuments missing SDC depicts",
+        "Images from Wiki Loves Monuments missing SDC location of creation",
+        "Entrance gates of Rozafa Fortress"
+      ],
+      "auteur": "Saranda Bytyqi",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Ndriqmi_modern_tek_Kalaja_e_lasht%C3%AB.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ndriqmi_modern_tek_Kalaja_e_lasht%C3%AB.jpg/1280px-Ndriqmi_modern_tek_Kalaja_e_lasht%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 2368,
+      "hauteur": 3200
+    },
+    {
+      "fichier": "12.jpg",
+      "titre": "File:Cisco Aironet 1552H on street light, Canberra 2.jpg",
+      "description": "A Cisco Aironet 1552H mounted above a street light at the intersection of W Row and Alinga Street in Canberra, Australia.",
+      "categories": [
+        "City, Australian Capital Territory",
+        "Cisco routers",
+        "Self-published work",
+        "Street lights in Australia",
+        "Files with coordinates missing SDC location of creation (36° S, 149° E)",
+        "April 2026 in Canberra",
+        "Australia photographs taken on 2026-04-12",
+        "Files created by User:Ethmostigmus"
+      ],
+      "auteur": "Ethmostigmus",
+      "licence": "CC BY-SA 4.0",
+      "lien": "https://commons.wikimedia.org/wiki/File:Cisco_Aironet_1552H_on_street_light,_Canberra_2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Cisco_Aironet_1552H_on_street_light%2C_Canberra_2.jpg/1280px-Cisco_Aironet_1552H_on_street_light%2C_Canberra_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "largeur": 4383,
+      "hauteur": 2922
     }
-  ]
+  ],
+  "suite": true,
+  "suiteCategories": true
 }

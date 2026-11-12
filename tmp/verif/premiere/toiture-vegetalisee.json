@@ -58,6 +58,64 @@
       },
       "lieu": "",
       "note": "Toit planté bien visible."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Bibliothèque vitrée au toit en pente couvert d'herbe, parmi des plantes.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Londres, Royaume-Uni",
+      "note": "Toit végétalisé partiellement caché par la végétation et l'arbre, scène chargée."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Terrasse carrelée avec fauteuils et pots devant des clochers.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Cuba",
+      "note": "Terrasse, pas une toiture végétalisée."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Toit plat d'un bâtiment recouvert d'un substrat planté d'herbes et de plantes grimpantes, vu d'en haut.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.19,
+        "y": 0.07,
+        "largeur": 0.78,
+        "hauteur": 0.65
+      },
+      "lieu": "Lucerne, Suisse",
+      "note": "Toiture végétalisée plate très lisible, rectangle sur la couverture plantée."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Vue aérienne d'un quartier d'affaires avec petits toits-jardins.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rio de Janeiro, Brésil",
+      "note": "Éléments trop petits."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Petit chalet en rondins dont le toit à pans est couvert d'une épaisse couche d'herbe.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.13,
+        "y": 0.22,
+        "largeur": 0.67,
+        "hauteur": 0.26
+      },
+      "lieu": "Rapid City, États-Unis",
+      "note": "Toit en gazon net (stabbur), rectangle sur la couverture herbeuse."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue de Lisbonne avec immeubles roses et petit toit-terrasse tout en haut.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Lisbonne, Portugal",
+      "note": "Élément trop petit."
     }
   ]
 }

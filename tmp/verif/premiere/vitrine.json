@@ -53,6 +53,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Vitrine typique, claire, marchandises exposées derrière une grande baie vitrée."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Mannequin en robe turquoise et bijoux derrière une vitre, avec reflets.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrine mal cadrée et reflets, texte web visible."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Rue d'une petite ville avec deux boutiques à devanture bleue et vitrée.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Devantures dans une façade large, plusieurs commerces mêlés."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Support d'accessoires et foulards derrière une vitre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Gros plan sur des objets, vitrine non lisible."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Restaurant végétarien à rez-de-chaussée ouvert, voiture et cônes devant.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Devanture de restaurant, pas une vitrine d'exposition ; enseigne visible."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Rendu d'une vitrine de boutique avec mannequins, enseigne AIZONE.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Rendu d'infographie de présentation, pas une photo."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Rue d'Afrique du Sud avec enseignes de boutiques et passants.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Vitrines noyées dans la scène, enseignes dominantes."
     }
   ]
 }

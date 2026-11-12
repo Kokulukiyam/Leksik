@@ -48,6 +48,54 @@
       "rectangle": null,
       "lieu": "",
       "note": "Pas une poignée de fenêtre."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Deux poignées blanches sur une fenêtre PVC grise, vues de loin avec un paysage flou.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignées petites et peu nettes."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Loquet à bascule blanc peint, en forme de T, sur un montant de fenêtre.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Allemagne",
+      "note": "Verrou à tourniquet (targette) plutôt qu'une poignée ; peinture épaisse, ambigu."
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Petite targette en T sur le montant d'une fenêtre jaune, au loin.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Trop petite et ambiguë (targette / verrou)."
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Poignée de fenêtre blanche avec serrure à clé sur une platine, vue de face sur fond clair.",
+      "verdict": "validée",
+      "rectangle": null,
+      "lieu": "",
+      "note": "Poignée de fenêtre verrouillable nette et dominante."
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Manivelle à boule en aluminium fixée sur le cadre d'une fenêtre basculante.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Baden-Baden, Allemagne",
+      "note": "Levier de manœuvre à boule, pas une poignée de verrouillage typique."
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Crémone ancienne en fonte ornée, avec poignée à boules et tringle, sur un battant de chêne.",
+      "verdict": "rejetée",
+      "rectangle": null,
+      "lieu": "Rottweil, Allemagne",
+      "note": "Il s'agit d'une crémone (quincaillerie complète) : confusion possible."
     }
   ]
 }

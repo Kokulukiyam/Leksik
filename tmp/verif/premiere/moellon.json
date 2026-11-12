@@ -53,6 +53,59 @@
       "rectangle": null,
       "lieu": "Victoria, Gozo, Malte",
       "note": "Rempart en pierre de taille dominant, moellons trop petits et secondaires."
+    },
+    {
+      "fichier": "07.jpg",
+      "vu": "Murs de soutènement bas en pierres brutes de petit calibre devant un immeuble et des palmiers.",
+      "verdict": "validée",
+      "rectangle": {
+        "x": 0.0,
+        "y": 0.58,
+        "largeur": 0.8,
+        "hauteur": 0.42
+      },
+      "lieu": "Aqaba, Jordanie",
+      "note": "Muret de moellons bruts bien lisible au premier plan ; rectangle pour écarter le bâtiment."
+    },
+    {
+      "fichier": "08.jpg",
+      "vu": "Gros plan de parement mural en pierres plates de formes variées jointoyées.",
+      "verdict": "rejetée",
+      "note": "Aspect de plaquette de parement découpée, pas de vrais moellons.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "09.jpg",
+      "vu": "Pans de mur ruiné en pierres et mortier au premier plan, cabane de bois floue derrière.",
+      "verdict": "rejetée",
+      "note": "Flou et cadrage confus.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "10.jpg",
+      "vu": "Fort d'Aqaba en pierre de taille avec tours rondes et porte cintrée.",
+      "verdict": "rejetée",
+      "note": "Maçonnerie plutôt appareillée en pierre de taille, éléments trop petits.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "11.jpg",
+      "vu": "Bâtiment dôme en pierres et galets, jardin désertique.",
+      "verdict": "rejetée",
+      "note": "Construction fantaisiste, mur non lisible.",
+      "rectangle": null,
+      "lieu": ""
+    },
+    {
+      "fichier": "12.jpg",
+      "vu": "Ruelle bordée de murs en pierres enduites et de moellons bruts, passant au loin.",
+      "verdict": "rejetée",
+      "note": "Mur en perspective, partie enduite, peu lisible.",
+      "rectangle": null,
+      "lieu": ""
     }
   ]
 }
