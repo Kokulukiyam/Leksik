@@ -51,6 +51,13 @@ export function imageSrc(img: Pick<Image, "fichier">) {
   return `/images/${img.fichier}`;
 }
 
+/** Version réduite (640 px de large) pour les listes. */
+export function vignetteSrc(img: Pick<Image, "fichier">) {
+  return `/vignettes/${img.fichier}`;
+}
+
+export const FREQUENCES = { 1: "très courant", 2: "fréquent", 3: "plus rare" } as const;
+
 const ARTICLE = /^(l['’]\s*|le\s+|la\s+|les\s+|un\s+|une\s+|des\s+)/;
 
 /** Minuscules, sans accents, sans article, espaces normalisés. */

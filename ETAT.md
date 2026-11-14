@@ -1,6 +1,6 @@
 # État d'avancement de Leksik — À LIRE POUR REPRENDRE
 
-Dernière mise à jour : 13 novembre 2026. Branche `claude/leksik`.
+Dernière mise à jour : 14 novembre 2026. Branche `claude/leksik`.
 
 ## Version 1 : terminée
 
@@ -25,10 +25,19 @@ Dernière mise à jour : 13 novembre 2026. Branche `claude/leksik`.
   (`python3 scripts/avancement.py --premiere=20`). Pour reprendre : relancer la même commande (les termes déjà
   traités sont sautés), puis 1re vérification, `preparer_contre.py --lot=v2-031`, `integrer.mjs`.
 
+## Version 4 : revue complète, TERMINÉE (14 nov. 2026)
+
+- Nouveau design (palette et typographie dans `app/globals.css`), accueil avec progression, zone d'image à hauteur
+  fixe, pastilles de partie, image agrandie au clic, raccourcis clavier, définition du mot choisi par erreur.
+- Progression par mot et tirage adapté (`lib/progres.ts`), « Réviser mes mots ratés », page Lexique, vignettes,
+  icône et manifeste (écran d'accueil du téléphone).
+- Test de bout en bout étendu (progression, clavier, image agrandie, lexique) : 11 343 vérifications, 0 échouée.
+
 ## Rappels
 
 - `scripts/termes-candidats.json` fait foi pour les termes ; `node scripts/integrer.mjs` régénère `data/`,
   `public/images/commons/` et `VERIFICATION.md`.
+- Après un changement dans `lib/data.ts`, relancer le serveur de dev s'il tourne depuis longtemps (module resté en mémoire).
 - Ne pas lancer `integrer.mjs` pendant le test de bout en bout : les deux écrivent dans `data/`.
 - Les photos candidates `tmp/commons/*/NN.jpg` ne sont pas versionnées, seuls les `meta.json` le sont.
   Pour revérifier un terme, retélécharger chaque `url` de son `meta.json` vers son `fichier`.

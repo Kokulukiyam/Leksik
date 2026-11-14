@@ -1,12 +1,58 @@
 @import "tailwindcss";
 
+/* Palette : noir chaud, papier crème, ocre (latérite) pour l'accent. */
+@theme {
+  --color-fond: #100f0d;
+  --color-surface: #191714;
+  --color-relief: #23201c;
+  --color-trait: #36312b;
+  --color-encre: #f3eee6;
+  --color-sourdine: #aba396;
+  --color-faible: #877f73;
+  --color-accent: #e6a756;
+  --font-serif: ui-serif, "New York", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
 :root {
   color-scheme: dark;
 }
 
 body {
-  background: #0b0b0c;
-  color: #ececec;
+  background: var(--color-fond);
+  color: var(--color-encre);
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+button:not(:disabled),
+summary,
+select {
+  cursor: pointer;
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-lg border border-trait px-4 py-2.5 text-encre transition-colors hover:border-sourdine disabled:opacity-40;
+  }
+  .btn-plein {
+    @apply border-encre bg-encre font-medium text-fond hover:border-white hover:bg-white;
+  }
+  .btn-danger {
+    @apply border-red-900 text-red-300 hover:border-red-500;
+  }
+  .champ {
+    @apply w-full rounded-lg border border-trait bg-surface px-3 py-3 text-base text-encre outline-none transition-colors placeholder:text-faible focus:border-accent;
+  }
+  .panneau {
+    @apply rounded-xl border border-trait bg-surface;
+  }
+  .surtitre {
+    @apply text-xs font-medium uppercase tracking-[0.14em] text-accent;
+  }
 }
 
 /* Rectangle de mise en évidence : jaune vif entouré de noir, lisible sur photo claire comme sombre. */
@@ -16,4 +62,36 @@ body {
   border: 3px solid #ffd60a;
   border-radius: 2px;
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.85), inset 0 0 0 2px rgba(0, 0, 0, 0.85);
+}
+
+/* Raccourci clavier affiché sur les réponses, seulement avec une souris (donc un clavier). */
+@media (hover: hover) and (pointer: fine) {
+  [data-touche]::before {
+    content: attr(data-touche);
+    position: absolute;
+    left: 0.7rem;
+    top: 50%;
+    translate: 0 -50%;
+    min-width: 1.35rem;
+    border: 1px solid var(--color-trait);
+    border-radius: 0.3rem;
+    font: 500 0.7rem/1.25rem ui-sans-serif, system-ui, sans-serif;
+    text-align: center;
+    color: var(--color-faible);
+  }
+}
+
+@keyframes apparition {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+}
+.apparition {
+  animation: apparition 0.18s ease-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .apparition {
+    animation: none;
+  }
 }

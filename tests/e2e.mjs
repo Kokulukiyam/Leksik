@@ -1,5 +1,6 @@
 // Test de bout en bout de Leksik (Playwright, bibliothèque seule).
 // Prérequis : serveur lancé (`npm run dev > tmp/e2e-server.log 2>&1`) sur http://localhost:3000.
+// Couvre : jeu, progression et clavier, lexique, ajouter, paramètres, gérer.
 // Usage : npm run e2e   (variables facultatives : BASE_URL, SERVER_LOG)
 // Si un serveur `next dev` tourne déjà (lancé ailleurs), SERVER_LOG=.next/dev/logs/next-development.log.
 // Les données (data/*.json, public/images/perso/) sont sauvegardées au début et remises en état à la fin.
@@ -21,7 +22,7 @@ const CATEGORIES = [
     .matchAll(/"([^"]+)"/g),
 ].map((m) => m[1]);
 const PAQUET = 60; // cartes affichées à la fois dans Gérer
-const DEFAUTS = { imagesParPartie: 10, propositions: 4, frequence: 3, sources: "toutes", mauvaisesReponses: "categorie", suivantAuto: false };
+const DEFAUTS = { imagesParPartie: 10, propositions: 4, frequence: 3, sources: "toutes", mauvaisesReponses: "categorie", suivantAuto: false, tirage: "adapte" };
 const CLE_PARAMS = "leksik:parametres";
 const NOUVEAU_TERME = "le gousset de test e2e";
 const IMAGE_REFUSEE = "toguna-03";
@@ -423,8 +424,9 @@ const LIBELLES = {
   sources: { toutes: "Toutes", commons: "Commons", perso: "Mes photos" },
   mauvaisesReponses: { categorie: "Même catégorie", toutes: "Toutes catégories" },
   suivantAuto: { false: "J'appuie sur « Suivant »", true: "Image suivante automatique" },
+  tirage: { adapte: "Mots à apprendre d'abord", hasard: "Au hasard" },
 };
-const GROUPES = { imagesParPartie: "images", propositions: "propositions", frequence: "frequence", sources: "sources", mauvaisesReponses: "mauvaises", suivantAuto: "suivant" };
+const GROUPES = { imagesParPartie: "images", propositions: "propositions", frequence: "frequence", sources: "sources", mauvaisesReponses: "mauvaises", suivantAuto: "suivant", tirage: "tirage" };
 const libelle = (cle, v) => LIBELLES[cle]?.[String(v)] ?? String(v);
 
 async function regler(page, modif) {
@@ -574,7 +576,7 @@ async function testerParametres(page, nom) {
     ["JSON illisible", "{pas du json", DEFAUTS],
     ["null", "null", DEFAUTS],
     ["nombre", "42", DEFAUTS],
-    ["valeurs invalides", JSON.stringify({ imagesParPartie: 7, propositions: "6", frequence: 0, sources: "x", mauvaisesReponses: 1, suivantAuto: "oui" }), DEFAUTS],
+    ["valeurs invalides", JSON.stringify({ imagesParPartie: 7, propositions: "6", frequence: 0, sources: "x", mauvaisesReponses: 1, suivantAuto: "oui", tirage: "x" }), DEFAUTS],
     ["valeur partielle", JSON.stringify({ imagesParPartie: 5 }), { ...DEFAUTS, imagesParPartie: 5 }],
   ]) {
     await page.evaluate(([k, v]) => localStorage.setItem(k, v), [CLE_PARAMS, brut]);
@@ -590,6 +592,200 @@ async function testerParametres(page, nom) {
     await boutonCategorie(page, "Toutes").waitFor();
   }
   await page.evaluate(() => localStorage.clear());
+}
+
+// ---------- Progression, clavier, image agrandie ----------
+const CLE_PROGRES = "leksik:progres";
+const lireCle = (page, cle) => page.evaluate((k) => { try { return JSON.parse(localStorage.getItem(k)); } catch { return "illisible"; } }, cle);
+
+async function testerProgression(page, ctx, nom) {
+  section = `${nom} · progression`;
+  console.log(`- ${section}`);
+  await accueil(page);
+  const mots = new Set(jouablesSelon(ctx).map((i) => i.termId)).size;
+  const bilan = ((await page.getByTestId("bilan").textContent()) ?? "").replace(/\s+/g, " ");
+  check(`bilan de départ : 0 / ${mots} mots`, bilan.includes(`0 / ${mots} mot`) && bilan.includes(`${mots} jamais vu`), bilan);
+  check(`pas de bouton « Réviser » sans mot raté`, (await page.getByTestId("a-revoir").count()) === 0);
+
+  await boutonCategorie(page, "Toutes").click();
+  const prog = page.getByTestId("progression");
+  await prog.waitFor();
+  const manche = async () => {
+    const ids = await page.getByTestId("choix").locator("button").evaluateAll((bs) => bs.map((b) => b.dataset.term));
+    const fichier = fichierDe(await page.locator("main img").first().getAttribute("src"));
+    return { ids, bon: ctx.images.find((x) => x.fichier === fichier).termId };
+  };
+
+  // Manche 1 : bonne réponse au clavier (touche 1 à 4), puis → pour continuer.
+  let m = await manche();
+  await page.keyboard.press(String(m.ids.indexOf(m.bon) + 1));
+  await page.getByTestId("retour").waitFor();
+  check(`clavier : la touche du bon mot répond juste`, ((await page.getByTestId("retour").textContent()) ?? "").includes("Juste."));
+  check(`pas de rappel du choix après une bonne réponse`, (await page.getByTestId("retour-choix").count()) === 0);
+  let pr = await lireCle(page, CLE_PROGRES);
+  check(`progression notée (juste)`, pr?.[m.bon]?.j === 1 && pr[m.bon].f === 0 && pr[m.bon].s === 1, JSON.stringify(pr));
+  const premier = m.bon;
+  await page.keyboard.press("ArrowRight");
+  await page.waitForFunction(() => document.querySelector("[data-testid=progression]")?.textContent?.startsWith("2 /"));
+  check(`clavier : → passe à l'image suivante`, true);
+
+  // Image agrandie : clic sur l'image, Échap pour fermer.
+  await page.locator("main img").first().click();
+  const vis = page.getByTestId("visionneuse");
+  await vis.waitFor();
+  check(`image agrandie non cassée`, await imageChargee(vis.locator("img")));
+  await page.keyboard.press("1");
+  check(`pas de réponse au clavier pendant que l'image est agrandie`, (await page.getByTestId("retour").count()) === 0);
+  await page.keyboard.press("Escape");
+  await vis.waitFor({ state: "detached" });
+  check(`Échap ferme l'image agrandie`, (await vis.count()) === 0);
+
+  // Manche 2 : mauvaise réponse ; la définition du mot choisi est rappelée.
+  m = await manche();
+  const faux = m.ids.find((id) => id !== m.bon);
+  await page.locator(`[data-testid=choix] button[data-term="${faux}"]`).click();
+  const rappel = ((await page.getByTestId("retour-choix").textContent()) ?? "");
+  const tf = ctx.termsParId.get(faux);
+  check(`rappel du mot choisi et de sa définition`, rappel.includes(tf.terme) && rappel.includes(tf.definition), rappel);
+  pr = await lireCle(page, CLE_PROGRES);
+  check(`progression notée (faux)`, pr?.[m.bon]?.f === 1 && pr[m.bon].s === 0, JSON.stringify(pr?.[m.bon]));
+  const rate = m.bon;
+  await page.getByRole("button", { name: "Quitter" }).click();
+
+  // Accueil : bilan mis à jour, bouton « Réviser mes mots ratés ».
+  await boutonCategorie(page, "Toutes").waitFor();
+  const b2 = ((await page.getByTestId("bilan").textContent()) ?? "").replace(/\s+/g, " ");
+  check(`bilan : 1 en cours, 1 à revoir`, b2.includes("1 en cours") && b2.includes("1 à revoir") && b2.includes(`${mots - 2} jamais vu`), b2);
+  const reviser = page.getByTestId("a-revoir");
+  check(`bouton « Réviser » : 1 mot`, ((await reviser.textContent()) ?? "").includes("1 mot"), await reviser.textContent().catch(() => ""));
+  await reviser.click();
+  await prog.waitFor();
+  check(`partie « Mots à revoir » d'une manche`, /^1 \/ 1 · Mots à revoir/.test((await prog.textContent()) ?? ""), await prog.textContent());
+  m = await manche();
+  check(`le mot raté est rejoué`, m.bon === rate, m.bon);
+  await page.locator(`[data-testid=choix] button[data-term="${m.bon}"]`).click();
+  await page.getByRole("button", { name: "Suivant" }).click();
+  await page.getByTestId("score").waitFor();
+  await page.getByRole("button", { name: "Nouvelle partie" }).click();
+  await boutonCategorie(page, "Toutes").waitFor();
+  check(`plus de mot à revoir après une bonne réponse`, (await page.getByTestId("a-revoir").count()) === 0);
+
+  // Tirage adapté : les mots à revoir reviennent dans la partie suivante ; un mot maîtrisé compte dans le bilan.
+  const jour = Math.floor(Date.now() / 86400000);
+  const aRevoir = [...new Set(jouablesSelon(ctx).map((i) => i.termId))].filter((id) => id !== premier).slice(0, 3);
+  await page.evaluate(([k, v]) => localStorage.setItem(k, v), [CLE_PROGRES, JSON.stringify({
+    ...Object.fromEntries(aRevoir.map((id) => [id, { j: 0, f: 1, s: 0, d: jour }])),
+    [premier]: { j: 2, f: 0, s: 2, d: jour },
+    corrompu: { j: "x" },
+  })]);
+  await page.reload();
+  await boutonCategorie(page, "Toutes").waitFor();
+  const b3 = ((await page.getByTestId("bilan").textContent()) ?? "").replace(/\s+/g, " ");
+  check(`bilan : 1 maîtrisé, 3 à revoir (entrée corrompue ignorée)`, b3.startsWith(`1 / ${mots} mot`) && b3.includes("3 à revoir"), b3);
+  await boutonCategorie(page, "Toutes").click();
+  await prog.waitFor();
+  const partie = await lireCle(page, "leksik:partie");
+  const tires = partie.manches.map((x) => x.termId);
+  check(`tirage adapté : les 3 mots à revoir sont dans la partie`, aRevoir.every((id) => tires.includes(id)), tires.join(", "));
+  check(`tirage adapté : 10 termes distincts`, new Set(tires).size === 10);
+  await page.getByRole("button", { name: "Quitter" }).click();
+
+  // Lexique : le mot maîtrisé et les mots à revoir sont étiquetés.
+  await page.goto(BASE + "/lexique");
+  await page.getByTestId("compte").waitFor();
+  await page.getByLabel("Progression", { exact: true }).selectOption("a-revoir");
+  const idsLex = await page.getByTestId("mot").evaluateAll((ms) => ms.map((x) => x.dataset.id).sort());
+  check(`lexique : filtre « À revoir »`, JSON.stringify(idsLex) === JSON.stringify([...aRevoir].sort()), idsLex.join(", "));
+  await page.getByLabel("Progression", { exact: true }).selectOption("maitrise");
+  check(`lexique : filtre « Maîtrisé »`, (await page.getByTestId("mot").count()) === 1 && (await page.getByTestId("etat").textContent()) === "Maîtrisé");
+
+  // Paramètres : résumé et effacement de la progression.
+  await ouvrirParametres(page);
+  const resume = ((await page.getByTestId("param-progression").textContent()) ?? "").replace(/\s+/g, " ");
+  check(`paramètres : 4 mots vus, 1 maîtrisé, 3 à revoir`, resume.includes(`4 mots vus sur ${mots}`) && resume.includes("1 maîtrisé") && resume.includes("3 à revoir"), resume);
+  await page.getByRole("button", { name: "Effacer ma progression" }).click();
+  await page.waitForTimeout(200);
+  check(`effacement annulé : progression gardée`, (await lireCle(page, CLE_PROGRES)) !== null);
+  page.removeAllListeners("dialog");
+  page.once("dialog", (dlg) => dlg.accept());
+  await page.getByRole("button", { name: "Effacer ma progression" }).click();
+  await page.waitForTimeout(200);
+  page.on("dialog", (dlg) => dlg.dismiss().catch(() => {}));
+  check(`progression effacée`, (await lireCle(page, CLE_PROGRES)) === null);
+  check(`bouton « Effacer » désactivé ensuite`, await page.getByRole("button", { name: "Effacer ma progression" }).isDisabled());
+
+  // Tirage au hasard : réglage pris en compte, partie normale.
+  await regler(page, { tirage: "hasard" });
+  await partieAvec(page, ctx, { ...DEFAUTS, tirage: "hasard" });
+  await page.evaluate(() => localStorage.clear());
+}
+
+// ---------- Lexique ----------
+async function testerLexique(page, ctx, nom) {
+  section = `${nom} · lexique`;
+  console.log(`- ${section}`);
+  await accueil(page);
+  await page.getByRole("link", { name: "Lexique" }).click();
+  const compteMots = async () => Number(((await page.getByTestId("compte").textContent()) ?? "").match(/\d+/)[0]);
+  await page.getByTestId("compte").waitFor();
+  await pasDeDefilementHorizontal(page, "lexique");
+  const valides = ctx.images.filter((i) => i.statut === "validée");
+  const illustres = ctx.terms.filter((t) => valides.some((i) => i.termId === t.id));
+  const mots = page.getByTestId("mot");
+  check(`tous les mots illustrés listés`, (await compteMots()) === illustres.length, `${await compteMots()} / ${illustres.length}`);
+  check(`premier paquet de ${PAQUET} mots`, (await mots.count()) === Math.min(PAQUET, illustres.length));
+  const termes = await mots.getByTestId("terme").allTextContents();
+  const tries = [...termes].sort((a, b) => normaliser(a).localeCompare(normaliser(b), "fr"));
+  check(`ordre alphabétique sans l'article`, JSON.stringify(termes) === JSON.stringify(tries), termes.slice(0, 5).join(", "));
+  let cassees = 0;
+  for (let k = 0; k < 12; k++) if (!(await imageChargee(mots.nth(k).locator("img")))) cassees++;
+  check(`vignettes non cassées`, cassees === 0, String(cassees));
+  await page.getByRole("button", { name: /^Afficher \d+ mots? de plus$/ }).click();
+  check(`second paquet`, (await mots.count()) === Math.min(2 * PAQUET, illustres.length), String(await mots.count()));
+
+  const chercher = (t) => page.getByLabel("Rechercher un mot ou une définition", { exact: true }).fill(t);
+  await chercher("ALLEGE");
+  check(`recherche « ALLEGE » : l'allège en premier`, (await mots.first().getByTestId("terme").textContent()) === "l'allège");
+  const allege = ctx.termsParId.get("allege");
+  check(`définition affichée`, ((await mots.first().textContent()) ?? "").includes(allege.definition));
+  // Recherche dans les définitions : un mot de la définition du linteau qui n'est pas dans son nom.
+  const linteau = ctx.termsParId.get("linteau");
+  const motDef = normaliser(linteau.definition).split(/[^a-z]+/).filter((w) => w.length > 6)[0];
+  await chercher(motDef);
+  const attendus = illustres.filter((t) => normaliser(t.terme).includes(motDef) || normaliser(t.definition).includes(motDef)).length;
+  check(`recherche dans les définitions (« ${motDef} ») : ${attendus} mots`, (await compteMots()) === attendus && attendus > 0, String(await compteMots()));
+  await chercher("");
+  await page.getByLabel("Catégorie", { exact: true }).selectOption("Toitures");
+  check(`filtre catégorie Toitures`, (await compteMots()) === illustres.filter((t) => t.categorie === "Toitures").length);
+  await page.getByLabel("Catégorie", { exact: true }).selectOption("");
+  await chercher("zzzz introuvable");
+  check(`recherche sans résultat`, (await compteMots()) === 0 && (await page.getByText("Aucun mot ne correspond.").isVisible()));
+
+  // Photos d'un mot : plein écran, image suivante, fermeture.
+  const plusieurs = illustres.find((t) => valides.filter((i) => i.termId === t.id).length > 1);
+  await chercher(plusieurs.terme);
+  const ligne = page.locator(`[data-testid=mot][data-id="${plusieurs.id}"]`);
+  await ligne.getByRole("button").click();
+  const vis = page.getByTestId("visionneuse");
+  await vis.waitFor();
+  const n = valides.filter((i) => i.termId === plusieurs.id).length;
+  check(`photo agrandie (1 / ${n})`, (await imageChargee(vis.locator("img"))) && ((await vis.textContent()) ?? "").includes(`1 / ${n}`), await vis.textContent());
+  const src1 = await vis.locator("img").getAttribute("src");
+  await vis.getByRole("button", { name: "Image suivante" }).click();
+  check(`photo suivante (2 / ${n})`, ((await vis.textContent()) ?? "").includes(`2 / ${n}`) && (await vis.locator("img").getAttribute("src")) !== src1);
+  check(`seconde photo non cassée`, await imageChargee(vis.locator("img")));
+  await vis.getByRole("button", { name: "Fermer" }).click();
+  await vis.waitFor({ state: "detached" });
+  check(`photo refermée`, (await vis.count()) === 0);
+  const refusee = ctx.images.find((i) => i.id === IMAGE_REFUSEE);
+  if (refusee) {
+    const reste = valides.filter((i) => i.termId === refusee.termId).length;
+    await chercher(ctx.termsParId.get(refusee.termId).terme);
+    const l = page.locator(`[data-testid=mot][data-id="${refusee.termId}"]`);
+    check(`image refusée absente du lexique`, reste === 0 ? (await l.count()) === 0 : !((await l.locator("img").getAttribute("src")) ?? "").includes(IMAGE_REFUSEE));
+  }
+  const rep = await fetch(`${BASE}/vignettes/commons/..%2F..%2F..%2Fpackage.json`);
+  check(`vignettes : chemin hors du dossier refusé`, rep.status === 400 || rep.status === 404, String(rep.status));
 }
 
 // ---------- Gérer ----------
@@ -816,6 +1012,8 @@ async function main() {
       surveiller(page, nom);
       const ctx = await donnees(); // relu : le passage précédent a pu créer des termes
       await testerJeu(page, ctx, nom);
+      await testerProgression(page, ctx, nom);
+      await testerLexique(page, ctx, nom);
       const ajoutees = await testerAjouter(page, nom, photos, nom.startsWith("390"));
       await testerParametres(page, nom);
       if (ajoutees.length === 2) await testerGerer(page, nom, ajoutees);

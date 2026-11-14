@@ -13,6 +13,8 @@ export type Parametres = {
   mauvaisesReponses: "categorie" | "toutes";
   /** Après une bonne réponse, passer seul à l'image suivante. */
   suivantAuto: boolean;
+  /** Tirage : « adapte » fait revenir les mots ratés et passer les mots jamais vus avant les mots maîtrisés. */
+  tirage: "adapte" | "hasard";
 };
 
 export const PAR_DEFAUT: Parametres = {
@@ -22,6 +24,7 @@ export const PAR_DEFAUT: Parametres = {
   sources: "toutes",
   mauvaisesReponses: "categorie",
   suivantAuto: false,
+  tirage: "adapte",
 };
 
 export const CHOIX = {
@@ -46,6 +49,7 @@ export function lireParametres(): Parametres {
   if (["toutes", "commons", "perso"].includes(brut.sources as string)) p.sources = brut.sources!;
   if (["categorie", "toutes"].includes(brut.mauvaisesReponses as string)) p.mauvaisesReponses = brut.mauvaisesReponses!;
   if (typeof brut.suivantAuto === "boolean") p.suivantAuto = brut.suivantAuto;
+  if (["adapte", "hasard"].includes(brut.tirage as string)) p.tirage = brut.tirage!;
   return p;
 }
 

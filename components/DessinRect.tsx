@@ -75,10 +75,10 @@ export default function DessinRect({
           />
         )}
       </div>
-      <div className="mt-1 flex items-center gap-3 text-sm text-neutral-400">
+      <div className="mt-1 flex items-center gap-3 text-sm text-sourdine">
         <span>Glissez sur l&apos;image pour encadrer l&apos;élément (facultatif).</span>
         {rect && (
-          <button type="button" onClick={() => onChange(null)} className="text-neutral-200 underline">
+          <button type="button" onClick={() => onChange(null)} className="text-encre underline">
             Effacer le rectangle
           </button>
         )}

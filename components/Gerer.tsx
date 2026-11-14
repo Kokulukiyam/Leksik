@@ -4,11 +4,11 @@ import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import Figure from "./Figure";
 import DessinRect from "./DessinRect";
-import { CATEGORIES, imageSrc, normaliser, type Image, type Rect, type Term } from "@/lib/shared";
+import { CATEGORIES, imageSrc, normaliser, vignetteSrc, type Image, type Rect, type Term } from "@/lib/shared";
 
 const PAQUET = 60; // cartes affichées à la fois (le contenu compte plus de 1000 images)
 
-const select = "rounded-lg border border-neutral-700 bg-neutral-900 px-3 py-2 text-sm";
+const select = "champ min-w-0 !py-2 text-sm sm:!w-auto";
 
 export default function Gerer({ terms, images }: { terms: Term[]; images: Image[] }) {
   const [source, setSource] = useState("");
@@ -32,9 +32,9 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
   };
 
   return (
-    <div className="py-2">
-      <h1 className="mb-4 text-2xl font-semibold">Gérer les images</h1>
-      <div className="mb-5 flex flex-wrap items-center gap-2">
+    <div className="py-2 sm:py-6">
+      <h1 className="mb-5 font-serif text-4xl">Gérer les images</h1>
+      <div className="mb-5 grid grid-cols-2 items-center gap-2 sm:flex sm:flex-wrap">
         <select aria-label="Source" className={select} value={source} onChange={(e) => filtre(setSource)(e.target.value)}>
           <option value="">Toutes les sources</option>
           <option value="commons">Commons</option>
@@ -55,11 +55,11 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
           type="search"
           aria-label="Rechercher un terme"
           placeholder="Rechercher un terme"
-          className={`${select} w-48`}
+          className={`${select} sm:!w-56`}
           value={recherche}
           onChange={(e) => filtre(setRecherche)(e.target.value)}
         />
-        <span className="text-sm text-neutral-400" data-testid="compte">
+        <span className="col-span-2 text-sm text-faible" data-testid="compte">
           {visibles.length} image{visibles.length > 1 ? "s" : ""}
         </span>
       </div>
@@ -70,7 +70,7 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
       </ul>
       {visibles.length > limite && (
         <div className="mt-6 text-center">
-          <button onClick={() => setLimite(limite + PAQUET)} className="rounded-lg border border-neutral-600 px-5 py-3 hover:border-neutral-300">
+          <button onClick={() => setLimite(limite + PAQUET)} className="btn px-5 py-3">
             Afficher {Math.min(PAQUET, visibles.length - limite)} image{visibles.length - limite > 1 ? "s" : ""} de plus
           </button>
         </div>
@@ -86,6 +86,7 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
   const [rect, setRect] = useState<Rect | null>(img.rectangle);
   const [occupe, setOccupe] = useState(false);
   const [erreur, setErreur] = useState("");
+  const [noteOuverte, setNoteOuverte] = useState(false);
 
   async function appel(methode: "PATCH" | "DELETE", corps?: object) {
     setOccupe(true);
@@ -109,12 +110,12 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
   const refusee = img.statut === "refusée";
 
   return (
-    <li className={`flex flex-col rounded-lg border bg-neutral-900 p-3 ${refusee ? "border-red-900" : "border-neutral-800"}`} data-testid="carte" data-id={img.id}>
-      <div className="mb-2 text-center">
+    <li className={`flex flex-col rounded-xl border bg-surface p-3 ${refusee ? "border-red-900" : "border-trait"}`} data-testid="carte" data-id={img.id}>
+      <div className="mb-3 rounded-lg bg-black/40 text-center">
         {edition ? (
           <DessinRect src={imageSrc(img)} rect={rect} onChange={setRect} imgClassName="max-h-72" />
         ) : (
-          <Figure src={imageSrc(img)} rect={img.rectangle} alt={term?.terme ?? img.termId} imgClassName={`max-h-56 ${refusee ? "opacity-50" : ""}`} />
+          <Figure src={vignetteSrc(img)} rect={img.rectangle} alt={term?.terme ?? img.termId} imgClassName={`max-h-56 ${refusee ? "opacity-50" : ""}`} />
         )}
       </div>
       {edition ? (
@@ -133,21 +134,30 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
           ))}
         </select>
       ) : (
-        <p className="font-semibold" data-testid="terme">{term?.terme ?? `? ${img.termId}`}</p>
+        <p className="font-serif text-lg leading-tight" data-testid="terme">{term?.terme ?? `? ${img.termId}`}</p>
       )}
-      <p className="text-xs text-neutral-500">
+      <p className="mt-0.5 text-xs text-faible">
         {term?.categorie} · {img.source === "perso" ? "Mes photos" : "Commons"} ·{" "}
         <span className={refusee ? "text-red-400" : "text-green-400"} data-testid="statut">{img.statut}</span>
       </p>
-      {img.note && <p className="mt-1 text-sm text-neutral-300" data-testid="note">{img.note}</p>}
-      <p className="mt-1 text-xs text-neutral-500">
+      {img.note && (
+        <p
+          className={`mt-2 cursor-pointer text-sm text-encre/80 ${noteOuverte ? "" : "line-clamp-3"}`}
+          title={noteOuverte ? undefined : "Cliquer pour lire toute la note"}
+          onClick={() => setNoteOuverte(!noteOuverte)}
+          data-testid="note"
+        >
+          {img.note}
+        </p>
+      )}
+      <p className="mt-1.5 text-xs text-faible">
         {[img.lieu, img.auteur, img.licence].filter(Boolean).join(" · ")}
       </p>
       {erreur && <p className="mt-1 text-sm text-red-400">{erreur}</p>}
       <div className="mt-auto flex flex-wrap gap-2 pt-3 text-sm">
         {edition ? (
           <>
-            <button disabled={occupe} onClick={() => appel("PATCH", { termId, rectangle: rect })} className="rounded bg-white px-3 py-1.5 font-medium text-black">
+            <button disabled={occupe} onClick={() => appel("PATCH", { termId, rectangle: rect })} className="btn btn-plein !px-3 !py-1.5">
               Enregistrer
             </button>
             <button
@@ -157,7 +167,7 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
                 setTermId(img.termId);
                 setRect(img.rectangle);
               }}
-              className="rounded border border-neutral-600 px-3 py-1.5"
+              className="btn !px-3 !py-1.5"
             >
               Annuler
             </button>
@@ -171,14 +181,14 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
                 setRect(img.rectangle);
                 setEdition(true);
               }}
-              className="rounded border border-neutral-600 px-3 py-1.5 hover:border-neutral-300"
+              className="btn !px-3 !py-1.5"
             >
               Modifier
             </button>
             <button
               disabled={occupe}
               onClick={() => appel("PATCH", { statut: refusee ? "validée" : "refusée" })}
-              className="rounded border border-neutral-600 px-3 py-1.5 hover:border-neutral-300"
+              className="btn !px-3 !py-1.5"
             >
               {refusee ? "Valider" : "Refuser"}
             </button>
@@ -187,7 +197,7 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
               onClick={() => {
                 if (confirm("Supprimer définitivement cette image ?")) appel("DELETE");
               }}
-              className="rounded border border-red-800 px-3 py-1.5 text-red-300 hover:border-red-500"
+              className="btn btn-danger ml-auto !px-3 !py-1.5"
             >
               Supprimer
             </button>

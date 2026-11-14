@@ -46,6 +46,28 @@ export function getImages() {
   return lire<Image>(IMAGES);
 }
 
+const VIGNETTES = path.join(ROOT, ".next", "cache", "vignettes");
+
+/** Version réduite d'une image (640 px de large), fabriquée à la demande puis gardée en cache. */
+export async function getVignette(fichier: string): Promise<Buffer | null> {
+  const source = path.resolve(PUBLIC_IMAGES, fichier);
+  if (!source.startsWith(PUBLIC_IMAGES + path.sep) || !source.endsWith(".webp")) return null;
+  const cible = path.join(VIGNETTES, path.relative(PUBLIC_IMAGES, source).replace(/[\\/]/g, "__"));
+  try {
+    const [s, c] = await Promise.all([fs.stat(source), fs.stat(cible).catch(() => null)]);
+    if (c && c.mtimeMs >= s.mtimeMs) return await fs.readFile(cible);
+    const vignette = await sharp(source).resize({ width: 640, withoutEnlargement: true }).webp({ quality: 72 }).toBuffer();
+    await fs.mkdir(VIGNETTES, { recursive: true });
+    const tmp = `${cible}.${process.pid}.${Math.random().toString(36).slice(2, 8)}.tmp`;
+    await fs.writeFile(tmp, vignette);
+    await fs.rename(tmp, cible);
+    return vignette;
+  } catch (e) {
+    if ((e as NodeJS.ErrnoException).code === "ENOENT") return null;
+    throw e;
+  }
+}
+
 export type NouveauTerme = { terme: string; definition: string; categorie: string };
 
 function verifierNouveauTerme(n: NouveauTerme, terms: Term[]): Term {

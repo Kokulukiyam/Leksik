@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 import DessinRect from "./DessinRect";
 import { CATEGORIES, normaliser, termeIdentique, termeProche, type Rect, type Term } from "@/lib/shared";
 
-const champ = "w-full rounded-lg border border-neutral-700 bg-neutral-900 px-3 py-3 text-base outline-none focus:border-neutral-400";
+const champ = "champ";
 
 export default function Ajouter({ terms }: { terms: Term[] }) {
   const router = useRouter();
@@ -81,8 +81,8 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
   }
 
   return (
-    <form onSubmit={envoyer} className="mx-auto grid max-w-2xl gap-5 py-2">
-      <h1 className="text-2xl font-semibold">Ajouter une image</h1>
+    <form onSubmit={envoyer} className="mx-auto grid max-w-2xl gap-5 py-2 sm:py-6">
+      <h1 className="font-serif text-4xl">Ajouter une image</h1>
 
       <div>
         <label className="mb-2 block font-medium" htmlFor="photo">Photo</label>
@@ -96,7 +96,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
             setRect(null);
             setMessage(null);
           }}
-          className="block w-full text-sm text-neutral-300 file:mr-3 file:rounded-lg file:border-0 file:bg-white file:px-4 file:py-2 file:font-medium file:text-black"
+          className="block w-full cursor-pointer rounded-xl border border-dashed border-trait bg-surface p-3 text-sm text-sourdine transition-colors file:mr-3 file:cursor-pointer file:rounded-lg file:border-0 file:bg-encre file:px-4 file:py-2 file:font-medium file:text-fond hover:border-sourdine"
         />
         {apercu && (
           <div className="mt-3">
@@ -118,17 +118,17 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
           onBlur={() => setTimeout(() => setFocus(false), 150)}
         />
         {focus && suggestions.length > 0 && !existant && (
-          <ul className="absolute z-10 mt-1 w-full overflow-hidden rounded-lg border border-neutral-700 bg-neutral-900 shadow-xl" data-testid="suggestions">
+          <ul className="absolute z-10 mt-1 w-full overflow-hidden rounded-lg border border-trait bg-relief shadow-xl" data-testid="suggestions">
             {suggestions.map((t) => (
               <li key={t.id}>
                 <button
                   type="button"
                   onMouseDown={(e) => e.preventDefault()}
                   onClick={() => setSaisie(t.terme)}
-                  className="flex w-full justify-between px-3 py-2 text-left hover:bg-neutral-800"
+                  className="flex w-full items-baseline justify-between gap-3 px-3 py-2.5 text-left hover:bg-trait"
                 >
                   <span>{t.terme}</span>
-                  <span className="text-xs text-neutral-500">{t.categorie}</span>
+                  <span className="text-right text-xs text-faible">{t.categorie}</span>
                 </button>
               </li>
             ))}
@@ -140,7 +140,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
           </p>
         )}
         {proche && (
-          <p className="mt-2 text-sm text-amber-300" data-testid="terme-proche">
+          <p className="mt-2 text-sm text-accent" data-testid="terme-proche">
             Vouliez-vous dire{" "}
             <button type="button" onClick={() => setSaisie(proche.terme)} className="font-semibold underline">
               {proche.terme}
@@ -151,8 +151,8 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
       </div>
 
       {nouveau && (
-        <div className="grid gap-4 rounded-lg border border-neutral-800 p-4" data-testid="nouveau-terme">
-          <p className="text-sm text-neutral-400">Nouveau terme : indiquez sa définition et sa catégorie.</p>
+        <div className="panneau grid gap-4 p-4" data-testid="nouveau-terme">
+          <p className="text-sm text-sourdine">Nouveau terme : indiquez sa définition et sa catégorie.</p>
           <div>
             <label className="mb-2 block font-medium" htmlFor="definition">Définition</label>
             <textarea id="definition" rows={2} className={champ} value={definition} onChange={(e) => setDefinition(e.target.value)} />
@@ -170,14 +170,14 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
       )}
 
       <div>
-        <label className="mb-2 block font-medium" htmlFor="lieu">Lieu <span className="font-normal text-neutral-500">(facultatif)</span></label>
+        <label className="mb-2 block font-medium" htmlFor="lieu">Lieu <span className="font-normal text-faible">(facultatif)</span></label>
         <input id="lieu" className={champ} value={lieu} onChange={(e) => setLieu(e.target.value)} placeholder="ex. Plateau, Dakar" />
       </div>
 
       <button
         type="submit"
         disabled={!pret || envoi}
-        className="rounded-lg bg-white px-6 py-3 text-lg font-medium text-black hover:bg-neutral-200 disabled:opacity-40"
+        className="btn btn-plein px-6 py-3 text-lg"
       >
         {envoi ? "Ajout…" : "Ajouter"}
       </button>

@@ -8,8 +8,11 @@ Mettre `ETAT.md` à jour à chaque étape franchie, puis committer.
 - App Next.js 16 (App Router) + TypeScript + Tailwind 4, en français, locale. `npm install` puis `npm run dev`.
 - Données : `data/terms.json`, `data/images.json` ; images dans `public/images/commons/` et `public/images/perso/`.
 - Seul module d'accès aux données : `lib/data.ts`. Types et fonctions pures : `lib/shared.ts`.
-- Pages : `app/page.tsx` (jeu, `components/Jeu.tsx`), `app/ajouter` (`components/Ajouter.tsx`), `app/gerer` (`components/Gerer.tsx`).
-  API : `app/api/images/route.ts` (POST), `app/api/images/[id]/route.ts` (PATCH, DELETE).
+- Pages : `app/page.tsx` (jeu, `components/Jeu.tsx`), `app/lexique` (`components/Lexique.tsx`), `app/ajouter` (`components/Ajouter.tsx`),
+  `app/gerer` (`components/Gerer.tsx`), `app/parametres` (`components/Parametres.tsx`). Réglages : `lib/parametres.ts` ; progression : `lib/progres.ts`.
+- API : `app/api/images/route.ts` (POST), `app/api/images/[id]/route.ts` (PATCH, DELETE) ; vignettes : `app/vignettes/[...chemin]/route.ts`.
+- Design : couleurs et polices dans le bloc `@theme` de `app/globals.css` (classes `bg-fond`, `text-sourdine`, `.btn`, `.champ`…).
+  Le test de bout en bout s'appuie sur les `data-testid` et sur les classes `border-green-500` / `border-red-500` des réponses.
 - Choix faits en autonomie : `DECISIONS.md` (ajouter une ligne pour tout nouveau choix).
 
 ## Chaîne du contenu Commons

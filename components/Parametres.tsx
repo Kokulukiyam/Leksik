@@ -3,6 +3,8 @@
 import { useEffect, useState } from "react";
 import { CHOIX, PAR_DEFAUT, ecrireParametres, lireParametres, type Parametres as P } from "@/lib/parametres";
 import { jouables } from "@/lib/shared";
+import { bilan, effacerProgres, lireProgres, type Progres } from "@/lib/progres";
+import Jauge from "./Jauge";
 import type { Image, Term } from "@/lib/shared";
 
 function Groupe<T extends string | number | boolean>({
@@ -21,33 +23,37 @@ function Groupe<T extends string | number | boolean>({
   onChange: (v: T) => void;
 }) {
   return (
-    <fieldset className="mb-6" data-testid={`param-${nom}`}>
-      <legend className="mb-1 font-medium">{titre}</legend>
-      {aide && <p className="mb-2 text-sm text-neutral-400">{aide}</p>}
-      <div className="flex flex-wrap gap-2">
+    <div role="group" aria-label={titre} className="border-t border-trait py-5" data-testid={`param-${nom}`}>
+      <p className="mb-1 font-medium">{titre}</p>
+      {aide && <p className="mb-2 text-sm text-sourdine">{aide}</p>}
+      <div className="flex flex-wrap gap-2 pt-1">
         {options.map((o) => (
           <button
             key={String(o.v)}
             type="button"
             aria-pressed={o.v === valeur}
             onClick={() => onChange(o.v)}
-            className={`rounded-lg border-2 px-4 py-2 ${
-              o.v === valeur ? "border-white bg-white font-medium text-black" : "border-neutral-700 bg-neutral-900 hover:border-neutral-400"
+            className={`rounded-lg border px-4 py-2 transition-colors ${
+              o.v === valeur ? "border-encre bg-encre font-medium text-fond" : "border-trait bg-surface hover:border-sourdine"
             }`}
           >
             {o.label}
           </button>
         ))}
       </div>
-    </fieldset>
+    </div>
   );
 }
 
 export default function Parametres({ terms, images }: { terms: Term[]; images: Image[] }) {
   const [p, setP] = useState<P | null>(null);
+  const [progres, setProgres] = useState<Progres>({});
 
   // eslint-disable-next-line react-hooks/set-state-in-effect -- lecture unique du localStorage au montage
-  useEffect(() => setP(lireParametres()), []);
+  useEffect(() => {
+    setP(lireParametres());
+    setProgres(lireProgres());
+  }, []);
   if (!p) return null;
 
   function maj(modif: Partial<P>) {
@@ -57,11 +63,13 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
   }
 
   const n = jouables(images, terms, p).length;
+  const suivi = bilan(new Set(jouables(images, terms, { sources: "toutes", frequence: 3 }).map((i) => i.termId)), progres);
+  const vus = suivi.total - suivi.nouveau;
 
   return (
-    <div className="mx-auto max-w-xl py-4">
-      <h1 className="mb-1 text-2xl font-semibold">Paramètres</h1>
-      <p className="mb-6 text-neutral-400">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
+    <div className="mx-auto max-w-xl py-2 sm:py-6">
+      <h1 className="mb-2 font-serif text-4xl">Paramètres</h1>
+      <p className="mb-6 text-sourdine">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
 
       <Groupe
         titre="Images par partie"
@@ -101,6 +109,17 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
         onChange={(v) => maj({ sources: v })}
       />
       <Groupe
+        titre="Tirage des images"
+        aide="« Mots à apprendre » fait revenir les mots ratés et passe les mots maîtrisés moins souvent."
+        nom="tirage"
+        valeur={p.tirage}
+        options={[
+          { v: "adapte" as const, label: "Mots à apprendre d'abord" },
+          { v: "hasard" as const, label: "Au hasard" },
+        ]}
+        onChange={(v) => maj({ tirage: v })}
+      />
+      <Groupe
         titre="Mauvaises réponses"
         aide="Tirées de la même catégorie que la bonne réponse (plus difficile), ou de toutes les catégories."
         nom="mauvaises"
@@ -122,16 +141,35 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
         onChange={(v) => maj({ suivantAuto: v })}
       />
 
-      <p className="mb-4 text-sm text-neutral-300" data-testid="param-compte">
-        Avec ces réglages : {n} image{n > 1 ? "s" : ""} jouable{n > 1 ? "s" : ""}.
-      </p>
-      <button
-        type="button"
-        onClick={() => maj(PAR_DEFAUT)}
-        className="rounded-lg border border-neutral-600 px-5 py-3 hover:border-neutral-300"
-      >
-        Réglages par défaut
-      </button>
+      <div className="flex flex-wrap items-center justify-between gap-3 border-t border-trait py-5">
+        <p className="text-sm text-encre/85" data-testid="param-compte">
+          Avec ces réglages : {n} image{n > 1 ? "s" : ""} jouable{n > 1 ? "s" : ""}.
+        </p>
+        <button type="button" onClick={() => maj(PAR_DEFAUT)} className="btn">
+          Réglages par défaut
+        </button>
+      </div>
+
+      <section className="border-t border-trait py-5" data-testid="param-progression">
+        <h2 className="mb-1 font-medium">Ma progression</h2>
+        <p className="mb-3 text-sm text-sourdine">
+          {vus} mot{vus > 1 ? "s" : ""} vu{vus > 1 ? "s" : ""} sur {suivi.total}, dont {suivi.maitrise} maîtrisé{suivi.maitrise > 1 ? "s" : ""} (deux bonnes
+          réponses d&apos;affilée) et {suivi["a-revoir"]} à revoir.
+        </p>
+        <Jauge bilan={suivi} className="mb-4" />
+        <button
+          type="button"
+          disabled={vus === 0}
+          onClick={() => {
+            if (!confirm("Effacer toute ma progression ?")) return;
+            effacerProgres();
+            setProgres({});
+          }}
+          className="btn btn-danger"
+        >
+          Effacer ma progression
+        </button>
+      </section>
     </div>
   );
 }
