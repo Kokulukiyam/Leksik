@@ -2,13 +2,17 @@
 
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import Figure from "./Figure";
+import Nombre from "./Nombre";
+import Vignette from "./Vignette";
 import DessinRect from "./DessinRect";
 import { CATEGORIES, imageSrc, normaliser, vignetteSrc, type Image, type Rect, type Term } from "@/lib/shared";
 
 const PAQUET = 60; // cartes affichées à la fois (le contenu compte plus de 1000 images)
 
-const select = "champ champ-filtre min-w-0";
+const select = "champ min-w-0";
+
+// Ligne du tableau sur ordinateur : image, terme, lieu et crédit, actions.
+const LIGNE = "lg:grid lg:grid-cols-[10rem_minmax(0,5fr)_minmax(0,4fr)_21rem] lg:gap-x-6";
 
 export default function Gerer({ terms, images }: { terms: Term[]; images: Image[] }) {
   const [source, setSource] = useState("");
@@ -32,27 +36,22 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
   };
 
   return (
-    <div className="py-6 sm:py-10">
-      <div className="flex items-end justify-between gap-4">
-        <h1 className="etroit text-5xl leading-[0.92] sm:text-[4rem]">Gérer les images</h1>
-        <span className="mi-etroit shrink-0 text-xl tabular-nums sm:text-2xl" data-testid="compte">
-          {visibles.length} image{visibles.length > 1 ? "s" : ""}
-        </span>
-      </div>
-      <div className="mt-6 grid grid-cols-2 gap-1.5 lg:grid-cols-4">
+    <div className="py-5 sm:py-10">
+      <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Gérer les images</h1>
+      <div className="mt-4 grid grid-cols-2 gap-1.5 sm:mt-6 lg:grid-cols-4">
         <select aria-label="Source" className={select} value={source} onChange={(e) => filtre(setSource)(e.target.value)}>
-          <option value="">Toutes les sources</option>
+          <option value="">Source</option>
           <option value="commons">Commons</option>
           <option value="perso">Mes photos</option>
         </select>
         <select aria-label="Catégorie" className={select} value={categorie} onChange={(e) => filtre(setCategorie)(e.target.value)}>
-          <option value="">Toutes les catégories</option>
+          <option value="">Catégorie</option>
           {CATEGORIES.map((c) => (
             <option key={c}>{c}</option>
           ))}
         </select>
         <select aria-label="Statut" className={select} value={statut} onChange={(e) => filtre(setStatut)(e.target.value)}>
-          <option value="">Tous les statuts</option>
+          <option value="">Statut</option>
           <option value="validée">Validée</option>
           <option value="refusée">Refusée</option>
         </select>
@@ -65,15 +64,23 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
           onChange={(e) => filtre(setRecherche)(e.target.value)}
         />
       </div>
-      {/* Planche-contact : des cases séparées par des filets, pas des cartes. */}
-      <ul className="mt-6 grid border-l border-t-2 border-l-trait border-t-encre sm:grid-cols-2 lg:grid-cols-3">
+
+      <div className={`${LIGNE} tete-tableau mt-8`}>
+        <span className="tabular-nums" data-testid="compte">
+          <Nombre n={visibles.length} /> image{visibles.length > 1 ? "s" : ""}
+        </span>
+        <span aria-hidden className="hidden lg:block">Terme</span>
+        <span aria-hidden className="hidden lg:block">Lieu, auteur, licence</span>
+        <span aria-hidden className="hidden lg:block" />
+      </div>
+      <ul>
         {visibles.slice(0, limite).map((img) => (
           <Carte key={img.id} img={img} terms={terms} term={termsParId.get(img.termId)} />
         ))}
       </ul>
-      {visibles.length === 0 && <p className="etroit pt-3 text-3xl">Aucune image ne correspond.</p>}
+      {visibles.length === 0 && <p className="mi-etroit pt-4 text-2xl">Aucune image ne correspond.</p>}
       {visibles.length > limite && (
-        <button onClick={() => setLimite(limite + PAQUET)} className="btn mt-6 min-h-14 w-full text-lg">
+        <button onClick={() => setLimite(limite + PAQUET)} className="btn mt-6 min-h-14 w-full justify-start text-lg">
           Afficher {Math.min(PAQUET, visibles.length - limite)} image{visibles.length - limite > 1 ? "s" : ""} de plus
         </button>
       )}
@@ -88,7 +95,6 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
   const [rect, setRect] = useState<Rect | null>(img.rectangle);
   const [occupe, setOccupe] = useState(false);
   const [erreur, setErreur] = useState("");
-  const [noteOuverte, setNoteOuverte] = useState(false);
 
   async function appel(methode: "PATCH" | "DELETE", corps?: object) {
     setOccupe(true);
@@ -111,21 +117,16 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
 
   const refusee = img.statut === "refusée";
 
-  const action = "mi-etroit min-h-11 flex-1 border-r border-trait px-2 transition-colors duration-100 last:border-r-0 disabled:text-faible";
-  const neutre = `${action} hover:bg-relief active:bg-trait`;
+  const credit = [img.lieu, img.auteur, img.licence].filter(Boolean);
 
-  return (
-    <li className="flex flex-col border-b border-r border-trait" data-testid="carte" data-id={img.id}>
-      <div className={`flex items-center justify-center bg-scene text-center ${edition ? "p-2" : "h-60"}`}>
-        {edition ? (
-          <DessinRect src={imageSrc(img)} rect={rect} onChange={setRect} imgClassName="max-h-72" />
-        ) : (
-          <Figure src={vignetteSrc(img)} rect={img.rectangle} alt={term?.terme ?? img.termId} imgClassName={`max-h-60 ${refusee ? "opacity-40 grayscale" : ""}`} />
-        )}
-      </div>
-      <div className="flex flex-1 flex-col px-4 pb-4 pt-3">
-        {edition ? (
-          <select aria-label="Terme" className={`${select} mb-2`} value={termId} onChange={(e) => setTermId(e.target.value)}>
+  // Modification : la photo entière pour redessiner le cadre, le terme et les deux boutons à côté.
+  if (edition)
+    return (
+      <li className="border-b border-trait py-5 lg:grid lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] lg:gap-x-16" data-testid="carte" data-id={img.id}>
+        <DessinRect src={imageSrc(img)} rect={rect} onChange={setRect} imgClassName="max-h-[28rem]" />
+        <div className="mt-4 lg:mt-0">
+          <label className="etiquette" htmlFor={`terme-${img.id}`}>Terme</label>
+          <select id={`terme-${img.id}`} className={select} value={termId} onChange={(e) => setTermId(e.target.value)}>
             {CATEGORIES.map((c) => (
               <optgroup key={c} label={c}>
                 {terms
@@ -139,32 +140,9 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
               </optgroup>
             ))}
           </select>
-        ) : (
-          <p className="mi-etroit text-[1.375rem] leading-[1.1]" data-testid="terme">{term?.terme ?? `? ${img.termId}`}</p>
-        )}
-        <p className="mt-1 text-xs text-faible">
-          {term?.categorie} · {img.source === "perso" ? "Mes photos" : "Commons"} ·{" "}
-          <span className={`mi-etroit ${refusee ? "text-red-400" : "text-green-400"}`} data-testid="statut">{img.statut}</span>
-        </p>
-        {img.note && (
-          <p
-            className={`mt-2.5 cursor-pointer text-sm leading-snug text-sourdine hover:text-encre ${noteOuverte ? "" : "line-clamp-3"}`}
-            title={noteOuverte ? undefined : "Cliquer pour lire toute la note"}
-            onClick={() => setNoteOuverte(!noteOuverte)}
-            data-testid="note"
-          >
-            {img.note}
-          </p>
-        )}
-        <p className="mt-2 text-xs text-faible">
-          {[img.lieu, img.auteur, img.licence].filter(Boolean).join(" · ")}
-        </p>
-        {erreur && <p className="mt-2 text-sm text-red-400">{erreur}</p>}
-      </div>
-      <div className="mt-auto flex border-t border-trait">
-        {edition ? (
-          <>
-            <button disabled={occupe} onClick={() => appel("PATCH", { termId, rectangle: rect })} className={`${action} bg-accent text-black hover:bg-white disabled:bg-relief`}>
+          {erreur && <p className="mt-2 text-sm text-red-500">{erreur}</p>}
+          <div className="mt-4 grid grid-cols-2 gap-2">
+            <button disabled={occupe} onClick={() => appel("PATCH", { termId, rectangle: rect })} className="btn btn-plein justify-start">
               Enregistrer
             </button>
             <button
@@ -174,38 +152,64 @@ function Carte({ img, terms, term }: { img: Image; terms: Term[]; term?: Term })
                 setTermId(img.termId);
                 setRect(img.rectangle);
               }}
-              className={neutre}
+              className="btn justify-start"
             >
               Annuler
             </button>
-          </>
-        ) : (
-          <>
-            <button
-              disabled={occupe}
-              onClick={() => {
-                setTermId(img.termId);
-                setRect(img.rectangle);
-                setEdition(true);
-              }}
-              className={neutre}
-            >
-              Modifier
-            </button>
-            <button disabled={occupe} onClick={() => appel("PATCH", { statut: refusee ? "validée" : "refusée" })} className={neutre}>
-              {refusee ? "Valider" : "Refuser"}
-            </button>
-            <button
-              disabled={occupe}
-              onClick={() => {
-                if (confirm("Supprimer définitivement cette image ?")) appel("DELETE");
-              }}
-              className={`${action} text-red-400 hover:bg-red-500 hover:text-white active:bg-red-500 active:text-white`}
-            >
-              Supprimer
-            </button>
-          </>
+          </div>
+        </div>
+      </li>
+    );
+
+  return (
+    <li className={`${LIGNE} grid grid-cols-[7rem_minmax(0,1fr)] items-start gap-x-4 border-b border-trait pb-3 pt-6 lg:py-4`} data-testid="carte" data-id={img.id}>
+      <Vignette src={vignetteSrc(img)} rect={img.rectangle} alt={term?.terme ?? img.termId} imgClassName={refusee ? "opacity-40 grayscale" : ""} />
+      <div className="min-w-0">
+        <p className="mi-etroit -mt-0.5 text-[1.375rem] leading-[1.1]" data-testid="terme">{term?.terme ?? `? ${img.termId}`}</p>
+        <p className="mt-1.5 text-sm text-sourdine">
+          {term?.categorie}
+          <span className="text-faible"> · {img.source === "perso" ? "Mes photos" : "Commons"}</span>
+        </p>
+        <p className={`mt-1 text-sm ${refusee ? "text-red-500" : "text-green-500"}`} data-testid="statut">{img.statut}</p>
+      </div>
+      <div className="col-span-2 mt-3 min-w-0 text-sm leading-snug text-sourdine lg:col-span-1 lg:mt-0">
+        {credit.length > 0 && <p>{credit.join(" · ")}</p>}
+        {img.note && (
+          <details className="group mt-1 lg:mt-1.5">
+            <summary className="lien inline-flex min-h-11 items-center lg:min-h-0">
+              <span className="group-open:hidden">Voir la vérification</span>
+              <span className="hidden group-open:inline">Masquer la vérification</span>
+            </summary>
+            <p className="pb-2 text-faible lg:mt-2" data-testid="note">{img.note}</p>
+          </details>
         )}
+        {erreur && <p className="mt-1 text-red-500">{erreur}</p>}
+      </div>
+      {/* « Supprimer » se tient à l'écart des deux autres : on ne l'atteint pas par erreur. */}
+      <div className="col-span-2 mt-2 flex gap-2 lg:col-span-1 lg:mt-0 lg:justify-end">
+        <button
+          disabled={occupe}
+          onClick={() => {
+            setTermId(img.termId);
+            setRect(img.rectangle);
+            setEdition(true);
+          }}
+          className="btn !min-h-11"
+        >
+          Modifier
+        </button>
+        <button disabled={occupe} onClick={() => appel("PATCH", { statut: refusee ? "validée" : "refusée" })} className="btn !min-h-11">
+          {refusee ? "Valider" : "Refuser"}
+        </button>
+        <button
+          disabled={occupe}
+          onClick={() => {
+            if (confirm("Supprimer définitivement cette image ?")) appel("DELETE");
+          }}
+          className="btn btn-danger ml-auto !min-h-11 border-transparent lg:ml-4"
+        >
+          Supprimer
+        </button>
       </div>
     </li>
   );

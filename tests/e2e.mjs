@@ -423,8 +423,8 @@ const LIBELLES = {
   frequence: { 1: "Les plus courants", 2: "Courants et fréquents", 3: "Tous" },
   sources: { toutes: "Toutes", commons: "Commons", perso: "Mes photos" },
   mauvaisesReponses: { categorie: "Même catégorie", toutes: "Toutes catégories" },
-  suivantAuto: { false: "J'appuie sur « Suivant »", true: "Image suivante automatique" },
-  tirage: { adapte: "Mots à apprendre d'abord", hasard: "Au hasard" },
+  suivantAuto: { false: "J’appuie sur «\u00a0Suivant\u00a0»", true: "Image suivante automatique" },
+  tirage: { adapte: "Mots à apprendre d’abord", hasard: "Au hasard" },
 };
 const GROUPES = { imagesParPartie: "images", propositions: "propositions", frequence: "frequence", sources: "sources", mauvaisesReponses: "mauvaises", suivantAuto: "suivant", tirage: "tirage" };
 const libelle = (cle, v) => LIBELLES[cle]?.[String(v)] ?? String(v);

@@ -87,14 +87,11 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
     setMessage(null);
   }
 
-  const coin = "absolute h-5 w-5 border-accent transition-all duration-100";
-  const ecart = survol ? "0.5rem" : "0.875rem";
-
   return (
-    <form onSubmit={envoyer} className="py-6 sm:py-10">
-      <h1 className="etroit text-5xl leading-[0.92] sm:text-[4rem]">Ajouter une image</h1>
+    <form onSubmit={envoyer} className="py-5 sm:py-10">
+      <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Ajouter une image</h1>
 
-      <div className="mt-6 grid gap-x-16 gap-y-6 border-t-2 border-encre pt-5 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)]">
+      <div className="mt-5 grid gap-x-16 gap-y-5 sm:mt-8 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)]">
         <div>
           <label className="etiquette" htmlFor="photo">Photo</label>
           <input
@@ -107,18 +104,16 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
           />
           {apercu ? (
             <>
-              <div className="bg-scene p-2">
-                <DessinRect src={apercu} rect={rect} onChange={setRect} />
-              </div>
+              <DessinRect src={apercu} rect={rect} onChange={setRect} />
               <p className="mt-3 flex items-baseline justify-between gap-4 border-t border-trait pt-3 text-sm text-faible">
                 <span className="truncate">{fichier?.name}</span>
-                <label htmlFor="photo" className="shrink-0 text-encre underline decoration-trait-fort underline-offset-4 hover:decoration-encre">
+                <label htmlFor="photo" className="lien shrink-0">
                   Changer de photo
                 </label>
               </p>
             </>
           ) : (
-            // Zone de dépôt : quatre repères d'angle, comme un cadre en attente de son image.
+            // Zone à remplir, en trait interrompu : on y touche pour choisir un fichier, ou on y dépose la photo.
             <label
               htmlFor="photo"
               data-testid="depot"
@@ -133,18 +128,12 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
                 const f = [...e.dataTransfer.files].find((x) => x.type.startsWith("image/"));
                 if (f) choisirFichier(f);
               }}
-              onMouseEnter={() => setSurvol(true)}
-              onMouseLeave={() => setSurvol(false)}
-              className={`relative flex min-h-56 flex-col justify-end p-7 transition-colors duration-100 peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-accent lg:min-h-[26rem] ${survol ? "bg-relief" : "bg-surface"}`}
+              className={`projete flex min-h-36 flex-col justify-center px-5 py-6 transition-colors duration-100 hover:bg-surface peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-accent lg:min-h-48 lg:px-7 ${survol ? "bg-relief" : ""}`}
             >
-              <span aria-hidden className={`${coin} border-l-2 border-t-2`} style={{ left: ecart, top: ecart }} />
-              <span aria-hidden className={`${coin} border-r-2 border-t-2`} style={{ right: ecart, top: ecart }} />
-              <span aria-hidden className={`${coin} border-b-2 border-l-2`} style={{ left: ecart, bottom: ecart }} />
-              <span aria-hidden className={`${coin} border-b-2 border-r-2`} style={{ right: ecart, bottom: ecart }} />
-              <span className="etroit text-3xl leading-none sm:text-[2.5rem]">Choisir une photo</span>
-              <span className="mt-2 text-sm text-sourdine">
-                <span className="hidden lg:inline">ou la déposer ici. </span>Vous pourrez ensuite encadrer l’élément à nommer.
+              <span className="mi-etroit text-xl">
+                Choisir une photo<span className="hidden font-normal text-sourdine lg:inline"> ou la déposer ici</span>
               </span>
+              <span className="mt-1 text-sm leading-snug text-sourdine">Vous pourrez ensuite encadrer l’élément à nommer.</span>
             </label>
           )}
         </div>
@@ -170,9 +159,9 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
                       type="button"
                       onMouseDown={(e) => e.preventDefault()}
                       onClick={() => setSaisie(t.terme)}
-                      className="flex min-h-11 w-full items-baseline justify-between gap-3 px-3 py-2.5 text-left hover:bg-accent hover:text-black [&:hover>span]:text-black"
+                      className="flex min-h-11 w-full items-baseline justify-between gap-3 px-3 py-2.5 text-left hover:bg-trait"
                     >
-                      <span className="mi-etroit text-lg leading-tight">{t.terme}</span>
+                      <span>{t.terme}</span>
                       <span className="text-right text-xs text-faible">{t.categorie}</span>
                     </button>
                   </li>
@@ -180,14 +169,14 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
               </ul>
             )}
             {existant && (
-              <p className="mt-2 text-sm text-green-400" data-testid="terme-existant">
+              <p className="mt-2 text-sm text-green-500" data-testid="terme-existant">
                 Terme existant&nbsp;: {existant.terme} ({existant.categorie})
               </p>
             )}
             {proche && (
               <p className="mt-2 text-sm text-sourdine" data-testid="terme-proche">
                 Vouliez-vous dire{" "}
-                <button type="button" onClick={() => setSaisie(proche.terme)} className="mi-etroit text-base text-accent underline underline-offset-4">
+                <button type="button" onClick={() => setSaisie(proche.terme)} className="lien">
                   {proche.terme}
                 </button>
                 &nbsp;?
@@ -197,9 +186,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
 
           {nouveau && (
             <div className="grid gap-5" data-testid="nouveau-terme">
-              <p className="text-sm leading-snug text-sourdine">
-                <span className="mi-etroit text-accent">Nouveau terme.</span> Indiquez sa définition et sa catégorie.
-              </p>
+              <p className="-mb-2 text-sm leading-snug text-sourdine">Nouveau terme : indiquez sa définition et sa catégorie.</p>
               <div>
                 <label className="etiquette" htmlFor="definition">Définition</label>
                 <textarea id="definition" rows={3} className={champ} value={definition} onChange={(e) => setDefinition(e.target.value)} />
@@ -221,16 +208,13 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
             <input id="lieu" className={champ} value={lieu} onChange={(e) => setLieu(e.target.value)} placeholder="ex. Plateau, Dakar" />
           </div>
 
-          <button type="submit" disabled={!pret || envoi} className="btn btn-plein mt-1 min-h-14 justify-between text-lg">
+          <button type="submit" disabled={!pret || envoi} className="btn btn-plein mt-1 min-h-14 justify-start text-lg">
             {envoi ? "Ajout…" : "Ajouter"}
-            <svg aria-hidden viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="square">
-              <path d="M12 4v16M4 12h16" />
-            </svg>
           </button>
 
           {message && (
-            <p role="status" className={`text-sm ${message.ok ? "text-green-400" : "text-red-400"}`}>
-              {message.texte} {message.ok && <Link href="/gerer" className="text-encre underline underline-offset-4">Voir dans Gérer</Link>}
+            <p role="status" className={`text-sm ${message.ok ? "text-green-500" : "text-red-500"}`}>
+              {message.texte} {message.ok && <Link href="/gerer" className="lien">Voir dans Gérer</Link>}
             </p>
           )}
         </div>
