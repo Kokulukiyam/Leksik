@@ -1,15 +1,15 @@
 [
   {
     "id": "allege",
-    "terme": "l'allège",
-    "definition": "Partie de mur située sous une fenêtre, entre le plancher et l'appui de la baie.",
+    "terme": "l’allège",
+    "definition": "Partie de mur située sous une fenêtre, entre le plancher et l’appui de la baie.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
   {
     "id": "appui-de-fenetre",
-    "terme": "l'appui de fenêtre",
-    "definition": "Tablette horizontale qui termine le bas d'une baie au-dessus de l'allège, souvent saillante et inclinée pour rejeter l'eau de pluie.",
+    "terme": "l’appui de fenêtre",
+    "definition": "Tablette horizontale qui termine le bas d’une baie au-dessus de l’allège, souvent saillante et inclinée pour rejeter l’eau de pluie.",
     "categorie": "Façade et ouvertures",
     "priorite": 1,
     "incompatibles": [
@@ -19,7 +19,7 @@
   {
     "id": "linteau",
     "terme": "le linteau",
-    "definition": "Élément horizontal en pierre, bois ou béton qui ferme le haut d'une baie et porte la maçonnerie située au-dessus.",
+    "definition": "Élément horizontal en pierre, bois ou béton qui ferme le haut d’une baie et porte la maçonnerie située au-dessus.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
@@ -33,14 +33,14 @@
   {
     "id": "trumeau",
     "terme": "le trumeau",
-    "definition": "Pan de mur plein compris entre deux baies voisines d'un même niveau.",
+    "definition": "Pan de mur plein compris entre deux baies voisines d’un même niveau.",
     "categorie": "Façade et ouvertures",
     "priorite": 2
   },
   {
     "id": "piedroit",
     "terme": "le piédroit",
-    "definition": "Montant vertical de maçonnerie qui forme le côté d'une baie et porte le linteau ou l'arc.",
+    "definition": "Montant vertical de maçonnerie qui forme le côté d’une baie et porte le linteau ou l’arc.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -51,7 +51,7 @@
   {
     "id": "tympan",
     "terme": "le tympan",
-    "definition": "Surface, souvent sculptée, enclose entre le linteau et l'arc d'un portail, ou entre les corniches d'un fronton.",
+    "definition": "Surface, souvent sculptée, enclose entre le linteau et l’arc d’un portail, ou entre les corniches d’un fronton.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -60,7 +60,7 @@
   },
   {
     "id": "oeil-de-boeuf",
-    "terme": "l'œil-de-bœuf",
+    "terme": "l’œil-de-bœuf",
     "definition": "Petite fenêtre ronde ou ovale percée dans un mur ou un toit.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
@@ -71,7 +71,7 @@
   {
     "id": "balcon",
     "terme": "le balcon",
-    "definition": "Plateforme en saillie sur une façade, accessible depuis l'intérieur et fermée par un garde-corps.",
+    "definition": "Plateforme en saillie sur une façade, accessible depuis l’intérieur et fermée par un garde-corps.",
     "categorie": "Façade et ouvertures",
     "priorite": 1,
     "incompatibles": [
@@ -84,14 +84,14 @@
   {
     "id": "garde-corps",
     "terme": "le garde-corps",
-    "definition": "Barrière à hauteur d'appui qui protège des chutes au bord d'un vide, comme un balcon, un escalier ou une terrasse.",
+    "definition": "Barrière à hauteur d’appui qui protège des chutes au bord d’un vide, comme un balcon, un escalier ou une terrasse.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
   {
     "id": "persienne",
     "terme": "la persienne",
-    "definition": "Volet extérieur à lames inclinées qui laisse passer l'air tout en arrêtant le soleil.",
+    "definition": "Volet extérieur à lames inclinées qui laisse passer l’air tout en arrêtant le soleil.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -100,15 +100,15 @@
   },
   {
     "id": "oriel",
-    "terme": "l'oriel",
+    "terme": "l’oriel",
     "definition": "Avant-corps vitré en encorbellement sur une façade, sur un ou plusieurs étages.",
     "categorie": "Façade et ouvertures",
     "priorite": 3
   },
   {
     "id": "imposte",
-    "terme": "l'imposte",
-    "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d'une porte ou d'une fenêtre, séparée du reste par une traverse.",
+    "terme": "l’imposte",
+    "definition": "Partie haute, fixe ou ouvrante et souvent vitrée, d’une porte ou d’une fenêtre, séparée du reste par une traverse.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -125,7 +125,7 @@
   {
     "id": "claustra",
     "terme": "le claustra",
-    "definition": "Paroi ajourée faite d'éléments assemblés en béton, terre cuite ou bois, qui laisse passer l'air et la lumière.",
+    "definition": "Paroi ajourée faite d’éléments assemblés en béton, terre cuite ou bois, qui laisse passer l’air et la lumière.",
     "categorie": "Façade et ouvertures",
     "priorite": 1,
     "incompatibles": [
@@ -138,14 +138,14 @@
   {
     "id": "pignon",
     "terme": "le pignon",
-    "definition": "Partie supérieure, triangulaire, d'un mur qui porte les deux versants d'un toit.",
+    "definition": "Partie supérieure, triangulaire, d’un mur qui porte les deux versants d’un toit.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
   {
     "id": "moucharabieh",
     "terme": "le moucharabieh",
-    "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l'architecture arabe.",
+    "definition": "Treillis de bois tourné, souvent en saillie devant une fenêtre, qui permet de voir sans être vu, typique de l’architecture arabe.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -156,14 +156,14 @@
   {
     "id": "lucarne",
     "terme": "la lucarne",
-    "definition": "Ouvrage en saillie sur un toit, muni d'une fenêtre verticale, qui éclaire le comble.",
+    "definition": "Ouvrage en saillie sur un toit, muni d’une fenêtre verticale, qui éclaire le comble.",
     "categorie": "Toitures",
     "priorite": 3
   },
   {
     "id": "acrotere",
-    "terme": "l'acrotère",
-    "definition": "Muret en rive d'une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l'étanchéité.",
+    "terme": "l’acrotère",
+    "definition": "Muret en rive d’une toiture-terrasse, qui en dépasse le niveau et contre lequel se relève l’étanchéité.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -174,7 +174,7 @@
   {
     "id": "gouttiere",
     "terme": "la gouttière",
-    "definition": "Canal fixé au bas d'un toit qui recueille les eaux de pluie.",
+    "definition": "Canal fixé au bas d’un toit qui recueille les eaux de pluie.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -185,28 +185,28 @@
   {
     "id": "faitage",
     "terme": "le faîtage",
-    "definition": "Ligne de rencontre supérieure des deux versants d'un toit, et l'ouvrage qui la couvre.",
+    "definition": "Ligne de rencontre supérieure des deux versants d’un toit, et l’ouvrage qui la couvre.",
     "categorie": "Toitures",
     "priorite": 1
   },
   {
     "id": "chaume",
     "terme": "le chaume",
-    "definition": "Couverture de toit faite de paille, de roseaux ou d'herbes séchées.",
+    "definition": "Couverture de toit faite de paille, de roseaux ou d’herbes séchées.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2
   },
   {
     "id": "souche-de-cheminee",
     "terme": "la souche de cheminée",
-    "definition": "Partie d'un conduit de cheminée qui dépasse au-dessus du toit.",
+    "definition": "Partie d’un conduit de cheminée qui dépasse au-dessus du toit.",
     "categorie": "Toitures",
     "priorite": 3
   },
   {
     "id": "shed",
     "terme": "le shed",
-    "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l'intérieur, typique des bâtiments industriels.",
+    "definition": "Toiture en dents de scie dont un versant de chaque dent est vitré pour éclairer l’intérieur, typique des bâtiments industriels.",
     "categorie": "Toitures",
     "priorite": 3,
     "incompatibles": [
@@ -223,7 +223,7 @@
   {
     "id": "lanterneau",
     "terme": "le lanterneau",
-    "definition": "Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l'espace situé dessous.",
+    "definition": "Élément vitré posé en saillie sur un toit pour éclairer et parfois aérer l’espace situé dessous.",
     "categorie": "Toitures",
     "priorite": 2,
     "incompatibles": [
@@ -235,7 +235,7 @@
   {
     "id": "colonne",
     "terme": "la colonne",
-    "definition": "Support vertical isolé, de section circulaire, composé en général d'une base, d'un fût et d'un chapiteau.",
+    "definition": "Support vertical isolé, de section circulaire, composé en général d’une base, d’un fût et d’un chapiteau.",
     "categorie": "Structure",
     "priorite": 2,
     "incompatibles": [
@@ -246,8 +246,8 @@
   },
   {
     "id": "arc-boutant",
-    "terme": "l'arc-boutant",
-    "definition": "Arc extérieur qui reporte la poussée d'une voûte sur une culée éloignée du mur.",
+    "terme": "l’arc-boutant",
+    "definition": "Arc extérieur qui reporte la poussée d’une voûte sur une culée éloignée du mur.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -264,7 +264,7 @@
   },
   {
     "id": "arc",
-    "terme": "l'arc",
+    "terme": "l’arc",
     "definition": "Élément courbe qui franchit une ouverture en reportant les charges sur ses appuis.",
     "categorie": "Structure",
     "priorite": 2
@@ -279,7 +279,7 @@
   {
     "id": "cle-de-voute",
     "terme": "la clé de voûte",
-    "definition": "Pierre placée au sommet d'un arc ou d'une voûte, qui bloque les autres pierres.",
+    "definition": "Pierre placée au sommet d’un arc ou d’une voûte, qui bloque les autres pierres.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -291,7 +291,7 @@
   {
     "id": "coupole",
     "terme": "la coupole",
-    "definition": "Voûte en demi-sphère ou en calotte qui couvre un espace de plan circulaire, carré ou polygonal ; vue de l'extérieur, on l'appelle aussi dôme.",
+    "definition": "Voûte en demi-sphère ou en calotte qui couvre un espace de plan circulaire, carré ou polygonal ; vue de l’extérieur, on l’appelle aussi dôme.",
     "categorie": "Structure",
     "priorite": 2,
     "incompatibles": [
@@ -312,7 +312,7 @@
   {
     "id": "ferme",
     "terme": "la ferme",
-    "definition": "Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d'un toit.",
+    "definition": "Assemblage triangulé de pièces de bois ou de métal qui porte la couverture d’un toit.",
     "categorie": "Structure",
     "priorite": 2
   },
@@ -326,7 +326,7 @@
   {
     "id": "pilotis",
     "terme": "le pilotis",
-    "definition": "Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l'eau, en laissant libre le niveau inférieur.",
+    "definition": "Ensemble de pieux ou de poteaux qui portent une construction au-dessus du sol ou de l’eau, en laissant libre le niveau inférieur.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -336,7 +336,7 @@
   {
     "id": "corniche",
     "terme": "la corniche",
-    "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d'un mur ou d'une façade.",
+    "definition": "Couronnement en saillie, généralement mouluré, qui termine le haut d’un mur ou d’une façade.",
     "categorie": "Ornement",
     "priorite": 1,
     "incompatibles": [
@@ -349,7 +349,7 @@
   {
     "id": "bandeau",
     "terme": "le bandeau",
-    "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d'une façade.",
+    "definition": "Bande horizontale peu saillante, lisse ou simplement moulurée, qui marque les niveaux d’une façade.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -370,7 +370,7 @@
   {
     "id": "chapiteau",
     "terme": "le chapiteau",
-    "definition": "Partie supérieure, élargie et souvent sculptée, d'une colonne ou d'un pilastre.",
+    "definition": "Partie supérieure, élargie et souvent sculptée, d’une colonne ou d’un pilastre.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -388,7 +388,7 @@
   {
     "id": "gargouille",
     "terme": "la gargouille",
-    "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l'eau de pluie du toit.",
+    "definition": "Déversoir en saillie, souvent sculpté, qui rejette loin du mur l’eau de pluie du toit.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -418,7 +418,7 @@
   {
     "id": "modillon",
     "terme": "le modillon",
-    "definition": "Petite console répétée à intervalles réguliers sous la saillie d'une corniche.",
+    "definition": "Petite console répétée à intervalles réguliers sous la saillie d’une corniche.",
     "categorie": "Ornement",
     "priorite": 3,
     "incompatibles": [
@@ -428,7 +428,7 @@
   {
     "id": "mascaron",
     "terme": "le mascaron",
-    "definition": "Masque sculpté, figure humaine ou fantastique, qui orne une clé d'arc, une console ou une fontaine.",
+    "definition": "Masque sculpté, figure humaine ou fantastique, qui orne une clé d’arc, une console ou une fontaine.",
     "categorie": "Ornement",
     "priorite": 3,
     "incompatibles": [
@@ -443,28 +443,28 @@
   {
     "id": "frise",
     "terme": "la frise",
-    "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d'un mur ou entre l'architrave et la corniche d'un entablement.",
+    "definition": "Bande horizontale ornée de motifs répétés ou de figures, sculptée ou peinte, qui court le long d’un mur ou entre l’architrave et la corniche d’un entablement.",
     "categorie": "Ornement",
     "priorite": 2
   },
   {
     "id": "pinacle",
     "terme": "le pinacle",
-    "definition": "Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l'architecture gothique.",
+    "definition": "Petit couronnement élancé, pyramidal ou conique, qui surmonte un contrefort ou un angle, surtout dans l’architecture gothique.",
     "categorie": "Ornement",
     "priorite": 3
   },
   {
     "id": "cariatide",
     "terme": "la cariatide",
-    "definition": "Statue de femme qui sert de support à la place d'une colonne ou d'un pilastre.",
+    "definition": "Statue de femme qui sert de support à la place d’une colonne ou d’un pilastre.",
     "categorie": "Ornement",
     "priorite": 3
   },
   {
     "id": "brique",
     "terme": "la brique",
-    "definition": "Bloc d'argile moulé puis cuit, utilisé en maçonnerie.",
+    "definition": "Bloc d’argile moulé puis cuit, utilisé en maçonnerie.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -504,7 +504,7 @@
   {
     "id": "beton-brut",
     "terme": "le béton brut",
-    "definition": "Béton laissé apparent tel qu'il sort du coffrage, dont il garde l'empreinte.",
+    "definition": "Béton laissé apparent tel qu’il sort du coffrage, dont il garde l’empreinte.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -526,7 +526,7 @@
   },
   {
     "id": "ardoise",
-    "terme": "l'ardoise",
+    "terme": "l’ardoise",
     "definition": "Roche schisteuse fendue en plaques minces, utilisée pour couvrir les toits ou les murs.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3
@@ -575,7 +575,7 @@
     "id": "banco",
     "terme": "le banco",
     "definition": "Terre crue argileuse, souvent mêlée de paille, moulée en briques, modelée en murs ou appliquée en enduit dans la construction traditionnelle ouest-africaine.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2,
     "incompatibles": [
       "grenier-dogon",
@@ -587,15 +587,15 @@
   {
     "id": "toron",
     "terme": "le toron",
-    "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d'appui lors du recrépissage annuel.",
-    "categorie": "Afrique de l'Ouest",
+    "definition": "Pièce de bois, souvent de rônier, fichée en saillie dans les murs en banco des mosquées soudano-sahéliennes, qui sert d’appui lors du recrépissage annuel.",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2
   },
   {
     "id": "toguna",
     "terme": "le toguna",
     "definition": "Abri de palabres du pays dogon, au toit très épais de couches de tiges de mil posé sur des piliers bas, souvent sculptés, qui empêchent de se tenir debout.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "paillote"
@@ -604,8 +604,8 @@
   {
     "id": "grenier-dogon",
     "terme": "le grenier dogon",
-    "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d'un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
-    "categorie": "Afrique de l'Ouest",
+    "definition": "Petit bâtiment en banco de plan carré ou rond, coiffé d’un chapeau conique de paille, qui sert à stocker le mil dans les villages des falaises de Bandiagara.",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "banco"
@@ -614,8 +614,8 @@
   {
     "id": "case-a-impluvium",
     "terme": "la case à impluvium",
-    "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l'eau de pluie dans un bassin au centre de la cour intérieure.",
-    "categorie": "Afrique de l'Ouest",
+    "definition": "Grande habitation diola circulaire de Casamance, en banco, dont le toit en entonnoir recueille l’eau de pluie dans un bassin au centre de la cour intérieure.",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "case",
@@ -633,7 +633,7 @@
   {
     "id": "panneau-de-chantier",
     "terme": "le panneau de chantier",
-    "definition": "Grand panneau d'affichage dressé à l'entrée d'un chantier, qui présente le projet, le permis de construire et les intervenants.",
+    "definition": "Grand panneau d’affichage dressé à l’entrée d’un chantier, qui présente le projet, le permis de construire et les intervenants.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -660,7 +660,7 @@
   {
     "id": "goulotte-a-gravats",
     "terme": "la goulotte à gravats",
-    "definition": "Conduit formé de tronçons emboîtés suspendus le long d'une façade, qui fait descendre les gravats des étages vers une benne.",
+    "definition": "Conduit formé de tronçons emboîtés suspendus le long d’une façade, qui fait descendre les gravats des étages vers une benne.",
     "categorie": "Chantier et outillage",
     "priorite": 3,
     "incompatibles": [
@@ -676,7 +676,7 @@
   },
   {
     "id": "echafaudage",
-    "terme": "l'échafaudage",
+    "terme": "l’échafaudage",
     "definition": "Structure provisoire de montants, traverses et planchers dressée contre un ouvrage pour permettre de travailler en hauteur.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
@@ -686,8 +686,8 @@
   },
   {
     "id": "echafaudage-tubulaire",
-    "terme": "l'échafaudage tubulaire",
-    "definition": "Échafaudage fait de tubes d'acier assemblés par des colliers, adaptable à toutes les formes d'ouvrage.",
+    "terme": "l’échafaudage tubulaire",
+    "definition": "Échafaudage fait de tubes d’acier assemblés par des colliers, adaptable à toutes les formes d’ouvrage.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -699,7 +699,7 @@
   },
   {
     "id": "echafaudage-en-bambou",
-    "terme": "l'échafaudage en bambou",
+    "terme": "l’échafaudage en bambou",
     "definition": "Échafaudage fait de tiges de bambou ligaturées entre elles.",
     "categorie": "Chantier et outillage",
     "priorite": 3,
@@ -709,7 +709,7 @@
   },
   {
     "id": "echelle",
-    "terme": "l'échelle",
+    "terme": "l’échelle",
     "definition": "Appareil portatif formé de deux montants reliés par des barreaux, appuyé contre un ouvrage pour monter.",
     "categorie": "Chantier et outillage",
     "priorite": 1
@@ -717,14 +717,14 @@
   {
     "id": "nacelle-elevatrice",
     "terme": "la nacelle élévatrice",
-    "definition": "Engin muni d'un panier ou d'une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
+    "definition": "Engin muni d’un panier ou d’une plateforme élevé par un bras ou des ciseaux pour travailler en hauteur.",
     "categorie": "Chantier et outillage",
     "priorite": 2
   },
   {
     "id": "etai",
-    "terme": "l'étai",
-    "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu'il tienne seul.",
+    "terme": "l’étai",
+    "definition": "Pièce verticale provisoire, en bois ou en métal, qui soutient un coffrage, une dalle ou un ouvrage le temps qu’il tienne seul.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -746,7 +746,7 @@
   {
     "id": "coffrage-metallique",
     "terme": "le coffrage métallique",
-    "definition": "Coffrage fait de panneaux d'acier réutilisables, assemblés par clavettes ou serrages.",
+    "definition": "Coffrage fait de panneaux d’acier réutilisables, assemblés par clavettes ou serrages.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -770,7 +770,7 @@
   {
     "id": "coffrage-de-poteau",
     "terme": "le coffrage de poteau",
-    "definition": "Caisson vertical, souvent carré, monté autour des armatures d'un poteau avant d'y couler le béton.",
+    "definition": "Caisson vertical, souvent carré, monté autour des armatures d’un poteau avant d’y couler le béton.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -800,7 +800,7 @@
   {
     "id": "tractopelle",
     "terme": "la tractopelle",
-    "definition": "Engin sur pneus portant un godet de chargement à l'avant et un bras de pelle à l'arrière.",
+    "definition": "Engin sur pneus portant un godet de chargement à l’avant et un bras de pelle à l’arrière.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -810,7 +810,7 @@
   {
     "id": "bulldozer",
     "terme": "le bulldozer",
-    "definition": "Engin sur chenilles muni à l'avant d'une large lame qui pousse et étale la terre.",
+    "definition": "Engin sur chenilles muni à l’avant d’une large lame qui pousse et étale la terre.",
     "categorie": "Chantier et outillage",
     "priorite": 2
   },
@@ -827,7 +827,7 @@
   {
     "id": "rouleau-compresseur",
     "terme": "le rouleau compresseur",
-    "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d'acier, qui compacte le sol ou l'enrobé.",
+    "definition": "Engin dont une ou plusieurs roues sont de lourds cylindres d’acier, qui compacte le sol ou l’enrobé.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -838,7 +838,7 @@
   {
     "id": "plaque-vibrante",
     "terme": "la plaque vibrante",
-    "definition": "Machine à main posée sur une semelle d'acier vibrante, qu'on pousse pour compacter un remblai ou des pavés.",
+    "definition": "Machine à main posée sur une semelle d’acier vibrante, qu’on pousse pour compacter un remblai ou des pavés.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -869,7 +869,7 @@
   {
     "id": "camion-toupie",
     "terme": "le camion-toupie",
-    "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l'emploi en le malaxant.",
+    "definition": "Camion portant une grande cuve rotative inclinée qui livre le béton prêt à l’emploi en le malaxant.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -879,7 +879,7 @@
   {
     "id": "pompe-a-beton",
     "terme": "la pompe à béton",
-    "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu'au point de coulage.",
+    "definition": "Engin, le plus souvent un camion à long bras articulé déplié au-dessus du chantier, qui refoule le béton dans un tuyau jusqu’au point de coulage.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -896,7 +896,7 @@
   {
     "id": "grue-a-tour",
     "terme": "la grue à tour",
-    "definition": "Grue fixe formée d'un haut mât en treillis et d'une flèche horizontale qui pivote au-dessus du chantier.",
+    "definition": "Grue fixe formée d’un haut mât en treillis et d’une flèche horizontale qui pivote au-dessus du chantier.",
     "categorie": "Chantier et outillage",
     "priorite": 2
   },
@@ -930,7 +930,7 @@
   {
     "id": "truelle",
     "terme": "la truelle",
-    "definition": "Outil à lame d'acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
+    "definition": "Outil à lame d’acier plate, triangulaire ou arrondie, et à manche coudé, pour prendre, étaler et lisser le mortier.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -940,14 +940,14 @@
   {
     "id": "brouette",
     "terme": "la brouette",
-    "definition": "Caisse à une roue et deux bras qu'on pousse pour transporter matériaux et gravats.",
+    "definition": "Caisse à une roue et deux bras qu’on pousse pour transporter matériaux et gravats.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
   {
     "id": "pelle",
     "terme": "la pelle",
-    "definition": "Outil formé d'une plaque métallique un peu creuse au bout d'un long manche, pour remuer sable, gravier et mortier.",
+    "definition": "Outil formé d’une plaque métallique un peu creuse au bout d’un long manche, pour remuer sable, gravier et mortier.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
@@ -961,14 +961,14 @@
   {
     "id": "marteau",
     "terme": "le marteau",
-    "definition": "Outil formé d'une tête métallique fixée au bout d'un manche, pour frapper et enfoncer des clous.",
+    "definition": "Outil formé d’une tête métallique fixée au bout d’un manche, pour frapper et enfoncer des clous.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
   {
     "id": "burin",
     "terme": "le burin",
-    "definition": "Barre d'acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
+    "definition": "Barre d’acier à bout plat et tranchant, frappée au marteau pour tailler ou démolir la maçonnerie.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -978,7 +978,7 @@
   {
     "id": "regle-de-macon",
     "terme": "la règle de maçon",
-    "definition": "Longue barre droite en aluminium, qu'on tire sur une chape ou un enduit frais pour le dresser.",
+    "definition": "Longue barre droite en aluminium, qu’on tire sur une chape ou un enduit frais pour le dresser.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -988,21 +988,21 @@
   {
     "id": "niveau-a-bulle",
     "terme": "le niveau à bulle",
-    "definition": "Barre droite munie de fioles où une bulle d'air indique si une surface est horizontale ou verticale.",
+    "definition": "Barre droite munie de fioles où une bulle d’air indique si une surface est horizontale ou verticale.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
   {
     "id": "fil-a-plomb",
     "terme": "le fil à plomb",
-    "definition": "Poids métallique suspendu au bout d'une ficelle, qui donne la verticale pour monter un mur droit.",
+    "definition": "Poids métallique suspendu au bout d’une ficelle, qui donne la verticale pour monter un mur droit.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
   {
     "id": "cordeau-traceur",
     "terme": "le cordeau traceur",
-    "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu'on tend et fait claquer pour marquer une ligne droite.",
+    "definition": "Boîtier contenant une ficelle enduite de poudre colorée, qu’on tend et fait claquer pour marquer une ligne droite.",
     "categorie": "Chantier et outillage",
     "priorite": 3,
     "incompatibles": [
@@ -1012,7 +1012,7 @@
   {
     "id": "talocheuse-mecanique",
     "terme": "la talocheuse mécanique",
-    "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d'une dalle de béton frais.",
+    "definition": "Machine à pales tournantes guidée par un long manche, qui lisse la surface d’une dalle de béton frais.",
     "categorie": "Chantier et outillage",
     "priorite": 3,
     "incompatibles": [
@@ -1022,7 +1022,7 @@
   {
     "id": "regle-vibrante",
     "terme": "la règle vibrante",
-    "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d'une dalle pour l'aplanir et le serrer.",
+    "definition": "Longue poutre à moteur vibreur, tirée sur le béton frais d’une dalle pour l’aplanir et le serrer.",
     "categorie": "Chantier et outillage",
     "priorite": 3,
     "incompatibles": [
@@ -1032,8 +1032,8 @@
   },
   {
     "id": "aiguille-vibrante",
-    "terme": "l'aiguille vibrante",
-    "definition": "Tige métallique vibrante au bout d'un flexible, plongée dans le béton frais pour en chasser l'air.",
+    "terme": "l’aiguille vibrante",
+    "definition": "Tige métallique vibrante au bout d’un flexible, plongée dans le béton frais pour en chasser l’air.",
     "categorie": "Chantier et outillage",
     "priorite": 2
   },
@@ -1047,7 +1047,7 @@
   {
     "id": "fil-a-ligaturer",
     "terme": "le fil à ligaturer",
-    "definition": "Fil de fer recuit, souple, en bobine ou en tronçons, qu'on torsade pour attacher les barres d'armature entre elles.",
+    "definition": "Fil de fer recuit, souple, en bobine ou en tronçons, qu’on torsade pour attacher les barres d’armature entre elles.",
     "categorie": "Chantier et outillage",
     "priorite": 1
   },
@@ -1061,7 +1061,7 @@
   {
     "id": "poste-a-souder",
     "terme": "le poste à souder",
-    "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d'acier.",
+    "definition": "Appareil électrique relié par câbles à une pince porte-électrode, qui fond le métal pour assembler des pièces d’acier.",
     "categorie": "Chantier et outillage",
     "priorite": 2
   },
@@ -1089,7 +1089,7 @@
   {
     "id": "tronconneuse",
     "terme": "la tronçonneuse",
-    "definition": "Scie à moteur dont une chaîne dentée tourne autour d'un guide, pour couper le bois.",
+    "definition": "Scie à moteur dont une chaîne dentée tourne autour d’un guide, pour couper le bois.",
     "categorie": "Chantier et outillage",
     "priorite": 3
   },
@@ -1120,7 +1120,7 @@
   {
     "id": "rabot",
     "terme": "le rabot",
-    "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l'aplanir.",
+    "definition": "Outil à lame tranchante réglable dans un fût, poussé sur le bois pour l’aplanir.",
     "categorie": "Chantier et outillage",
     "priorite": 3
   },
@@ -1155,7 +1155,7 @@
   {
     "id": "casque-de-chantier",
     "terme": "le casque de chantier",
-    "definition": "Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d'objets.",
+    "definition": "Casque rigide en plastique coloré qui protège la tête des chocs et des chutes d’objets.",
     "categorie": "Chantier et outillage",
     "priorite": 1,
     "incompatibles": [
@@ -1193,7 +1193,7 @@
   {
     "id": "harnais-de-securite",
     "terme": "le harnais de sécurité",
-    "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d'ancrage contre les chutes.",
+    "definition": "Ensemble de sangles serrées autour du corps, relié par une longe à un point d’ancrage contre les chutes.",
     "categorie": "Chantier et outillage",
     "priorite": 2,
     "incompatibles": [
@@ -1263,7 +1263,7 @@
   {
     "id": "pave",
     "terme": "le pavé",
-    "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d'autres pour revêtir une rue ou une place.",
+    "definition": "Bloc de pierre taillée, souvent cubique, juxtaposé à d’autres pour revêtir une rue ou une place.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1274,7 +1274,7 @@
   {
     "id": "dalle-engazonnee",
     "terme": "la dalle engazonnée",
-    "definition": "Dalle en béton ou plastique ajourée d'alvéoles où pousse le gazon, pour un parking perméable.",
+    "definition": "Dalle en béton ou plastique ajourée d’alvéoles où pousse le gazon, pour un parking perméable.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1296,8 +1296,8 @@
   },
   {
     "id": "allee",
-    "terme": "l'allée",
-    "definition": "Chemin aménagé d'un jardin ou d'une parcelle, en gravier, dalles ou pavés.",
+    "terme": "l’allée",
+    "definition": "Chemin aménagé d’un jardin ou d’une parcelle, en gravier, dalles ou pavés.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
   },
@@ -1311,14 +1311,14 @@
   {
     "id": "grille-avaloir",
     "terme": "la grille avaloir",
-    "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d'un avaloir, qui laisse passer l'eau.",
+    "definition": "Grille en fonte posée dans le caniveau ou la chaussée, au-dessus d’un avaloir, qui laisse passer l’eau.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
   },
   {
     "id": "dalot",
     "terme": "le dalot",
-    "definition": "Ouvrage rectangulaire en béton qui fait passer l'eau sous une route.",
+    "definition": "Ouvrage rectangulaire en béton qui fait passer l’eau sous une route.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1330,7 +1330,7 @@
   {
     "id": "buse",
     "terme": "la buse",
-    "definition": "Gros tuyau cylindrique en béton qui fait passer l'eau sous une voie ou une entrée de parcelle.",
+    "definition": "Gros tuyau cylindrique en béton qui fait passer l’eau sous une voie ou une entrée de parcelle.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
   },
@@ -1343,7 +1343,7 @@
   },
   {
     "id": "dos-d-ane",
-    "terme": "le dos-d'âne",
+    "terme": "le dos-d’âne",
     "definition": "Bosse aménagée en travers de la chaussée pour obliger les véhicules à ralentir.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
@@ -1379,7 +1379,7 @@
   {
     "id": "terre-plein-central",
     "terme": "le terre-plein central",
-    "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d'une route.",
+    "definition": "Bande surélevée, plantée ou bétonnée, qui sépare les deux sens de circulation d’une route.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1390,7 +1390,7 @@
   {
     "id": "potelet",
     "terme": "le potelet",
-    "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d'y stationner.",
+    "definition": "Petit poteau fixé au bord du trottoir pour empêcher les voitures d’y stationner.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1416,8 +1416,8 @@
   },
   {
     "id": "abribus",
-    "terme": "l'abribus",
-    "definition": "Abri couvert, souvent vitré et muni d'un banc, installé à un arrêt de bus.",
+    "terme": "l’abribus",
+    "definition": "Abri couvert, souvent vitré et muni d’un banc, installé à un arrêt de bus.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1439,7 +1439,7 @@
   {
     "id": "pilier-de-portail",
     "terme": "le pilier de portail",
-    "definition": "Poteau maçonné, souvent coiffé d'un chapeau, sur lequel le portail est fixé de chaque côté de l'entrée.",
+    "definition": "Poteau maçonné, souvent coiffé d’un chapeau, sur lequel le portail est fixé de chaque côté de l’entrée.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1451,7 +1451,7 @@
   {
     "id": "chaperon",
     "terme": "le chaperon",
-    "definition": "Couronnement en pente d'un mur de clôture ou d'un pilier, qui rejette l'eau de pluie.",
+    "definition": "Couronnement en pente d’un mur de clôture ou d’un pilier, qui rejette l’eau de pluie.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1462,7 +1462,7 @@
   {
     "id": "tessons-de-verre",
     "terme": "les tessons de verre",
-    "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l'escalade.",
+    "definition": "Morceaux de bouteilles cassées (tessons de bouteille) scellés dans le mortier en crête de mur pour empêcher l’escalade.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1472,7 +1472,7 @@
   {
     "id": "fil-barbele",
     "terme": "le fil barbelé",
-    "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d'un mur.",
+    "definition": "Fil de fer torsadé garni de pointes, tendu sur une clôture ou en haut d’un mur.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1482,7 +1482,7 @@
   {
     "id": "concertina",
     "terme": "le concertina",
-    "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d'un mur ou d'une clôture.",
+    "definition": "Rouleau de fil barbelé à lames tranchantes, déployé en spirales en haut d’un mur ou d’une clôture.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1493,7 +1493,7 @@
   {
     "id": "cloture-grillagee",
     "terme": "la clôture grillagée",
-    "definition": "Clôture faite d'un grillage métallique tendu entre des poteaux.",
+    "definition": "Clôture faite d’un grillage métallique tendu entre des poteaux.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1518,14 +1518,14 @@
   {
     "id": "haie",
     "terme": "la haie",
-    "definition": "Rangée d'arbustes plantés serrés et taillés, qui forme une clôture végétale.",
+    "definition": "Rangée d’arbustes plantés serrés et taillés, qui forme une clôture végétale.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
   },
   {
     "id": "mur-de-soutenement",
     "terme": "le mur de soutènement",
-    "definition": "Mur, maçonné ou en béton armé, qui retient les terres d'un talus ou d'un terrain en pente, le sol étant plus haut d'un côté que de l'autre.",
+    "definition": "Mur, maçonné ou en béton armé, qui retient les terres d’un talus ou d’un terrain en pente, le sol étant plus haut d’un côté que de l’autre.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1536,14 +1536,14 @@
   {
     "id": "barbacane",
     "terme": "la barbacane",
-    "definition": "Petit trou ou tuyau traversant le bas d'un mur de soutènement, par où s'écoule l'eau des terres retenues.",
+    "definition": "Petit trou ou tuyau traversant le bas d’un mur de soutènement, par où s’écoule l’eau des terres retenues.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3
   },
   {
     "id": "gabion",
     "terme": "le gabion",
-    "definition": "Cage en grillage d'acier remplie de pierres, empilée pour former murs et soutènements.",
+    "definition": "Cage en grillage d’acier remplie de pierres, empilée pour former murs et soutènements.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
     "incompatibles": [
@@ -1553,7 +1553,7 @@
   },
   {
     "id": "enrochement",
-    "terme": "l'enrochement",
+    "terme": "l’enrochement",
     "definition": "Amas de gros blocs de roche disposés pour protéger un talus, une berge ou un littoral.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2,
@@ -1566,14 +1566,14 @@
   {
     "id": "pergola",
     "terme": "la pergola",
-    "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d'une terrasse ou d'une allée.",
+    "definition": "Structure de poteaux et de poutres ajourées qui forme un couvert léger au-dessus d’une terrasse ou d’une allée.",
     "categorie": "Extérieurs et voirie",
     "priorite": 2
   },
   {
     "id": "grille-d-arbre",
-    "terme": "la grille d'arbre",
-    "definition": "Grille métallique posée au sol autour du pied d'un arbre planté dans un trottoir ou une place.",
+    "terme": "la grille d’arbre",
+    "definition": "Grille métallique posée au sol autour du pied d’un arbre planté dans un trottoir ou une place.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1589,7 +1589,7 @@
   },
   {
     "id": "aire-de-jeux",
-    "terme": "l'aire de jeux",
+    "terme": "l’aire de jeux",
     "definition": "Espace extérieur équipé de toboggans, balançoires et jeux pour enfants, sur un sol amortissant.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3
@@ -1597,7 +1597,7 @@
   {
     "id": "guerite",
     "terme": "la guérite",
-    "definition": "Petit abri maçonné ou préfabriqué placé à l'entrée d'une propriété ou d'un site, où se tient le gardien.",
+    "definition": "Petit abri maçonné ou préfabriqué placé à l’entrée d’une propriété ou d’un site, où se tient le gardien.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1607,7 +1607,7 @@
   {
     "id": "piscine",
     "terme": "la piscine",
-    "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d'enduit, aménagé pour la baignade.",
+    "definition": "Bassin artificiel étanche, revêtu de carrelage, de liner ou d’enduit, aménagé pour la baignade.",
     "categorie": "Extérieurs et voirie",
     "priorite": 1,
     "incompatibles": [
@@ -1618,8 +1618,8 @@
   },
   {
     "id": "echelle-de-piscine",
-    "terme": "l'échelle de piscine",
-    "definition": "Échelle en tubes d'inox recourbés, fixée au bord du bassin, pour entrer et sortir de l'eau.",
+    "terme": "l’échelle de piscine",
+    "definition": "Échelle en tubes d’inox recourbés, fixée au bord du bassin, pour entrer et sortir de l’eau.",
     "categorie": "Extérieurs et voirie",
     "priorite": 3,
     "incompatibles": [
@@ -1631,14 +1631,14 @@
   {
     "id": "facade",
     "terme": "la façade",
-    "definition": "Face extérieure verticale d'un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.",
+    "definition": "Face extérieure verticale d’un bâtiment, avec ses murs et ses ouvertures, vue dans son ensemble.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
   {
     "id": "mur-rideau",
     "terme": "le mur-rideau",
-    "definition": "Façade légère entièrement vitrée, faite d'une ossature de montants et traverses accrochée devant la structure du bâtiment.",
+    "definition": "Façade légère entièrement vitrée, faite d’une ossature de montants et traverses accrochée devant la structure du bâtiment.",
     "categorie": "Façade et ouvertures",
     "priorite": 1,
     "incompatibles": [
@@ -1649,7 +1649,7 @@
   {
     "id": "facade-ventilee",
     "terme": "la façade ventilée",
-    "definition": "Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d'air derrière.",
+    "definition": "Façade dont le parement extérieur (panneaux, plaques, lames) est fixé sur une ossature à distance du mur, avec une lame d’air derrière.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1662,8 +1662,8 @@
   },
   {
     "id": "ebrasement",
-    "terme": "l'ébrasement",
-    "definition": "Côtés d'une baie taillés en biais pour que l'ouverture s'évase vers l'intérieur ou l'extérieur du mur.",
+    "terme": "l’ébrasement",
+    "definition": "Côtés d’une baie taillés en biais pour que l’ouverture s’évase vers l’intérieur ou l’extérieur du mur.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1674,14 +1674,14 @@
   {
     "id": "porche",
     "terme": "le porche",
-    "definition": "Espace couvert devant l'entrée d'un bâtiment, formant abri avant la porte.",
+    "definition": "Espace couvert devant l’entrée d’un bâtiment, formant abri avant la porte.",
     "categorie": "Façade et ouvertures",
     "priorite": 2
   },
   {
     "id": "chaine-d-angle",
-    "terme": "la chaîne d'angle",
-    "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l'angle d'un mur.",
+    "terme": "la chaîne d’angle",
+    "definition": "Assemblage vertical de pierres ou de briques alternées qui renforce et marque l’angle d’un mur.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1691,7 +1691,7 @@
   {
     "id": "plate-bande",
     "terme": "la plate-bande",
-    "definition": "Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d'une baie.",
+    "definition": "Linteau droit composé de claveaux (pierres ou briques) appareillés au-dessus d’une baie.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1713,8 +1713,8 @@
   },
   {
     "id": "baie-d-angle",
-    "terme": "la baie d'angle",
-    "definition": "Fenêtre qui se retourne sur l'angle du bâtiment, sans poteau ni mur à l'angle.",
+    "terme": "la baie d’angle",
+    "definition": "Fenêtre qui se retourne sur l’angle du bâtiment, sans poteau ni mur à l’angle.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1735,7 +1735,7 @@
   {
     "id": "meurtriere",
     "terme": "la meurtrière",
-    "definition": "Ouverture verticale très étroite dans un mur épais, à l'origine pour tirer à l'abri.",
+    "definition": "Ouverture verticale très étroite dans un mur épais, à l’origine pour tirer à l’abri.",
     "categorie": "Façade et ouvertures",
     "priorite": 3
   },
@@ -1785,7 +1785,7 @@
   {
     "id": "balustrade",
     "terme": "la balustrade",
-    "definition": "Garde-corps formé d'une rangée de balustres surmontée d'une tablette.",
+    "definition": "Garde-corps formé d’une rangée de balustres surmontée d’une tablette.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1812,7 +1812,7 @@
   {
     "id": "store-banne",
     "terme": "le store banne",
-    "definition": "Store en toile qui se déroule en avant d'une façade, porté par des bras articulés.",
+    "definition": "Store en toile qui se déroule en avant d’une façade, porté par des bras articulés.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1821,8 +1821,8 @@
   },
   {
     "id": "voile-d-ombrage",
-    "terme": "la voile d'ombrage",
-    "definition": "Toile tendue entre des mâts ou des points d'ancrage pour ombrager une terrasse ou une cour.",
+    "terme": "la voile d’ombrage",
+    "definition": "Toile tendue entre des mâts ou des points d’ancrage pour ombrager une terrasse ou une cour.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1856,8 +1856,8 @@
   },
   {
     "id": "avant-corps",
-    "terme": "l'avant-corps",
-    "definition": "Partie d'une façade en saillie sur le reste, sur toute la hauteur du bâtiment.",
+    "terme": "l’avant-corps",
+    "definition": "Partie d’une façade en saillie sur le reste, sur toute la hauteur du bâtiment.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1866,8 +1866,8 @@
   },
   {
     "id": "arcade",
-    "terme": "l'arcade",
-    "definition": "Suite d'arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.",
+    "terme": "l’arcade",
+    "definition": "Suite d’arcs portés par des piliers ou des colonnes qui bordent une façade et forment un passage couvert.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1879,7 +1879,7 @@
   {
     "id": "coursive",
     "terme": "la coursive",
-    "definition": "Galerie extérieure ouverte, le long d'une façade, qui dessert les logements d'un même étage.",
+    "definition": "Galerie extérieure ouverte, le long d’une façade, qui dessert les logements d’un même étage.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1890,7 +1890,7 @@
   {
     "id": "devanture",
     "terme": "la devanture",
-    "definition": "Façade d'une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d'enseigne.",
+    "definition": "Façade d’une boutique au rez-de-chaussée, avec sa vitrine, son entrée et son bandeau d’enseigne.",
     "categorie": "Façade et ouvertures",
     "priorite": 2,
     "incompatibles": [
@@ -1902,14 +1902,14 @@
   {
     "id": "vitrine",
     "terme": "la vitrine",
-    "definition": "Grande baie vitrée d'un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
+    "definition": "Grande baie vitrée d’un commerce au rez-de-chaussée, derrière laquelle sont exposées les marchandises.",
     "categorie": "Façade et ouvertures",
     "priorite": 1
   },
   {
     "id": "jardiniere",
     "terme": "la jardinière",
-    "definition": "Bac en saillie intégré à la façade, au balcon ou à l'appui, destiné à recevoir des plantes.",
+    "definition": "Bac en saillie intégré à la façade, au balcon ou à l’appui, destiné à recevoir des plantes.",
     "categorie": "Façade et ouvertures",
     "priorite": 3,
     "incompatibles": [
@@ -1929,7 +1929,7 @@
   {
     "id": "toiture",
     "terme": "la toiture",
-    "definition": "Ensemble des ouvrages qui couvrent et ferment le haut d'un bâtiment, vus de l'extérieur.",
+    "definition": "Ensemble des ouvrages qui couvrent et ferment le haut d’un bâtiment, vus de l’extérieur.",
     "categorie": "Toitures",
     "priorite": 1
   },
@@ -1946,7 +1946,7 @@
   {
     "id": "toiture-vegetalisee",
     "terme": "la toiture végétalisée",
-    "definition": "Toiture recouverte d'un substrat planté (sédums, herbes, arbustes) au-dessus de l'étanchéité.",
+    "definition": "Toiture recouverte d’un substrat planté (sédums, herbes, arbustes) au-dessus de l’étanchéité.",
     "categorie": "Toitures",
     "priorite": 2,
     "incompatibles": [
@@ -1989,7 +1989,7 @@
   {
     "id": "toit-monopente",
     "terme": "le toit monopente",
-    "definition": "Toit formé d'un seul versant incliné.",
+    "definition": "Toit formé d’un seul versant incliné.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -2012,7 +2012,7 @@
   {
     "id": "demi-croupe",
     "terme": "la demi-croupe",
-    "definition": "Petit versant incliné qui coupe seulement le haut d'un pignon.",
+    "definition": "Petit versant incliné qui coupe seulement le haut d’un pignon.",
     "categorie": "Toitures",
     "priorite": 3,
     "incompatibles": [
@@ -2036,7 +2036,7 @@
   {
     "id": "toiture-cintree",
     "terme": "la toiture cintrée",
-    "definition": "Toiture en forme d'arc, souvent en tôle cintrée sur une charpente métallique courbe.",
+    "definition": "Toiture en forme d’arc, souvent en tôle cintrée sur une charpente métallique courbe.",
     "categorie": "Toitures",
     "priorite": 3,
     "incompatibles": [
@@ -2057,7 +2057,7 @@
   },
   {
     "id": "avant-toit",
-    "terme": "l'avant-toit",
+    "terme": "l’avant-toit",
     "definition": "Partie du toit qui déborde en avant de la façade pour protéger le mur de la pluie et du soleil.",
     "categorie": "Toitures",
     "priorite": 1,
@@ -2068,7 +2068,7 @@
   {
     "id": "charpente",
     "terme": "la charpente",
-    "definition": "Ossature en bois ou en métal qui porte la couverture d'un toit.",
+    "definition": "Ossature en bois ou en métal qui porte la couverture d’un toit.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -2081,7 +2081,7 @@
   {
     "id": "liteau",
     "terme": "le liteau",
-    "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s'accrochent les tuiles.",
+    "definition": "Tasseau de bois cloué horizontalement sur les chevrons, sur lequel s’accrochent les tuiles.",
     "categorie": "Toitures",
     "priorite": 2,
     "incompatibles": [
@@ -2116,7 +2116,7 @@
   {
     "id": "tuile-mecanique",
     "terme": "la tuile mécanique",
-    "definition": "Tuile moulée à emboîtement, munie de nervures et de tenons qui s'accrochent aux liteaux.",
+    "definition": "Tuile moulée à emboîtement, munie de nervures et de tenons qui s’accrochent aux liteaux.",
     "categorie": "Toitures",
     "priorite": 2,
     "incompatibles": [
@@ -2160,8 +2160,8 @@
   },
   {
     "id": "descente-d-eaux-pluviales",
-    "terme": "la descente d'eaux pluviales",
-    "definition": "Tuyau vertical fixé sur la façade qui conduit l'eau du toit jusqu'au sol ou au réseau.",
+    "terme": "la descente d’eaux pluviales",
+    "definition": "Tuyau vertical fixé sur la façade qui conduit l’eau du toit jusqu’au sol ou au réseau.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -2171,7 +2171,7 @@
   {
     "id": "crapaudine",
     "terme": "la crapaudine",
-    "definition": "Grille bombée posée sur l'orifice d'évacuation d'une terrasse ou d'une gouttière pour arrêter les feuilles.",
+    "definition": "Grille bombée posée sur l’orifice d’évacuation d’une terrasse ou d’une gouttière pour arrêter les feuilles.",
     "categorie": "Toitures",
     "priorite": 2,
     "incompatibles": [
@@ -2181,7 +2181,7 @@
   {
     "id": "membrane-bitumineuse",
     "terme": "la membrane bitumineuse",
-    "definition": "Feuille d'étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.",
+    "definition": "Feuille d’étanchéité en bitume armé, posée en lés soudés au chalumeau sur une toiture-terrasse.",
     "categorie": "Toitures",
     "priorite": 1,
     "incompatibles": [
@@ -2213,7 +2213,7 @@
   {
     "id": "palplanche",
     "terme": "la palplanche",
-    "definition": "Profilé d'acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l'eau.",
+    "definition": "Profilé d’acier ondulé, enfoncé verticalement et emboîté avec ses voisins pour former un rideau qui retient la terre ou l’eau.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
     "incompatibles": [
@@ -2223,13 +2223,13 @@
   {
     "id": "ferraillage",
     "terme": "le ferraillage",
-    "definition": "Ensemble des barres d'acier assemblées en place avant le coulage, qui formeront les armatures d'un ouvrage en béton armé.",
+    "definition": "Ensemble des barres d’acier assemblées en place avant le coulage, qui formeront les armatures d’un ouvrage en béton armé.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 1
   },
   {
     "id": "cage-d-armature",
-    "terme": "la cage d'armature",
+    "terme": "la cage d’armature",
     "definition": "Assemblage préparé de barres longitudinales tenues par des cadres, destiné à un poteau, une poutre ou un pieu.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 2,
@@ -2243,7 +2243,7 @@
   {
     "id": "treillis-soude",
     "terme": "le treillis soudé",
-    "definition": "Grillage de barres d'acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
+    "definition": "Grillage de barres d’acier soudées en mailles carrées ou rectangulaires, livré en panneaux, posé dans les dalles et les dallages.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 1,
     "incompatibles": [
@@ -2252,8 +2252,8 @@
   },
   {
     "id": "cale-d-armature",
-    "terme": "la cale d'armature",
-    "definition": "Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l'enrobage.",
+    "terme": "la cale d’armature",
+    "definition": "Petite pièce en béton ou en plastique placée sous ou contre les armatures pour les tenir à distance du coffrage et garantir l’enrobage.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 2,
     "incompatibles": [
@@ -2263,7 +2263,7 @@
   {
     "id": "corrosion-des-armatures",
     "terme": "la corrosion des armatures",
-    "definition": "Rouille des barres d'acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.",
+    "definition": "Rouille des barres d’acier qui gonflent, font éclater le béton et apparaissent à nu, fréquente en bord de mer.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 2,
     "incompatibles": [
@@ -2282,7 +2282,7 @@
   },
   {
     "id": "appareil-flamand",
-    "terme": "l'appareil flamand",
+    "terme": "l’appareil flamand",
     "definition": "Appareil de briques où panneresses et boutisses alternent dans chaque rang.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
@@ -2293,7 +2293,7 @@
   },
   {
     "id": "appareil-anglais",
-    "terme": "l'appareil anglais",
+    "terme": "l’appareil anglais",
     "definition": "Appareil de briques où un rang de panneresses alterne avec un rang de boutisses.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
@@ -2303,8 +2303,8 @@
   },
   {
     "id": "appareil-en-epi",
-    "terme": "l'appareil en épi",
-    "definition": "Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d'un rang à l'autre en arête de poisson.",
+    "terme": "l’appareil en épi",
+    "definition": "Appareil de briques ou de pierres plates posées en oblique, inclinées alternativement d’un rang à l’autre en arête de poisson.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
     "incompatibles": [
@@ -2313,7 +2313,7 @@
   },
   {
     "id": "opus-incertum",
-    "terme": "l'opus incertum",
+    "terme": "l’opus incertum",
     "definition": "Appareil de moellons de formes irrégulières assemblés sans rangs, avec des joints en tous sens.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
@@ -2324,7 +2324,7 @@
   },
   {
     "id": "appareil-cyclopeen",
-    "terme": "l'appareil cyclopéen",
+    "terme": "l’appareil cyclopéen",
     "definition": "Maçonnerie de très gros blocs de pierre bruts ou à peine taillés, ajustés sans mortier.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
@@ -2335,7 +2335,7 @@
   },
   {
     "id": "appareil-reticule",
-    "terme": "l'appareil réticulé",
+    "terme": "l’appareil réticulé",
     "definition": "Appareil de petites pierres carrées posées sur la pointe, qui dessinent un filet de losanges.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3
@@ -2343,7 +2343,7 @@
   {
     "id": "gachage",
     "terme": "le gâchage",
-    "definition": "Mélange du ciment, du sable et de l'eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.",
+    "definition": "Mélange du ciment, du sable et de l’eau, à la pelle sur le sol ou dans une bétonnière, pour obtenir mortier ou béton.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 2,
     "incompatibles": [
@@ -2354,7 +2354,7 @@
   {
     "id": "trou-de-boulin",
     "terme": "le trou de boulin",
-    "definition": "Petit trou laissé dans un mur ancien, où s'encastraient les pièces de bois de l'échafaudage.",
+    "definition": "Petit trou laissé dans un mur ancien, où s’encastraient les pièces de bois de l’échafaudage.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 3,
     "incompatibles": [
@@ -2374,7 +2374,7 @@
   {
     "id": "ciment",
     "terme": "le ciment",
-    "definition": "Poudre grise qui durcit avec l'eau, base du mortier et du béton, livrée en sacs sur le chantier.",
+    "definition": "Poudre grise qui durcit avec l’eau, base du mortier et du béton, livrée en sacs sur le chantier.",
     "categorie": "Gros œuvre et maçonnerie",
     "priorite": 1,
     "incompatibles": [
@@ -2422,7 +2422,7 @@
   {
     "id": "dalle-champignon",
     "terme": "la dalle champignon",
-    "definition": "Dalle sans poutres portée par des poteaux qui s'évasent en tête comme un champignon.",
+    "definition": "Dalle sans poutres portée par des poteaux qui s’évasent en tête comme un champignon.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -2433,7 +2433,7 @@
   {
     "id": "pilier",
     "terme": "le pilier",
-    "definition": "Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu'un poteau.",
+    "definition": "Support vertical massif en maçonnerie ou en béton, de section carrée ou polygonale, plus trapu qu’un poteau.",
     "categorie": "Structure",
     "priorite": 2,
     "incompatibles": [
@@ -2445,8 +2445,8 @@
   },
   {
     "id": "ossature-metallique",
-    "terme": "l'ossature métallique",
-    "definition": "Structure porteuse faite de profilés d'acier assemblés : poteaux, poutres et contreventements.",
+    "terme": "l’ossature métallique",
+    "definition": "Structure porteuse faite de profilés d’acier assemblés : poteaux, poutres et contreventements.",
     "categorie": "Structure",
     "priorite": 1,
     "incompatibles": [
@@ -2460,7 +2460,7 @@
   {
     "id": "profile-en-i",
     "terme": "le profilé en I",
-    "definition": "Barre d'acier dont la section a la forme d'un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.",
+    "definition": "Barre d’acier dont la section a la forme d’un I, avec des ailes étroites, comme les IPE et les IPN, employée en poutre.",
     "categorie": "Structure",
     "priorite": 1,
     "incompatibles": [
@@ -2471,7 +2471,7 @@
   {
     "id": "profile-en-h",
     "terme": "le profilé en H",
-    "definition": "Barre d'acier dont la section a la forme d'un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.",
+    "definition": "Barre d’acier dont la section a la forme d’un H, à ailes larges, comme les HEA et HEB, employée surtout en poteau.",
     "categorie": "Structure",
     "priorite": 2,
     "incompatibles": [
@@ -2499,8 +2499,8 @@
   },
   {
     "id": "ancre",
-    "terme": "l'ancre",
-    "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d'un tirant pour retenir le mur.",
+    "terme": "l’ancre",
+    "definition": "Pièce de fer en forme de S, de X ou de barre, fixée sur une façade au bout d’un tirant pour retenir le mur.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -2510,7 +2510,7 @@
   {
     "id": "hauban",
     "terme": "le hauban",
-    "definition": "Câble d'acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.",
+    "definition": "Câble d’acier tendu en oblique, qui suspend ou stabilise une toiture, un mât ou une passerelle.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -2519,7 +2519,7 @@
   },
   {
     "id": "assemblage-boulonne",
-    "terme": "l'assemblage boulonné",
+    "terme": "l’assemblage boulonné",
     "definition": "Liaison de pièces métalliques par des boulons serrés à travers des plaques ou des ailes de profilés.",
     "categorie": "Structure",
     "priorite": 2,
@@ -2531,7 +2531,7 @@
   {
     "id": "gousset",
     "terme": "le gousset",
-    "definition": "Plaque d'acier qui réunit plusieurs barres en un même nœud d'une ferme ou d'un contreventement.",
+    "definition": "Plaque d’acier qui réunit plusieurs barres en un même nœud d’une ferme ou d’un contreventement.",
     "categorie": "Structure",
     "priorite": 2,
     "incompatibles": [
@@ -2540,7 +2540,7 @@
   },
   {
     "id": "appareil-d-appui",
-    "terme": "l'appareil d'appui",
+    "terme": "l’appareil d’appui",
     "definition": "Bloc de caoutchouc fretté ou pièce métallique placé entre une poutre et son appui pour lui permettre de bouger légèrement.",
     "categorie": "Structure",
     "priorite": 3
@@ -2548,14 +2548,14 @@
   {
     "id": "joint-de-dilatation",
     "terme": "le joint de dilatation",
-    "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu'ils se dilatent librement.",
+    "definition": "Coupure qui traverse un bâtiment de haut en bas et sépare deux blocs pour qu’ils se dilatent librement.",
     "categorie": "Structure",
     "priorite": 2
   },
   {
     "id": "porte-a-faux",
     "terme": "le porte-à-faux",
-    "definition": "Partie d'ouvrage qui dépasse de ses appuis et n'est soutenue que d'un côté.",
+    "definition": "Partie d’ouvrage qui dépasse de ses appuis et n’est soutenue que d’un côté.",
     "categorie": "Structure",
     "priorite": 1,
     "incompatibles": [
@@ -2576,7 +2576,7 @@
   },
   {
     "id": "arc-en-plein-cintre",
-    "terme": "l'arc en plein cintre",
+    "terme": "l’arc en plein cintre",
     "definition": "Arc dont la courbe forme un demi-cercle complet.",
     "categorie": "Structure",
     "priorite": 1,
@@ -2587,7 +2587,7 @@
   },
   {
     "id": "arc-brise",
-    "terme": "l'arc brisé",
+    "terme": "l’arc brisé",
     "definition": "Arc formé de deux portions de cercle qui se rejoignent en pointe au sommet.",
     "categorie": "Structure",
     "priorite": 2,
@@ -2597,7 +2597,7 @@
   },
   {
     "id": "arc-surbaisse",
-    "terme": "l'arc surbaissé",
+    "terme": "l’arc surbaissé",
     "definition": "Arc moins haut que la moitié de sa largeur, à la courbe aplatie.",
     "categorie": "Structure",
     "priorite": 2,
@@ -2607,7 +2607,7 @@
   },
   {
     "id": "arc-outrepasse",
-    "terme": "l'arc outrepassé",
+    "terme": "l’arc outrepassé",
     "definition": "Arc en fer à cheval, dont la courbe dépasse le demi-cercle et se resserre à la base.",
     "categorie": "Structure",
     "priorite": 3,
@@ -2628,7 +2628,7 @@
   },
   {
     "id": "voute-d-aretes",
-    "terme": "la voûte d'arêtes",
+    "terme": "la voûte d’arêtes",
     "definition": "Voûte formée par le croisement de deux voûtes en berceau, dont les intersections dessinent des arêtes saillantes.",
     "categorie": "Structure",
     "priorite": 3,
@@ -2639,7 +2639,7 @@
   {
     "id": "pendentif",
     "terme": "le pendentif",
-    "definition": "Triangle de maçonnerie courbe qui fait passer d'un plan carré au cercle d'une coupole.",
+    "definition": "Triangle de maçonnerie courbe qui fait passer d’un plan carré au cercle d’une coupole.",
     "categorie": "Structure",
     "priorite": 3,
     "incompatibles": [
@@ -2696,7 +2696,7 @@
   {
     "id": "meuliere",
     "terme": "la meulière",
-    "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d'Île-de-France.",
+    "definition": "Pierre siliceuse brune et caverneuse, très employée en moellons apparents dans les pavillons d’Île-de-France.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -2729,7 +2729,7 @@
   {
     "id": "galet",
     "terme": "le galet",
-    "definition": "Pierre arrondie et lisse polie par l'eau, employée en mur, en sol ou en décoration.",
+    "definition": "Pierre arrondie et lisse polie par l’eau, employée en mur, en sol ou en décoration.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -2782,7 +2782,7 @@
   {
     "id": "brique-vernissee",
     "terme": "la brique vernissée",
-    "definition": "Brique de terre cuite revêtue d'un émail brillant et coloré.",
+    "definition": "Brique de terre cuite revêtue d’un émail brillant et coloré.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -2863,7 +2863,7 @@
   {
     "id": "bambou",
     "terme": "le bambou",
-    "definition": "Grande tige creuse et nouée d'une graminée, employée en structure légère, en échafaudage ou en revêtement.",
+    "definition": "Grande tige creuse et nouée d’une graminée, employée en structure légère, en échafaudage ou en revêtement.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -2873,7 +2873,7 @@
   {
     "id": "rondin",
     "terme": "le rondin",
-    "definition": "Tronc d'arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
+    "definition": "Tronc d’arbre écorcé, laissé rond, utilisé empilé en murs ou en poteaux.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -2942,7 +2942,7 @@
   },
   {
     "id": "acier",
-    "terme": "l'acier",
+    "terme": "l’acier",
     "definition": "Alliage de fer et de carbone, utilisé en profilés, en tôles et en armatures.",
     "categorie": "Matériaux et revêtements",
     "priorite": 1,
@@ -2961,8 +2961,8 @@
   },
   {
     "id": "acier-corten",
-    "terme": "l'acier Corten",
-    "definition": "Acier qui se couvre d'une rouille brun orangé stable et protectrice, laissé apparent en façade.",
+    "terme": "l’acier Corten",
+    "definition": "Acier qui se couvre d’une rouille brun orangé stable et protectrice, laissé apparent en façade.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -2972,8 +2972,8 @@
   },
   {
     "id": "acier-galvanise",
-    "terme": "l'acier galvanisé",
-    "definition": "Acier recouvert de zinc, d'aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
+    "terme": "l’acier galvanisé",
+    "definition": "Acier recouvert de zinc, d’aspect gris argenté mat, souvent pailleté, qui le protège de la rouille.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
     "incompatibles": [
@@ -2982,7 +2982,7 @@
   },
   {
     "id": "inox",
-    "terme": "l'inox",
+    "terme": "l’inox",
     "definition": "Acier inoxydable, brillant ou brossé, qui ne rouille pas, employé en garde-corps, habillages et équipements.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2,
@@ -3043,7 +3043,7 @@
   {
     "id": "tole-larmee",
     "terme": "la tôle larmée",
-    "definition": "Tôle d'acier antidérapante dont la surface porte de petits reliefs en forme de larmes.",
+    "definition": "Tôle d’acier antidérapante dont la surface porte de petits reliefs en forme de larmes.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -3063,7 +3063,7 @@
   {
     "id": "verre-reflechissant",
     "terme": "le verre réfléchissant",
-    "definition": "Vitrage à couche métallique qui renvoie l'image comme un miroir, vu sur les façades de bureaux.",
+    "definition": "Vitrage à couche métallique qui renvoie l’image comme un miroir, vu sur les façades de bureaux.",
     "categorie": "Matériaux et revêtements",
     "priorite": 2
   },
@@ -3132,8 +3132,8 @@
   },
   {
     "id": "efflorescence",
-    "terme": "l'efflorescence",
-    "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d'une maçonnerie ou d'un béton humide.",
+    "terme": "l’efflorescence",
+    "definition": "Dépôt blanchâtre de sels qui apparaît à la surface d’une maçonnerie ou d’un béton humide.",
     "categorie": "Matériaux et revêtements",
     "priorite": 3,
     "incompatibles": [
@@ -3142,8 +3142,8 @@
   },
   {
     "id": "entablement",
-    "terme": "l'entablement",
-    "definition": "Couronnement horizontal porté par les colonnes, formé de l'architrave, de la frise et de la corniche.",
+    "terme": "l’entablement",
+    "definition": "Couronnement horizontal porté par les colonnes, formé de l’architrave, de la frise et de la corniche.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3196,7 +3196,7 @@
   },
   {
     "id": "feuille-d-acanthe",
-    "terme": "la feuille d'acanthe",
+    "terme": "la feuille d’acanthe",
     "definition": "Motif sculpté de larges feuilles découpées et recourbées, qui garnit notamment le chapiteau corinthien.",
     "categorie": "Ornement",
     "priorite": 2,
@@ -3224,8 +3224,8 @@
   },
   {
     "id": "ove",
-    "terme": "l'ove",
-    "definition": "Ornement en forme d'œuf, répété en rang et alterné avec des dards sur une moulure.",
+    "terme": "l’ove",
+    "definition": "Ornement en forme d’œuf, répété en rang et alterné avec des dards sur une moulure.",
     "categorie": "Ornement",
     "priorite": 3,
     "incompatibles": [
@@ -3292,8 +3292,8 @@
   },
   {
     "id": "atlante",
-    "terme": "l'atlante",
-    "definition": "Statue d'homme qui porte un entablement ou un balcon à la place d'une colonne.",
+    "terme": "l’atlante",
+    "definition": "Statue d’homme qui porte un entablement ou un balcon à la place d’une colonne.",
     "categorie": "Ornement",
     "priorite": 3,
     "incompatibles": [
@@ -3303,7 +3303,7 @@
   {
     "id": "bossage",
     "terme": "le bossage",
-    "definition": "Saillie volontaire de la face des pierres d'un mur, séparées par des joints creux, pour en accuser le relief.",
+    "definition": "Saillie volontaire de la face des pierres d’un mur, séparées par des joints creux, pour en accuser le relief.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3336,8 +3336,8 @@
   },
   {
     "id": "epi-de-faitage",
-    "terme": "l'épi de faîtage",
-    "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l'extrémité ou au sommet d'un faîtage.",
+    "terme": "l’épi de faîtage",
+    "definition": "Ornement de terre cuite, de zinc ou de plomb qui se dresse à l’extrémité ou au sommet d’un faîtage.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3386,7 +3386,7 @@
   {
     "id": "cannelure",
     "terme": "la cannelure",
-    "definition": "Rainure verticale creusée en série sur le fût d'une colonne ou d'un pilastre.",
+    "definition": "Rainure verticale creusée en série sur le fût d’une colonne ou d’un pilastre.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3398,7 +3398,7 @@
   {
     "id": "chapiteau-corinthien",
     "terme": "le chapiteau corinthien",
-    "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d'acanthe et de petites volutes aux angles.",
+    "definition": "Chapiteau en forme de corbeille garnie de rangs de feuilles d’acanthe et de petites volutes aux angles.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3411,7 +3411,7 @@
   {
     "id": "chapiteau-ionique",
     "terme": "le chapiteau ionique",
-    "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d'autre.",
+    "definition": "Chapiteau orné de deux grandes volutes enroulées de part et d’autre.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3422,7 +3422,7 @@
   {
     "id": "chapiteau-dorique",
     "terme": "le chapiteau dorique",
-    "definition": "Chapiteau simple formé d'un coussinet arrondi surmonté d'une tablette carrée.",
+    "definition": "Chapiteau simple formé d’un coussinet arrondi surmonté d’une tablette carrée.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3444,7 +3444,7 @@
   {
     "id": "fresque",
     "terme": "la fresque",
-    "definition": "Grande peinture murale, à l'origine exécutée sur enduit frais, en intérieur ou sur une façade.",
+    "definition": "Grande peinture murale, à l’origine exécutée sur enduit frais, en intérieur ou sur une façade.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3454,7 +3454,7 @@
   {
     "id": "sgraffite",
     "terme": "le sgraffite",
-    "definition": "Décor obtenu en grattant une couche d'enduit pour faire apparaître une couche de couleur différente dessous.",
+    "definition": "Décor obtenu en grattant une couche d’enduit pour faire apparaître une couche de couleur différente dessous.",
     "categorie": "Ornement",
     "priorite": 3,
     "incompatibles": [
@@ -3488,7 +3488,7 @@
   {
     "id": "rosace-de-plafond",
     "terme": "la rosace de plafond",
-    "definition": "Ornement circulaire en plâtre moulé au centre d'un plafond, souvent autour du point d'accrochage du lustre.",
+    "definition": "Ornement circulaire en plâtre moulé au centre d’un plafond, souvent autour du point d’accrochage du lustre.",
     "categorie": "Ornement",
     "priorite": 2,
     "incompatibles": [
@@ -3500,7 +3500,7 @@
     "id": "mosquee-soudano-sahelienne",
     "terme": "la mosquée soudano-sahélienne",
     "definition": "Mosquée en banco aux murs épais rythmés de contreforts et de pinacles, hérissée de torons.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2,
     "incompatibles": [
       "toron",
@@ -3514,8 +3514,8 @@
   {
     "id": "laterite",
     "terme": "la latérite",
-    "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l'Ouest, utilisée en remblai, en piste ou en moellons.",
-    "categorie": "Afrique de l'Ouest",
+    "definition": "Terre ou roche rouge riche en fer, très répandue en Afrique de l’Ouest, utilisée en remblai, en piste ou en moellons.",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 1,
     "incompatibles": [
       "piste-lateritique",
@@ -3526,7 +3526,7 @@
     "id": "pierre-de-laterite",
     "terme": "la pierre de latérite",
     "definition": "Bloc de latérite taillé, rougeâtre et alvéolé, maçonné en murs apparents.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "laterite",
@@ -3537,7 +3537,7 @@
     "id": "crinting",
     "terme": "le crinting",
     "definition": "Panneau de lattes de bambou ou de nervures de rônier tressées, utilisé au Sénégal en palissade, en clôture ou en paroi de case.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2,
     "incompatibles": [
       "paillote"
@@ -3547,7 +3547,7 @@
     "id": "ronier",
     "terme": "le rônier",
     "definition": "Palmier dont le stipe, très résistant aux termites, est débité en lattes et en poutres pour la charpente.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2,
     "incompatibles": [
       "toron"
@@ -3557,14 +3557,14 @@
     "id": "typha",
     "terme": "le typha",
     "definition": "Roseau des marais du fleuve Sénégal, transformé en panneaux isolants ou en bottes pour la construction.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3
   },
   {
     "id": "tata-somba",
     "terme": "le tata somba",
     "definition": "Maison-forteresse en terre à étage des Somba (Betammaribé) du nord du Bénin et du Togo, aux tourelles cylindriques coiffées de toits coniques de paille.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "case",
@@ -3576,7 +3576,7 @@
     "id": "porte-dogon",
     "terme": "la porte dogon",
     "definition": "Petite porte de bois sculptée de figures en relief qui ferme un grenier ou une maison en pays dogon.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "grenier-dogon",
@@ -3587,7 +3587,7 @@
     "id": "case-a-etage",
     "terme": "la case à étage",
     "definition": "Grande habitation diola en banco à deux niveaux, aux murs épais et au toit de chaume, typique de Mlomp en Casamance.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 3,
     "incompatibles": [
       "case-a-impluvium",
@@ -3600,7 +3600,7 @@
     "id": "maison-coloniale",
     "terme": "la maison coloniale",
     "definition": "Maison à étage enduite de couleurs, à balcon ou galerie de bois ou de fer et à persiennes, typique de Saint-Louis, de Gorée et du Plateau à Dakar.",
-    "categorie": "Afrique de l'Ouest",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 2,
     "incompatibles": [
       "maison-de-signare",
@@ -3612,8 +3612,8 @@
   {
     "id": "minaret",
     "terme": "le minaret",
-    "definition": "Tour élancée d'une mosquée, d'où est lancé l'appel à la prière.",
-    "categorie": "Afrique de l'Ouest",
+    "definition": "Tour élancée d’une mosquée, d’où est lancé l’appel à la prière.",
+    "categorie": "Afrique de l’Ouest",
     "priorite": 1,
     "incompatibles": [
       "mosquee-soudano-sahelienne"
@@ -3628,8 +3628,8 @@
   },
   {
     "id": "porte-d-entree",
-    "terme": "la porte d'entrée",
-    "definition": "Porte principale qui donne accès depuis l'extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
+    "terme": "la porte d’entrée",
+    "definition": "Porte principale qui donne accès depuis l’extérieur à une maison ou à un logement, souvent plus robuste et décorée.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3669,7 +3669,7 @@
   {
     "id": "porte-a-deux-vantaux",
     "terme": "la porte à deux vantaux",
-    "definition": "Porte formée de deux battants qui s'ouvrent depuis le milieu de la baie.",
+    "definition": "Porte formée de deux battants qui s’ouvrent depuis le milieu de la baie.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3679,7 +3679,7 @@
   {
     "id": "porte-a-tambour",
     "terme": "la porte à tambour",
-    "definition": "Porte d'entrée formée de vantaux vitrés qui tournent autour d'un axe central dans un cylindre.",
+    "definition": "Porte d’entrée formée de vantaux vitrés qui tournent autour d’un axe central dans un cylindre.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -3689,7 +3689,7 @@
   {
     "id": "porte-metallique",
     "terme": "la porte métallique",
-    "definition": "Porte en tôle d'acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
+    "definition": "Porte en tôle d’acier sur cadre en tubes ou profilés, très utilisée pour les entrées et locaux techniques.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3713,7 +3713,7 @@
   {
     "id": "fenetre",
     "terme": "la fenêtre",
-    "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l'air.",
+    "definition": "Ouvrage vitré, fixe ou ouvrant, qui ferme une baie pour donner du jour et de l’air.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3724,7 +3724,7 @@
   {
     "id": "naco",
     "terme": "le naco",
-    "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l'Ouest et fenêtre à jalousies en France.",
+    "definition": "Fenêtre faite de lames horizontales parallèles, en verre ou en aluminium, qui pivotent ensemble grâce à un levier latéral ; appelée naco en Afrique de l’Ouest et fenêtre à jalousies en France.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3736,7 +3736,7 @@
   {
     "id": "volet",
     "terme": "le volet",
-    "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l'occulter ou la sécuriser.",
+    "definition": "Panneau mobile placé devant une fenêtre pour la protéger, l’occulter ou la sécuriser.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3757,7 +3757,7 @@
   {
     "id": "volet-roulant",
     "terme": "le volet roulant",
-    "definition": "Volet fait de lames horizontales articulées qui s'enroulent dans un coffre au-dessus de la fenêtre.",
+    "definition": "Volet fait de lames horizontales articulées qui s’enroulent dans un coffre au-dessus de la fenêtre.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3766,7 +3766,7 @@
   },
   {
     "id": "arret-de-volet",
-    "terme": "l'arrêt de volet",
+    "terme": "l’arrêt de volet",
     "definition": "Pièce métallique fixée au mur qui maintient un volet battant ouvert contre la façade.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
@@ -3776,7 +3776,7 @@
   },
   {
     "id": "espagnolette",
-    "terme": "l'espagnolette",
+    "terme": "l’espagnolette",
     "definition": "Tige métallique verticale manœuvrée par une poignée, dont les crochets aux extrémités ferment une fenêtre ou des volets.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
@@ -3788,14 +3788,14 @@
   {
     "id": "portail-metallique",
     "terme": "le portail métallique",
-    "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l'entrée d'une parcelle.",
+    "definition": "Grande porte extérieure en acier, pleine ou ajourée, qui ferme l’entrée d’une parcelle.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1
   },
   {
     "id": "grille-de-defense",
     "terme": "la grille de défense",
-    "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l'effraction.",
+    "definition": "Grille en barreaux ou en fer forgé fixée devant une fenêtre pour empêcher l’effraction.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3816,7 +3816,7 @@
   {
     "id": "grille-extensible",
     "terme": "la grille extensible",
-    "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d'une porte ou d'une vitrine.",
+    "definition": "Grille métallique articulée en croisillons qui se replie en accordéon sur le côté d’une porte ou d’une vitrine.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -3836,8 +3836,8 @@
   },
   {
     "id": "ouvrant",
-    "terme": "l'ouvrant",
-    "definition": "Partie mobile d'une fenêtre, qui porte le vitrage et s'ouvre par rapport au dormant.",
+    "terme": "l’ouvrant",
+    "definition": "Partie mobile d’une fenêtre, qui porte le vitrage et s’ouvre par rapport au dormant.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3846,8 +3846,8 @@
   },
   {
     "id": "huisserie",
-    "terme": "l'huisserie",
-    "definition": "Cadre en bois ou en métal qui encadre l'ouverture d'une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
+    "terme": "l’huisserie",
+    "definition": "Cadre en bois ou en métal qui encadre l’ouverture d’une porte et sur lequel elle est ferrée, posé avant les enduits sur chantier.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3858,7 +3858,7 @@
   {
     "id": "petit-bois",
     "terme": "le petit-bois",
-    "definition": "Baguette de bois ou de métal qui divise le vitrage d'une fenêtre en carreaux.",
+    "definition": "Baguette de bois ou de métal qui divise le vitrage d’une fenêtre en carreaux.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3872,7 +3872,7 @@
   {
     "id": "profile-aluminium",
     "terme": "le profilé aluminium",
-    "definition": "Barre d'aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
+    "definition": "Barre d’aluminium extrudée de section creuse, utilisée pour fabriquer cadres et vantaux de menuiserie.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3883,7 +3883,7 @@
   {
     "id": "double-vitrage",
     "terme": "le double vitrage",
-    "definition": "Vitrage fait de deux verres séparés par une lame d'air ou de gaz, avec un intercalaire visible sur le pourtour.",
+    "definition": "Vitrage fait de deux verres séparés par une lame d’air ou de gaz, avec un intercalaire visible sur le pourtour.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -3905,7 +3905,7 @@
   {
     "id": "penture",
     "terme": "la penture",
-    "definition": "Longue bande de fer fixée sur un volet ou une porte, dont l'œil tourne sur un gond.",
+    "definition": "Longue bande de fer fixée sur un volet ou une porte, dont l’œil tourne sur un gond.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -3927,7 +3927,7 @@
   {
     "id": "gache",
     "terme": "la gâche",
-    "definition": "Pièce métallique fixée sur le dormant, dans laquelle s'engage le pêne de la serrure.",
+    "definition": "Pièce métallique fixée sur le dormant, dans laquelle s’engage le pêne de la serrure.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3937,7 +3937,7 @@
   {
     "id": "poignee-de-porte",
     "terme": "la poignée de porte",
-    "definition": "Levier ou poignée que l'on abaisse pour ouvrir une porte, appelée aussi béquille.",
+    "definition": "Levier ou poignée que l’on abaisse pour ouvrir une porte, appelée aussi béquille.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3947,7 +3947,7 @@
   {
     "id": "bouton-de-porte",
     "terme": "le bouton de porte",
-    "definition": "Poignée ronde que l'on tourne ou que l'on tire pour manœuvrer une porte.",
+    "definition": "Poignée ronde que l’on tourne ou que l’on tire pour manœuvrer une porte.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3957,7 +3957,7 @@
   {
     "id": "poignee-de-fenetre",
     "terme": "la poignée de fenêtre",
-    "definition": "Poignée fixée sur l'ouvrant qui commande le verrouillage d'une fenêtre.",
+    "definition": "Poignée fixée sur l’ouvrant qui commande le verrouillage d’une fenêtre.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3967,7 +3967,7 @@
   {
     "id": "cle",
     "terme": "la clé",
-    "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l'ouvrir ou la fermer.",
+    "definition": "Petite pièce métallique dont on introduit la tige crantée dans une serrure pour l’ouvrir ou la fermer.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3977,7 +3977,7 @@
   {
     "id": "verrou",
     "terme": "le verrou",
-    "definition": "Fermeture faite d'une pièce métallique coulissante que l'on pousse à la main dans une gâche.",
+    "definition": "Fermeture faite d’une pièce métallique coulissante que l’on pousse à la main dans une gâche.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -3987,7 +3987,7 @@
   {
     "id": "targette",
     "terme": "la targette",
-    "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l'intérieur.",
+    "definition": "Petit verrou plat monté sur platine, manœuvré par un bouton, qui ferme une porte ou une fenêtre de l’intérieur.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -3997,7 +3997,7 @@
   {
     "id": "cadenas",
     "terme": "le cadenas",
-    "definition": "Serrure mobile munie d'un anneau en U que l'on passe dans un moraillon ou une chaîne.",
+    "definition": "Serrure mobile munie d’un anneau en U que l’on passe dans un moraillon ou une chaîne.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 1,
     "incompatibles": [
@@ -4016,8 +4016,8 @@
   },
   {
     "id": "entrebailleur",
-    "terme": "l'entrebâilleur",
-    "definition": "Chaîne ou bras métallique qui limite l'ouverture d'une porte pour voir qui se présente.",
+    "terme": "l’entrebâilleur",
+    "definition": "Chaîne ou bras métallique qui limite l’ouverture d’une porte pour voir qui se présente.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -4027,7 +4027,7 @@
   {
     "id": "judas",
     "terme": "le judas",
-    "definition": "Petite lentille optique traversant une porte d'entrée pour voir à l'extérieur sans ouvrir.",
+    "definition": "Petite lentille optique traversant une porte d’entrée pour voir à l’extérieur sans ouvrir.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -4037,7 +4037,7 @@
   {
     "id": "ferme-porte",
     "terme": "le ferme-porte",
-    "definition": "Mécanisme à bras articulé fixé en haut d'une porte, qui la referme automatiquement.",
+    "definition": "Mécanisme à bras articulé fixé en haut d’une porte, qui la referme automatiquement.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -4047,7 +4047,7 @@
   {
     "id": "barre-antipanique",
     "terme": "la barre antipanique",
-    "definition": "Barre horizontale sur toute la largeur d'une porte de sortie, qui la déverrouille par simple poussée.",
+    "definition": "Barre horizontale sur toute la largeur d’une porte de sortie, qui la déverrouille par simple poussée.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 2,
     "incompatibles": [
@@ -4058,7 +4058,7 @@
   {
     "id": "heurtoir",
     "terme": "le heurtoir",
-    "definition": "Anneau ou marteau métallique fixé sur une porte d'entrée, que l'on frappe pour s'annoncer.",
+    "definition": "Anneau ou marteau métallique fixé sur une porte d’entrée, que l’on frappe pour s’annoncer.",
     "categorie": "Menuiserie et serrurerie",
     "priorite": 3,
     "incompatibles": [
@@ -4067,8 +4067,8 @@
   },
   {
     "id": "escalier-a-double-revolution",
-    "terme": "l'escalier à double révolution",
-    "definition": "Escalier monumental dont deux volées symétriques partent d'un même palier ou y aboutissent.",
+    "terme": "l’escalier à double révolution",
+    "definition": "Escalier monumental dont deux volées symétriques partent d’un même palier ou y aboutissent.",
     "categorie": "Escaliers et circulations",
     "priorite": 3,
     "incompatibles": [
@@ -4080,8 +4080,8 @@
   },
   {
     "id": "escalier-en-beton",
-    "terme": "l'escalier en béton",
-    "definition": "Escalier coulé en béton armé, d'une seule pièce avec ses marches et sa paillasse.",
+    "terme": "l’escalier en béton",
+    "definition": "Escalier coulé en béton armé, d’une seule pièce avec ses marches et sa paillasse.",
     "categorie": "Escaliers et circulations",
     "priorite": 1,
     "incompatibles": [
@@ -4091,7 +4091,7 @@
   },
   {
     "id": "escalier-metallique",
-    "terme": "l'escalier métallique",
+    "terme": "l’escalier métallique",
     "definition": "Escalier en acier, souvent à limons en profilés et marches en tôle ou caillebotis.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
@@ -4101,7 +4101,7 @@
   },
   {
     "id": "escalier-en-bois",
-    "terme": "l'escalier en bois",
+    "terme": "l’escalier en bois",
     "definition": "Escalier dont les marches, limons et rampe sont en bois.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
@@ -4111,8 +4111,8 @@
   },
   {
     "id": "escalier-de-secours",
-    "terme": "l'escalier de secours",
-    "definition": "Escalier métallique extérieur, accroché à la façade, qui sert d'issue en cas d'incendie.",
+    "terme": "l’escalier de secours",
+    "definition": "Escalier métallique extérieur, accroché à la façade, qui sert d’issue en cas d’incendie.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
     "incompatibles": [
@@ -4121,7 +4121,7 @@
   },
   {
     "id": "escalier-escamotable",
-    "terme": "l'escalier escamotable",
+    "terme": "l’escalier escamotable",
     "definition": "Escalier pliant ou télescopique qui se replie dans une trappe au plafond pour accéder aux combles.",
     "categorie": "Escaliers et circulations",
     "priorite": 3,
@@ -4133,8 +4133,8 @@
   },
   {
     "id": "echelle-a-crinoline",
-    "terme": "l'échelle à crinoline",
-    "definition": "Échelle fixe verticale entourée d'arceaux métalliques qui protègent des chutes, pour l'accès aux toitures et cuves.",
+    "terme": "l’échelle à crinoline",
+    "definition": "Échelle fixe verticale entourée d’arceaux métalliques qui protègent des chutes, pour l’accès aux toitures et cuves.",
     "categorie": "Escaliers et circulations",
     "priorite": 3,
     "incompatibles": [
@@ -4143,7 +4143,7 @@
   },
   {
     "id": "escalier-mecanique",
-    "terme": "l'escalier mécanique",
+    "terme": "l’escalier mécanique",
     "definition": "Escalier dont les marches sont entraînées par un mécanisme et défilent en continu.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
@@ -4164,7 +4164,7 @@
   {
     "id": "marche",
     "terme": "la marche",
-    "definition": "Partie horizontale de l'escalier sur laquelle on pose le pied.",
+    "definition": "Partie horizontale de l’escalier sur laquelle on pose le pied.",
     "categorie": "Escaliers et circulations",
     "priorite": 1,
     "incompatibles": [
@@ -4175,7 +4175,7 @@
   {
     "id": "nez-de-marche",
     "terme": "le nez de marche",
-    "definition": "Bord avant de la marche, souvent arrondi ou garni d'un profilé antidérapant.",
+    "definition": "Bord avant de la marche, souvent arrondi ou garni d’un profilé antidérapant.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
     "incompatibles": [
@@ -4184,8 +4184,8 @@
   },
   {
     "id": "cage-d-escalier",
-    "terme": "la cage d'escalier",
-    "definition": "Volume vertical, fermé par des murs, dans lequel se développe l'escalier d'un immeuble.",
+    "terme": "la cage d’escalier",
+    "definition": "Volume vertical, fermé par des murs, dans lequel se développe l’escalier d’un immeuble.",
     "categorie": "Escaliers et circulations",
     "priorite": 1,
     "incompatibles": [
@@ -4195,7 +4195,7 @@
   {
     "id": "main-courante",
     "terme": "la main courante",
-    "definition": "Barre continue que l'on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.",
+    "definition": "Barre continue que l’on saisit pour se tenir en montant ou descendant, posée sur la rampe ou fixée au mur.",
     "categorie": "Escaliers et circulations",
     "priorite": 1,
     "incompatibles": [
@@ -4206,7 +4206,7 @@
   {
     "id": "barreau-de-rampe",
     "terme": "le barreau de rampe",
-    "definition": "Tige verticale, répétée en série, qui remplit l'espace entre la main courante et les marches.",
+    "definition": "Tige verticale, répétée en série, qui remplit l’espace entre la main courante et les marches.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
     "incompatibles": [
@@ -4218,7 +4218,7 @@
   {
     "id": "poteau-de-depart",
     "terme": "le poteau de départ",
-    "definition": "Poteau plus massif qui marque le bas d'une rampe d'escalier et en reçoit la main courante.",
+    "definition": "Poteau plus massif qui marque le bas d’une rampe d’escalier et en reçoit la main courante.",
     "categorie": "Escaliers et circulations",
     "priorite": 3,
     "incompatibles": [
@@ -4228,7 +4228,7 @@
   {
     "id": "perron",
     "terme": "le perron",
-    "definition": "Petit escalier extérieur terminé par une plateforme, devant la porte d'entrée d'un bâtiment.",
+    "definition": "Petit escalier extérieur terminé par une plateforme, devant la porte d’entrée d’un bâtiment.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
     "incompatibles": [
@@ -4239,7 +4239,7 @@
   },
   {
     "id": "rampe-d-acces",
-    "terme": "la rampe d'accès",
+    "terme": "la rampe d’accès",
     "definition": "Plan incliné qui permet aux fauteuils roulants et poussettes de franchir une différence de niveau.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
@@ -4259,8 +4259,8 @@
   },
   {
     "id": "ascenseur",
-    "terme": "l'ascenseur",
-    "definition": "Cabine qui se déplace verticalement pour transporter des personnes d'un étage à l'autre, vue par ses portes palières.",
+    "terme": "l’ascenseur",
+    "definition": "Cabine qui se déplace verticalement pour transporter des personnes d’un étage à l’autre, vue par ses portes palières.",
     "categorie": "Escaliers et circulations",
     "priorite": 2,
     "incompatibles": [
@@ -4271,14 +4271,14 @@
   {
     "id": "robinet",
     "terme": "le robinet",
-    "definition": "Appareil à manette ou à tête qu'on ouvre pour faire couler l'eau d'une canalisation, monté sur un lavabo, un évier ou un mur.",
+    "definition": "Appareil à manette ou à tête qu’on ouvre pour faire couler l’eau d’une canalisation, monté sur un lavabo, un évier ou un mur.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "mitigeur",
     "terme": "le mitigeur",
-    "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d'eau chaude et d'eau froide.",
+    "definition": "Robinet à manette unique qui règle à la fois le débit et le mélange d’eau chaude et d’eau froide.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4295,7 +4295,7 @@
   },
   {
     "id": "evier",
-    "terme": "l'évier",
+    "terme": "l’évier",
     "definition": "Bac de cuisine en inox, en céramique ou en résine, avec un ou deux bacs et souvent un égouttoir, encastré dans un plan de travail.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
@@ -4303,7 +4303,7 @@
   {
     "id": "wc-a-la-turque",
     "terme": "le WC à la turque",
-    "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s'accroupit.",
+    "definition": "Cuvette posée au ras du sol, avec deux repose-pieds, sur laquelle on s’accroupit.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4314,7 +4314,7 @@
   {
     "id": "reservoir-de-chasse",
     "terme": "le réservoir de chasse",
-    "definition": "Réservoir d'eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.",
+    "definition": "Réservoir d’eau en céramique ou en plastique placé derrière ou au-dessus de la cuvette, qui se vide pour la rincer.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4337,13 +4337,13 @@
   {
     "id": "bidet",
     "terme": "le bidet",
-    "definition": "Appareil sanitaire bas en céramique, sur lequel on s'assoit à califourchon pour la toilette intime.",
+    "definition": "Appareil sanitaire bas en céramique, sur lequel on s’assoit à califourchon pour la toilette intime.",
     "categorie": "Réseaux et équipements",
     "priorite": 3
   },
   {
     "id": "urinoir",
-    "terme": "l'urinoir",
+    "terme": "l’urinoir",
     "definition": "Appareil sanitaire mural en céramique ou en inox, utilisé debout par les hommes, courant dans les sanitaires publics.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
@@ -4351,14 +4351,14 @@
   {
     "id": "pomme-de-douche",
     "terme": "la pomme de douche",
-    "definition": "Pièce perforée par laquelle l'eau de la douche sort en jet, fixée au mur ou au bout d'un flexible.",
+    "definition": "Pièce perforée par laquelle l’eau de la douche sort en jet, fixée au mur ou au bout d’un flexible.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "receveur-de-douche",
     "terme": "le receveur de douche",
-    "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l'eau et la dirige vers la bonde.",
+    "definition": "Bac plat en céramique, en résine ou en acrylique posé au sol de la douche, qui recueille l’eau et la dirige vers la bonde.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4367,7 +4367,7 @@
   },
   {
     "id": "douche-a-l-italienne",
-    "terme": "la douche à l'italienne",
+    "terme": "la douche à l’italienne",
     "definition": "Douche de plain-pied sans receveur, dont le sol carrelé est en légère pente vers un siphon ou un caniveau.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
@@ -4386,7 +4386,7 @@
   {
     "id": "bonde",
     "terme": "la bonde",
-    "definition": "Pièce métallique ou plastique au fond d'un lavabo, d'un évier, d'une baignoire ou d'un receveur, par laquelle l'eau s'écoule.",
+    "definition": "Pièce métallique ou plastique au fond d’un lavabo, d’un évier, d’une baignoire ou d’un receveur, par laquelle l’eau s’écoule.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4397,21 +4397,21 @@
   {
     "id": "siphon-de-sol",
     "terme": "le siphon de sol",
-    "definition": "Grille posée au sol d'une douche, d'une salle d'eau ou d'une terrasse, reliée à un siphon, qui recueille l'eau qui ruisselle.",
+    "definition": "Grille posée au sol d’une douche, d’une salle d’eau ou d’une terrasse, reliée à un siphon, qui recueille l’eau qui ruisselle.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "tube-en-cuivre",
     "terme": "le tube en cuivre",
-    "definition": "Tuyau métallique de teinte orangée utilisé pour l'eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.",
+    "definition": "Tuyau métallique de teinte orangée utilisé pour l’eau, le gaz ou les liaisons frigorifiques, assemblé par brasure ou raccords.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
   },
   {
     "id": "coude",
     "terme": "le coude",
-    "definition": "Raccord de tuyauterie qui change la direction d'une canalisation, le plus souvent à 45 ou 90 degrés.",
+    "definition": "Raccord de tuyauterie qui change la direction d’une canalisation, le plus souvent à 45 ou 90 degrés.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4445,8 +4445,8 @@
   },
   {
     "id": "vanne-d-arret",
-    "terme": "la vanne d'arrêt",
-    "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l'eau.",
+    "terme": "la vanne d’arrêt",
+    "definition": "Robinet à manette quart de tour, souvent rouge ou jaune, monté sur une canalisation pour couper l’eau.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4462,22 +4462,22 @@
   },
   {
     "id": "compteur-d-eau",
-    "terme": "le compteur d'eau",
-    "definition": "Appareil placé sur le branchement, à cadran et chiffres, qui mesure l'eau consommée.",
+    "terme": "le compteur d’eau",
+    "definition": "Appareil placé sur le branchement, à cadran et chiffres, qui mesure l’eau consommée.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "chateau-d-eau",
-    "terme": "le château d'eau",
-    "definition": "Réservoir d'eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
+    "terme": "le château d’eau",
+    "definition": "Réservoir d’eau surélevé sur un fût ou des poteaux, qui alimente un réseau par gravité.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "chauffe-eau-solaire",
     "terme": "le chauffe-eau solaire",
-    "definition": "Ensemble posé en toiture formé de capteurs et d'un ballon horizontal, qui chauffe l'eau par le soleil.",
+    "definition": "Ensemble posé en toiture formé de capteurs et d’un ballon horizontal, qui chauffe l’eau par le soleil.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4489,7 +4489,7 @@
   {
     "id": "capteur-solaire-thermique",
     "terme": "le capteur solaire thermique",
-    "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l'eau.",
+    "definition": "Panneau vitré ou à tubes sous vide qui capte la chaleur du soleil pour chauffer de l’eau.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4499,7 +4499,7 @@
   {
     "id": "groupe-de-securite",
     "terme": "le groupe de sécurité",
-    "definition": "Organe en laiton à soupape, monté sur l'arrivée d'eau froide d'un chauffe-eau, qui évacue la surpression.",
+    "definition": "Organe en laiton à soupape, monté sur l’arrivée d’eau froide d’un chauffe-eau, qui évacue la surpression.",
     "categorie": "Réseaux et équipements",
     "priorite": 3,
     "incompatibles": [
@@ -4530,21 +4530,21 @@
   {
     "id": "tableau-electrique",
     "terme": "le tableau électrique",
-    "definition": "Coffret qui regroupe les disjoncteurs et protections d'une installation électrique sur des rails.",
+    "definition": "Coffret qui regroupe les disjoncteurs et protections d’une installation électrique sur des rails.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "compteur-electrique",
     "terme": "le compteur électrique",
-    "definition": "Appareil qui mesure l'électricité consommée, avec un afficheur, installé à l'entrée du logement.",
+    "definition": "Appareil qui mesure l’électricité consommée, avec un afficheur, installé à l’entrée du logement.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "compteur-a-prepaiement",
     "terme": "le compteur à prépaiement",
-    "definition": "Compteur électrique à clavier où l'on saisit le code d'une recharge achetée à l'avance ; au Sénégal, le compteur Woyofal.",
+    "definition": "Compteur électrique à clavier où l’on saisit le code d’une recharge achetée à l’avance ; au Sénégal, le compteur Woyofal.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4554,20 +4554,20 @@
   {
     "id": "prise-de-courant",
     "terme": "la prise de courant",
-    "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l'on branche un appareil électrique.",
+    "definition": "Socle mural à deux trous, avec ou sans broche de terre, où l’on branche un appareil électrique.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "interrupteur",
-    "terme": "l'interrupteur",
+    "terme": "l’interrupteur",
     "definition": "Appareil mural à bascule ou à bouton qui allume et éteint un éclairage.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "boite-d-encastrement",
-    "terme": "la boîte d'encastrement",
+    "terme": "la boîte d’encastrement",
     "definition": "Petit boîtier rond en plastique scellé dans le mur, qui reçoit une prise ou un interrupteur.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
@@ -4595,14 +4595,14 @@
   {
     "id": "paratonnerre",
     "terme": "le paratonnerre",
-    "definition": "Tige métallique dressée au sommet d'un bâtiment et reliée à la terre, qui capte la foudre.",
+    "definition": "Tige métallique dressée au sommet d’un bâtiment et reliée à la terre, qui capte la foudre.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
   },
   {
     "id": "groupe-electrogene",
     "terme": "le groupe électrogène",
-    "definition": "Machine formée d'un moteur et d'un alternateur, souvent dans un capot insonorisé, qui produit l'électricité en cas de coupure.",
+    "definition": "Machine formée d’un moteur et d’un alternateur, souvent dans un capot insonorisé, qui produit l’électricité en cas de coupure.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
@@ -4615,8 +4615,8 @@
   },
   {
     "id": "ampoule",
-    "terme": "l'ampoule",
-    "definition": "Lampe en verre ou en plastique qu'on visse ou enfiche dans une douille pour éclairer.",
+    "terme": "l’ampoule",
+    "definition": "Lampe en verre ou en plastique qu’on visse ou enfiche dans une douille pour éclairer.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4626,7 +4626,7 @@
   },
   {
     "id": "applique",
-    "terme": "l'applique",
+    "terme": "l’applique",
     "definition": "Luminaire fixé au mur.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
@@ -4662,7 +4662,7 @@
   {
     "id": "lampadaire-solaire",
     "terme": "le lampadaire solaire",
-    "definition": "Mât d'éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
+    "definition": "Mât d’éclairage extérieur portant un luminaire et un panneau photovoltaïque qui le rend autonome.",
     "categorie": "Réseaux et équipements",
     "priorite": 3,
     "incompatibles": [
@@ -4671,21 +4671,21 @@
   },
   {
     "id": "bloc-autonome-d-eclairage-de-securite",
-    "terme": "le bloc autonome d'éclairage de sécurité",
-    "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s'allume en cas de coupure pour guider l'évacuation ; abrégé BAES.",
+    "terme": "le bloc autonome d’éclairage de sécurité",
+    "definition": "Petit boîtier lumineux avec un pictogramme de sortie, qui s’allume en cas de coupure pour guider l’évacuation ; abrégé BAES.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
   },
   {
     "id": "panneau-photovoltaique",
     "terme": "le panneau photovoltaïque",
-    "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l'électricité à partir du soleil.",
+    "definition": "Panneau plat bleu sombre ou noir, à cellules visibles, qui produit de l’électricité à partir du soleil.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "onduleur",
-    "terme": "l'onduleur",
+    "terme": "l’onduleur",
     "definition": "Boîtier électronique mural qui transforme le courant continu des panneaux solaires ou des batteries en courant alternatif.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
@@ -4693,7 +4693,7 @@
   {
     "id": "batterie-solaire",
     "terme": "la batterie solaire",
-    "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l'électricité produite par les panneaux.",
+    "definition": "Batterie de stockage, souvent en rangée ou en armoire, qui garde l’électricité produite par les panneaux.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4714,7 +4714,7 @@
   {
     "id": "split",
     "terme": "le split",
-    "definition": "Climatiseur dont l'unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
+    "definition": "Climatiseur dont l’unité intérieure, un boîtier blanc allongé, est fixée en haut du mur et reliée à une unité extérieure.",
     "categorie": "Réseaux et équipements",
     "priorite": 1,
     "incompatibles": [
@@ -4723,7 +4723,7 @@
   },
   {
     "id": "unite-exterieure",
-    "terme": "l'unité extérieure",
+    "terme": "l’unité extérieure",
     "definition": "Caisson à ventilateur du climatiseur installé dehors, sur une façade, un toit ou au sol.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
@@ -4731,14 +4731,14 @@
   {
     "id": "ventilateur-de-plafond",
     "terme": "le ventilateur de plafond",
-    "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l'air.",
+    "definition": "Appareil à pales tournantes suspendu au plafond qui brasse l’air.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "extracteur-d-air",
-    "terme": "l'extracteur d'air",
-    "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l'air vicié d'une cuisine ou d'une salle d'eau.",
+    "terme": "l’extracteur d’air",
+    "definition": "Ventilateur fixé dans un mur, une fenêtre ou un conduit, qui rejette l’air vicié d’une cuisine ou d’une salle d’eau.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4748,21 +4748,21 @@
   {
     "id": "grille-de-ventilation",
     "terme": "la grille de ventilation",
-    "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l'air.",
+    "definition": "Grille à lames ou perforée posée sur un mur ou une porte, qui laisse passer l’air.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "gaine-de-ventilation",
     "terme": "la gaine de ventilation",
-    "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l'air.",
+    "definition": "Conduit en tôle, rond ou rectangulaire, ou en aluminium souple, qui transporte l’air.",
     "categorie": "Réseaux et équipements",
     "priorite": 2
   },
   {
     "id": "centrale-de-traitement-d-air",
-    "terme": "la centrale de traitement d'air",
-    "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l'air vers les gaines d'un bâtiment.",
+    "terme": "la centrale de traitement d’air",
+    "definition": "Grand caisson métallique qui filtre, refroidit ou chauffe et souffle l’air vers les gaines d’un bâtiment.",
     "categorie": "Réseaux et équipements",
     "priorite": 3,
     "incompatibles": [
@@ -4782,14 +4782,14 @@
   },
   {
     "id": "extincteur",
-    "terme": "l'extincteur",
-    "definition": "Bouteille rouge sous pression, munie d'une poignée et d'un tuyau, qui projette un produit pour éteindre un début de feu.",
+    "terme": "l’extincteur",
+    "definition": "Bouteille rouge sous pression, munie d’une poignée et d’un tuyau, qui projette un produit pour éteindre un début de feu.",
     "categorie": "Réseaux et équipements",
     "priorite": 1
   },
   {
     "id": "poteau-d-incendie",
-    "terme": "le poteau d'incendie",
+    "terme": "le poteau d’incendie",
     "definition": "Borne rouge en fonte posée au bord de la voie, munie de prises où les pompiers raccordent leurs tuyaux.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
@@ -4810,7 +4810,7 @@
   {
     "id": "declencheur-manuel",
     "terme": "le déclencheur manuel",
-    "definition": "Boîtier rouge mural à vitre ou à membrane qu'on enfonce pour donner l'alarme incendie.",
+    "definition": "Boîtier rouge mural à vitre ou à membrane qu’on enfonce pour donner l’alarme incendie.",
     "categorie": "Réseaux et équipements",
     "priorite": 2,
     "incompatibles": [
@@ -4827,7 +4827,7 @@
   {
     "id": "bande-a-joint",
     "terme": "la bande à joint",
-    "definition": "Bande de papier ou de fibre noyée dans l'enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
+    "definition": "Bande de papier ou de fibre noyée dans l’enduit pour masquer et renforcer la jonction entre deux plaques de plâtre.",
     "categorie": "Second œuvre et finitions",
     "priorite": 1,
     "incompatibles": [
@@ -4837,7 +4837,7 @@
   {
     "id": "pare-vapeur",
     "terme": "le pare-vapeur",
-    "definition": "Film plastique tendu côté intérieur d'un isolant pour empêcher la vapeur d'eau d'y pénétrer.",
+    "definition": "Film plastique tendu côté intérieur d’un isolant pour empêcher la vapeur d’eau d’y pénétrer.",
     "categorie": "Second œuvre et finitions",
     "priorite": 3,
     "incompatibles": [
@@ -4892,7 +4892,7 @@
   {
     "id": "carreau-hexagonal",
     "terme": "le carreau hexagonal",
-    "definition": "Carreau de sol ou de mur à six côtés, posé en nid d'abeilles.",
+    "definition": "Carreau de sol ou de mur à six côtés, posé en nid d’abeilles.",
     "categorie": "Second œuvre et finitions",
     "priorite": 3,
     "incompatibles": [
@@ -4903,14 +4903,14 @@
   {
     "id": "plinthe",
     "terme": "la plinthe",
-    "definition": "Bande de carrelage, de bois ou de PVC posée au bas d'un mur, contre le sol, pour le protéger.",
+    "definition": "Bande de carrelage, de bois ou de PVC posée au bas d’un mur, contre le sol, pour le protéger.",
     "categorie": "Second œuvre et finitions",
     "priorite": 1
   },
   {
     "id": "granito",
     "terme": "le granito",
-    "definition": "Sol coulé ou en carreaux fait d'éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
+    "definition": "Sol coulé ou en carreaux fait d’éclats de marbre noyés dans un ciment puis poncé, appelé aussi terrazzo ; fréquent dans les anciens immeubles de Dakar.",
     "categorie": "Second œuvre et finitions",
     "priorite": 2,
     "incompatibles": [
@@ -4958,7 +4958,7 @@
   {
     "id": "moquette",
     "terme": "la moquette",
-    "definition": "Revêtement de sol textile fixé d'un mur à l'autre.",
+    "definition": "Revêtement de sol textile fixé d’un mur à l’autre.",
     "categorie": "Second œuvre et finitions",
     "priorite": 2
   },
@@ -4979,7 +4979,7 @@
   {
     "id": "tadelakt",
     "terme": "le tadelakt",
-    "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d'eau.",
+    "definition": "Enduit marocain à la chaux, lissé et poli au galet, étanche et brillant, posé en salles d’eau.",
     "categorie": "Second œuvre et finitions",
     "priorite": 3,
     "incompatibles": [
@@ -5000,7 +5000,7 @@
   {
     "id": "placard",
     "terme": "le placard",
-    "definition": "Rangement intégré dans l'épaisseur d'un mur ou entre deux cloisons, fermé par des portes.",
+    "definition": "Rangement intégré dans l’épaisseur d’un mur ou entre deux cloisons, fermé par des portes.",
     "categorie": "Second œuvre et finitions",
     "priorite": 2,
     "incompatibles": [

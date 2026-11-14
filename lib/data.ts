@@ -71,8 +71,8 @@ export async function getVignette(fichier: string): Promise<Buffer | null> {
 export type NouveauTerme = { terme: string; definition: string; categorie: string };
 
 function verifierNouveauTerme(n: NouveauTerme, terms: Term[]): Term {
-  const terme = n.terme.trim().replace(/\s+/g, " ").replace(/’/g, "'");
-  const definition = n.definition.trim().replace(/\s+/g, " ");
+  const terme = n.terme.trim().replace(/\s+/g, " ").replace(/'/g, "’");
+  const definition = n.definition.trim().replace(/\s+/g, " ").replace(/'/g, "’");
   if (!terme) throw new ErreurDonnees("Le nom de l'objet est vide.");
   if (!definition) throw new ErreurDonnees("La définition est obligatoire pour un nouveau terme.");
   if (!CATEGORIES.includes(n.categorie as Categorie)) throw new ErreurDonnees("Catégorie inconnue.");

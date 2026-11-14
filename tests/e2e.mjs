@@ -388,10 +388,10 @@ async function ajouter(page, { photo, saisie, choisir, attenduId, nouveau, rect,
 async function testerAjouter(page, nom, photos, mobile) {
   section = `${nom} · ajouter`;
   console.log(`- ${section}`);
-  // Accent manquant : « allege » est reconnu comme « l'allège ».
+  // Accent manquant : « allege » est reconnu comme « l’allège ».
   await page.goto(BASE + "/ajouter");
   await page.locator("#objet").fill("allege");
-  check(`« allege » reconnu comme « l'allège »`, ((await page.getByTestId("terme-existant").textContent()) ?? "").includes("l'allège"));
+  check(`« allege » reconnu comme « l’allège »`, ((await page.getByTestId("terme-existant").textContent()) ?? "").includes("l’allège"));
   await pasDeDefilementHorizontal(page, "ajouter");
 
   const ajoutees = [];
@@ -745,7 +745,7 @@ async function testerLexique(page, ctx, nom) {
 
   const chercher = (t) => page.getByLabel("Rechercher un mot ou une définition", { exact: true }).fill(t);
   await chercher("ALLEGE");
-  check(`recherche « ALLEGE » : l'allège en premier`, (await mots.first().getByTestId("terme").textContent()) === "l'allège");
+  check(`recherche « ALLEGE » : l’allège en premier`, (await mots.first().getByTestId("terme").textContent()) === "l’allège");
   const allege = ctx.termsParId.get("allege");
   check(`définition affichée`, ((await mots.first().textContent()) ?? "").includes(allege.definition));
   // Recherche dans les définitions : un mot de la définition du linteau qui n'est pas dans son nom.
@@ -872,10 +872,10 @@ async function testerGerer(page, nom, ajoutees) {
   await filtre("Catégorie", "");
   await filtre("Statut", "refusée");
   check(`image refusée de test listée`, (await verifier(`filtre refusée`, (i) => i.statut === "refusée")).includes(IMAGE_REFUSEE));
-  await filtre("Catégorie", "Afrique de l'Ouest");
-  await verifier(`filtres combinés`, (i) => i.statut === "refusée" && cat(i) === "Afrique de l'Ouest");
+  await filtre("Catégorie", "Afrique de l’Ouest");
+  await verifier(`filtres combinés`, (i) => i.statut === "refusée" && cat(i) === "Afrique de l’Ouest");
   await filtre("Statut", "validée");
-  await verifier(`filtre validée`, (i) => i.statut === "validée" && cat(i) === "Afrique de l'Ouest");
+  await verifier(`filtre validée`, (i) => i.statut === "validée" && cat(i) === "Afrique de l’Ouest");
   await filtre("Catégorie", "");
   await filtre("Statut", "");
 

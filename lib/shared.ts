@@ -6,7 +6,7 @@ export const CATEGORIES = [
   "Structure",
   "Ornement",
   "Matériaux et revêtements",
-  "Afrique de l'Ouest",
+  "Afrique de l’Ouest",
   "Gros œuvre et maçonnerie",
   "Menuiserie et serrurerie",
   "Second œuvre et finitions",
