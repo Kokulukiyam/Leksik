@@ -11,7 +11,8 @@ Mettre `ETAT.md` à jour à chaque étape franchie, puis committer.
 - Pages : `app/page.tsx` (jeu, `components/Jeu.tsx`), `app/lexique` (`components/Lexique.tsx`), `app/ajouter` (`components/Ajouter.tsx`),
   `app/gerer` (`components/Gerer.tsx`), `app/parametres` (`components/Parametres.tsx`). Réglages : `lib/parametres.ts` ; progression : `lib/progres.ts`.
 - API : `app/api/images/route.ts` (POST), `app/api/images/[id]/route.ts` (PATCH, DELETE) ; vignettes : `app/vignettes/[...chemin]/route.ts`.
-- Design : couleurs et polices dans le bloc `@theme` de `app/globals.css` (classes `bg-fond`, `text-sourdine`, `.btn`, `.champ`…).
+- Design : direction artistique dans `DESIGN.md` ; couleurs et police (Archivo, locale via `@fontsource-variable/archivo`) dans le bloc `@theme`
+  de `app/globals.css` (classes `bg-fond`, `text-sourdine`, `.btn`, `.champ`, `.etroit`, `.mi-etroit`…).
   Le test de bout en bout s'appuie sur les `data-testid` et sur les classes `border-green-500` / `border-red-500` des réponses.
 - Choix faits en autonomie : `DECISIONS.md` (ajouter une ligne pour tout nouveau choix).
 

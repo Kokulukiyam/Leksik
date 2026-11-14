@@ -157,75 +157,101 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
     const idsJouables = (cat: string) => new Set(jouables.filter((i) => cat === "Toutes" || categorieDe(i) === cat).map((i) => i.termId));
     const total = bilan(idsJouables("Toutes"), progres);
     const aRevoir = jouables.filter((i) => etat(progres[i.termId]) === "a-revoir");
+    const motsARevoir = new Set(aRevoir.map((i) => i.termId)).size;
     return (
-      <div className="mx-auto max-w-3xl py-2 sm:py-6">
-        <p className="surtitre mb-2">Vocabulaire architectural</p>
-        <h1 className="mb-2 font-serif text-4xl sm:text-5xl">Jouer</h1>
-        <p className="mb-6 text-sourdine">
-          Une image, {params.propositions} mots : trouvez le bon. Parties de {params.imagesParPartie} images.
-        </p>
+      <div className="py-6 sm:py-10 lg:grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-16">
+        <div className="lg:sticky lg:top-10 lg:self-start">
+          <h1 className="etroit text-[2.9rem] leading-[0.92] sm:text-[4rem]">
+            Une image, {params.propositions} mots&nbsp;:
+            <br />
+            trouvez le bon.
+          </h1>
+          <p className="mt-3 text-sourdine">Parties de {params.imagesParPartie} images.</p>
 
-        <div className="panneau mb-6 p-4" data-testid="bilan">
-          <p className="mb-2.5">
-            <span className="font-serif text-3xl">{total.maitrise}</span>
-            <span className="text-sourdine">
-              {" "}/ {pluriel(total.total, "mot")} maîtrisé{total.total > 1 ? "s" : ""}
-            </span>
-          </p>
-          <Jauge bilan={total} />
-          <p className="mt-2.5 flex flex-wrap gap-x-4 gap-y-1 text-xs text-sourdine">
-            <Legende couleur="bg-green-500" texte={`${total.maitrise} maîtrisé${total.maitrise > 1 ? "s" : ""}`} />
-            <Legende couleur="bg-accent" texte={`${total["en-cours"]} en cours`} />
-            <Legende couleur="bg-red-500" texte={`${total["a-revoir"]} à revoir`} />
-            <Legende couleur="bg-trait" texte={`${total.nouveau} jamais vu${total.nouveau > 1 ? "s" : ""}`} />
-          </p>
+          <div className="mt-8 border-t-2 border-encre pt-3" data-testid="bilan">
+            <p className="flex items-baseline">
+              <span className="etroit text-5xl leading-none tabular-nums">{total.maitrise}</span>
+              <span className="whitespace-pre text-sourdine">
+                {" "}/ {pluriel(total.total, "mot")} maîtrisé{total.total > 1 ? "s" : ""}
+              </span>
+            </p>
+            <Jauge bilan={total} className="mt-3" />
+            <p className="mt-2.5 grid grid-cols-3 text-sm text-sourdine">
+              <Compte n={total["en-cours"]} couleur="text-accent" texte="en cours" />
+              <Compte n={total["a-revoir"]} couleur="text-red-400" texte="à revoir" />
+              <Compte n={total.nouveau} couleur="text-encre" texte={`jamais vu${total.nouveau > 1 ? "s" : ""}`} />
+            </p>
+          </div>
+
+          {(() => {
+            const n = jouables.length;
+            return (
+              <button
+                onClick={() => demarrer("Toutes")}
+                disabled={n === 0}
+                className="mt-8 flex min-h-[4.5rem] w-full items-center justify-between gap-4 bg-accent px-4 py-3 text-left text-black transition-colors duration-100 hover:bg-white active:bg-accent disabled:bg-relief disabled:text-faible"
+              >
+                <span>
+                  <span className="etroit block text-[2rem] leading-none">Toutes</span>
+                  <span className="mt-1 block text-sm tabular-nums">
+                    {pluriel(n, "image")} · {pluriel(idsJouables("Toutes").size, "mot")}
+                  </span>
+                </span>
+                <Fleche />
+              </button>
+            );
+          })()}
+
+          {aRevoir.length > 0 && (
+            <button
+              onClick={() => lancer(A_REVOIR, aRevoir, Math.min(motsARevoir, params.imagesParPartie), false)}
+              className="mt-2 flex min-h-[4.5rem] w-full items-center justify-between gap-4 border border-trait-fort px-4 py-3 text-left transition-colors duration-100 hover:border-encre hover:bg-relief active:bg-trait"
+              data-testid="a-revoir"
+            >
+              <span>
+                <span className="mi-etroit block text-xl leading-tight">Réviser mes mots ratés</span>
+                <span className="mt-0.5 block text-sm text-sourdine">
+                  <span className="text-red-400">{pluriel(motsARevoir, "mot")}</span> dont la dernière réponse était fausse
+                </span>
+              </span>
+              <Fleche />
+            </button>
+          )}
         </div>
 
-        <div className="grid gap-2.5 sm:grid-cols-2 sm:gap-3">
-          {["Toutes", ...CATEGORIES].map((cat) => {
+        <div className="mt-10 lg:mt-0">
+          <div aria-hidden className={`${LIGNE} border-b-2 border-encre pb-2 text-xs text-sourdine`}>
+            <span>N°</span>
+            <span>Catégorie</span>
+            <span className="text-right">Images</span>
+            <span className="text-right">Maîtrisés</span>
+          </div>
+          {CATEGORIES.map((cat, k) => {
             const ids = idsJouables(cat);
-            const n = cat === "Toutes" ? jouables.length : jouables.filter((i) => categorieDe(i) === cat).length;
-            if (cat === "Toutes")
-              return (
-                <button
-                  key={cat}
-                  onClick={() => demarrer(cat)}
-                  disabled={n === 0}
-                  className="rounded-xl border border-encre bg-encre px-4 py-4 text-left text-fond transition-colors hover:bg-white disabled:opacity-40 sm:col-span-2 sm:py-5"
-                >
-                  <span className="block font-serif text-2xl">{cat}</span>
-                  <span className="block text-sm text-fond/70">
-                    {pluriel(n, "image")} · {pluriel(ids.size, "mot")}
-                  </span>
-                </button>
-              );
+            const n = jouables.filter((i) => categorieDe(i) === cat).length;
+            const b = bilan(ids, progres);
             return (
               <button
                 key={cat}
                 onClick={() => demarrer(cat)}
                 disabled={n === 0}
-                className="rounded-xl border border-trait bg-surface px-4 py-3 text-left transition-colors hover:border-sourdine disabled:opacity-40"
+                className={`${LIGNE} group min-h-12 w-full border-b border-trait py-2.5 text-left transition-colors duration-100 hover:bg-surface active:bg-relief disabled:text-faible`}
               >
-                <span className="flex items-baseline justify-between gap-3">
-                  <span className="font-serif text-lg leading-snug">{cat}</span>
-                  <span className="shrink-0 text-xs text-faible">{pluriel(n, "image")}</span>
+                <span aria-hidden className="text-sm tabular-nums text-faible group-hover:text-accent">
+                  {String(k + 1).padStart(2, "0")}
                 </span>
-                <Jauge bilan={bilan(ids, progres)} className="mt-2 !h-1" />
+                <span className="mi-etroit text-[1.1875rem] leading-tight">{cat}</span>
+                <span className="text-right tabular-nums text-sourdine">
+                  {n}
+                  <span className="sr-only"> image{n > 1 ? "s" : ""}</span>
+                </span>
+                <span aria-hidden className="text-right tabular-nums text-faible">
+                  <span className={b.maitrise ? "text-encre" : ""}>{b.maitrise}</span>/{b.total}
+                </span>
               </button>
             );
           })}
         </div>
-
-        {aRevoir.length > 0 && (
-          <button
-            onClick={() => lancer(A_REVOIR, aRevoir, Math.min(new Set(aRevoir.map((i) => i.termId)).size, params.imagesParPartie), false)}
-            className="mt-3 w-full rounded-xl border border-red-900 bg-red-950/40 px-4 py-3.5 text-left transition-colors hover:border-red-500"
-            data-testid="a-revoir"
-          >
-            <span className="block font-serif text-lg">Réviser mes mots ratés</span>
-            <span className="block text-sm text-sourdine">{pluriel(new Set(aRevoir.map((i) => i.termId)).size, "mot")} dont la dernière réponse était fausse</span>
-          </button>
-        )}
       </div>
     );
   }
@@ -240,50 +266,63 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
     const part = score / total;
     const mention = part === 1 ? "Sans faute." : part >= 0.8 ? "Très bien." : part >= 0.5 ? "Pas mal." : "À retravailler.";
     return (
-      <div className="mx-auto max-w-3xl py-2 sm:py-6">
-        <p className="surtitre mb-2">{partie.categorie}</p>
-        <h1 className="font-serif text-5xl sm:text-6xl" data-testid="score">
-          <span className="sr-only">Score : </span>
-          {score} / {total}
-        </h1>
-        <p className="mb-4 mt-1 text-sourdine">{mention}</p>
-        <Pastilles partie={partie} className="mb-8" />
-        {rates.length > 0 ? (
-          <>
-            <h2 className="mb-3 font-serif text-xl">Mots ratés</h2>
-            <ul className="mb-8 grid gap-3 sm:grid-cols-2" data-testid="rates">
-              {rates.map(({ m, reponse }, i) => {
-                const img = imagesParId.get(m.imageId)!;
-                const t = termsParId.get(m.termId)!;
-                return (
-                  <li key={i} className="panneau p-3">
-                    <div className="mb-3 rounded-lg bg-black/40 text-center">
-                      <Figure src={vignetteSrc(img)} rect={img.rectangle} alt={t.terme} imgClassName="max-h-48" />
-                    </div>
-                    <p className="font-serif text-lg text-green-400">{t.terme}</p>
-                    <p className="text-sm text-encre/85">{t.definition}</p>
-                    {reponse && termsParId.has(reponse) && (
-                      <p className="mt-2 text-xs text-faible">
-                        Votre réponse : <span className="text-red-300">{termsParId.get(reponse)!.terme}</span>
-                      </p>
-                    )}
-                  </li>
-                );
-              })}
-            </ul>
-          </>
-        ) : (
-          <p className="mb-8 text-encre/85">Aucune erreur, bravo !</p>
-        )}
-        <div className="flex flex-wrap gap-3">
-          {rates.length > 0 && (
-            <button onClick={() => revoir(partie)} className="btn btn-plein px-5 py-3">
-              Revoir mes erreurs
+      <div className="py-6 sm:py-10 lg:grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-16">
+        <div className="lg:sticky lg:top-10 lg:self-start">
+          <p className="text-sourdine">{partie.categorie}</p>
+          <h1 className="etroit mt-1 text-[7rem] leading-[0.8] tabular-nums sm:text-[10rem]" data-testid="score">
+            <span className="sr-only">Score : </span>
+            {score}
+            <span className="text-faible"> / {total}</span>
+          </h1>
+          <p className="mi-etroit mt-5 text-xl">{mention}</p>
+          <Reperes partie={partie} className="mt-3 [&>div]:h-2" />
+          <div className="mt-8 grid gap-2 sm:grid-cols-2 lg:grid-cols-1">
+            {rates.length > 0 && (
+              <button onClick={() => revoir(partie)} className="btn btn-plein min-h-14 justify-between text-lg">
+                Revoir mes erreurs
+                <Fleche />
+              </button>
+            )}
+            <button onClick={() => maj(null)} className={`btn min-h-14 justify-between text-lg ${rates.length ? "" : "btn-plein"}`}>
+              Nouvelle partie
+              <Fleche />
             </button>
+          </div>
+        </div>
+
+        <div className="mt-10 lg:mt-0">
+          {rates.length > 0 ? (
+            <>
+              <h2 className="flex items-baseline justify-between border-b-2 border-encre pb-2 text-xs font-normal text-sourdine">
+                <span>Mots ratés</span>
+                <span className="tabular-nums">{rates.length}</span>
+              </h2>
+              <ul data-testid="rates">
+                {rates.map(({ m, reponse }, i) => {
+                  const img = imagesParId.get(m.imageId)!;
+                  const t = termsParId.get(m.termId)!;
+                  return (
+                    <li key={i} className="grid grid-cols-[6.5rem_minmax(0,1fr)] gap-x-4 border-b border-trait py-4 sm:grid-cols-[11rem_minmax(0,1fr)] sm:gap-x-6">
+                      <div className="flex h-[6.5rem] items-center justify-center bg-scene sm:h-32">
+                        <Figure src={vignetteSrc(img)} rect={img.rectangle} alt={t.terme} imgClassName="max-h-[6.5rem] sm:max-h-32" />
+                      </div>
+                      <div>
+                        <p className="mi-etroit text-xl leading-tight">{t.terme}</p>
+                        <p className="mt-1 max-w-[60ch] text-sm leading-snug text-sourdine">{t.definition}</p>
+                        {reponse && termsParId.has(reponse) && (
+                          <p className="mt-2 text-sm text-faible">
+                            Votre réponse&nbsp;: <span className="text-red-400 line-through decoration-1">{termsParId.get(reponse)!.terme}</span>
+                          </p>
+                        )}
+                      </div>
+                    </li>
+                  );
+                })}
+              </ul>
+            </>
+          ) : (
+            <p className="etroit border-t-2 border-encre pt-3 text-3xl">Aucune erreur, bravo !</p>
           )}
-          <button onClick={() => maj(null)} className={`btn px-5 py-3 ${rates.length ? "" : "btn-plein"}`}>
-            Nouvelle partie
-          </button>
         </div>
       </div>
     );
@@ -312,23 +351,33 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
   );
 }
 
-function Legende({ couleur, texte }: { couleur: string; texte: string }) {
+// Ligne de la nomenclature des catégories : repère, nom, images, mots maîtrisés.
+const LIGNE = "grid grid-cols-[2rem_minmax(0,1fr)_3.25rem_4.25rem] items-baseline sm:grid-cols-[2.75rem_minmax(0,1fr)_5rem_6rem]";
+
+function Compte({ n, couleur, texte }: { n: number; couleur: string; texte: string }) {
   return (
-    <span className="flex items-center gap-1.5">
-      <span aria-hidden className={`h-2 w-2 rounded-full ${couleur}`} />
-      {texte}
+    <span>
+      <span className={`mi-etroit text-xl tabular-nums ${couleur}`}>{n}</span> {texte}
     </span>
   );
 }
 
-/** Une pastille par manche : verte ou rouge une fois jouée, claire pour la manche en cours. */
-function Pastilles({ partie, index = -1, className = "" }: { partie: Partie; index?: number; className?: string }) {
+function Fleche() {
   return (
-    <div className={`flex gap-1 ${className}`} aria-hidden>
+    <svg aria-hidden viewBox="0 0 24 24" className="h-6 w-6 shrink-0" fill="none" stroke="currentColor" strokeWidth="2">
+      <path d="M3 12h17M13 5l7 7-7 7" strokeLinecap="square" />
+    </svg>
+  );
+}
+
+/** Un segment par manche : vert ou rouge une fois jouée, clair pour la manche en cours. */
+function Reperes({ partie, index = -1, className = "" }: { partie: Partie; index?: number; className?: string }) {
+  return (
+    <div className={`flex gap-[3px] ${className}`} aria-hidden>
       {partie.manches.map((m, i) => {
         const r = partie.reponses[i];
         const couleur = r === null ? (i === index ? "bg-encre" : "bg-trait") : r === m.termId ? "bg-green-500" : "bg-red-500";
-        return <div key={i} className={`h-1.5 flex-1 rounded-full ${couleur}`} />;
+        return <div key={i} className={`h-1 flex-1 ${couleur}`} />;
       })}
     </div>
   );
@@ -396,81 +445,106 @@ function Manche({
   const colonnes = manche.choix.length === 3 ? "grid-cols-1 sm:grid-cols-3" : "grid-cols-2";
 
   return (
-    <div className="mx-auto flex max-w-3xl flex-col">
-      <div className="mb-2 flex items-center justify-between gap-3 text-sm text-sourdine">
-        <span data-testid="progression" className="tabular-nums">
-          {index + 1} / {partie.manches.length} · {partie.categorie}
-        </span>
-        <button onClick={onQuitter} className="-my-1 py-1 hover:text-encre">
-          Quitter
-        </button>
-      </div>
-      <Pastilles partie={partie} index={index} className="mb-3" />
-
-      {/* Hauteur fixe : les réponses restent au même endroit d'une image à l'autre. */}
-      <div className="flex h-[42dvh] items-center justify-center rounded-xl bg-black/40 sm:h-[50dvh]">
-        <Figure
-          src={imageSrc(img)}
-          rect={img.rectangle}
-          alt="Élément à reconnaître"
-          imgClassName="max-h-[42dvh] rounded-lg sm:max-h-[50dvh]"
-          onClick={() => setZoom(true)}
-        />
-      </div>
-      <p className="mt-1.5 text-center text-xs text-faible" data-testid="credit">
-        {credit}
-        {img.lienSource && (
-          <>
-            {" · "}
-            <a href={img.lienSource} target="_blank" rel="noreferrer" className="underline hover:text-sourdine">
-              source
-            </a>
-          </>
-        )}
-      </p>
-
-      <div className={`mt-3 grid gap-2 sm:gap-3 ${colonnes}`} data-testid="choix">
-        {manche.choix.map((id, k) => {
-          const t = termsParId.get(id)!;
-          let style = "border-trait bg-surface hover:border-sourdine active:bg-relief";
-          if (choisi) {
-            if (id === bon.id) style = "border-green-500 bg-green-950 text-green-100";
-            else if (id === choisi) style = "border-red-500 bg-red-950 text-red-100";
-            else style = "border-trait bg-surface opacity-40";
-          }
-          return (
-            <button
-              key={id}
-              data-term={id}
-              data-touche={k + 1}
-              disabled={!!choisi}
-              onClick={() => choisir(id)}
-              className={`relative min-h-14 rounded-xl border-2 px-3 py-2.5 font-serif text-[1.05rem] leading-snug transition-colors sm:min-h-16 sm:px-9 sm:text-xl ${style}`}
-            >
-              {t.terme}
-            </button>
-          );
-        })}
-      </div>
-
-      {choisi && (
-        <div className="apparition mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-5" data-testid="retour">
-          <div className="flex-1 text-sm sm:text-base">
-            <p>
-              <span className={`font-semibold ${juste ? "text-green-400" : "text-red-400"}`}>{juste ? "Juste. " : "Faux. "}</span>
-              <span className="font-semibold">{bon.terme}</span> : {bon.definition}
-            </p>
-            {!juste && (
-              <p className="mt-1.5 text-sm text-sourdine" data-testid="retour-choix">
-                Votre choix, <span className="font-semibold text-red-300">{termsParId.get(choisi)!.terme}</span> : {termsParId.get(choisi)!.definition}
-              </p>
-            )}
-          </div>
-          <button autoFocus onClick={() => onRepondre(choisi)} className="btn btn-plein w-full shrink-0 px-7 py-3 sm:w-auto">
-            Suivant
+    <div className={`flex flex-col sm:pb-8 lg:grid lg:grid-cols-[minmax(0,1fr)_23rem] lg:grid-rows-[auto_minmax(0,1fr)] lg:gap-x-8 lg:py-6 ${choisi ? "pb-24" : "pb-6"}`}>
+      <div className="lg:col-start-2 lg:row-start-1">
+        <div className="flex min-h-11 items-center justify-between gap-3 lg:items-start">
+          <span data-testid="progression" className="tabular-nums lg:flex lg:flex-col">
+            <span className="etroit text-xl lg:text-[4rem] lg:leading-[0.85]">
+              {index + 1} / {partie.manches.length}
+            </span>
+            <span className="text-sourdine lg:mt-2">
+              <span className="lg:hidden">{" · "}</span>
+              {partie.categorie}
+            </span>
+          </span>
+          <button onClick={onQuitter} className="-mr-3 min-h-11 px-3 text-sourdine underline decoration-trait-fort underline-offset-4 hover:text-encre hover:decoration-encre lg:-mt-2">
+            Quitter
           </button>
         </div>
-      )}
+        <Reperes partie={partie} index={index} className="mb-3 lg:mb-5 lg:mt-4" />
+      </div>
+
+      {/* Hauteur fixe : les réponses restent au même endroit d'une image à l'autre. */}
+      <div className="lg:col-start-1 lg:row-span-2 lg:row-start-1">
+        <div className="-mx-4 flex h-[40dvh] items-center justify-center bg-scene sm:mx-0 sm:h-[52dvh] lg:h-[calc(100dvh-9.75rem)] lg:min-h-[26rem]">
+          <Figure
+            src={imageSrc(img)}
+            rect={img.rectangle}
+            alt="Élément à reconnaître"
+            imgClassName="max-h-[40dvh] sm:max-h-[52dvh] lg:max-h-[max(26rem,calc(100dvh-9.75rem))]"
+            onClick={() => setZoom(true)}
+          />
+        </div>
+        <p className="mt-1.5 h-5 truncate text-xs leading-5 text-faible" data-testid="credit">
+          {credit}
+          {img.lienSource && (
+            <>
+              {" · "}
+              <a href={img.lienSource} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-encre">
+                source
+              </a>
+            </>
+          )}
+        </p>
+      </div>
+
+      <div className="mt-2 flex flex-col lg:col-start-2 lg:row-start-2 lg:mt-0">
+        <div className={`grid gap-1.5 lg:grid-cols-1 ${colonnes}`} data-testid="choix">
+          {manche.choix.map((id, k) => {
+            const t = termsParId.get(id)!;
+            let style = "border-relief bg-relief hover:border-encre active:border-trait-fort active:bg-trait";
+            if (choisi) {
+              if (id === bon.id) style = "border-green-500 bg-green-500 text-black";
+              else if (id === choisi) style = "border-red-500 bg-red-500 text-white";
+              else style = "border-trait bg-transparent text-faible";
+            }
+            return (
+              <button
+                key={id}
+                data-term={id}
+                data-touche={k + 1}
+                disabled={!!choisi}
+                onClick={() => choisir(id)}
+                className={`mi-etroit relative min-h-[4.5rem] border-2 px-3 py-2 text-left text-[1.125rem] leading-[1.15] transition-colors duration-100 lg:min-h-[3.75rem] lg:text-xl ${style}`}
+              >
+                {t.terme}
+              </button>
+            );
+          })}
+        </div>
+
+        {!choisi && (
+          <p aria-hidden className="mt-auto hidden pt-4 text-xs leading-relaxed text-faible lg:[@media(hover:hover)]:block">
+            Touches 1 à {manche.choix.length} pour répondre, Entrée ou → pour continuer.
+            <br />
+            Un clic sur la photo l’agrandit.
+          </p>
+        )}
+
+        {choisi && (
+          <div className="apparition mt-4 flex flex-1 flex-col" data-testid="retour">
+            <div>
+              <p className="leading-snug">
+                <span className={`etroit block text-3xl leading-none ${juste ? "text-green-400" : "text-red-400"}`}>{juste ? "Juste. " : "Faux. "}</span>
+                <span className="mi-etroit mt-2 block text-lg leading-tight">{bon.terme}</span>
+                <span className="sr-only"> : </span>
+                <span className="text-sourdine">{bon.definition}</span>
+              </p>
+              {!juste && (
+                <p className="mt-3 border-t border-trait pt-3 text-sm leading-snug text-sourdine" data-testid="retour-choix">
+                  Votre choix, <span className="mi-etroit text-red-400">{termsParId.get(choisi)!.terme}</span>&nbsp;: {termsParId.get(choisi)!.definition}
+                </p>
+              )}
+            </div>
+            <div className="mt-4 max-sm:fixed max-sm:inset-x-0 max-sm:bottom-0 max-sm:z-10 max-sm:mt-0 max-sm:border-t max-sm:border-trait max-sm:bg-fond max-sm:px-4 max-sm:pt-3 max-sm:pb-[max(0.75rem,env(safe-area-inset-bottom))] lg:mt-auto lg:pt-4">
+              <button autoFocus onClick={() => onRepondre(choisi)} className="btn btn-plein min-h-14 w-full justify-between text-lg">
+                Suivant
+                <Fleche />
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
 
       {zoom && <Visionneuse vues={[{ src: imageSrc(img), rect: img.rectangle, legende: credit }]} onFermer={() => setZoom(false)} />}
     </div>

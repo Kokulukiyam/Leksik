@@ -7,6 +7,8 @@ import { bilan, effacerProgres, lireProgres, type Progres } from "@/lib/progres"
 import Jauge from "./Jauge";
 import type { Image, Term } from "@/lib/shared";
 
+const RANGEE = "border-b border-trait py-5 lg:grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-16";
+
 function Groupe<T extends string | number | boolean>({
   titre,
   aide,
@@ -22,19 +24,23 @@ function Groupe<T extends string | number | boolean>({
   options: { v: T; label: string }[];
   onChange: (v: T) => void;
 }) {
+  // Options courtes (chiffres) : toujours côte à côte. Options longues : empilées sur téléphone.
+  const courtes = options.every((o) => o.label.length <= 3);
   return (
-    <div role="group" aria-label={titre} className="border-t border-trait py-5" data-testid={`param-${nom}`}>
-      <p className="mb-1 font-medium">{titre}</p>
-      {aide && <p className="mb-2 text-sm text-sourdine">{aide}</p>}
-      <div className="flex flex-wrap gap-2 pt-1">
+    <div role="group" aria-label={titre} className={RANGEE} data-testid={`param-${nom}`}>
+      <div>
+        <p className="mi-etroit text-xl leading-tight">{titre}</p>
+        {aide && <p className="mt-1.5 max-w-[46ch] text-sm leading-snug text-sourdine">{aide}</p>}
+      </div>
+      <div className={`mt-3 grid lg:mt-0 lg:self-start ${courtes ? "grid-flow-col" : "sm:grid-flow-col"} auto-cols-fr`}>
         {options.map((o) => (
           <button
             key={String(o.v)}
             type="button"
             aria-pressed={o.v === valeur}
             onClick={() => onChange(o.v)}
-            className={`rounded-lg border px-4 py-2 transition-colors ${
-              o.v === valeur ? "border-encre bg-encre font-medium text-fond" : "border-trait bg-surface hover:border-sourdine"
+            className={`mi-etroit relative min-h-12 border px-3 py-2 leading-tight transition-colors duration-100 ${courtes ? "-ml-px first:ml-0" : "-mt-px text-left first:mt-0 sm:-ml-px sm:mt-0 sm:text-center sm:first:ml-0"} ${
+              o.v === valeur ? "z-[1] border-encre bg-encre text-fond" : "border-trait-fort text-sourdine hover:bg-relief hover:text-encre"
             }`}
           >
             {o.label}
@@ -67,9 +73,9 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
   const vus = suivi.total - suivi.nouveau;
 
   return (
-    <div className="mx-auto max-w-xl py-2 sm:py-6">
-      <h1 className="mb-2 font-serif text-4xl">Paramètres</h1>
-      <p className="mb-6 text-sourdine">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
+    <div className="py-6 sm:py-10">
+      <h1 className="etroit text-5xl leading-[0.92] sm:text-[4rem]">Paramètres</h1>
+      <p className="mt-3 border-b-2 border-encre pb-5 text-sourdine">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
 
       <Groupe
         titre="Images par partie"
@@ -141,34 +147,40 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
         onChange={(v) => maj({ suivantAuto: v })}
       />
 
-      <div className="flex flex-wrap items-center justify-between gap-3 border-t border-trait py-5">
-        <p className="text-sm text-encre/85" data-testid="param-compte">
-          Avec ces réglages : {n} image{n > 1 ? "s" : ""} jouable{n > 1 ? "s" : ""}.
+      <div className={`${RANGEE} items-center`}>
+        <p data-testid="param-compte">
+          Avec ces réglages&nbsp;: <span className="mi-etroit text-xl tabular-nums">{n} image{n > 1 ? "s" : ""} jouable{n > 1 ? "s" : ""}</span>.
         </p>
-        <button type="button" onClick={() => maj(PAR_DEFAUT)} className="btn">
-          Réglages par défaut
-        </button>
+        <div className="mt-3 lg:mt-0">
+          <button type="button" onClick={() => maj(PAR_DEFAUT)} className="btn w-full sm:w-auto">
+            Réglages par défaut
+          </button>
+        </div>
       </div>
 
-      <section className="border-t border-trait py-5" data-testid="param-progression">
-        <h2 className="mb-1 font-medium">Ma progression</h2>
-        <p className="mb-3 text-sm text-sourdine">
-          {vus} mot{vus > 1 ? "s" : ""} vu{vus > 1 ? "s" : ""} sur {suivi.total}, dont {suivi.maitrise} maîtrisé{suivi.maitrise > 1 ? "s" : ""} (deux bonnes
-          réponses d&apos;affilée) et {suivi["a-revoir"]} à revoir.
-        </p>
-        <Jauge bilan={suivi} className="mb-4" />
-        <button
-          type="button"
-          disabled={vus === 0}
-          onClick={() => {
-            if (!confirm("Effacer toute ma progression ?")) return;
-            effacerProgres();
-            setProgres({});
-          }}
-          className="btn btn-danger"
-        >
-          Effacer ma progression
-        </button>
+      <section className={`${RANGEE} border-b-0`} data-testid="param-progression">
+        <div>
+          <h2 className="mi-etroit text-xl leading-tight">Ma progression</h2>
+          <p className="mt-1.5 max-w-[46ch] text-sm leading-snug text-sourdine">
+            {vus} mot{vus > 1 ? "s" : ""} vu{vus > 1 ? "s" : ""} sur {suivi.total}, dont {suivi.maitrise} maîtrisé{suivi.maitrise > 1 ? "s" : ""} (deux bonnes
+            réponses d’affilée) et {suivi["a-revoir"]} à revoir.
+          </p>
+        </div>
+        <div className="mt-4 lg:mt-1.5">
+          <Jauge bilan={suivi} />
+          <button
+            type="button"
+            disabled={vus === 0}
+            onClick={() => {
+              if (!confirm("Effacer toute ma progression ?")) return;
+              effacerProgres();
+              setProgres({});
+            }}
+            className="btn btn-danger mt-4 w-full sm:w-auto"
+          >
+            Effacer ma progression
+          </button>
+        </div>
       </section>
     </div>
   );

@@ -21,6 +21,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
   const [envoi, setEnvoi] = useState(false);
   const [message, setMessage] = useState<{ ok: boolean; texte: string } | null>(null);
   const [cleFichier, setCleFichier] = useState(0);
+  const [survol, setSurvol] = useState(false);
 
   useEffect(() => {
     if (!fichier) return;
@@ -80,113 +81,160 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
     }
   }
 
+  function choisirFichier(f: File | null) {
+    setFichier(f);
+    setRect(null);
+    setMessage(null);
+  }
+
+  const coin = "absolute h-5 w-5 border-accent transition-all duration-100";
+  const ecart = survol ? "0.5rem" : "0.875rem";
+
   return (
-    <form onSubmit={envoyer} className="mx-auto grid max-w-2xl gap-5 py-2 sm:py-6">
-      <h1 className="font-serif text-4xl">Ajouter une image</h1>
+    <form onSubmit={envoyer} className="py-6 sm:py-10">
+      <h1 className="etroit text-5xl leading-[0.92] sm:text-[4rem]">Ajouter une image</h1>
 
-      <div>
-        <label className="mb-2 block font-medium" htmlFor="photo">Photo</label>
-        <input
-          key={cleFichier}
-          id="photo"
-          type="file"
-          accept="image/*"
-          onChange={(e) => {
-            setFichier(e.target.files?.[0] ?? null);
-            setRect(null);
-            setMessage(null);
-          }}
-          className="block w-full cursor-pointer rounded-xl border border-dashed border-trait bg-surface p-3 text-sm text-sourdine transition-colors file:mr-3 file:cursor-pointer file:rounded-lg file:border-0 file:bg-encre file:px-4 file:py-2 file:font-medium file:text-fond hover:border-sourdine"
-        />
-        {apercu && (
-          <div className="mt-3">
-            <DessinRect src={apercu} rect={rect} onChange={setRect} />
-          </div>
-        )}
-      </div>
-
-      <div className="relative">
-        <label className="mb-2 block font-medium" htmlFor="objet">Objet</label>
-        <input
-          id="objet"
-          className={champ}
-          value={saisie}
-          autoComplete="off"
-          placeholder="ex. l'allège"
-          onChange={(e) => setSaisie(e.target.value)}
-          onFocus={() => setFocus(true)}
-          onBlur={() => setTimeout(() => setFocus(false), 150)}
-        />
-        {focus && suggestions.length > 0 && !existant && (
-          <ul className="absolute z-10 mt-1 w-full overflow-hidden rounded-lg border border-trait bg-relief shadow-xl" data-testid="suggestions">
-            {suggestions.map((t) => (
-              <li key={t.id}>
-                <button
-                  type="button"
-                  onMouseDown={(e) => e.preventDefault()}
-                  onClick={() => setSaisie(t.terme)}
-                  className="flex w-full items-baseline justify-between gap-3 px-3 py-2.5 text-left hover:bg-trait"
-                >
-                  <span>{t.terme}</span>
-                  <span className="text-right text-xs text-faible">{t.categorie}</span>
-                </button>
-              </li>
-            ))}
-          </ul>
-        )}
-        {existant && (
-          <p className="mt-2 text-sm text-green-400" data-testid="terme-existant">
-            Terme existant : {existant.terme} ({existant.categorie})
-          </p>
-        )}
-        {proche && (
-          <p className="mt-2 text-sm text-accent" data-testid="terme-proche">
-            Vouliez-vous dire{" "}
-            <button type="button" onClick={() => setSaisie(proche.terme)} className="font-semibold underline">
-              {proche.terme}
-            </button>{" "}
-            ?
-          </p>
-        )}
-      </div>
-
-      {nouveau && (
-        <div className="panneau grid gap-4 p-4" data-testid="nouveau-terme">
-          <p className="text-sm text-sourdine">Nouveau terme : indiquez sa définition et sa catégorie.</p>
-          <div>
-            <label className="mb-2 block font-medium" htmlFor="definition">Définition</label>
-            <textarea id="definition" rows={2} className={champ} value={definition} onChange={(e) => setDefinition(e.target.value)} />
-          </div>
-          <div>
-            <label className="mb-2 block font-medium" htmlFor="categorie">Catégorie</label>
-            <select id="categorie" className={champ} value={categorie} onChange={(e) => setCategorie(e.target.value)}>
-              <option value="">Choisir…</option>
-              {CATEGORIES.map((c) => (
-                <option key={c}>{c}</option>
-              ))}
-            </select>
-          </div>
+      <div className="mt-6 grid gap-x-16 gap-y-6 border-t-2 border-encre pt-5 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)]">
+        <div>
+          <label className="etiquette" htmlFor="photo">Photo</label>
+          <input
+            key={cleFichier}
+            id="photo"
+            type="file"
+            accept="image/*"
+            onChange={(e) => choisirFichier(e.target.files?.[0] ?? null)}
+            className="peer sr-only"
+          />
+          {apercu ? (
+            <>
+              <div className="bg-scene p-2">
+                <DessinRect src={apercu} rect={rect} onChange={setRect} />
+              </div>
+              <p className="mt-3 flex items-baseline justify-between gap-4 border-t border-trait pt-3 text-sm text-faible">
+                <span className="truncate">{fichier?.name}</span>
+                <label htmlFor="photo" className="shrink-0 text-encre underline decoration-trait-fort underline-offset-4 hover:decoration-encre">
+                  Changer de photo
+                </label>
+              </p>
+            </>
+          ) : (
+            // Zone de dépôt : quatre repères d'angle, comme un cadre en attente de son image.
+            <label
+              htmlFor="photo"
+              data-testid="depot"
+              onDragOver={(e) => {
+                e.preventDefault();
+                setSurvol(true);
+              }}
+              onDragLeave={() => setSurvol(false)}
+              onDrop={(e) => {
+                e.preventDefault();
+                setSurvol(false);
+                const f = [...e.dataTransfer.files].find((x) => x.type.startsWith("image/"));
+                if (f) choisirFichier(f);
+              }}
+              onMouseEnter={() => setSurvol(true)}
+              onMouseLeave={() => setSurvol(false)}
+              className={`relative flex min-h-56 flex-col justify-end p-7 transition-colors duration-100 peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-accent lg:min-h-[26rem] ${survol ? "bg-relief" : "bg-surface"}`}
+            >
+              <span aria-hidden className={`${coin} border-l-2 border-t-2`} style={{ left: ecart, top: ecart }} />
+              <span aria-hidden className={`${coin} border-r-2 border-t-2`} style={{ right: ecart, top: ecart }} />
+              <span aria-hidden className={`${coin} border-b-2 border-l-2`} style={{ left: ecart, bottom: ecart }} />
+              <span aria-hidden className={`${coin} border-b-2 border-r-2`} style={{ right: ecart, bottom: ecart }} />
+              <span className="etroit text-3xl leading-none sm:text-[2.5rem]">Choisir une photo</span>
+              <span className="mt-2 text-sm text-sourdine">
+                <span className="hidden lg:inline">ou la déposer ici. </span>Vous pourrez ensuite encadrer l’élément à nommer.
+              </span>
+            </label>
+          )}
         </div>
-      )}
 
-      <div>
-        <label className="mb-2 block font-medium" htmlFor="lieu">Lieu <span className="font-normal text-faible">(facultatif)</span></label>
-        <input id="lieu" className={champ} value={lieu} onChange={(e) => setLieu(e.target.value)} placeholder="ex. Plateau, Dakar" />
+        <div className="grid content-start gap-5">
+          <div className="relative">
+            <label className="etiquette" htmlFor="objet">Objet</label>
+            <input
+              id="objet"
+              className={champ}
+              value={saisie}
+              autoComplete="off"
+              placeholder="ex. l’allège"
+              onChange={(e) => setSaisie(e.target.value)}
+              onFocus={() => setFocus(true)}
+              onBlur={() => setTimeout(() => setFocus(false), 150)}
+            />
+            {focus && suggestions.length > 0 && !existant && (
+              <ul className="absolute z-10 w-full border border-t-0 border-trait-fort bg-relief" data-testid="suggestions">
+                {suggestions.map((t) => (
+                  <li key={t.id} className="border-t border-trait first:border-t-0">
+                    <button
+                      type="button"
+                      onMouseDown={(e) => e.preventDefault()}
+                      onClick={() => setSaisie(t.terme)}
+                      className="flex min-h-11 w-full items-baseline justify-between gap-3 px-3 py-2.5 text-left hover:bg-accent hover:text-black [&:hover>span]:text-black"
+                    >
+                      <span className="mi-etroit text-lg leading-tight">{t.terme}</span>
+                      <span className="text-right text-xs text-faible">{t.categorie}</span>
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            )}
+            {existant && (
+              <p className="mt-2 text-sm text-green-400" data-testid="terme-existant">
+                Terme existant&nbsp;: {existant.terme} ({existant.categorie})
+              </p>
+            )}
+            {proche && (
+              <p className="mt-2 text-sm text-sourdine" data-testid="terme-proche">
+                Vouliez-vous dire{" "}
+                <button type="button" onClick={() => setSaisie(proche.terme)} className="mi-etroit text-base text-accent underline underline-offset-4">
+                  {proche.terme}
+                </button>
+                &nbsp;?
+              </p>
+            )}
+          </div>
+
+          {nouveau && (
+            <div className="grid gap-5" data-testid="nouveau-terme">
+              <p className="text-sm leading-snug text-sourdine">
+                <span className="mi-etroit text-accent">Nouveau terme.</span> Indiquez sa définition et sa catégorie.
+              </p>
+              <div>
+                <label className="etiquette" htmlFor="definition">Définition</label>
+                <textarea id="definition" rows={3} className={champ} value={definition} onChange={(e) => setDefinition(e.target.value)} />
+              </div>
+              <div>
+                <label className="etiquette" htmlFor="categorie">Catégorie</label>
+                <select id="categorie" className={champ} value={categorie} onChange={(e) => setCategorie(e.target.value)}>
+                  <option value="">Choisir…</option>
+                  {CATEGORIES.map((c) => (
+                    <option key={c}>{c}</option>
+                  ))}
+                </select>
+              </div>
+            </div>
+          )}
+
+          <div>
+            <label className="etiquette" htmlFor="lieu">Lieu <span className="text-faible">(facultatif)</span></label>
+            <input id="lieu" className={champ} value={lieu} onChange={(e) => setLieu(e.target.value)} placeholder="ex. Plateau, Dakar" />
+          </div>
+
+          <button type="submit" disabled={!pret || envoi} className="btn btn-plein mt-1 min-h-14 justify-between text-lg">
+            {envoi ? "Ajout…" : "Ajouter"}
+            <svg aria-hidden viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="square">
+              <path d="M12 4v16M4 12h16" />
+            </svg>
+          </button>
+
+          {message && (
+            <p role="status" className={`text-sm ${message.ok ? "text-green-400" : "text-red-400"}`}>
+              {message.texte} {message.ok && <Link href="/gerer" className="text-encre underline underline-offset-4">Voir dans Gérer</Link>}
+            </p>
+          )}
+        </div>
       </div>
-
-      <button
-        type="submit"
-        disabled={!pret || envoi}
-        className="btn btn-plein px-6 py-3 text-lg"
-      >
-        {envoi ? "Ajout…" : "Ajouter"}
-      </button>
-
-      {message && (
-        <p role="status" className={message.ok ? "text-green-400" : "text-red-400"}>
-          {message.texte} {message.ok && <Link href="/gerer" className="underline">Voir dans Gérer</Link>}
-        </p>
-      )}
     </form>
   );
 }

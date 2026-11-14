@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import Nav from "@/components/Nav";
+import "@fontsource-variable/archivo/wdth.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#100f0d",
+  themeColor: "#0e0f10",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -19,7 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="fr">
       <body className="min-h-dvh antialiased">
         <Nav />
-        <main className="mx-auto max-w-5xl px-4 py-4">{children}</main>
+        <main className="mx-auto max-w-[76rem] px-4 sm:px-6">{children}</main>
       </body>
     </html>
   );
