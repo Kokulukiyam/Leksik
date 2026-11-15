@@ -113,7 +113,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
               </p>
             </>
           ) : (
-            // Zone à remplir, en trait interrompu : on y touche pour choisir un fichier, ou on y dépose la photo.
+            // Zone à remplir, en trait interrompu (un seul tracé, angles fermés) : on y touche pour choisir un fichier, ou on y dépose la photo.
             <label
               htmlFor="photo"
               data-testid="depot"
@@ -128,7 +128,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
                 const f = [...e.dataTransfer.files].find((x) => x.type.startsWith("image/"));
                 if (f) choisirFichier(f);
               }}
-              className={`projete flex min-h-36 flex-col justify-center px-5 py-6 transition-colors duration-100 hover:bg-surface peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-accent lg:min-h-48 lg:px-7 ${survol ? "bg-relief" : ""}`}
+              className={`flex min-h-36 flex-col justify-center border border-dashed border-trait-fort px-5 py-6 transition-colors duration-100 hover:border-encre hover:bg-surface peer-focus-visible:outline-2 peer-focus-visible:outline-offset-2 peer-focus-visible:outline-accent lg:min-h-48 lg:px-7 ${survol ? "border-encre bg-surface" : ""}`}
             >
               <span className="mi-etroit text-xl">
                 Choisir une photo<span className="hidden font-normal text-sourdine lg:inline"> ou la déposer ici</span>
@@ -194,7 +194,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
               <div>
                 <label className="etiquette" htmlFor="categorie">Catégorie</label>
                 <select id="categorie" className={champ} value={categorie} onChange={(e) => setCategorie(e.target.value)}>
-                  <option value="">Choisir…</option>
+                  <option value="">Choisir une catégorie</option>
                   {CATEGORIES.map((c) => (
                     <option key={c}>{c}</option>
                   ))}
@@ -209,7 +209,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
           </div>
 
           <button type="submit" disabled={!pret || envoi} className="btn btn-plein mt-1 min-h-14 justify-start text-lg">
-            {envoi ? "Ajout…" : "Ajouter"}
+            {envoi ? "Ajout en cours" : "Ajouter"}
           </button>
 
           {message && (

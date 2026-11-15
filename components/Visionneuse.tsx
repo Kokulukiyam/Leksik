@@ -1,28 +1,32 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Figure from "./Figure";
 import type { Rect } from "@/lib/shared";
 
-export type Vue = { src: string; rect: Rect | null; legende?: string; lien?: string };
+export type Vue = { src: string; rect: Rect | null; legende?: string; licence?: string; lien?: string };
+
+const ZOOM = 2.5;
 
 /**
- * Image en plein écran ; flèches (ou ← →) s'il y en a plusieurs, Échap ou un clic pour fermer.
- * Sur téléphone, la photo prend toute la hauteur et défile en largeur : on ouvre centré sur le cadre jaune.
+ * Image en plein écran. À l'ouverture la photo est entière, ajustée à l'écran, avec son cadre entier.
+ * Un toucher sur la photo (ou la loupe) l'agrandit, centrée sur le cadre ; on la fait alors défiler.
+ * Toutes les commandes sont dans la barre du bas, jamais sur la photo. Échap, la croix ou un clic à côté ferment.
  */
 export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[]; depart?: number; onFermer: () => void }) {
   const [i, setI] = useState(depart);
   const vue = vues[i];
   const plusieurs = vues.length > 1;
   const zone = useRef<HTMLDivElement>(null);
-  const centree = useRef("");
-  const [deborde, setDeborde] = useState(false);
+  const [place, setPlace] = useState({ l: 0, h: 0 });
+  const [format, setFormat] = useState<{ src: string; a: number } | null>(null);
+  const [agrandie, setAgrandie] = useState(false);
 
   useEffect(() => {
     const touche = (e: KeyboardEvent) => {
       if (e.key === "Escape") onFermer();
-      else if (e.key === "ArrowRight") setI((k) => (k + 1) % vues.length);
-      else if (e.key === "ArrowLeft") setI((k) => (k - 1 + vues.length) % vues.length);
+      else if (e.key === "ArrowRight") aller(1);
+      else if (e.key === "ArrowLeft") aller(-1);
     };
     window.addEventListener("keydown", touche);
     const avant = document.body.style.overflow;
@@ -31,95 +35,117 @@ export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[
       window.removeEventListener("keydown", touche);
       document.body.style.overflow = avant;
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- `aller` ne dépend que de vues.length
   }, [onFermer, vues.length]);
 
-  // Une fois la photo chargée : si elle dépasse en largeur, on la fait défiler jusqu'au centre du cadre.
-  function centrer(img: HTMLImageElement) {
+  // Place disponible pour la photo (mise à jour si l'écran tourne ou change de taille).
+  useLayoutEffect(() => {
     const z = zone.current;
-    if (!z || centree.current === vue.src) return;
-    centree.current = vue.src;
-    const cx = vue.rect ? vue.rect.x + vue.rect.largeur / 2 : 0.5;
-    z.scrollLeft = img.offsetLeft + cx * img.offsetWidth - z.clientWidth / 2;
-    setDeborde(z.scrollWidth > z.clientWidth + 1);
+    if (!z) return;
+    const mesurer = () => setPlace((p) => (p.l === z.clientWidth && p.h === z.clientHeight ? p : { l: z.clientWidth, h: z.clientHeight }));
+    mesurer();
+    const o = new ResizeObserver(mesurer);
+    o.observe(z);
+    return () => o.disconnect();
+  }, []);
+
+  function aller(pas: number) {
+    setAgrandie(false);
+    setI((k) => (k + pas + vues.length) % vues.length);
   }
 
-  const bouton = "absolute flex h-12 w-12 items-center justify-center bg-fond/80 text-encre transition-colors duration-100 hover:bg-accent hover:text-black";
+  // Largeur de la photo : ajustée à la place disponible (marge comprise), ou agrandie.
+  const marge = place.l < 640 ? 12 : 24;
+  const a = format?.src === vue.src ? format.a : null;
+  const ajustee = a && place.l ? Math.max(1, Math.min(place.l - 2 * marge, (place.h - 2 * marge) * a)) : null;
+  const largeur = ajustee ? Math.round(ajustee * (agrandie ? ZOOM : 1)) : null;
+
+  // En agrandissant, on amène le centre du cadre (ou de la photo) au centre de l'écran.
+  useLayoutEffect(() => {
+    const z = zone.current;
+    if (!z || !agrandie || !largeur || !a) return;
+    const cx = vue.rect ? vue.rect.x + vue.rect.largeur / 2 : 0.5;
+    const cy = vue.rect ? vue.rect.y + vue.rect.hauteur / 2 : 0.5;
+    z.scrollLeft = marge + cx * largeur - z.clientWidth / 2;
+    z.scrollTop = marge + (cy * largeur) / a - z.clientHeight / 2;
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- seulement au changement d'échelle
+  }, [agrandie, vue.src]);
+
+  const bouton = "flex h-12 w-12 shrink-0 items-center justify-center text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre";
   const trait = { fill: "none", stroke: "currentColor", strokeWidth: 2, strokeLinecap: "square" as const };
 
   return (
-    <div
-      role="dialog"
-      aria-modal="true"
-      aria-label="Image agrandie"
-      data-testid="visionneuse"
-      className="fixed inset-0 z-50 flex cursor-zoom-out flex-col bg-fond"
-      onClick={onFermer}
-    >
-      <div ref={zone} className="flex min-h-0 flex-1 overflow-x-auto overflow-y-hidden overscroll-contain px-3 py-3 sm:px-6 sm:py-5">
-        <div className="m-auto shrink-0">
+    <div role="dialog" aria-modal="true" aria-label="Image agrandie" data-testid="visionneuse" className="fixed inset-0 z-50 flex flex-col bg-fond">
+      <div
+        ref={zone}
+        className={`flex min-h-0 flex-1 overscroll-contain ${agrandie ? "overflow-auto" : "overflow-hidden"}`}
+        onClick={(e) => {
+          if (e.target === e.currentTarget) onFermer();
+        }}
+      >
+        <div
+          className={`m-auto shrink-0 ${agrandie ? "[&>div]:cursor-zoom-out" : ""}`}
+          style={{ padding: marge }}
+          onClick={(e) => {
+            if (e.target === e.currentTarget) onFermer();
+          }}
+        >
           <Figure
             key={vue.src}
             src={vue.src}
             rect={vue.rect}
             alt=""
-            imgClassName="h-[calc(100dvh-5.5rem)] w-auto max-w-none sm:h-auto sm:max-h-[calc(100dvh-6.5rem)] sm:max-w-[calc(100vw-3rem)]"
-            onLoad={centrer}
+            imgClassName="h-auto max-w-none"
+            imgStyle={largeur ? { width: largeur } : { maxWidth: Math.max(1, place.l - 2 * marge), maxHeight: Math.max(1, place.h - 2 * marge), visibility: place.l ? undefined : "hidden" }}
+            onLoad={(img) => setFormat((f) => (f?.src === vue.src ? f : { src: vue.src, a: img.naturalWidth / img.naturalHeight }))}
+            onClick={() => setAgrandie((z) => !z)}
           />
         </div>
       </div>
-      <p className="flex h-14 shrink-0 items-center gap-4 border-t border-trait px-4 text-xs text-sourdine sm:px-6">
-        {plusieurs && <span className="mi-etroit shrink-0 text-base tabular-nums text-encre">{`${i + 1} / ${vues.length}`}</span>}
-        <span className="min-w-0 truncate">
+
+      <div className="shrink-0 border-t border-trait px-4 pb-[env(safe-area-inset-bottom)] sm:flex sm:items-center sm:gap-6 sm:px-6">
+        <p className="pt-3 text-sm leading-snug text-sourdine sm:min-w-0 sm:flex-1 sm:py-3">
           {vue.legende}
-          {deborde && <span className="block truncate text-faible">Faire glisser pour voir toute la photo</span>}
-        </span>
-        {vue.lien && (
-          <a
-            href={vue.lien}
-            target="_blank"
-            rel="noreferrer"
-            onClick={(e) => e.stopPropagation()}
-            className="lien -my-3 ml-auto shrink-0 cursor-pointer py-3 text-sm"
-          >
-            source
-          </a>
-        )}
-      </p>
-      <button type="button" aria-label="Fermer" className={`${bouton} right-0 top-0`}>
-        <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-          <path d="M4 4l16 16M20 4L4 20" />
-        </svg>
-      </button>
-      {plusieurs && (
-        <>
-          <button
-            type="button"
-            aria-label="Image précédente"
-            className={`${bouton} left-0 top-[calc(50%-1.75rem)] -translate-y-1/2`}
-            onClick={(e) => {
-              e.stopPropagation();
-              setI((i - 1 + vues.length) % vues.length);
-            }}
-          >
+          {vue.legende && vue.licence ? " · " : ""}
+          <span className="whitespace-nowrap">{vue.licence}</span>
+          {vue.lien && (
+            <>
+              {(vue.legende || vue.licence) && " · "}
+              <a href={vue.lien} target="_blank" rel="noreferrer" className="lien">
+                source
+              </a>
+            </>
+          )}
+        </p>
+        <div className="-mx-3 flex items-center sm:mx-0 sm:-mr-3">
+          {plusieurs && (
+            <>
+              <button type="button" aria-label="Image précédente" className={bouton} onClick={() => aller(-1)}>
+                <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
+                  <path d="M15 4l-8 8 8 8" />
+                </svg>
+              </button>
+              <span className="mi-etroit min-w-12 text-center tabular-nums">{`${i + 1} / ${vues.length}`}</span>
+              <button type="button" aria-label="Image suivante" className={bouton} onClick={() => aller(1)}>
+                <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
+                  <path d="M9 4l8 8-8 8" />
+                </svg>
+              </button>
+            </>
+          )}
+          <button type="button" aria-label={agrandie ? "Réduire la photo" : "Agrandir la photo"} aria-pressed={agrandie} className={`${bouton} ml-auto sm:ml-3`} onClick={() => setAgrandie(!agrandie)}>
             <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-              <path d="M15 4l-8 8 8 8" />
+              <circle cx="10" cy="10" r="6.5" />
+              <path d={agrandie ? "M15 15l6 6M7 10h6" : "M15 15l6 6M7 10h6M10 7v6"} />
             </svg>
           </button>
-          <button
-            type="button"
-            aria-label="Image suivante"
-            className={`${bouton} right-0 top-[calc(50%-1.75rem)] -translate-y-1/2`}
-            onClick={(e) => {
-              e.stopPropagation();
-              setI((i + 1) % vues.length);
-            }}
-          >
+          <button type="button" aria-label="Fermer" className={bouton} onClick={onFermer}>
             <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-              <path d="M9 4l8 8-8 8" />
+              <path d="M4 4l16 16M20 4L4 20" />
             </svg>
           </button>
-        </>
-      )}
+        </div>
+      </div>
     </div>
   );
 }

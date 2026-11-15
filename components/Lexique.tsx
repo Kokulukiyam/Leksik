@@ -65,7 +65,8 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
     ? (imagesParTerme.get(ouvert.termId) ?? []).map((i) => ({
         src: imageSrc(i),
         rect: i.rectangle,
-        legende: [terms.find((t) => t.id === i.termId)?.terme, i.lieu, i.auteur, i.licence].filter(Boolean).join(" · "),
+        legende: [terms.find((t) => t.id === i.termId)?.terme, i.lieu, i.auteur].filter(Boolean).join(" · "),
+        licence: i.licence,
         lien: i.lienSource || undefined,
       }))
     : [];
@@ -84,12 +85,12 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
     <div className="py-5 sm:py-10 lg:grid lg:grid-cols-[minmax(0,4fr)_minmax(0,8fr)] lg:gap-x-16">
       <div className="lg:sticky lg:top-10 lg:self-start">
         <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Lexique</h1>
-        <div className="mt-4 grid grid-cols-2 gap-1.5 sm:mt-6 lg:grid-cols-1">
+        <div className="mt-4 grid gap-1.5 sm:mt-6 sm:grid-cols-2 lg:grid-cols-1">
           <input
             type="search"
             aria-label="Rechercher un mot ou une définition"
             placeholder="Rechercher un mot ou une définition"
-            className="champ col-span-2 lg:col-span-1"
+            className="champ sm:col-span-2 lg:col-span-1"
             value={recherche}
             onChange={(e) => filtre(setRecherche)(e.target.value)}
           />
@@ -109,19 +110,29 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
           </select>
         </div>
         {lettres.length > 1 && (
-          <nav aria-label="Aller à une lettre" className="mi-etroit -mx-4 mt-3 flex overflow-x-auto px-4 [scrollbar-width:none] sm:mx-0 sm:flex-wrap sm:px-0 lg:mt-6">
+          <nav aria-label="Aller à une lettre" className="mi-etroit mt-3 flex flex-wrap lg:mt-6">
             {lettres.map((l) => (
               <button
                 key={l}
                 type="button"
                 onClick={() => aller(l)}
-                className="h-11 w-9 shrink-0 text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black lg:w-[12.5%]"
+                className="h-11 w-[9.09%] text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black sm:w-11 lg:w-[12.5%]"
               >
                 {l}
               </button>
             ))}
           </nav>
         )}
+        {/* Légende du poché, avec le nombre de mots dans chaque état (ordinateur : la colonne reste à l'écran). */}
+        <ul className="mt-6 hidden gap-1.5 border-t border-trait pt-4 text-sm text-sourdine lg:grid">
+          {(Object.keys(ETATS) as Etat[]).map((e) => (
+            <li key={e} className="flex items-baseline gap-2">
+              <Poche etat={e} className="translate-y-px" />
+              <span className="flex-1">{ETATS[e]}</span>
+              <span className="tabular-nums text-encre">{mots.filter((m) => etat(progres[m.t.id]) === e).length}</span>
+            </li>
+          ))}
+        </ul>
       </div>
 
       <div className="mt-5 lg:mt-0">

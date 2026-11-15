@@ -52,10 +52,11 @@ function Groupe<T extends string | number | boolean>({
   );
 }
 
-function Section({ titre, children }: { titre: string; children: React.ReactNode }) {
+// Le filet épais n'ouvre que la première section ; les suivantes sont séparées par leur titre et un blanc.
+function Section({ titre, premiere = false, children }: { titre: string; premiere?: boolean; children: React.ReactNode }) {
   return (
-    <section className="mt-8 sm:mt-10">
-      <h2 className="tete-tableau">{titre}</h2>
+    <section className={premiere ? "mt-6 sm:mt-8" : "mt-10 sm:mt-14"}>
+      <h2 className={premiere ? "tete-tableau" : "etroit border-b border-trait pb-3 text-[1.75rem] leading-none"}>{titre}</h2>
       {children}
     </section>
   );
@@ -87,7 +88,7 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
       <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Paramètres</h1>
       <p className="mt-2 text-sm text-sourdine sm:mt-3 sm:text-base">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
 
-      <Section titre="La partie">
+      <Section titre="La partie" premiere>
         <Groupe
           titre="Images par partie"
           nom="images"
@@ -107,7 +108,7 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
           nom="suivant"
           valeur={p.suivantAuto}
           options={[
-            { v: false, label: "J’appuie sur «\u00a0Suivant\u00a0»" },
+            { v: false, label: "Attendre «\u00a0Suivant\u00a0»" },
             { v: true, label: "Image suivante automatique" },
           ]}
           onChange={(v) => maj({ suivantAuto: v })}
@@ -152,7 +153,7 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
       <Section titre="Le tirage">
         <Groupe
           titre="Tirage des images"
-          aide="«\u00a0Mots à apprendre\u00a0» fait revenir les mots ratés et passe les mots maîtrisés moins souvent."
+          aide={"«\u00a0Mots à apprendre d’abord\u00a0» fait revenir les mots ratés et passe les mots maîtrisés moins souvent."}
           nom="tirage"
           valeur={p.tirage}
           options={[
@@ -175,10 +176,10 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
       </Section>
 
       <Section titre="Remise à zéro">
-        <div className={`${RANGEE} items-center`}>
+        <div className={RANGEE}>
           <p className="mi-etroit text-xl leading-tight">Mes réglages</p>
-          <div className="mt-3 lg:mt-0">
-            <button type="button" onClick={() => maj(PAR_DEFAUT)} className="btn w-full justify-start sm:w-auto">
+          <div className="mt-1 lg:mt-0">
+            <button type="button" onClick={() => maj(PAR_DEFAUT)} className="lien min-h-11 lg:min-h-0">
               Réglages par défaut
             </button>
           </div>
@@ -191,8 +192,8 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
               réponses d’affilée) et {suivi["a-revoir"]} à revoir.
             </p>
           </div>
-          <div className="mt-3 lg:mt-0">
-            <Jauge bilan={suivi} className="mb-3 h-3" />
+          <div className="mt-3 lg:mt-1.5">
+            <Jauge bilan={suivi} className="h-3" />
             <button
               type="button"
               disabled={vus === 0}
@@ -201,7 +202,7 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
                 effacerProgres();
                 setProgres({});
               }}
-              className="btn btn-danger w-full justify-start sm:w-auto"
+              className="lien-danger mt-1 min-h-11 lg:mt-3 lg:min-h-0"
             >
               Effacer ma progression
             </button>

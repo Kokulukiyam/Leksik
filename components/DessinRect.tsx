@@ -8,12 +8,17 @@ export default function DessinRect({
   src,
   rect,
   onChange,
-  imgClassName = "max-h-[60dvh]",
+  imgClassName = "h-auto w-auto max-w-full max-h-[60dvh]",
+  zoneClassName = "inline-block max-w-full",
+  aide = true,
 }: {
   src: string;
   rect: Rect | null;
   onChange: (r: Rect | null) => void;
   imgClassName?: string;
+  zoneClassName?: string;
+  /** Consigne et « Effacer le rectangle » sous l'image (sinon, à l'appelant de les placer : voir `AideRect`). */
+  aide?: boolean;
 }) {
   const zone = useRef<HTMLDivElement>(null);
   const depart = useRef<{ x: number; y: number } | null>(null);
@@ -37,7 +42,7 @@ export default function DessinRect({
       <div
         ref={zone}
         data-testid="zone-rect"
-        className="relative inline-block max-w-full cursor-crosshair touch-none select-none align-top"
+        className={`relative cursor-crosshair touch-none select-none align-top ${zoneClassName}`}
         onPointerDown={(e) => {
           e.preventDefault();
           zone.current!.setPointerCapture(e.pointerId);
@@ -61,7 +66,7 @@ export default function DessinRect({
         }}
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={src} alt="" draggable={false} className={`block h-auto w-auto max-w-full ${imgClassName}`} />
+        <img src={src} alt="" draggable={false} className={`block ${imgClassName}`} />
         {affiche && (
           <div
             className="cadre"
@@ -75,14 +80,21 @@ export default function DessinRect({
           />
         )}
       </div>
-      <div className="mt-2 flex flex-wrap items-baseline gap-x-4 gap-y-1 text-left text-sm leading-snug text-sourdine">
-        <span>Glissez sur l’image pour encadrer l’élément (facultatif).</span>
-        {rect && (
-          <button type="button" onClick={() => onChange(null)} className="text-encre underline decoration-trait-fort underline-offset-4 hover:decoration-encre">
-            Effacer le rectangle
-          </button>
-        )}
-      </div>
+      {aide && <AideRect rect={rect} onChange={onChange} className="mt-2" />}
+    </div>
+  );
+}
+
+/** Consigne du dessin et bouton pour effacer le rectangle. */
+export function AideRect({ rect, onChange, className = "" }: { rect: Rect | null; onChange: (r: Rect | null) => void; className?: string }) {
+  return (
+    <div className={`flex flex-wrap items-baseline gap-x-4 gap-y-1 text-left text-sm leading-snug text-sourdine ${className}`}>
+      <span>Glissez sur l’image pour encadrer l’élément (facultatif).</span>
+      {rect && (
+        <button type="button" onClick={() => onChange(null)} className="lien">
+          Effacer le rectangle
+        </button>
+      )}
     </div>
   );
 }

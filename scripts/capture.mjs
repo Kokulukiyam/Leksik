@@ -6,7 +6,6 @@ import { chromium } from "playwright";
 import { promises as fs } from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import sharp from "sharp";
 
 const out = process.argv[2];
 if (!out) throw new Error("Usage : node scripts/capture.mjs <dossier>");
@@ -21,19 +20,12 @@ const progres = Object.fromEntries(
   terms.filter((_, k) => k % 3 === 0).map((t, k) => [t.id, k % 4 === 0 ? { j: 0, f: 1, s: 0, d: jour } : k % 4 === 1 ? { j: 1, f: 0, s: 1, d: jour } : { j: 3, f: 0, s: 3, d: jour }]),
 );
 
-// Photo d'essai pour l'aperçu de la page Ajouter (fichier temporaire, jamais envoyé).
+// Photo pour l'aperçu de la page Ajouter : copie temporaire d'une photo du projet (jamais envoyée).
 const tmp = await fs.mkdtemp(path.join(os.tmpdir(), "leksik-capture-"));
-const photoEssai = path.join(tmp, "facade-essai.jpg");
-await sharp({
-  create: { width: 1200, height: 800, channels: 3, background: "#b9a58c" },
-})
-  .composite([
-    { input: await sharp({ create: { width: 1200, height: 260, channels: 3, background: "#8fb3cf" } }).png().toBuffer(), top: 0, left: 0 },
-    { input: await sharp({ create: { width: 260, height: 330, channels: 3, background: "#3b4650" } }).png().toBuffer(), top: 340, left: 470 },
-    { input: await sharp({ create: { width: 300, height: 36, channels: 3, background: "#e8e1d3" } }).png().toBuffer(), top: 304, left: 450 },
-  ])
-  .jpeg()
-  .toFile(photoEssai);
+const commons = path.resolve(import.meta.dirname, "..", "public", "images", "commons");
+const source = (await fs.readdir(commons)).filter((f) => f.startsWith("linteau")).sort()[0];
+const photoEssai = path.join(tmp, "linteau-rue-carnot.webp");
+await fs.copyFile(path.join(commons, source), photoEssai);
 
 // Une partie crédible : pas d'alternance parfaite juste / faux.
 const SUITE = "JFJJFJJJFJ";
@@ -44,6 +36,16 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
   const c = await b.newContext({ viewport: { width: w, height: h }, deviceScaleFactor: 2, locale: "fr-FR", ...(w < 1000 ? { isMobile: true, hasTouch: true } : {}) });
   const p = await c.newPage();
   const photo = (n, opts = {}) => p.screenshot({ path: `${out}/${nom}-${n}.png`, ...opts });
+  // Page longue : pleine page sur ordinateur ; sur téléphone (onglets fixes), le haut puis le bas de la page.
+  const pageLongue = async (n) => {
+    if (!mobile) return photo(n, { fullPage: true });
+    await p.evaluate(() => window.scrollTo(0, 0));
+    await photo(`${n}-haut`);
+    await p.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+    await p.waitForTimeout(400);
+    await photo(`${n}-bas`);
+    await p.evaluate(() => window.scrollTo(0, 0));
+  };
   const choix = p.locator("[data-testid=choix] button");
   const bonneReponse = () =>
     p.evaluate(() => {
@@ -72,7 +74,8 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
   };
 
   await accueil();
-  await photo("1-accueil", { fullPage: true });
+  await p.waitForTimeout(700);
+  await pageLongue("1-accueil");
 
   if (nom === "ordi") {
     await p.getByRole("button", { name: /^Structure/ }).hover();
@@ -105,6 +108,26 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
     continue;
   }
 
+  // Image agrandie : à l'ouverture pour une photo en largeur et une en hauteur, puis agrandie d'un toucher.
+  const vues = new Set();
+  const agrandir = async () => {
+    const forme = await p.locator("main img").first().evaluate((i) => (i.naturalWidth / i.naturalHeight > 1.2 ? "paysage" : i.naturalWidth / i.naturalHeight < 0.85 ? "portrait" : ""));
+    if (!forme || vues.has(forme)) return;
+    vues.add(forme);
+    await p.locator("main img").first().click();
+    const vis = p.getByTestId("visionneuse");
+    await vis.waitFor();
+    await p.waitForTimeout(500);
+    await photo(`5-image-agrandie-${forme}`);
+    if (vues.size === 1) {
+      await vis.locator("img").click();
+      await p.waitForTimeout(400);
+      await photo(`5-image-agrandie-${forme}-zoom`);
+    }
+    await p.keyboard.press("Escape");
+    await vis.waitFor({ state: "detached" });
+  };
+
   for (let i = 0; ; i++) {
     const bon = await bonneReponse();
     const juste = SUITE[i % SUITE.length] === "J";
@@ -114,18 +137,13 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
     await p.waitForTimeout(300);
     if (i === 0) await photo("3-retour-juste");
     if (i === 1) await photo("4-retour-faux");
-    if (i === 2) {
-      await p.locator("main img").first().click();
-      await p.waitForTimeout(500);
-      await photo("5-image-agrandie");
-      await p.keyboard.press("Escape");
-    }
+    await agrandir();
     await p.getByRole("button", { name: "Suivant" }).click();
     await p.waitForTimeout(250);
     if (await p.getByTestId("score").count()) break;
   }
   await p.waitForTimeout(800);
-  await photo("6-fin", { fullPage: true });
+  await pageLongue("6-fin");
 
   // Partie à 6 propositions : avant et après une mauvaise réponse.
   await accueil({ propositions: 6 });
@@ -166,12 +184,17 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
   await p.getByTestId("zone-rect").locator("img").waitFor();
   await p.waitForTimeout(800);
   await photo("7-gerer-modification");
+  if (mobile) {
+    await p.getByTestId("carte").first().evaluate((el) => el.scrollIntoView({ block: "end" }));
+    await p.waitForTimeout(300);
+    await photo("7-gerer-modification-bas");
+  }
 
   // Paramètres.
   await p.goto(`${BASE}/parametres`);
   await p.getByTestId("param-compte").waitFor();
   await p.waitForTimeout(400);
-  await photo("8-parametres", { fullPage: true });
+  await pageLongue("8-parametres");
 
   // Ajouter : vide, saisie d'un terme inconnu, puis photo choisie et terme reconnu (jamais envoyé).
   await p.goto(`${BASE}/ajouter`);
@@ -180,19 +203,19 @@ for (const [nom, w, h] of [["tel", 390, 844], ["tab", 820, 1180], ["ordi", 1280,
   await photo("9-ajouter");
   await p.locator("#objet").fill("lintau");
   await p.waitForTimeout(400);
-  await photo("9-ajouter-saisie", { fullPage: mobile });
+  await pageLongue("9-ajouter-saisie");
   await p.setInputFiles("#photo", photoEssai);
   await p.getByTestId("zone-rect").locator("img").waitFor();
   await p.locator("#objet").fill("le linteau");
   const zone = await p.getByTestId("zone-rect").boundingBox();
-  await p.mouse.move(zone.x + zone.width * 0.36, zone.y + zone.height * 0.36);
+  await p.mouse.move(zone.x + zone.width * 0.25, zone.y + zone.height * 0.3);
   await p.mouse.down();
-  await p.mouse.move(zone.x + zone.width * 0.64, zone.y + zone.height * 0.44, { steps: 5 });
+  await p.mouse.move(zone.x + zone.width * 0.75, zone.y + zone.height * 0.45, { steps: 5 });
   await p.mouse.up();
   await p.locator("#lieu").fill("Plateau, Dakar");
   await p.locator("#lieu").blur();
   await p.waitForTimeout(400);
-  await photo("9-ajouter-photo", { fullPage: mobile });
+  await pageLongue("9-ajouter-photo");
   await c.close();
 }
 await b.close();

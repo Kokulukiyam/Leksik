@@ -14,6 +14,7 @@ const LIENS = [
 /**
  * Ordinateur : logo et liens dans le bandeau. Téléphone : le bandeau ne garde que le logo,
  * les cinq liens passent en onglets en bas d'écran (cibles de 56 px). Masqué pendant une manche sur téléphone.
+ * Dans les deux cas, le repère jaune de la page active a la largeur du mot.
  */
 export default function Nav() {
   const chemin = usePathname();
@@ -25,7 +26,7 @@ export default function Nav() {
           <span className="mx-[2px] border-2 border-accent px-[1.5px] leading-[1.1]">ks</span>
           ik
         </Link>
-        <nav className="mi-etroit z-40 flex max-sm:fixed max-sm:inset-x-0 max-sm:bottom-0 max-sm:border-t max-sm:border-trait max-sm:bg-fond max-sm:pb-[env(safe-area-inset-bottom)] sm:-mr-3">
+        <nav className="mi-etroit z-40 flex max-sm:fixed max-sm:inset-x-0 max-sm:bottom-0 max-sm:justify-between max-sm:border-t max-sm:border-trait max-sm:bg-fond max-sm:px-2.5 max-sm:pb-[env(safe-area-inset-bottom)] sm:-mr-3">
           {LIENS.map((l) => {
             const actif = chemin === l.href;
             return (
@@ -33,11 +34,13 @@ export default function Nav() {
                 key={l.href}
                 href={l.href}
                 aria-current={actif ? "page" : undefined}
-                className={`relative flex items-center justify-center transition-colors duration-100 after:absolute after:h-[3px] max-sm:h-14 max-sm:flex-auto max-sm:px-2 max-sm:text-[0.9375rem] max-sm:after:inset-x-0 max-sm:after:-top-px sm:px-3 sm:after:inset-x-3 sm:after:-bottom-px ${
-                  actif ? "text-encre after:bg-accent" : "text-sourdine hover:text-encre"
-                }`}
+                className={`flex justify-center transition-colors duration-100 max-sm:h-14 max-sm:min-w-11 max-sm:px-1.5 max-sm:text-[0.9375rem] sm:px-3 ${actif ? "text-encre" : "text-sourdine hover:text-encre"}`}
               >
-                {l.nom}
+                <span
+                  className={`relative flex h-full items-center after:absolute after:inset-x-0 after:h-[3px] max-sm:after:-top-px sm:after:-bottom-px ${actif ? "after:bg-accent" : ""}`}
+                >
+                  {l.nom}
+                </span>
               </Link>
             );
           })}

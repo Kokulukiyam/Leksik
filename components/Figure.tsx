@@ -6,6 +6,7 @@ export default function Figure({
   rect,
   alt,
   imgClassName = "h-auto w-auto max-w-full",
+  imgStyle,
   onClick,
   onLoad,
 }: {
@@ -13,6 +14,7 @@ export default function Figure({
   rect: Rect | null;
   alt: string;
   imgClassName?: string;
+  imgStyle?: React.CSSProperties;
   onClick?: () => void;
   onLoad?: (img: HTMLImageElement) => void;
 }) {
@@ -27,6 +29,7 @@ export default function Figure({
         src={src}
         alt={alt}
         className={`block ${imgClassName}`}
+        style={imgStyle}
       />
       {rect && (
         <div
