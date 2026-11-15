@@ -12,6 +12,7 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
+import { nettoyerAuteur, nettoyerLicence } from "./credits.mjs";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const TMP = path.join(ROOT, "tmp");
@@ -46,8 +47,8 @@ function entree(terme, nn, fichier, c, v1, v2) {
     rectangle: actuelle ? actuelle.rectangle : (v1.rectangle ?? null),
     lieu: actuelle?.lieu ?? v1.lieu ?? "",
     source: "commons",
-    auteur: c.auteur,
-    licence: c.licence,
+    auteur: nettoyerAuteur(c.auteur),
+    licence: nettoyerLicence(c.licence),
     lienSource: c.lien,
     statut: actuelle?.statut ?? "validée",
     note: actuelle?.note ?? `Vérification : ${v1.note} Contre-vérification : ${v2.raison}`,
