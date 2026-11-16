@@ -12,7 +12,7 @@ const PAQUET = 60; // cartes affichées à la fois (le contenu compte plus de 10
 const select = "champ min-w-0";
 
 // Ligne du tableau sur ordinateur : image, terme, lieu et crédit, actions.
-const LIGNE = "lg:grid lg:grid-cols-[10rem_minmax(0,5fr)_minmax(0,5fr)_16rem] lg:gap-x-6";
+const LIGNE = "lg:grid lg:grid-cols-[7.5rem_minmax(0,5fr)_minmax(0,5fr)_17rem] lg:gap-x-6";
 
 export default function Gerer({ terms, images }: { terms: Term[]; images: Image[] }) {
   const [source, setSource] = useState("");
@@ -39,7 +39,7 @@ export default function Gerer({ terms, images }: { terms: Term[]; images: Image[
 
   return (
     <div className="py-5 sm:py-10">
-      <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Gérer les images</h1>
+      <h1 className="etroit text-[2rem] leading-none sm:text-[2.75rem]">Gérer les images</h1>
       <div className="mt-4 grid grid-cols-2 gap-1.5 sm:mt-6 lg:grid-cols-4">
         <select aria-label="Catégorie" className={`${select} col-span-2 lg:col-span-1`} value={categorie} onChange={(e) => filtre(setCategorie)(e.target.value)}>
           <option value="">Catégorie</option>
@@ -165,24 +165,32 @@ function Carte({ img, terms, term, edition, setEdition }: { img: Image; terms: T
     </>
   );
 
-  // Modification : un panneau à part. La photo entière pour redessiner le cadre, et juste à côté le rappel de la fiche,
-  // le choix du terme et les deux boutons.
+  // Modification : un panneau à part, composé comme l'écran de jeu (photo à gauche, commandes dans la marge de droite).
+  // Sur téléphone, le rappel de la fiche vient en tête : on voit qu'on modifie avant de défiler.
   if (edition)
     return (
-      <li className="grid scroll-mb-20 gap-x-10 gap-y-5 border-b border-trait py-6 lg:grid-cols-[auto_minmax(0,24rem)] lg:justify-start" data-testid="carte" data-id={img.id}>
-        <DessinRect
-          src={imageSrc(img)}
-          rect={rect}
-          onChange={setRect}
-          imgClassName="h-auto w-full lg:w-auto lg:max-w-full lg:max-h-[32rem]"
-          zoneClassName="block lg:inline-block lg:max-w-full"
-          aide={false}
-        />
-        <div>
-          <p className="text-xs text-sourdine">Modifier la fiche</p>
+      <li
+        className="grid scroll-mb-20 scroll-mt-4 gap-x-8 gap-y-4 border-b border-trait py-6 lg:grid-cols-[fit-content(calc(100%-25rem))_23rem] lg:grid-rows-[auto_1fr] lg:justify-start"
+        data-testid="carte"
+        data-id={img.id}
+      >
+        <div className="lg:col-start-2 lg:row-start-1">
+          <p className="text-xs text-accent">Modification en cours</p>
           <p className="mi-etroit mt-1 text-2xl leading-tight">{term?.terme ?? `? ${img.termId}`}</p>
           <p className="mt-1.5 text-sm leading-snug text-sourdine">{credit}</p>
-          <label className="etiquette mt-5" htmlFor={`terme-${img.id}`}>Terme</label>
+        </div>
+        <div className="lg:col-start-1 lg:row-span-2 lg:row-start-1">
+          <DessinRect
+            src={imageSrc(img)}
+            rect={rect}
+            onChange={setRect}
+            imgClassName="h-auto w-full lg:w-auto lg:max-w-full lg:max-h-[34rem]"
+            zoneClassName="block lg:inline-block lg:max-w-full"
+            aide={false}
+          />
+        </div>
+        <div className="lg:col-start-2 lg:row-start-2">
+          <label className="etiquette" htmlFor={`terme-${img.id}`}>Terme</label>
           <select id={`terme-${img.id}`} className={select} value={termId} onChange={(e) => setTermId(e.target.value)}>
             {CATEGORIES.map((c) => (
               <optgroup key={c} label={c}>
@@ -219,9 +227,10 @@ function Carte({ img, terms, term, edition, setEdition }: { img: Image; terms: T
       </li>
     );
 
-  const action = "lien min-h-11 disabled:no-underline";
+  // Cibles de 44 px de haut, bien écartées ; « Supprimer » est seul sur la marge de droite.
+  const action = "group/a inline-flex min-h-11 items-center disabled:text-faible";
   return (
-    <li className={`${LIGNE} grid grid-cols-[7rem_minmax(0,1fr)] items-start gap-x-4 border-b border-trait pb-2 pt-5 lg:py-4`} data-testid="carte" data-id={img.id}>
+    <li className={`${LIGNE} grid grid-cols-[7rem_minmax(0,1fr)] items-start gap-x-4 border-b border-trait pb-2 pt-5 lg:py-3`} data-testid="carte" data-id={img.id}>
       <Vignette src={vignetteSrc(img)} rect={img.rectangle} alt={term?.terme ?? img.termId} imgClassName={refusee ? "opacity-40 grayscale" : ""} />
       <div className="min-w-0">
         <p className="mi-etroit -mt-0.5 text-[1.375rem] leading-[1.1]" data-testid="terme">{term?.terme ?? `? ${img.termId}`}</p>
@@ -235,9 +244,10 @@ function Carte({ img, terms, term, edition, setEdition }: { img: Image; terms: T
         <p>{credit}</p>
         {img.note && (
           <details className="group">
-            <summary className="lien inline-flex min-h-11 items-center lg:mt-1.5 lg:min-h-0">
-              <span className="group-open:hidden">Voir la vérification</span>
-              <span className="hidden group-open:inline">Masquer la vérification</span>
+            <summary className="inline-flex min-h-11 items-center gap-2 lg:mt-1.5 lg:min-h-0">
+              <span className="lien">Contrôle de l’image</span>
+              <span aria-hidden className="text-faible group-open:hidden">+</span>
+              <span aria-hidden className="hidden text-faible group-open:inline">−</span>
             </summary>
             <Note note={img.note} />
           </details>
@@ -245,7 +255,7 @@ function Carte({ img, terms, term, edition, setEdition }: { img: Image; terms: T
         {erreur && <p className="mt-1 text-red-500">{erreur}</p>}
       </div>
       {/* Actions rares, donc discrètes : des liens. « Supprimer » est seul à droite, sur la marge. */}
-      <div className="col-span-2 flex gap-x-6 lg:col-span-1 lg:-mt-2.5 lg:justify-end">
+      <div className="col-span-2 flex gap-x-8 lg:col-span-1 lg:-mt-2.5 lg:justify-end lg:gap-x-6">
         <button
           disabled={occupe}
           onClick={() => {
@@ -255,19 +265,19 @@ function Carte({ img, terms, term, edition, setEdition }: { img: Image; terms: T
           }}
           className={action}
         >
-          Modifier
+          <span className="lien">Modifier</span>
         </button>
         <button disabled={occupe} onClick={() => appel("PATCH", { statut: refusee ? "validée" : "refusée" })} className={action}>
-          {refusee ? "Valider" : "Refuser"}
+          <span className="lien">{refusee ? "Valider" : "Refuser"}</span>
         </button>
         <button
           disabled={occupe}
           onClick={() => {
             if (confirm("Supprimer définitivement cette image ?")) appel("DELETE");
           }}
-          className="lien-danger ml-auto min-h-11 lg:ml-4"
+          className={`${action} ml-auto lg:ml-6`}
         >
-          Supprimer
+          <span className="lien-danger">Supprimer</span>
         </button>
       </div>
     </li>

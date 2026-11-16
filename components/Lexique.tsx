@@ -8,6 +8,7 @@ import { CATEGORIES, FREQUENCES, imageSrc, normaliser, vignetteSrc, type Image, 
 import { ETATS, etat, lireProgres, type Etat, type Progres } from "@/lib/progres";
 
 const PAQUET = 60;
+const ORDRE: Etat[] = ["maitrise", "en-cours", "a-revoir", "nouveau"];
 
 /** Tous les mots illustrés, avec leur définition et leurs photos : pour chercher un mot ou réviser. */
 export default function Lexique({ terms, images }: { terms: Term[]; images: Image[] }) {
@@ -47,13 +48,10 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
   );
 
   const n = normaliser(recherche);
-  const visibles = mots
-    .filter(
-      (m) =>
-        (!categorie || m.t.categorie === categorie) &&
-        (!filtreEtat || etat(progres[m.t.id]) === filtreEtat) &&
-        (!n || m.cle.includes(n) || m.definition.includes(n)),
-    )
+  // Mots de la catégorie et de la recherche en cours, avant le filtre de progression (base de la légende chiffrée).
+  const selection = mots.filter((m) => (!categorie || m.t.categorie === categorie) && (!n || m.cle.includes(n) || m.definition.includes(n)));
+  const visibles = selection
+    .filter((m) => !filtreEtat || etat(progres[m.t.id]) === filtreEtat)
     // Les mots dont le nom correspond passent avant ceux dont seule la définition correspond.
     .sort((a, b) => (n ? Number(!a.cle.includes(n)) - Number(!b.cle.includes(n)) : 0));
 
@@ -84,23 +82,23 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
   return (
     <div className="py-5 sm:py-10 lg:grid lg:grid-cols-[minmax(0,4fr)_minmax(0,8fr)] lg:gap-x-16">
       <div className="lg:sticky lg:top-10 lg:self-start">
-        <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Lexique</h1>
-        <div className="mt-4 grid gap-1.5 sm:mt-6 sm:grid-cols-2 lg:grid-cols-1">
+        <h1 className="etroit text-[2rem] leading-none sm:text-[2.75rem]">Lexique</h1>
+        <div className="mt-4 grid grid-cols-[minmax(0,5fr)_minmax(0,3fr)] gap-1.5 sm:mt-6 sm:grid-cols-2 lg:grid-cols-1">
           <input
             type="search"
             aria-label="Rechercher un mot ou une définition"
             placeholder="Rechercher un mot ou une définition"
-            className="champ sm:col-span-2 lg:col-span-1"
+            className="champ col-span-2 lg:col-span-1"
             value={recherche}
             onChange={(e) => filtre(setRecherche)(e.target.value)}
           />
-          <select aria-label="Catégorie" className="champ min-w-0" value={categorie} onChange={(e) => filtre(setCategorie)(e.target.value)}>
+          <select aria-label="Catégorie" className="champ min-w-0 max-sm:!pl-2.5 max-sm:!pr-7 max-sm:[background-position:right_0.6rem_center]" value={categorie} onChange={(e) => filtre(setCategorie)(e.target.value)}>
             <option value="">Catégorie</option>
             {CATEGORIES.map((c) => (
               <option key={c}>{c}</option>
             ))}
           </select>
-          <select aria-label="Progression" className="champ min-w-0" value={filtreEtat} onChange={(e) => filtre(setFiltreEtat)(e.target.value)}>
+          <select aria-label="Progression" className="champ min-w-0 max-sm:!pl-2.5 max-sm:!pr-7 max-sm:[background-position:right_0.6rem_center]" value={filtreEtat} onChange={(e) => filtre(setFiltreEtat)(e.target.value)}>
             <option value="">Progression</option>
             {(Object.keys(ETATS) as Etat[]).map((e) => (
               <option key={e} value={e}>
@@ -109,27 +107,31 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
             ))}
           </select>
         </div>
+        {/* Abécédaire : une rangée qui défile sur téléphone (fondu à droite : il y a une suite), deux rangées pleines sur ordinateur. */}
         {lettres.length > 1 && (
-          <nav aria-label="Aller à une lettre" className="mi-etroit mt-3 flex flex-wrap lg:mt-6">
+          <nav
+            aria-label="Aller à une lettre"
+            className="mi-etroit -ml-2.5 -mr-4 mt-2 flex overflow-x-auto pr-8 [mask-image:linear-gradient(to_right,#000_calc(100%-3rem),transparent)] [scrollbar-width:none] sm:mr-0 sm:flex-wrap sm:pr-0 sm:[mask-image:none] lg:mt-5 lg:grid lg:grid-cols-11"
+          >
             {lettres.map((l) => (
               <button
                 key={l}
                 type="button"
                 onClick={() => aller(l)}
-                className="h-11 w-[9.09%] text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black sm:w-11 lg:w-[12.5%]"
+                className="h-11 w-9 shrink-0 text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black lg:w-auto"
               >
                 {l}
               </button>
             ))}
           </nav>
         )}
-        {/* Légende du poché, avec le nombre de mots dans chaque état (ordinateur : la colonne reste à l'écran). */}
-        <ul className="mt-6 hidden gap-1.5 border-t border-trait pt-4 text-sm text-sourdine lg:grid">
-          {(Object.keys(ETATS) as Etat[]).map((e) => (
+        {/* Légende du poché, dans le même ordre qu'à l'accueil ; les nombres portent sur la catégorie et la recherche en cours. */}
+        <ul className="mt-5 hidden gap-1.5 border-t border-trait pt-4 text-sm text-sourdine lg:grid">
+          {ORDRE.map((e) => (
             <li key={e} className="flex items-baseline gap-2">
               <Poche etat={e} className="translate-y-px" />
               <span className="flex-1">{ETATS[e]}</span>
-              <span className="tabular-nums text-encre">{mots.filter((m) => etat(progres[m.t.id]) === e).length}</span>
+              <span className="tabular-nums text-encre">{selection.filter((m) => etat(progres[m.t.id]) === e).length}</span>
             </li>
           ))}
         </ul>
@@ -164,9 +166,6 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
                     className="relative w-28 shrink-0 cursor-zoom-in self-start sm:w-40"
                   >
                     <Vignette src={vignetteSrc(photos[0])} rect={photos[0].rectangle} alt="" />
-                    {photos.length > 1 && (
-                      <span className="absolute bottom-0 left-0 bg-fond/85 px-1.5 text-xs leading-5 tabular-nums text-encre">{photos.length} photos</span>
-                    )}
                   </button>
                   <div className="min-w-0 flex-1">
                     <h2 className="mi-etroit -mt-0.5 text-[1.375rem] leading-[1.1] sm:text-2xl" data-testid="terme">{t.terme}</h2>
@@ -175,6 +174,7 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
                       <span>
                         {t.categorie}
                         {t.priorite ? ` · ${FREQUENCES[t.priorite]}` : ""}
+                        {photos.length > 1 ? ` · ${photos.length} photos` : ""}
                       </span>
                       {e !== "nouveau" && (
                         <span className="flex items-baseline gap-1.5 text-sourdine">

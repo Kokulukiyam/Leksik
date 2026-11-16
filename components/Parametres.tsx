@@ -8,6 +8,7 @@ import Jauge from "./Jauge";
 import Nombre from "./Nombre";
 import type { Image, Term } from "@/lib/shared";
 
+const TITRE_PAGE = "etroit text-[2rem] leading-none sm:text-[2.75rem]";
 const RANGEE = "border-b border-trait py-5 lg:grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-16";
 
 function Groupe<T extends string | number | boolean>({
@@ -52,11 +53,11 @@ function Groupe<T extends string | number | boolean>({
   );
 }
 
-// Le filet épais n'ouvre que la première section ; les suivantes sont séparées par leur titre et un blanc.
-function Section({ titre, premiere = false, children }: { titre: string; premiere?: boolean; children: React.ReactNode }) {
+// Toutes les sections ont le même titre ; pas de filet épais ici (il est réservé aux en-têtes de tableau).
+function Section({ titre, children }: { titre: string; children: React.ReactNode }) {
   return (
-    <section className={premiere ? "mt-6 sm:mt-8" : "mt-10 sm:mt-14"}>
-      <h2 className={premiere ? "tete-tableau" : "etroit border-b border-trait pb-3 text-[1.75rem] leading-none"}>{titre}</h2>
+    <section className="mt-9 sm:mt-12">
+      <h2 className="etroit border-b border-trait pb-3 text-[1.625rem] leading-none">{titre}</h2>
       {children}
     </section>
   );
@@ -85,10 +86,10 @@ export default function Parametres({ terms, images }: { terms: Term[]; images: I
 
   return (
     <div className="py-5 sm:py-10">
-      <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Paramètres</h1>
+      <h1 className={TITRE_PAGE}>Paramètres</h1>
       <p className="mt-2 text-sm text-sourdine sm:mt-3 sm:text-base">Enregistrés dans ce navigateur, appliqués à la prochaine partie.</p>
 
-      <Section titre="La partie" premiere>
+      <Section titre="La partie">
         <Groupe
           titre="Images par partie"
           nom="images"

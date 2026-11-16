@@ -89,7 +89,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
 
   return (
     <form onSubmit={envoyer} className="py-5 sm:py-10">
-      <h1 className="etroit text-[2rem] leading-none sm:text-[3.75rem] sm:leading-[0.95]">Ajouter une image</h1>
+      <h1 className="etroit text-[2rem] leading-none sm:text-[2.75rem]">Ajouter une image</h1>
 
       <div className="mt-5 grid gap-x-16 gap-y-5 sm:mt-8 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)]">
         <div>
@@ -104,7 +104,7 @@ export default function Ajouter({ terms }: { terms: Term[] }) {
           />
           {apercu ? (
             <>
-              <DessinRect src={apercu} rect={rect} onChange={setRect} />
+              <DessinRect src={apercu} rect={rect} onChange={setRect} imgClassName="h-auto w-full" zoneClassName="block" />
               <p className="mt-3 flex items-baseline justify-between gap-4 border-t border-trait pt-3 text-sm text-faible">
                 <span className="truncate">{fichier?.name}</span>
                 <label htmlFor="photo" className="lien shrink-0">

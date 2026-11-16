@@ -10,8 +10,9 @@ const ZOOM = 2.5;
 
 /**
  * Image en plein écran. À l'ouverture la photo est entière, ajustée à l'écran, avec son cadre entier.
- * Un toucher sur la photo (ou la loupe) l'agrandit, centrée sur le cadre ; on la fait alors défiler.
- * Toutes les commandes sont dans la barre du bas, jamais sur la photo. Échap, la croix ou un clic à côté ferment.
+ * Un toucher sur la photo (ou « Agrandir ») l'agrandit, centrée sur l'élément encadré ; on la fait alors défiler.
+ * Agrandie, la photo n'a plus de cadre : on regarde le détail lui-même.
+ * Les commandes sont des mots dans la barre du bas, jamais sur la photo. Échap, « Fermer » ou un clic à côté ferment.
  */
 export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[]; depart?: number; onFermer: () => void }) {
   const [i, setI] = useState(depart);
@@ -71,7 +72,8 @@ export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[
     // eslint-disable-next-line react-hooks/exhaustive-deps -- seulement au changement d'échelle
   }, [agrandie, vue.src]);
 
-  const bouton = "flex h-12 w-12 shrink-0 items-center justify-center text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre";
+  // Même dessin que le reste de l'app : des mots soulignés et la flèche des boutons. Cibles de 48 px.
+  const bouton = "flex h-12 shrink-0 items-center justify-center text-encre transition-colors duration-100 hover:bg-relief";
   const trait = { fill: "none", stroke: "currentColor", strokeWidth: 2, strokeLinecap: "square" as const };
 
   return (
@@ -93,7 +95,7 @@ export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[
           <Figure
             key={vue.src}
             src={vue.src}
-            rect={vue.rect}
+            rect={agrandie ? null : vue.rect}
             alt=""
             imgClassName="h-auto max-w-none"
             imgStyle={largeur ? { width: largeur } : { maxWidth: Math.max(1, place.l - 2 * marge), maxHeight: Math.max(1, place.h - 2 * marge), visibility: place.l ? undefined : "hidden" }}
@@ -103,46 +105,44 @@ export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[
         </div>
       </div>
 
-      <div className="shrink-0 border-t border-trait px-4 pb-[env(safe-area-inset-bottom)] sm:flex sm:items-center sm:gap-6 sm:px-6">
-        <p className="pt-3 text-sm leading-snug text-sourdine sm:min-w-0 sm:flex-1 sm:py-3">
+      <div className="flex shrink-0 flex-wrap items-center justify-between gap-x-6 border-t border-trait px-4 pb-[env(safe-area-inset-bottom)] sm:px-6">
+        <p className="min-w-0 py-3.5 text-sm leading-snug text-sourdine">
           {vue.legende}
-          {vue.legende && vue.licence ? " · " : ""}
-          <span className="whitespace-nowrap">{vue.licence}</span>
-          {vue.lien && (
-            <>
-              {(vue.legende || vue.licence) && " · "}
-              <a href={vue.lien} target="_blank" rel="noreferrer" className="lien">
-                source
-              </a>
-            </>
-          )}
+          {vue.legende && (vue.licence || vue.lien) ? " · " : ""}
+          {/* La licence et sa source ne se séparent pas. */}
+          <span className="whitespace-nowrap">
+            {vue.licence}
+            {vue.lien && (
+              <>
+                {vue.licence && " · "}
+                <a href={vue.lien} target="_blank" rel="noreferrer" className="lien">
+                  source
+                </a>
+              </>
+            )}
+          </span>
         </p>
-        <div className="-mx-3 flex items-center sm:mx-0 sm:-mr-3">
+        <div className="mi-etroit -mx-3 ml-auto flex items-center">
           {plusieurs && (
             <>
-              <button type="button" aria-label="Image précédente" className={bouton} onClick={() => aller(-1)}>
-                <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-                  <path d="M15 4l-8 8 8 8" />
+              <button type="button" aria-label="Image précédente" className={`${bouton} w-12`} onClick={() => aller(-1)}>
+                <svg aria-hidden viewBox="0 0 24 24" className="h-6 w-6" {...trait}>
+                  <path d="M20 12H4M11 5l-7 7 7 7" />
                 </svg>
               </button>
-              <span className="mi-etroit min-w-12 text-center tabular-nums">{`${i + 1} / ${vues.length}`}</span>
-              <button type="button" aria-label="Image suivante" className={bouton} onClick={() => aller(1)}>
-                <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-                  <path d="M9 4l8 8-8 8" />
+              <span className="min-w-12 text-center tabular-nums">{`${i + 1} / ${vues.length}`}</span>
+              <button type="button" aria-label="Image suivante" className={`${bouton} mr-3 w-12`} onClick={() => aller(1)}>
+                <svg aria-hidden viewBox="0 0 24 24" className="h-6 w-6" {...trait}>
+                  <path d="M4 12h16M13 5l7 7-7 7" />
                 </svg>
               </button>
             </>
           )}
-          <button type="button" aria-label={agrandie ? "Réduire la photo" : "Agrandir la photo"} aria-pressed={agrandie} className={`${bouton} ml-auto sm:ml-3`} onClick={() => setAgrandie(!agrandie)}>
-            <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-              <circle cx="10" cy="10" r="6.5" />
-              <path d={agrandie ? "M15 15l6 6M7 10h6" : "M15 15l6 6M7 10h6M10 7v6"} />
-            </svg>
+          <button type="button" aria-pressed={agrandie} className={`${bouton} px-3`} onClick={() => setAgrandie(!agrandie)}>
+            <span className="lien">{agrandie ? "Réduire" : "Agrandir"}</span>
           </button>
-          <button type="button" aria-label="Fermer" className={bouton} onClick={onFermer}>
-            <svg aria-hidden viewBox="0 0 24 24" className="h-5 w-5" {...trait}>
-              <path d="M4 4l16 16M20 4L4 20" />
-            </svg>
+          <button type="button" className={`${bouton} px-3`} onClick={onFermer}>
+            <span className="lien">Fermer</span>
           </button>
         </div>
       </div>
