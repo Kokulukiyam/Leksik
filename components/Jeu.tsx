@@ -272,7 +272,7 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
                 key={cat}
                 onClick={() => demarrer(cat)}
                 disabled={n === 0}
-                className={`${LIGNE} group -mx-3 min-h-12 w-[calc(100%+1.5rem)] border-b border-trait px-3 py-1.5 text-left transition-colors duration-100 hover:bg-surface focus-visible:-outline-offset-4 active:bg-relief disabled:text-faible`}
+                className={`${LIGNE} group -mx-3 min-h-12 w-[calc(100%+1.5rem)] bg-[linear-gradient(var(--color-trait),var(--color-trait))] bg-[length:calc(100%-1.5rem)_1px] bg-[position:center_bottom] bg-no-repeat px-3 py-1.5 text-left transition-colors duration-100 hover:bg-surface focus-visible:-outline-offset-4 active:bg-relief disabled:text-faible`}
               >
                 <span className="mi-etroit text-[1.1875rem] leading-tight">{cat}</span>
                 <span className="text-right tabular-nums text-sourdine max-sm:sr-only">
@@ -306,36 +306,24 @@ export default function Jeu({ terms, images }: { terms: Term[]; images: Image[] 
     const part = score / total;
     const mention = part === 1 ? "Sans faute." : part >= 0.8 ? "Très bien." : part >= 0.5 ? "Pas mal." : "À retravailler.";
     const trouves = partie.manches.filter((m, i) => partie.reponses[i] === m.termId);
-    const etiquette = "block text-xs text-sourdine";
-    const case_ = "border-trait-fort p-4 sm:px-5";
     return (
       <div className="py-5 sm:py-10">
-        {/* Le bilan de la partie, dressé comme le cartouche d'une planche : des cases, une étiquette par case. */}
-        <div className="grid border border-trait-fort lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
-          <div className={`${case_} border-b lg:border-b-0 lg:border-r`}>
-            <span className={etiquette}>Résultat</span>
-            <h1 className="etroit mt-2 text-[6rem] leading-[0.8] tabular-nums [word-spacing:0] sm:text-[8.5rem]" data-testid="score">
+        {/* Le bilan : le score fait titre, la mention en regard, puis la frise des manches et les deux suites possibles. */}
+        <div className="grid gap-y-6 border-b border-trait-fort pb-8 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-16">
+          <div className="flex items-end gap-5">
+            <h1 className="etroit text-[6rem] leading-[0.8] tabular-nums [word-spacing:0] sm:text-[8.5rem]" data-testid="score">
               <span className="sr-only">Score : </span>
               {score}
               <span className="text-faible"> / {total}</span>
             </h1>
+            <p className="mi-etroit pb-1 text-2xl leading-tight">
+              {rates.length ? mention : "Aucune erreur, bravo !"}
+              <span className="mt-1 block text-base text-sourdine">{partie.categorie}</span>
+            </p>
           </div>
-          <div className="grid grid-cols-2">
-            <div className={`${case_} border-b border-r`}>
-              <span className={etiquette}>Partie</span>
-              <span className="mi-etroit mt-1 block text-xl leading-tight">{partie.categorie}</span>
-            </div>
-            <div className={`${case_} border-b`}>
-              <span className={etiquette}>Appréciation</span>
-              <span className="mi-etroit mt-1 block text-xl leading-tight">{rates.length ? mention : "Aucune erreur, bravo !"}</span>
-            </div>
-            <div className={`${case_} col-span-2 border-b`}>
-              <span className={etiquette}>
-                {total} manche{total > 1 ? "s" : ""}, dans l’ordre
-              </span>
-              <Reperes partie={partie} className="mt-2.5 [&>div]:h-2" />
-            </div>
-            <div className="col-span-2 grid gap-2 p-4 sm:grid-cols-2 sm:px-5">
+          <div className="flex flex-col justify-end gap-4">
+            <Reperes partie={partie} className="[&>div]:h-2" />
+            <div className="grid gap-2 sm:grid-cols-2">
               {rates.length > 0 && (
                 <button onClick={() => revoir(partie)} className="btn btn-plein min-h-14 justify-between text-lg">
                   Revoir mes erreurs
@@ -557,8 +545,8 @@ function Manche({
   return (
     <div className="flex h-dvh flex-col sm:grid sm:h-auto sm:grid-cols-[minmax(0,1fr)_15rem] sm:content-start sm:gap-x-6 sm:pb-10 sm:pt-3 lg:min-h-[calc(100dvh-3.5rem-1px)] lg:grid-cols-[minmax(0,1fr)_23rem] lg:gap-x-8 lg:pb-4 lg:pt-6">
       <div className="contents lg:block">
-        <div ref={boite} className="order-3 flex min-h-[28dvh] flex-1 flex-col justify-end sm:order-2 sm:col-span-2 sm:block sm:min-h-0 lg:order-none">
-          <div className="leading-[0]">
+        <div ref={boite} className="order-3 flex min-h-[28dvh] flex-1 flex-col justify-center sm:order-2 sm:col-span-2 sm:block sm:min-h-0 lg:order-none">
+          <div className="text-center leading-[0]">
             <Figure
               src={imageSrc(img)}
               rect={img.rectangle}
@@ -568,7 +556,7 @@ function Manche({
             />
           </div>
           {/* Le crédit tient au bord bas de la photo. L'auteur peut être abrégé si la place manque ; la licence et la source, jamais. */}
-          <p className="mt-1.5 flex h-5 shrink-0 text-xs leading-5 text-faible" data-testid="credit">
+          <p className="mt-1.5 flex h-5 shrink-0 justify-center text-xs leading-5 text-faible" data-testid="credit">
             <span className="truncate">{img.auteur}</span>
             <span className="shrink-0 whitespace-pre">
               {img.auteur && img.licence ? " · " : ""}
@@ -607,7 +595,7 @@ function Manche({
               )}
             </div>
           ) : (
-            <p className="mi-etroit text-xl leading-tight sm:max-lg:hidden">
+            <p className="mi-etroit text-xl leading-tight">
               {img.rectangle ? "Comment s’appelle l’élément encadré ?" : "Que montre la photo ?"}
             </p>
           )}
@@ -637,7 +625,7 @@ function Manche({
           {manche.choix.map((id, k) => {
             const t = termsParId.get(id)!;
             // Survol : la tuile s'éclaircit. Le contour est réservé au focus clavier (anneau jaune).
-            let style = "border-relief bg-relief hover:border-trait hover:bg-trait active:border-trait-fort active:bg-trait-fort";
+            let style = "border-relief bg-relief hover:border-trait-fort hover:bg-trait active:border-trait-fort active:bg-trait-fort";
             if (choisi) {
               if (id === bon.id) style = "border-green-500 bg-green-500 text-black";
               else if (id === choisi) style = "border-red-500 bg-red-500 text-black";
@@ -650,7 +638,7 @@ function Manche({
                 data-touche={k + 1}
                 disabled={!!choisi}
                 onClick={() => choisir(id)}
-                className={`mi-etroit relative border-2 px-3 py-2 text-left text-[1.125rem] leading-[1.15] transition-colors duration-100 lg:text-xl ${six ? "min-h-[3.75rem] lg:h-[4.5rem]" : "min-h-[4.5rem] lg:h-28"} ${style}`}
+                className={`mi-etroit relative border-2 px-3 py-2 text-left text-[1.125rem] leading-[1.15] transition-colors duration-100 lg:text-xl ${six ? "min-h-[3.75rem] lg:h-[4.5rem]" : "min-h-[4.5rem] lg:h-24"} ${style}`}
               >
                 {t.terme}
               </button>
@@ -668,7 +656,7 @@ function Manche({
               </button>
             ) : (
               index === 0 && (
-                <p aria-hidden className="text-sm leading-snug text-faible">
+                <p aria-hidden className="text-sm leading-snug text-faible sm:max-lg:hidden">
                   <span className="[@media(hover:hover)]:hidden">Touchez la photo pour l’agrandir.</span>
                   <span className="hidden [@media(hover:hover)]:inline">
                     Touches 1 à {manche.choix.length} pour répondre, Entrée pour continuer. Un clic sur la photo l’agrandit.

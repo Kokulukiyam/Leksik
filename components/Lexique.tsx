@@ -174,7 +174,7 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
                       <span>
                         {t.categorie}
                         {t.priorite ? ` · ${FREQUENCES[t.priorite]}` : ""}
-                        {photos.length > 1 ? ` · ${photos.length} photos` : ""}
+                        {photos.length > 1 ? ` · ${photos.length}\u00a0photos` : ""}
                       </span>
                       {e !== "nouveau" && (
                         <span className="flex items-baseline gap-1.5 text-sourdine">

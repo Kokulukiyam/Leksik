@@ -37,7 +37,7 @@ export default function Nav() {
                 className={`flex justify-center transition-colors duration-100 max-sm:h-14 max-sm:min-w-11 max-sm:px-1.5 max-sm:text-[0.9375rem] sm:px-3 ${actif ? "text-encre" : "text-sourdine hover:text-encre"}`}
               >
                 <span
-                  className={`relative flex h-full items-center after:absolute after:inset-x-0 after:h-[3px] max-sm:after:-top-px sm:after:-bottom-px ${actif ? "after:bg-accent" : ""}`}
+                  className={`relative flex h-full items-center after:absolute after:inset-x-0 after:h-[3px] max-sm:after:top-0 sm:after:-bottom-px ${actif ? "after:bg-accent" : ""}`}
                 >
                   {l.nom}
                 </span>

@@ -109,10 +109,10 @@ label[for] {
   .btn-danger:not(:disabled):active {
     @apply border-red-500 bg-red-500 text-white;
   }
-  /* Inactif : pas d'aplat, texte éteint, contour en trait interrompu (ce qui n'est pas encore là, comme la zone de dépôt).
-     La hachure reste réservée à la progression. */
+  /* Inactif : pas d'aplat, filet plein éteint, texte éteint. Le trait interrompu reste réservé à la zone de dépôt,
+     la hachure à la progression. */
   .btn:disabled {
-    @apply border-dashed border-trait-fort bg-transparent text-faible;
+    @apply border-trait bg-transparent text-faible;
   }
 
   /* Champs : un cadre fin sur le fond de la page, comme une case de tableau ; le cadre passe au jaune au focus. */

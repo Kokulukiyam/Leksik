@@ -80,7 +80,7 @@ export default function Visionneuse({ vues, depart = 0, onFermer }: { vues: Vue[
     <div role="dialog" aria-modal="true" aria-label="Image agrandie" data-testid="visionneuse" className="fixed inset-0 z-50 flex flex-col bg-fond">
       <div
         ref={zone}
-        className={`flex min-h-0 flex-1 overscroll-contain ${agrandie ? "overflow-auto" : "overflow-hidden"}`}
+        className={`flex min-h-0 flex-1 overscroll-contain [scrollbar-width:none] [&::-webkit-scrollbar]:hidden ${agrandie ? "overflow-auto" : "overflow-hidden"}`}
         onClick={(e) => {
           if (e.target === e.currentTarget) onFermer();
         }}
