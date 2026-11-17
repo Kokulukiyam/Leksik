@@ -107,18 +107,18 @@ export default function Lexique({ terms, images }: { terms: Term[]; images: Imag
             ))}
           </select>
         </div>
-        {/* Abécédaire : une rangée qui défile sur téléphone (fondu à droite : il y a une suite), deux rangées pleines sur ordinateur. */}
+        {/* Abécédaire : une grille de 11 colonnes sur tous les formats, donc toutes les lettres visibles d'un coup d'œil. */}
         {lettres.length > 1 && (
           <nav
             aria-label="Aller à une lettre"
-            className="mi-etroit -ml-2.5 -mr-4 mt-2 flex overflow-x-auto pr-8 [mask-image:linear-gradient(to_right,#000_calc(100%-3rem),transparent)] [scrollbar-width:none] sm:mr-0 sm:flex-wrap sm:pr-0 sm:[mask-image:none] lg:mt-5 lg:grid lg:grid-cols-11"
+            className="mi-etroit -mx-1.5 mt-2 grid grid-cols-11 lg:mt-5"
           >
             {lettres.map((l) => (
               <button
                 key={l}
                 type="button"
                 onClick={() => aller(l)}
-                className="h-11 w-9 shrink-0 text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black lg:w-auto"
+                className="h-11 text-lg text-sourdine transition-colors duration-100 hover:bg-relief hover:text-encre active:bg-accent active:text-black lg:w-auto"
               >
                 {l}
               </button>

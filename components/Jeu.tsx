@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Figure from "./Figure";
 import Jauge from "./Jauge";
 import Nombre from "./Nombre";
@@ -520,19 +520,6 @@ function Manche({
     if (choisi) suivant.current?.focus({ preventScroll: true });
   }, [choisi]);
 
-  // Téléphone : la photo s'inscrit ENTIÈRE dans la place que lui laisse la colonne (mesurée en pixels, crédit déduit).
-  // Si cette place diminue (verdict), la photo rétrécit entière ; elle n'est jamais rognée ni recouverte.
-  // Tablette et écran large : hauteur maximale fixe (CSS), la photo ne change pas du tout.
-  const boite = useRef<HTMLDivElement>(null);
-  useLayoutEffect(() => {
-    const z = boite.current;
-    if (!z) return;
-    const mesurer = () => z.style.setProperty("--photo-h", `${Math.max(80, z.clientHeight - 26)}px`);
-    mesurer();
-    const o = new ResizeObserver(mesurer);
-    o.observe(z);
-    return () => o.disconnect();
-  }, []);
 
   const colonnes = manche.choix.length === 3 ? "grid-cols-1 sm:max-lg:grid-cols-3" : "grid-cols-2";
   const six = manche.choix.length > 4;
@@ -543,15 +530,15 @@ function Manche({
   // Tablette en hauteur : photo en haut, crédit dessous, réponses, puis verdict à gauche et « Suivant » à droite.
   // Écran large (≥ 1024 px) : photo à gauche avec le verdict dessous, réponses et « Suivant » dans la marge de droite.
   return (
-    <div className="flex h-dvh flex-col sm:grid sm:h-auto sm:grid-cols-[minmax(0,1fr)_15rem] sm:content-start sm:gap-x-6 sm:pb-10 sm:pt-3 lg:min-h-[calc(100dvh-3.5rem-1px)] lg:grid-cols-[minmax(0,1fr)_23rem] lg:gap-x-8 lg:pb-4 lg:pt-6">
+    <div className="flex min-h-dvh flex-col sm:grid sm:min-h-0 sm:grid-cols-[minmax(0,1fr)_15rem] sm:content-start sm:gap-x-6 sm:pb-10 sm:pt-3 lg:min-h-[calc(100dvh-3.5rem-1px)] lg:grid-cols-[minmax(0,1fr)_23rem] lg:gap-x-8 lg:pb-4 lg:pt-6">
       <div className="contents lg:block">
-        <div ref={boite} className="order-3 flex min-h-[28dvh] flex-1 flex-col justify-start sm:order-3 sm:col-span-2 sm:block sm:min-h-0 lg:order-none">
+        <div className="order-3 sm:col-span-2 lg:order-none">
           <div className="text-center leading-[0] sm:text-left">
             <Figure
               src={imageSrc(img)}
               rect={img.rectangle}
               alt="Élément à reconnaître"
-              imgClassName="h-auto w-auto max-w-full max-h-[var(--photo-h,40dvh)] sm:max-h-[50dvh] lg:max-h-[max(16rem,calc(100dvh-18.5rem))]"
+              imgClassName="h-auto w-auto max-w-full max-h-[40dvh] sm:max-h-[50dvh] lg:max-h-[max(16rem,calc(100dvh-18.5rem))]"
               onClick={() => setZoom(true)}
             />
           </div>
@@ -574,7 +561,7 @@ function Manche({
         </div>
 
         {/* L'énoncé devient le verdict, au même endroit. */}
-        <div className="order-2 mb-3 shrink-0 sm:order-5 sm:mb-0 sm:mt-4 lg:order-none lg:mt-3 lg:min-h-[9.5rem]">
+        <div className="order-5 mt-4 shrink-0 sm:order-5 lg:order-none lg:mt-3 lg:min-h-[9.5rem]">
           {choisi && monChoix ? (
             <div className="apparition lg:grid lg:grid-cols-2 lg:gap-x-8" data-testid="retour">
               <div>
@@ -594,11 +581,7 @@ function Manche({
                 </div>
               )}
             </div>
-          ) : (
-            <p className="mi-etroit text-xl leading-tight sm:hidden">
-              {img.rectangle ? "Comment s’appelle l’élément encadré ?" : "Que montre la photo ?"}
-            </p>
-          )}
+          ) : null}
         </div>
       </div>
 
@@ -623,11 +606,11 @@ function Manche({
 
         {/* Tablette et écran large : l'énoncé reste en place pendant toute la manche, au-dessus de la photo (tablette)
             ou en tête de la colonne des réponses (écran large). */}
-        <p className="mi-etroit hidden text-2xl leading-tight sm:order-2 sm:col-span-2 sm:mb-4 sm:block lg:mb-5">
+        <p className="mi-etroit order-2 mb-3 text-[1.375rem] leading-tight sm:col-span-2 sm:mb-4 sm:text-2xl lg:mb-5">
           {img.rectangle ? "Comment s’appelle l’élément encadré ?" : "Que montre la photo ?"}
         </p>
 
-        <div className={`order-4 mt-2 grid gap-1.5 sm:order-4 sm:col-span-2 sm:mt-3 lg:order-none lg:mt-0 lg:flex lg:flex-col ${colonnes}`} data-testid="choix">
+        <div className={`order-4 mt-3 grid gap-1.5 sm:order-4 sm:col-span-2 sm:mt-3 lg:order-none lg:mt-0 lg:flex lg:flex-col ${colonnes}`} data-testid="choix">
           {manche.choix.map((id, k) => {
             const t = termsParId.get(id)!;
             // Survol : la tuile s'éclaircit. Le contour est réservé au focus clavier (anneau jaune).
@@ -653,7 +636,7 @@ function Manche({
         </div>
 
         {/* Place réservée : « Suivant » y vient après la réponse. La consigne n'y figure qu'à la première manche. */}
-        <div className="order-5 mt-2 shrink-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] sm:order-6 sm:mt-4 sm:pb-0 lg:order-none">
+        <div className={`${choisi ? "sticky bottom-0" : ""} order-6 -mx-4 mt-auto shrink-0 bg-fond px-4 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-3 sm:static sm:mx-0 sm:mt-4 sm:bg-transparent sm:px-0 sm:pb-0 sm:pt-0 lg:order-none`}>
           <div className="flex h-14 items-center">
             {choisi ? (
               <button ref={suivant} onClick={() => onRepondre(choisi)} className="btn btn-plein apparition h-14 w-full justify-between text-lg">
