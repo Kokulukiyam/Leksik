@@ -1,6 +1,6 @@
 # État d'avancement de Leksik — À LIRE POUR REPRENDRE
 
-Dernière mise à jour : 14 novembre 2026. Branche `claude/leksik`.
+Dernière mise à jour : 17 novembre 2026. Branche `claude/leksik`.
 
 ## Version 1 : terminée
 
@@ -32,6 +32,16 @@ Dernière mise à jour : 14 novembre 2026. Branche `claude/leksik`.
 - Progression par mot et tirage adapté (`lib/progres.ts`), « Réviser mes mots ratés », page Lexique, vignettes,
   icône et manifeste (écran d'accueil du téléphone).
 - Test de bout en bout étendu (progression, clavier, image agrandie, lexique) : 11 343 vérifications, 0 échouée.
+
+## Version 5 : refonte visuelle « nomenclature » (17 nov. 2026)
+
+- Demande : un design qui ne fasse pas « fait par une IA ». Un agent designer a fait 4 passes, chacune notée à l'aveugle
+  par 3 relecteurs indépendants (nouveaux à chaque tour, captures seules) sur la probabilité « fait par des humains ».
+  Notes : passe 1 78/78/64, passe 2 76/79/66, passe 3 80/79/74, passe 4 85/87/84 ; seuil fixé par le propriétaire : 90.
+- Direction et règles : `DESIGN.md`. Police Archivo embarquée (`@fontsource-variable/archivo`, OFL), aucune ressource réseau.
+- Captures de relecture : `node scripts/capture.mjs tmp/design/<nom>` (serveur lancé) ; dernières dans `tmp/design/passe5/`.
+- Crédits Commons nettoyés (`scripts/credits.mjs`, appliqué par `integrer.mjs`) ; apostrophes typographiques dans les données.
+- Test de bout en bout : 11 343 vérifications, 0 échouée.
 
 ## Rappels
 
