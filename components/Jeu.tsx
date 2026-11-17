@@ -545,8 +545,8 @@ function Manche({
   return (
     <div className="flex h-dvh flex-col sm:grid sm:h-auto sm:grid-cols-[minmax(0,1fr)_15rem] sm:content-start sm:gap-x-6 sm:pb-10 sm:pt-3 lg:min-h-[calc(100dvh-3.5rem-1px)] lg:grid-cols-[minmax(0,1fr)_23rem] lg:gap-x-8 lg:pb-4 lg:pt-6">
       <div className="contents lg:block">
-        <div ref={boite} className="order-3 flex min-h-[28dvh] flex-1 flex-col justify-center sm:order-2 sm:col-span-2 sm:block sm:min-h-0 lg:order-none">
-          <div className="text-center leading-[0]">
+        <div ref={boite} className="order-3 flex min-h-[28dvh] flex-1 flex-col justify-start sm:order-3 sm:col-span-2 sm:block sm:min-h-0 lg:order-none">
+          <div className="text-center leading-[0] sm:text-left">
             <Figure
               src={imageSrc(img)}
               rect={img.rectangle}
@@ -556,7 +556,7 @@ function Manche({
             />
           </div>
           {/* Le crédit tient au bord bas de la photo. L'auteur peut être abrégé si la place manque ; la licence et la source, jamais. */}
-          <p className="mt-1.5 flex h-5 shrink-0 justify-center text-xs leading-5 text-faible" data-testid="credit">
+          <p className="mt-1.5 flex h-5 shrink-0 justify-center text-xs sm:justify-start leading-5 text-faible" data-testid="credit">
             <span className="truncate">{img.auteur}</span>
             <span className="shrink-0 whitespace-pre">
               {img.auteur && img.licence ? " · " : ""}
@@ -574,7 +574,7 @@ function Manche({
         </div>
 
         {/* L'énoncé devient le verdict, au même endroit. */}
-        <div className="order-2 mb-3 shrink-0 sm:order-4 sm:mb-0 sm:mt-4 lg:order-none lg:mt-3 lg:min-h-[9.5rem]">
+        <div className="order-2 mb-3 shrink-0 sm:order-5 sm:mb-0 sm:mt-4 lg:order-none lg:mt-3 lg:min-h-[9.5rem]">
           {choisi && monChoix ? (
             <div className="apparition lg:grid lg:grid-cols-2 lg:gap-x-8" data-testid="retour">
               <div>
@@ -587,7 +587,7 @@ function Manche({
               </div>
               {!juste && (
                 <div className="mt-3 border-t border-trait pt-3 lg:mt-0 lg:border-l lg:border-t-0 lg:pl-8 lg:pt-0" data-testid="retour-choix">
-                  <p className="leading-tight text-faible lg:text-xl lg:leading-none">
+                  <p className="leading-tight text-faible">
                     Ma réponse&nbsp;: <span className="mi-etroit text-red-500">{monChoix.terme}</span>
                   </p>
                   <p className="mt-1.5 text-sm leading-snug text-faible lg:mt-2 lg:text-[0.9375rem]">{monChoix.definition}</p>
@@ -595,7 +595,7 @@ function Manche({
               )}
             </div>
           ) : (
-            <p className="mi-etroit text-xl leading-tight">
+            <p className="mi-etroit text-xl leading-tight sm:hidden">
               {img.rectangle ? "Comment s’appelle l’élément encadré ?" : "Que montre la photo ?"}
             </p>
           )}
@@ -621,7 +621,13 @@ function Manche({
           <Reperes partie={partie} index={index} className="mb-3 lg:mb-5 lg:mt-3" />
         </div>
 
-        <div className={`order-4 mt-2 grid gap-1.5 sm:order-3 sm:col-span-2 sm:mt-3 lg:order-none lg:mt-0 lg:flex lg:flex-col ${colonnes}`} data-testid="choix">
+        {/* Tablette et écran large : l'énoncé reste en place pendant toute la manche, au-dessus de la photo (tablette)
+            ou en tête de la colonne des réponses (écran large). */}
+        <p className="mi-etroit hidden text-2xl leading-tight sm:order-2 sm:col-span-2 sm:mb-4 sm:block lg:mb-5">
+          {img.rectangle ? "Comment s’appelle l’élément encadré ?" : "Que montre la photo ?"}
+        </p>
+
+        <div className={`order-4 mt-2 grid gap-1.5 sm:order-4 sm:col-span-2 sm:mt-3 lg:order-none lg:mt-0 lg:flex lg:flex-col ${colonnes}`} data-testid="choix">
           {manche.choix.map((id, k) => {
             const t = termsParId.get(id)!;
             // Survol : la tuile s'éclaircit. Le contour est réservé au focus clavier (anneau jaune).
@@ -638,7 +644,7 @@ function Manche({
                 data-touche={k + 1}
                 disabled={!!choisi}
                 onClick={() => choisir(id)}
-                className={`mi-etroit relative border-2 px-3 py-2 text-left text-[1.125rem] leading-[1.15] transition-colors duration-100 lg:text-xl ${six ? "min-h-[3.75rem] lg:h-[4.5rem]" : "min-h-[4.5rem] lg:h-24"} ${style}`}
+                className={`mi-etroit relative border-2 px-3 py-2 text-left text-[1.125rem] leading-[1.15] transition-colors duration-100 lg:text-xl ${six ? "min-h-[3.75rem] lg:h-[4.5rem]" : "min-h-[4.5rem] lg:h-20"} ${style}`}
               >
                 {t.terme}
               </button>
@@ -647,7 +653,7 @@ function Manche({
         </div>
 
         {/* Place réservée : « Suivant » y vient après la réponse. La consigne n'y figure qu'à la première manche. */}
-        <div className="order-5 mt-2 shrink-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] sm:mt-4 sm:pb-0 lg:order-none">
+        <div className="order-5 mt-2 shrink-0 pb-[max(0.75rem,env(safe-area-inset-bottom))] sm:order-6 sm:mt-4 sm:pb-0 lg:order-none">
           <div className="flex h-14 items-center">
             {choisi ? (
               <button ref={suivant} onClick={() => onRepondre(choisi)} className="btn btn-plein apparition h-14 w-full justify-between text-lg">

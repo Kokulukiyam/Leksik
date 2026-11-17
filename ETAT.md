@@ -37,9 +37,13 @@ Dernière mise à jour : 17 novembre 2026. Branche `claude/leksik`.
 
 - Demande : un design qui ne fasse pas « fait par une IA ». Un agent designer a fait 4 passes, chacune notée à l'aveugle
   par 3 relecteurs indépendants (nouveaux à chaque tour, captures seules) sur la probabilité « fait par des humains ».
-  Notes : passe 1 78/78/64, passe 2 76/79/66, passe 3 80/79/74, passe 4 85/87/84 ; seuil fixé par le propriétaire : 90.
+  Notes : passe 1 78/78/64, passe 2 76/79/66, passe 3 80/79/74, passe 4 85/87/84, finitions 85/86/84 ; seuil fixé
+  par le propriétaire : 90, non atteint. Après la dernière notation (non renotée) : énoncé toujours au-dessus de la photo
+  (tablette) ou en tête des réponses (écran large), photo calée sur la marge, ancrée sous l'énoncé au téléphone.
+- Pistes restantes citées par les relecteurs : vide sous une photo panoramique au téléphone, légende de l'accueil en
+  tablette portrait, abécédaire du Lexique au téléphone, cibles des actions de Gérer, « recette » noir/jaune/condensée.
 - Direction et règles : `DESIGN.md`. Police Archivo embarquée (`@fontsource-variable/archivo`, OFL), aucune ressource réseau.
-- Captures de relecture : `node scripts/capture.mjs tmp/design/<nom>` (serveur lancé) ; dernières dans `tmp/design/passe5/`.
+- Captures de relecture : `node scripts/capture.mjs tmp/design/<nom>` (serveur lancé) ; dernières dans `tmp/design/final/`.
 - Crédits Commons nettoyés (`scripts/credits.mjs`, appliqué par `integrer.mjs`) ; apostrophes typographiques dans les données.
 - Test de bout en bout : 11 343 vérifications, 0 échouée.
 
